@@ -1,0 +1,1 @@
+x = \frac { a ^ { 2 } \left( a ^ { 2 } - c x _ { 0 } \right) } { c \left( a ^ { 2 } - c x _ { 0 } \right) } = \frac { a ^ { 2 } } { c }

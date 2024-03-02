@@ -1,0 +1,1 @@
+y = \log _ { \left| \frac { b } { a } \right| } x ( a b \neq 0 , | a | \neq | b | )

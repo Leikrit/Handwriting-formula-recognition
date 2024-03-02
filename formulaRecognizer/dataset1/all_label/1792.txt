@@ -1,0 +1,1 @@
+\text { 计 算 } \left[ ( - \sqrt { 2 } ) ^ { - 2 } \right] ^ { - \frac { 1 } { 2 } } \text { 的 结 果 是 }

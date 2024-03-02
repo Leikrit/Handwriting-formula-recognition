@@ -1,0 +1,1 @@
+\left. b _ { 2 } , \cdots , b _ { n } \right) \in S _ { n }

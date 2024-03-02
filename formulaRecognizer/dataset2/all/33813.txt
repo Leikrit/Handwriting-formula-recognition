@@ -1,0 +1,1 @@
+\text { 已 知 } \left( \frac { a } { x ^ { 4 } } + x \right) ^ { n } \text { 的 展 开 式 }

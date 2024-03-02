@@ -1,0 +1,1 @@
+x = \cos ^ { 4 } t = \left( \frac { x - y + 1 } { 2 } \right) ^ { 2 }

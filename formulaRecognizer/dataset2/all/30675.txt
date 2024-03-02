@@ -1,0 +1,1 @@
+\text { 函 数 } y = \left( \frac { 1 } { 2 } \right) ^ { - x ^ { 2 } + x + 2 } \text { 的 单 调 递 增 区 间 是 }

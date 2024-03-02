@@ -1,0 +1,1 @@
+\text { 已 知 正 项 数 列 } \left\{ a _ { n } \right\} \text { 满 足 : } a _ { n + 1 } = \sqrt { 8 a _ { n } ^ { 2 } + 8 } - 2 a _ { n } - 1

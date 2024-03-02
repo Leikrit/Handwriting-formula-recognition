@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ b _ { n } \right\} \text { 为 “ 段 比 差 数 列 ” }

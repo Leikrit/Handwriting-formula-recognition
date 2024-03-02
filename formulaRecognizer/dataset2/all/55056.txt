@@ -1,0 +1,1 @@
+\text { 已 知 } \cos \left( \alpha + \frac { \pi } { 3 } \right) = \frac { 3 } { 5 }

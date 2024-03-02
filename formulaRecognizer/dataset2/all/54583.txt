@@ -1,0 +1,1 @@
+\text { 若 } \cos \left( \alpha + \frac { \pi } { 6 } \right) + 3 \sin \alpha = 0

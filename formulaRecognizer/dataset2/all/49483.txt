@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ S _ { n } + a _ { 1 } \right\} \text { 也 为 等 比 数 }

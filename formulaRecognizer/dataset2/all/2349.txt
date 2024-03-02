@@ -1,0 +1,1 @@
+T _ { 2 } \left( P ^ { \prime } \right) = b + c + \max \{ a , d \} = ( a + b + c + d ) - \min \{ a , d \}

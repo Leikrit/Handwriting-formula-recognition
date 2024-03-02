@@ -1,0 +1,1 @@
+\text { 因 此 当 且 仅 当 } k ^ { 2 } \geqslant \frac { 1 } { 4 } \text { 时 曲 线 } C \text { 与 直 线 } l \text { 没 有 公 共 点 }

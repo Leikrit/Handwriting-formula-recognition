@@ -1,0 +1,1 @@
+\text { 所 以 } | A F | = p + | A F | \cos \theta

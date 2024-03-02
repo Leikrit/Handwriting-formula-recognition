@@ -1,0 +1,1 @@
+\text { 当 } x \rightarrow - \infty \text { 时 }

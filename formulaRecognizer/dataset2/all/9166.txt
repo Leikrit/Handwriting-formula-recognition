@@ -1,0 +1,1 @@
+\text { 首 先 看 } f ( x ) = x \sin x \text { 的 根 }

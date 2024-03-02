@@ -1,0 +1,1 @@
+\text { 当 } x \neq 0 \text { 时 , 方 程 可 化 为 } k - 1 = x ^ { 2 } - 3 x + \frac { 4 } { x }

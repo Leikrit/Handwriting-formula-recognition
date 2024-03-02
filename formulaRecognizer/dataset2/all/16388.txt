@@ -1,0 +1,1 @@
+S _ { \triangle O G H } = \frac { 1 } { 2 } | O Q | \left| y _ { G } - y _ { H } \right| = \frac { 4 } { \left| x _ { E } \right| } \left| \frac { 1 } { x _ { E } + 2 y _ { E } } + \frac { 1 } { x _ { E } - 2 y _ { E } } \right|

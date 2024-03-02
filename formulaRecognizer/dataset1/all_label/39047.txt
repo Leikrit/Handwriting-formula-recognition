@@ -1,0 +1,1 @@
+g ( \pi ) = - a \pi \geqslant 0

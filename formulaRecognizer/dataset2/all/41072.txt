@@ -1,0 +1,1 @@
+\text { 已 知 点 } P \left( 0 , \frac { 3 } { 2 } \right) \text { 到 这 个 椭 圆 上 的 点 的 最 远 距 离 是 } \sqrt { 7 }

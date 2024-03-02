@@ -1,0 +1,1 @@
+\sqrt { 1 - \sin 2 x } = \sin x - \cos x

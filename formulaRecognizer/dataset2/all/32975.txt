@@ -1,0 +1,1 @@
+\cos A = \frac { b ^ { 2 } + c ^ { 2 } - a ^ { 2 } } { 2 b c } = \frac { b c } { 2 b c } = \frac { 1 } { 2 }

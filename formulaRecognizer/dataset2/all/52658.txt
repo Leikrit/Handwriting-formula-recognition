@@ -1,0 +1,1 @@
+\text { 将 函 数 } y = \sin 2 x ( x \in \mathbf { R } ) \text { 的 图 象 分 别 向 左 平 移 } m ( m > 0 )

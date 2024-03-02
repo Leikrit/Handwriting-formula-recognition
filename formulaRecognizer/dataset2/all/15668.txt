@@ -1,0 +1,1 @@
+\overrightarrow { A _ { 1 } D _ { 1 } } = \boldsymbol { b }

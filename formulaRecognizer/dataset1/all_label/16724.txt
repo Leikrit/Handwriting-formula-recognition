@@ -1,0 +1,1 @@
+( - \infty , 2 - 2 \sqrt { 2 } ] \cup [ 2 + 2 \sqrt { 2 } , + \infty )

@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { A P } = \alpha \overrightarrow { A B } + \beta \overrightarrow { A C } ( \alpha , \beta \in \mathbf { R } )

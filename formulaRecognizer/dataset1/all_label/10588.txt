@@ -1,0 +1,1 @@
+f ( 1 ) = 0 \Rightarrow a - 1 = 0 \Rightarrow a = 1

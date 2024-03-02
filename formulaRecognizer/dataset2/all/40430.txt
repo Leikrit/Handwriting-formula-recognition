@@ -1,0 +1,1 @@
+\text { 证 明 : } \sum _ { k = 1 } ^ { n } \frac { 1 } { \sqrt { 4 k ^ { 2 } - 1 } } > \frac { 1 } { 2 } \ln ( 2 n + 1 ) \left( n \in \mathbf { N } ^ { * } \right)

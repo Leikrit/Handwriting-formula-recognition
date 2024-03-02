@@ -1,0 +1,1 @@
+\ a n g l e A F P + \ a n g l e Q F B = \frac { 1 } { 2 } ( \pi - \ a n g l e P A F ) + \frac { 1 } { 2 } ( \pi - \ a n g l e Q B F ) = \frac { \pi } { 2 }

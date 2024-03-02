@@ -1,0 +1,1 @@
+\text { 所 以 } k _ { A B } = \frac { 2 } { \frac { 4 } { y _ { 1 } } + \frac { 4 } { y _ { 2 } } } = \frac { y _ { 1 } y _ { 2 } } { 2 \left( y _ { 1 } + y _ { 2 } \right) }

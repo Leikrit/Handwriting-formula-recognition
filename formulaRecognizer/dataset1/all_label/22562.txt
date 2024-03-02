@@ -1,0 +1,1 @@
+P = \{ x \in \mathbf { Z } \mid 0 \leq s l a n t x < 3 \}

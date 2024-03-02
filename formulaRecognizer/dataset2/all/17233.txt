@@ -1,0 +1,1 @@
+\left[ \arcsin a , \frac { \pi } { 2 } + \arcsin a \right]

@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } y = \frac { \left| x ^ { 2 } - 1 \right| } { x - 1 } \text { 的 图 像 与 函 数 } y = k x - 2 \text { 的 图 像 恰 }

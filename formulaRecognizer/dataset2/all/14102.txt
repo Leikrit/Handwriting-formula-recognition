@@ -1,0 +1,1 @@
+\text { 从 而 } f ^ { \prime } ( x ) \text { 在 } x \in [ 1 , 4 a ] \text { 上 的 最 小 值 是 } f ^ { \prime } ( 1 ) = 3 - 6 a - 9 a ^ { 2 }

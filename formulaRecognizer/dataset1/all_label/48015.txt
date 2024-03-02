@@ -1,0 +1,1 @@
+4 m ^ { 2 } f ( x ) \leq s l a n t f ( x - 1 ) + 4 f ( m )

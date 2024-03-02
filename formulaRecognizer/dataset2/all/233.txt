@@ -1,0 +1,1 @@
+\text { 函 数 } y = g ( x ) \text { 的 图 象 与 } y = \mathrm { e } ^ { x }

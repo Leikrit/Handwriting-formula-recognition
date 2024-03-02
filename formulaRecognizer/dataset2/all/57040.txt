@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin ( \omega x ) + 2 \sqrt { 3 } \cos ^ { 2 } \frac { \omega x } { 2 } - \sqrt { 3 } ( \omega > 0 ) \text { 为 奇 函 数 }

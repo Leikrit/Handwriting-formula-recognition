@@ -1,0 +1,1 @@
+p : \forall x \in ( 1 , + \infty )

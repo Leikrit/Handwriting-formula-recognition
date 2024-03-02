@@ -1,0 +1,1 @@
+q : f ( x ) = \left( 4 - a ^ { 2 } \right) x

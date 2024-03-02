@@ -1,0 +1,1 @@
+\text { 人 们 把 宽 与 长 之 比 为 } \frac { \sqrt { 5 } - 1 } { 2 } \left( \frac { \sqrt { 5 } - 1 } { 2 } \approx 0 . 6 1 8 \right)

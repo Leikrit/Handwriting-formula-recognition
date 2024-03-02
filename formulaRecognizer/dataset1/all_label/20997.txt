@@ -1,0 +1,1 @@
+\frac { x _ { 2 + k } } { x _ { 2 } } + \cdots + \frac { x _ { n + k } } { x _ { n } } < \frac { \lambda ^ { k } } { 1 - \lambda ^ { k } } \left( n \in \mathbf { N } ^ { * } \right)

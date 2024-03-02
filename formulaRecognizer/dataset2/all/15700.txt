@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 的 前 } n \text { 项 和 是 } S _ { n } \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 } { 1 6 } \left( \sum _ { i = 1 } ^ { 1 6 } x _ { i } ^ { 2 } - 1 6 \bar { x } ^ { 2 } \right) } \approx 0 . 2 1 2

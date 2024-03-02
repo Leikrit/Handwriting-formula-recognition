@@ -1,0 +1,1 @@
+f ( x ) = \cos \omega x \sin \left( \omega x + \frac { \pi } { 6 } \right) - \frac { 1 } { 4 } ( \omega > 0 )

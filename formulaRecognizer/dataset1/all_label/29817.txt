@@ -1,0 +1,1 @@
+A = \left\{ x \mid y = \sqrt { 8 - 2 x - x ^ { 2 } } \right\}

@@ -1,0 +1,1 @@
+\text { 若 } \left( x + \frac { 1 } { x } - 2 \right) ^ { n } \text { 的 展 开 式 中 常 数 项 } - 2 0

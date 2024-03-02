@@ -1,0 +1,1 @@
+\text { 在 } x = a \text { 处 取 得 极 小 值 } g ( a ) = - \frac { 1 } { 6 } a ^ { 3 } - \sin a

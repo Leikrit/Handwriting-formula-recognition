@@ -1,0 +1,1 @@
+\overrightarrow { B I } = \overrightarrow { B A } + \lambda \left( \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } + \frac { \overrightarrow { A P } } { | \overrightarrow { A P } | } \right) ( \lambda > 0 )

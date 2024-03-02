@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 8 } \left( w _ { i } - \bar { w } \right) ^ { 2 }

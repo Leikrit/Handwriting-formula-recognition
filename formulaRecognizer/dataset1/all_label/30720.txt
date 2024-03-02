@@ -1,0 +1,1 @@
+y = \sqrt { 2 } \sin \left( x - \frac { \pi } { 4 } \right)

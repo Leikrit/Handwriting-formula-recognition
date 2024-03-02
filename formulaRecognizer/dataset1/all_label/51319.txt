@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { 2 n ^ { 2 } - 3 n + 1 } { n ^ { 2 } - 4 n + 1 } = \lim _ { n \rightarrow \infty } \frac { 2 - \frac { 3 } { n } + \frac { 1 } { n ^ { 2 } } } { 1 - \frac { 4 } { n } + \frac { 1 } { n ^ { 2 } } } = 2

@@ -1,0 +1,1 @@
+= \frac { \sin 2 B } { 3 - \cos 2 B }

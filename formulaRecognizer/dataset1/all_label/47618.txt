@@ -1,0 +1,1 @@
+\cos 3 \alpha = 4 \cos ^ { 3 } \alpha - 3 \cos \alpha

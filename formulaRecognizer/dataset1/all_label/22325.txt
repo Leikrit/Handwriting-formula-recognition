@@ -1,0 +1,1 @@
+b c \geqslant 1 6 \Rightarrow c \geqslant 4 \Rightarrow a = \sqrt { b ^ { 2 } + c ^ { 2 } } \geqslant 4 \sqrt { 2 }

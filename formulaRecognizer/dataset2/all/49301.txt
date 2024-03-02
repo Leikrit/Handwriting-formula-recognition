@@ -1,0 +1,1 @@
+f \left( x - \frac { 1 } { 2 } \right) > 1 \text { 的 } x \text { 的 取 值 范 围 是 }

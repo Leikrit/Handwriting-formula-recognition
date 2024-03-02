@@ -1,0 +1,1 @@
+\text { 则 } \sin \theta = | \cos \langle \overrightarrow { C E } , \boldsymbol { n } \rangle | = \frac { \left| - \frac { 5 } { 4 } + \frac { \sqrt { 3 } } { 4 } \times \sqrt { 3 } \right| } { \sqrt { \frac { 2 5 } { 1 6 } + \frac { 1 } { 4 } + \frac { 3 } { 1 6 } } \times 2 } =

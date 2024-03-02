@@ -1,0 +1,1 @@
+A B = B C \text { 得 } B F \perp A C \text { , }

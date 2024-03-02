@@ -1,0 +1,1 @@
+\text { 比 较 } 2 \left| P P _ { n } \right| ^ { 2 } \text { 与 } 4 k ^ { 2 } \left| P P _ { 1 } \right| ^ { 2 } + 5 \text { 的 大 小 }

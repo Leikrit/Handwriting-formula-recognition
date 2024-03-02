@@ -1,0 +1,1 @@
+\text { 设 曲 线 } y = x ^ { n + 1 } \left( n \in \mathbf { N } ^ { * } \right) \text { 在 点 } ( 1 , 1 ) \text { 处 的 切 线 与 } x \text { 轴 的 }

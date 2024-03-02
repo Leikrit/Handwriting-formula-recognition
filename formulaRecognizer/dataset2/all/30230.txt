@@ -1,0 +1,1 @@
+\text { 则 } \lim _ { n \rightarrow \infty } \frac { a _ { n } - 2 b _ { n } } { 3 a _ { n } - 4 b _ { n } } =

@@ -1,0 +1,1 @@
+\text { 求 } \sin \left( \frac { A + C } { 2 } + B \right) \text { 的 值 }

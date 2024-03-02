@@ -1,0 +1,1 @@
+Q \left( \frac { 4 n } { n ^ { 2 } + 2 } , \frac { n ^ { 2 } - 2 } { n ^ { 2 } + 2 } \right)

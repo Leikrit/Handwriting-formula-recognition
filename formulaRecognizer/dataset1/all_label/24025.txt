@@ -1,0 +1,1 @@
+q ^ { m - 1 } \leq s l a n t m \leq s l a n t q ^ { m }

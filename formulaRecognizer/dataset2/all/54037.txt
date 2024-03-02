@@ -1,0 +1,1 @@
+\text { 即 在 区 间 } [ 1 , \mathrm { e } ] \text { 上 } f ^ { \prime } ( x ) > 0

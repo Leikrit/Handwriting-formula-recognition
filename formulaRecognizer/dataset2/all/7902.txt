@@ -1,0 +1,1 @@
+S _ { n } + 2 S _ { n - 2 } = 3 S _ { n - 1 } \left( n \geqslant 3 , n \in \mathbf { N } ^ { * } \right)

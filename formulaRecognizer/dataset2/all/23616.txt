@@ -1,0 +1,1 @@
+f ( x ) \geqslant a x \text { 在 } \left[ 0 , \frac { \pi } { 4 } \right] \text { 上 恒 成 立 的 充 要 条 件 是 } a \leq s l a n t 1

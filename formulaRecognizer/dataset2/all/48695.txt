@@ -1,0 +1,1 @@
+\text { 若 } \alpha = \left( x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 } \right) \text { 满 足 } x _ { i } \in \{ 0 , 1 \} ( i = 1 , 2 , 3 , 4 ) \text { 且 } T ^ { 2 } ( \alpha ) = ( 1 , 1 , 1 , 1 )

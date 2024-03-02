@@ -1,0 +1,1 @@
+\hat { y } = c \mathrm { e } ^ { d t }

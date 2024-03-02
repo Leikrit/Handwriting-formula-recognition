@@ -1,0 +1,1 @@
+\text { 求 } f _ { n } ( 2 ) ( n \geqslant 5 ) \text { 的 表 达 式 ( 用 } n \text { 表 示 ) }

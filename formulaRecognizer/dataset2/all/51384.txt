@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = ( x - 1 ) ^ { 2 } ( x - 2 ) \mathrm { e } ^ { x } \text { ( 其 中 } \mathrm { e } \text { 为 自 然 对 }

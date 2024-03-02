@@ -1,0 +1,1 @@
+A = \{ x \mid - 2 \leq s l a n t x < 4 \} , \quad B = \{ x \mid x < 1 \}

@@ -1,0 +1,1 @@
+\text { 设 军 营 所 在 平 面 区 域 为 } \left\{ ( x , y ) \mid x ^ { 2 } + y ^ { 2 } \leq s l a n t \frac { 9 } { 4 } \right\}

@@ -1,0 +1,1 @@
+\frac { \sin \ a n g l e E A B } { \sin \ a n g l e E B A } = \frac { \sqrt { 6 } } { 2 }

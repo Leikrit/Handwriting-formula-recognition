@@ -1,0 +1,1 @@
+\text { 条 件 } q \text { 为 } \frac { 1 } { x } \geqslant a ( a > 0 )

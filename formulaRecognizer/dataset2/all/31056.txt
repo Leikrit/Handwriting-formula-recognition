@@ -1,0 +1,1 @@
+\text { 有 } \overrightarrow { O D } = \lambda \overrightarrow { O P } ( \lambda > 1 )

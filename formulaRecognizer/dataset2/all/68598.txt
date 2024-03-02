@@ -1,0 +1,1 @@
+a _ { n + 5 } \mid \left( n \in \mathbf { N } ^ { * } \right)

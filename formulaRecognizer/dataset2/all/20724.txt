@@ -1,0 +1,1 @@
+\text { 设 } A = \{ x \mid x = \sqrt { 5 k + 1 } , k \in \mathbf { N } \}

@@ -1,0 +1,1 @@
+( x + 1 ) \ln ( 1 + x ) \geqslant a x \Leftrightarrow \ln ( x + 1 ) - \frac { a x } { x + 1 } \geqslant 0

@@ -1,0 +1,1 @@
+\text { 得 到 函 数 } y = 3 \sin x + a \cos x ( a < 0 ) \text { 的 图 像 }

@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) + f \left( x _ { 2 } \right)

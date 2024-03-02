@@ -1,0 +1,1 @@
+X \sim N \left( 0 , \sigma ^ { 2 } \right)

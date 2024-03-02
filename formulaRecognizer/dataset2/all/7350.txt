@@ -1,0 +1,1 @@
+\text { 则 导 函 数 } y = f ^ { \prime } ( x ) \text { 的 图 象 可 能 为 }

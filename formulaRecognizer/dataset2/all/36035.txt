@@ -1,0 +1,1 @@
+A = \left\{ x \in \mathbf { R } \mid x ^ { 2 } + x - 6 \geqslant 0 \right\}

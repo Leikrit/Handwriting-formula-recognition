@@ -1,0 +1,1 @@
+d = \frac { \left| y _ { E } + s x _ { E } - s ^ { 3 } - 2 s \right| } { \sqrt { 1 + s ^ { 2 } } }

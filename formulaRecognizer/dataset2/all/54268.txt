@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \frac { m n - n } { m n - 1 } \overrightarrow { A B } + \frac { m n - m } { m n - 1 } \overrightarrow { A C }

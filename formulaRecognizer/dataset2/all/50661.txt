@@ -1,0 +1,1 @@
+\text { 设 函 数 } y = f ( x ) \text { 的 图 象 与 } y = 2 ^ { x + a } \text { 的 }

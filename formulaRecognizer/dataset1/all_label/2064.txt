@@ -1,0 +1,1 @@
+g \left( 2 x _ { 0 } \right) = k g ^ { 2 } \left( x _ { 0 } \right) - 1

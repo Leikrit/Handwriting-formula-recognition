@@ -1,0 +1,1 @@
+\text { 若 } p \wedge ( \ne g q ) \text { 为 真 命 题 }

@@ -1,0 +1,1 @@
+| Q A | + | Q C | = \left| Q A ^ { \prime } \right| +

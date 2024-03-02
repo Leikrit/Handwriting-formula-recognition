@@ -1,0 +1,1 @@
+\triangle A B C \text { 所 在 平 面 上 的 点 } P _ { n } \left( n \in \mathbf { N } ^ { * } \right) \text { 均 满 足 }

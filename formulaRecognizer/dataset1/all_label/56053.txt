@@ -1,0 +1,1 @@
+x _ { 1 } x _ { 2 } + \left( y _ { 1 } - \frac { 1 } { 2 } \right) \left( y _ { 2 } - \frac { 1 } { 2 } \right) = 0

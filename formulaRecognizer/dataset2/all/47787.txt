@@ -1,0 +1,1 @@
+\text { 样 本 } \left( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } \right) \text { 的 平 均 数 为 } \bar { x }

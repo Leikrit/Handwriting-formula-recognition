@@ -1,0 +1,1 @@
+\text { 令 } g ( x ) = \frac { f ( x ) } { \mathrm { e } ^ { x } }

@@ -1,0 +1,1 @@
+A \cup B = ( 0 , + \infty )

@@ -1,0 +1,1 @@
+\frac { t - 1 } { 2 } + 5 = t ^ { 2 } - 5 t + 9 ( t \in \mathbf { R } )

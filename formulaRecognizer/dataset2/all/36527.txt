@@ -1,0 +1,1 @@
+\text { 求 数 列 } 2 , 4 , 8 , 1 6 , \ldots \ldots \text { 前 十 项 的 和 }

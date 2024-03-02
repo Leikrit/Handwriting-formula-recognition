@@ -1,0 +1,1 @@
+( a \cos B + b \cos A ) ^ { 2 }

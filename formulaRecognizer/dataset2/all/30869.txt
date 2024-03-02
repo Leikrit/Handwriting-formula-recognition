@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \frac { x ^ { 2 } + a } { x + 1 } \text { 在 } ( - 1 , + \infty ) \text { 上 单 调 递 增 }

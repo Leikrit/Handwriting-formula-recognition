@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = a \left( 3 x ^ { 2 } + 2 x + 1 \right) = 3 a \left[ \left( x + \frac { 1 } { 3 } \right) ^ { 2 } + \frac { 2 } { 9 } \right]

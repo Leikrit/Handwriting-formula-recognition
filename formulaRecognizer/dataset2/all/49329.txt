@@ -1,0 +1,1 @@
+\text { 偶 函 数 } g ( x ) \text { 在 区 间 } [ 0 , + \infty ) \text { 上 的 图 象 与 } f ( x ) \text { 的 图 象 }

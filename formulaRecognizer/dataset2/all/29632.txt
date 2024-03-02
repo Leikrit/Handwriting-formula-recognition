@@ -1,0 +1,1 @@
+d _ { n } = b _ { n } + ( - 1 ) ^ { n - 1 } \left( 2 ^ { n + 1 } + 2 \right) \lambda \left( n \in \mathbf { N } ^ { * } \right)

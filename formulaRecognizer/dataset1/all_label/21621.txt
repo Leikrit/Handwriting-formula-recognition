@@ -1,0 +1,1 @@
+\tan \alpha - \tan \beta = 2 \tan ^ { 2 } \alpha \tan \beta

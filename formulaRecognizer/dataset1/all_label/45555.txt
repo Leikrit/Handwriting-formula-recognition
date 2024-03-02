@@ -1,0 +1,1 @@
+\frac { \sin \theta } { x } = \frac { \cos \theta } { y }

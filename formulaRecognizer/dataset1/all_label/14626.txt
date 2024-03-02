@@ -1,0 +1,1 @@
+z ^ { n } \in \mathbf { R }

@@ -1,0 +1,1 @@
+\frac { \sin A } { \sin C } = \frac { 1 } { 2 }

@@ -1,0 +1,1 @@
+\text { 在 } \left( \mathrm { e } ^ { \frac { 1 } { 2 } } - 1 , + \infty \right) \text { 上 单 调 递 减 }

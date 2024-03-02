@@ -1,0 +1,1 @@
+\text { 使 得 } \left| f \left( x _ { 1 } \right) - f \left( x _ { 2 } \right) \right| = 4 \text { 成 立 且 } \left| x _ { 1 } - x _ { 2 } \right| \text { 最 小 值 为 } \frac { \pi } { 2 }

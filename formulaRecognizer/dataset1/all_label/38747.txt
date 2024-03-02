@@ -1,0 +1,1 @@
+f \left( x _ { 0 } - 2 \right) - f \left( x _ { 0 } - 3 \right) \geqslant t

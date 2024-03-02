@@ -1,0 +1,1 @@
+\sin 2 A = 2 \sin A \cos A = 2 \times \frac { \sqrt { 1 4 } } { 4 } \times \left( - \frac { \sqrt { 2 } } { 4 } \right) = - \frac { \sqrt { 7 } } { 4 }

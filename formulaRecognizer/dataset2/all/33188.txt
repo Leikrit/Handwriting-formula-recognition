@@ -1,0 +1,1 @@
+= 7 \cdot \frac { 4 b ^ { 2 } - 1 2 } { 2 7 } - \sqrt { 6 } b \cdot \frac { 8 \sqrt { 6 } b } { 2 7 } + b ^ { 2 } = \frac { 7 b ^ { 2 } - 8 4 } { 2 7 } = 0

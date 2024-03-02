@@ -1,0 +1,1 @@
+\text { 集 合 } M = \left\{ x \mid x = \frac { n } { 2 } + 1 , n \in \mathbf { Z } \right\}

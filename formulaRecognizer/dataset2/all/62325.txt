@@ -1,0 +1,1 @@
+2 a \ln a - 2 a - a \ln ^ { 2 } a - a \sin ( \ln a ) - a \cos ( \ln a )

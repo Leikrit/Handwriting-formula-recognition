@@ -1,0 +1,1 @@
+S _ { n } = \sin \frac { \pi } { 7 } + \sin \frac { 2 \pi } { 7 } + \cdots + \sin \frac { n \pi } { 7 } \left( n \in \mathbf { N } ^ { * } \right)

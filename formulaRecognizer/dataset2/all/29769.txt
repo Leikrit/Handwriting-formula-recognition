@@ -1,0 +1,1 @@
+\text { 即 } f ( x ) \leq s l a n t a x + 1 \text { 恒 成 立 }

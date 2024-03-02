@@ -1,0 +1,1 @@
+\text { 得 } | \overrightarrow { A F } | = \frac { b ^ { 2 } } { a - c \cos \theta } = \frac { 5 } { 4 } c

@@ -1,0 +1,1 @@
+m + 2 \geqslant | 1 - x | \text { 的 解 集 中 有 } 2 \text { 个 整 数 }

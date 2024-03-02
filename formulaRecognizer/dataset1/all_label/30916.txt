@@ -1,0 +1,1 @@
+\left( - 2 + 3 a + 6 a - 4 a ^ { 2 } - 6 a \right) \mathrm { e } \geqslant \mathrm { e } \cdot f ( 1 ) = - 2 + 3 a - 4 a ^ { 2 } \geqslant 1 6 a + 1

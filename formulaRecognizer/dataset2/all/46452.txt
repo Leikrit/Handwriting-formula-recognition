@@ -1,0 +1,1 @@
+\text { 记 } G ( A ) \text { 是 数 列 } A \text { 的 所 有 “ } G \text { 时 刻 ” 组 成 的 集 合 }

@@ -1,0 +1,1 @@
+V = ( \overrightarrow { A B } \times \overrightarrow { A D } ) \cdot \overrightarrow { C C _ { 1 } }

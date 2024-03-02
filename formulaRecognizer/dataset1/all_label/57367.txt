@@ -1,0 +1,1 @@
+\left( \frac { x } { \sqrt { y } } - \frac { y } { \sqrt { x } } \right) ^ { 6 }

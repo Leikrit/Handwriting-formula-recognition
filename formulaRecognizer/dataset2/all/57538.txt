@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \ln \left( 1 - x ^ { 2 } \right) } { 3 ^ { x } - 3 ^ { - x } } \text { 的 图 象 大 致 为 }

@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = x ( \ln x - 1 ) - a \mathrm { e } ^ { x } + \mathrm { e } a x + 1

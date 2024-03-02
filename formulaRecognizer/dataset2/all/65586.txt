@@ -1,0 +1,1 @@
+f ^ { \prime } ( \pi ) < f ^ { \prime } ( \mathrm { e } ) < f ^ { \prime } ( 2 )

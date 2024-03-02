@@ -1,0 +1,1 @@
+\ t h e r e f o r e \tan \alpha = \frac { \sin \alpha } { \cos \alpha } = \frac { \frac { 1 } { 4 } } { \frac { \sqrt { 1 5 } } { 4 } } = \frac { \sqrt { 1 5 } } { 1 5 }

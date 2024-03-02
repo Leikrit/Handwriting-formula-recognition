@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } g ( x ) = a x + b ( a , b \in \ m a t h b b { R } )

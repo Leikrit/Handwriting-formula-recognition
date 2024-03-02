@@ -1,0 +1,1 @@
+f ( 0 ) < x _ { k } = f \left( x _ { k + 1 } \right) < x _ { k } + \ln \left( 1 + x _ { k } \right) = f \left( x _ { k } \right) ,

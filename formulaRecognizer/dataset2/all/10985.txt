@@ -1,0 +1,1 @@
+\text { 若 } l \text { 也 与 函 数 } y = \ln x , x \in ( 0 , 1 ) \text { 的 图 象 }

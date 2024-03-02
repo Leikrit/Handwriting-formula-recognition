@@ -1,0 +1,1 @@
+\text { 于 是 在 区 间 } ( 0 , + \infty ) \text { 上 有 } h _ { 1 } ^ { \prime } ( x ) < 0 , h _ { 2 } ^ { \prime } ( x ) > 0

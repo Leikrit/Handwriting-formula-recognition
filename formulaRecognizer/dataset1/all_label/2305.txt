@@ -1,0 +1,1 @@
+\mathrm { C } _ { 6 } ^ { 0 } \frac { a _ { 1 } + 1 } { 2 } + \mathrm { C } _ { 6 } ^ { 1 } \frac { a _ { 2 } + 1 } { 2 } + \mathrm { C } _ { 6 } ^ { 2 } \frac { a _ { 3 } + 1 } { 2 } + \cdots + \mathrm { C } _ { 6 } ^ { 6 } \frac { a _ { 7 } + 1 } { 2 } =

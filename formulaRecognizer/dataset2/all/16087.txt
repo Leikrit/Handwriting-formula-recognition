@@ -1,0 +1,1 @@
+\text { 设 集 合 } A = \left\{ x \mid 3 x ^ { 2 } - x - 2 < 0 \right\} , B = \{ x \mid - 2 < x < 3 \}

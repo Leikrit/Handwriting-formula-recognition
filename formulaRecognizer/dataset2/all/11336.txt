@@ -1,0 +1,1 @@
+\text { 当 } x \in ( \ln ( a + 1 ) , + \infty ) \text { 时 }

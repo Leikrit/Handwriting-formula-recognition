@@ -1,0 +1,1 @@
+\text { 且 } 0 < x _ { n + 1 } < f \left( x _ { n + 1 } \right) = x _ { n } \text { . }

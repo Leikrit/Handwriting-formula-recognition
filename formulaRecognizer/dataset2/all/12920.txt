@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = A \tan ( \omega x + \varphi ) ( \omega > 0 , | \varphi | <

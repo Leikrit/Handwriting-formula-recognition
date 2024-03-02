@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) \text { 和 } g ^ { \prime } ( x ) \text { 分 别 是 } f ( x ) , g ( x ) \text { 的 导 函 }

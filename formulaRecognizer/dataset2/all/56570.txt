@@ -1,0 +1,1 @@
+Q = \left\{ x \mid \frac { x - 1 } { x + 4 } \leq s l a n t 0 \right\}

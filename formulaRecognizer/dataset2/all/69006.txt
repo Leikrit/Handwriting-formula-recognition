@@ -1,0 +1,1 @@
+\text { 从 而 } a = \frac { \mathrm { e } ^ { x _ { 2 } } - \mathrm { e } ^ { x _ { 1 } } } { x _ { 2 } - x _ { 1 } }

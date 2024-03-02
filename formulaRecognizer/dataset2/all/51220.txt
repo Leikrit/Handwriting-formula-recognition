@@ -1,0 +1,1 @@
+\text { 使 得 } f ^ { \prime } \left( x _ { 0 } \right) + \frac { 1 } { f ^ { \prime } \left( x _ { 0 } \right) } <

@@ -1,0 +1,1 @@
+= 4 \left( 2 + m ^ { 2 } + \frac { 1 } { m ^ { 2 } } \right) \geqslant 4 \left( 2 + 2 \sqrt { m ^ { 2 } \cdot \frac { 1 } { m ^ { 2 } } } \right) = 1 6

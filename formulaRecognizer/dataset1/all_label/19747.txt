@@ -1,0 +1,1 @@
+\tan ( \alpha - \beta ) = \frac { 5 } { 6 } , \tan \beta = \frac { 1 } { 3 }

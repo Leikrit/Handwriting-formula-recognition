@@ -1,0 +1,1 @@
+= \left( 1 + m ^ { 2 } \right) \left| - 4 + \frac { 2 } { m } \times 4 m + \frac { 4 } { m ^ { 2 } } \right|

@@ -1,0 +1,1 @@
+\frac { \left| M ^ { \prime } A ^ { \prime } \right| } { | M A | } = \frac { \left| M ^ { \prime } B ^ { \prime } \right| } { | M B | } = \frac { \left| M ^ { \prime } C ^ { \prime } \right| } { | M C | } = \frac { \left| M ^ { \prime } D ^ { \prime } \right| } { | M D | }

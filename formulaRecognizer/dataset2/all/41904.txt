@@ -1,0 +1,1 @@
+t \rightarrow s = t ^ { 2 } + t + 1

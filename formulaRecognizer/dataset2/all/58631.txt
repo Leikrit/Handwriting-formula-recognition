@@ -1,0 +1,1 @@
+\left\{ a _ { n } + a _ { n + 1 } + a _ { n + 2 } \right\} \text { 是 公 差 为 } 2 \text { 的 等 差 数 列 }

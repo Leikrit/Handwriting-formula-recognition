@@ -1,0 +1,1 @@
+\text { 等 比 方 向 : } ( * ) \text { 式 可 进 一 步 转 化 为 } \left| a _ { n + 1 } \right| - 2 \geqslant

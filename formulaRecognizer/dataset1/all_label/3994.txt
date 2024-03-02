@@ -1,0 +1,1 @@
+\left( \frac { 1 } { x } - x \right) ^ { 1 0 }

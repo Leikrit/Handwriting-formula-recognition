@@ -1,0 +1,1 @@
+\left| f ^ { \prime } ( x ) \right| \leq s l a n t 2 A \L e f t a r r o w ( 3 a + 1 ) ( a - 1 ) \leq s l a n t 0

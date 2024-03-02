@@ -1,0 +1,1 @@
+\text { 义 务 教 育 阶 段 投 资 额 } y \in \left[ \bar { y } _ { 1 } , \bar { y } _ { 2 } \right] \text { 的 年 数 为 } X

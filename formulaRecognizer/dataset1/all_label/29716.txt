@@ -1,0 +1,1 @@
+\frac { \sin \alpha } { \sin \alpha + \cos \alpha } = \frac { 1 } { 2 }

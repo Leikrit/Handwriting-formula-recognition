@@ -1,0 +1,1 @@
+\text { 若 } \boldsymbol { a } \cdot ( \boldsymbol { a } + \boldsymbol { b } ) = 6

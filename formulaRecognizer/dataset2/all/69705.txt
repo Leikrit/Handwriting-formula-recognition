@@ -1,0 +1,1 @@
+[ \alpha - \theta - \beta , \alpha + \beta + \theta ]

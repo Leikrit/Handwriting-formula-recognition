@@ -1,0 +1,1 @@
+\text { 若 每 个 数 } a _ { n } ( n \leq s l a n t m ) \text { 是 其 左 右 相 邻 两 数 平 方 的 }

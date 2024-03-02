@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { ( 1 - x ) ^ { n } } + \ln ( x - 1 ) \left( n \in \mathbf { N } ^ { * } \right)

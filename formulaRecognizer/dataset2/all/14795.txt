@@ -1,0 +1,1 @@
+\b e c a u s e \ a n g l e A C B + \ a n g l e B C D = \pi , \quad \ t h e r e f o r e \cos \ a n g l e A C B + \cos \ a n g l e B C D = 0

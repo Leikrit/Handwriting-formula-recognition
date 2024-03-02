@@ -1,0 +1,1 @@
+f _ { n } ( x ) \text { 在 } \left( 0 , \frac { 2 } { 3 } \right) \text { 内 有 且 仅 有 一 个 零 点 ( 记 为 } a _ { n } \text { ) }

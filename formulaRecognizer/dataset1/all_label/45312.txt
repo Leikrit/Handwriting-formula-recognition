@@ -1,0 +1,1 @@
+\left\{ S _ { n } - \frac { a _ { 1 } } { 1 - q } \right\} \text { 为 单 调 递 增 的 等 比 数 列 }

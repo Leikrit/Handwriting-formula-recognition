@@ -1,0 +1,1 @@
+\text { 动 点 } P \text { 满 足 } \left| P F _ { 1 } \right| + \left| P F _ { 2 } \right| = a + \frac { 9 } { a } ( a > 0 )

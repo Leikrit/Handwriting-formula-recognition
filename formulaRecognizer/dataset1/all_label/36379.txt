@@ -1,0 +1,1 @@
+S = S _ { \triangle A B C } + S _ { \triangle A B P } + S _ { \triangle A C P }

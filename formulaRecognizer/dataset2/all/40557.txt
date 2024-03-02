@@ -1,0 +1,1 @@
+\text { 设 } f ( x ) = \log _ { m } x ， ( m > 0 , m \neq 1 )

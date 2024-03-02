@@ -1,0 +1,1 @@
+\left\{ x \mid x > \frac { 1 3 } { 2 } \right\}

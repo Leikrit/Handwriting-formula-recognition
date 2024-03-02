@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 1 - \frac { a } { x } = \frac { x - a } { x }

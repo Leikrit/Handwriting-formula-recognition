@@ -1,0 +1,1 @@
+k ^ { 2 } + 1 - 9 k ^ { 2 } = 0 \Leftrightarrow k = \frac { \sqrt { 2 } } { 4 } ,

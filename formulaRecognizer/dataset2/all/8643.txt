@@ -1,0 +1,1 @@
+\text { 若 } \left\{ a _ { n } \right\} \text { 的 长 度 为 } s \text { 的 递 增 子 }

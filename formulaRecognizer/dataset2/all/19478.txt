@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 的 图 象 可 由 函 数 } f ( x ) = \cos ^ { 2 } \frac { x } { 2 } + 2 \sin \frac { x } { 2 } \text { . }

@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \left[ a x ^ { 2 } - ( 3 a + 1 ) x + 3 a + \right.

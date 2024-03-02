@@ -1,0 +1,1 @@
+a > 0 , f ( x ) = \frac { \mathrm { e } ^ { x } } { a } + \frac { a } { \mathrm { e } ^ { x } }

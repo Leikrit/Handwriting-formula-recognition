@@ -1,0 +1,1 @@
+\leq s l a n t ( q - 1 ) + ( q - 1 ) q + \cdots + ( q - 1 ) q ^ { n - 2 } - q ^ { n - 1 }

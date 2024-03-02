@@ -1,0 +1,1 @@
+\text { 其 中 第 } k \text { 列 为 数 对 } \left( a _ { k } , b _ { k } \right) , k = 1 , 2 , \cdots , n

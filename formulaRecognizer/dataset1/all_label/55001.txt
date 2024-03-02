@@ -1,0 +1,1 @@
+P F _ { 1 } + P F _ { 2 } = P F _ { 1 } + P F _ { 2 } ^ { \prime } \geqslant F _ { 1 } F _ { 2 } ^ { \prime } = \sqrt { 1 0 }

@@ -1,0 +1,1 @@
+\bar { z } \in \mathbf { R }

@@ -1,0 +1,1 @@
+\text { 若 } \boldsymbol { a } \perp ( 2 \boldsymbol { a } + \boldsymbol { b } )

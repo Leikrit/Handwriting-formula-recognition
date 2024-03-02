@@ -1,0 +1,1 @@
+\text { 存 在 平 面 } \gamma , \alpha \cap \gamma = m , \beta \cap \gamma = n \text { 且 } m / / n

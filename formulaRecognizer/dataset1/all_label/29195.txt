@@ -1,0 +1,1 @@
+\geqslant 2 - \frac { 1 } { 4 + 2 \sqrt { 3 } } = 1 + \frac { \sqrt { 3 } } { 2 }

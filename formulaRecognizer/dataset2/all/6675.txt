@@ -1,0 +1,1 @@
+\frac { \sin \theta + \cos \theta } { \sin \theta - \cos \theta } \text { 的 值 是 }

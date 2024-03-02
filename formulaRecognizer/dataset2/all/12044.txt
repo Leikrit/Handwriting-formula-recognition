@@ -1,0 +1,1 @@
+\text { 1 ) } \overrightarrow { P _ { n } C } + \overrightarrow { P _ { n } A } = \frac { 1 } { 3 } x _ { n + 1 } \overrightarrow { P _ { n } B }

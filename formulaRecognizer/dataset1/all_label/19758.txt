@@ -1,0 +1,1 @@
+2 \sin C = \sin A + \sin B , \cos C = \frac { 3 } { 5 }

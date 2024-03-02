@@ -1,0 +1,1 @@
+\left| M N _ { 2 } \right| ^ { 2 } - \left| M N _ { 1 } \right| ^ { 2 } = \left( 2 t - \frac { 1 } { t } \right) ^ { 2 } + 1 6 - \left( 2 t + \frac { 1 } { t } \right) ^ { 2 } = 8

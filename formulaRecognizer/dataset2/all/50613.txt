@@ -1,0 +1,1 @@
+\text { 故 函 数 } f ( x ) = \sqrt { x ^ { 2 } + 9 } + \frac { 1 } { \sqrt { x ^ { 2 } + 9 } } \text { 的 最 小 值 为 } 2 \text { 是 错 误 的 }

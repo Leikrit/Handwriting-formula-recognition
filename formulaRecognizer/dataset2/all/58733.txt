@@ -1,0 +1,1 @@
+\text { 若 } \left( \sqrt { x } + \frac { \sqrt { a } } { x } \right) ^ { 6 } \text { 展 开 式 中 的 常 数 项 为 } 5

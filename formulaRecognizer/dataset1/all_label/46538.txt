@@ -1,0 +1,1 @@
+\sin A = \frac { \sin B + \sin C } { \cos B + \cos C }

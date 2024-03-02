@@ -1,0 +1,1 @@
+\frac { 3 } { 2 } < a _ { n } < 2 ( n \geqslant 4 )

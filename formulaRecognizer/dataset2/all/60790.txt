@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( \sin x , \sqrt { 3 } \cos x )

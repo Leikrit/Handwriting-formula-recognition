@@ -1,0 +1,1 @@
+4 ( 1 + \sin x ) \ln \left( 3 - \frac { 2 x } { \pi } \right)

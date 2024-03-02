@@ -1,0 +1,1 @@
+\frac { 1 } { 3 } x ^ { 2 } + a x + 1 = 0 \text { 只 有 一 个 实 根 , 即 } \Delta = 0 \Rightarrow a ^ { 2 } - \frac { 4 } { 3 } = 0 \text { , 则 } a = \pm \frac { 2 \sqrt { 3 } } { 3 }

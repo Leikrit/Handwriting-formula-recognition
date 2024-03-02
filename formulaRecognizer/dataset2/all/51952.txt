@@ -1,0 +1,1 @@
+\text { 且 } S _ { n } = 2 a _ { n } \left( n \geqslant 2 , n \in \mathbf { N } ^ { * } \right)

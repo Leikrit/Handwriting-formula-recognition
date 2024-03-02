@@ -1,0 +1,1 @@
+\left\{ x \mid - 2 < x \leq s l a n t - 1 \text { 或 } \frac { 2 } { 3 } \leq s l a n t x < 3 \right\}

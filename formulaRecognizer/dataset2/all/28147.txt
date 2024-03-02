@@ -1,0 +1,1 @@
+\text { 则 } | \overrightarrow { P A } + 3 \overrightarrow { P B } | = | \overrightarrow { P A } + \overrightarrow { P B } + 2 \overrightarrow { P B } | = | 2 \overrightarrow { P M } + 2 \overrightarrow { P B } | =

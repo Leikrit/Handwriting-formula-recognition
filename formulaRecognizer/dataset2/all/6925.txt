@@ -1,0 +1,1 @@
+\text { 则 } \left. \left| x _ { 1 } - x _ { 2 } \right| \right| _ { \text { m i n } } = \frac { \pi } { 2 }

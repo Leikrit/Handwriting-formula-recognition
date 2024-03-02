@@ -1,0 +1,1 @@
+\cos \left( \frac { \alpha } { 2 } - \beta \right) = \sqrt { 1 - \sin ^ { 2 } \left( \frac { \alpha } { 2 } - \beta \right) } = \frac { \sqrt { 5 } } { 3 }

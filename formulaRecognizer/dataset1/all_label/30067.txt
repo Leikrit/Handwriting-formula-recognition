@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( x + z , 3 )

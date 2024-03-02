@@ -1,0 +1,1 @@
+b _ { m } = 3 m + 2 \left( m \in \mathbf { N } ^ { * } \right)

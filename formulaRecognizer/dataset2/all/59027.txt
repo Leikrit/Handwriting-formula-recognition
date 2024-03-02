@@ -1,0 +1,1 @@
+\text { 即 } \sin \left[ 2 \left( x + \frac { \pi } { 2 } \right) + \frac { \pi } { 3 } \right] = \cos \left( 2 x + \frac { \pi } { 2 } + \frac { \pi } { 3 } \right) = \cos ( 2 x + \varphi ) \text { 恒 成 立 }

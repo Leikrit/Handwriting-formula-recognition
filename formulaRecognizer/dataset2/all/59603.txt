@@ -1,0 +1,1 @@
+\text { 若 } \triangle A B C \text { 的 面 积 为 } \frac { \sqrt { 3 } } { 2 0 } c ^ { 2 } \text { , 求 } \frac { a } { b } \text { 的 值 }

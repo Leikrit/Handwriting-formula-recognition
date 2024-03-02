@@ -1,0 +1,1 @@
+a _ { 2 } \cdot \cdots \cdot a _ { 3 0 } = 2 ^ { 3 0 }

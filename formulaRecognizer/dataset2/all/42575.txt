@@ -1,0 +1,1 @@
+\overrightarrow { C D } = \lambda \overrightarrow { C C _ { 1 } } ( \lambda \in \mathbf { R } )

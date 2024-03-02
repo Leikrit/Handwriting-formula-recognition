@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } x f ^ { \prime } ( x ) - a f ( x ) \leq s l a n t 5 \text { 对 }

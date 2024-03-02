@@ -1,0 +1,1 @@
+\text { 又 因 为 } y = \frac { 1 } { t } \text { 与 } y = 2 \sin t \pi \text { 都 是 奇 函 数 }

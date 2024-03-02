@@ -1,0 +1,1 @@
+\text { 设 } c _ { n } = \frac { \left( \frac { 2 } { 3 } \right) ^ { n } } { 2 b _ { n } ^ { 2 } + b _ { n } }

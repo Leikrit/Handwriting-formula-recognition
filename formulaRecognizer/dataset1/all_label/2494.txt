@@ -1,0 +1,1 @@
+= \frac { 1 } { 2 } \left( 4 t ^ { 2 } + \frac { 1 } { 4 t ^ { 2 } } + 2 \right) \cdot \left| 8 t + \frac { 2 } { t } \right|

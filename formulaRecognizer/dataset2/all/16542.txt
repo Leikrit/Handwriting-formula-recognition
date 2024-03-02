@@ -1,0 +1,1 @@
+g \left( \frac { \pi } { 4 } \right) = \frac { \sqrt { 3 } } { 2 }

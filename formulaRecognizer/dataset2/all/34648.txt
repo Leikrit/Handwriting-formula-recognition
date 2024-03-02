@@ -1,0 +1,1 @@
+a _ { 1 } a _ { 8 } = \left( a _ { 4 } - 3 d \right) \left( a _ { 5 } + 3 d \right) = a _ { 4 } a _ { 5 } + 3 d \left( a _ { 4 } - a _ { 5 } \right) - 9 d ^ { 2 } = a _ { 4 } a _ { 5 } - 1 2 d ^ { 2 } < a _ { 4 } a _ { 5 }

@@ -1,0 +1,1 @@
+f \left( \cos ^ { 2 } \theta + \lambda \sin \theta - \frac { 1 } { 4 } \right) + \frac { 1 } { 2 } \geqslant 0

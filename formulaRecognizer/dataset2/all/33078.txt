@@ -1,0 +1,1 @@
+\text { 求 不 等 式 } f ( x ) + | x - 1 | \leq s l a n t 7 + 2 | x - 4 | \text { 的 解 集 }

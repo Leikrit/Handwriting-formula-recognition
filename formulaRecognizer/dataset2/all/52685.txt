@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = x \ln x + p ( p \in \mathbf { R } )

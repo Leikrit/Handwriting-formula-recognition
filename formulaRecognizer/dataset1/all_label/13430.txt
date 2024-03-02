@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } b _ { n } = \frac { 1 } { 2 }

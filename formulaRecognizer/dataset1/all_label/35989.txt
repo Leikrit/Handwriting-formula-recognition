@@ -1,0 +1,1 @@
+f ( x ) = \log _ { 2 0 2 0 } \left( \frac { 2 0 2 0 } { x + 1 0 1 0 } - a \right)

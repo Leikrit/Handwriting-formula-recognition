@@ -1,0 +1,1 @@
+r = A C \cdot \sin 3 0 ^ { \circ } \cdot \cos 3 0 ^ { \circ } = \frac { 3 \sqrt { 3 } } { 4 }

@@ -1,0 +1,1 @@
+a _ { n + 1 } > \left| a _ { n } \right| ( n = 1 , 2 , \cdots )

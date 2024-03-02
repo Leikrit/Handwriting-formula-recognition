@@ -1,0 +1,1 @@
+\left( S _ { \triangle A B C } \right) _ { \max } = \frac { 2 } { 3 } l ^ { 2 }

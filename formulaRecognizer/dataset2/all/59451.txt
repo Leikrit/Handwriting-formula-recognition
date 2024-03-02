@@ -1,0 +1,1 @@
+\text { 数 据 } \left( x _ { i } , y _ { i } \right) ( i = 1 , 2 , \cdots , n )

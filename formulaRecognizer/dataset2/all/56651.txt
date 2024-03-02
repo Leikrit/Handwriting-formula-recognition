@@ -1,0 +1,1 @@
+\cos ( A - C ) - \cos B = \frac { 1 } { 2 }

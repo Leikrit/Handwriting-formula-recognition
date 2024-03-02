@@ -1,0 +1,1 @@
+\text { 可 得 } | F A | + | F B | + | F C | = 6 - \frac { \left( x _ { 1 } + x _ { 2 } + x _ { 3 } \right) } { 2 } = \frac { 9 } { 2 }

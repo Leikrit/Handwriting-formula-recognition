@@ -1,0 +1,1 @@
+( 2 , - 4 ) \text { 且 } \boldsymbol { a } \perp \boldsymbol { c }

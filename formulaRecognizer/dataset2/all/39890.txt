@@ -1,0 +1,1 @@
+\forall x \in ( 2 , + \infty ) , x ^ { 2 } - 2 x \leq s l a n t 0

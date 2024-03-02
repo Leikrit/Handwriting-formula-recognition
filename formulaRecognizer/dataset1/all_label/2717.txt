@@ -1,0 +1,1 @@
+\Delta ( x ) = 1 + x + 2 \sqrt { x } \ln x = \sqrt { x } \cdot \left( 4 \ln \sqrt { x } + \sqrt { x } + \frac { 1 } { \sqrt { x } } \right)

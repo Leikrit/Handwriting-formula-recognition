@@ -1,0 +1,1 @@
+\text { 则 称 } c \text { 为 } a , b \text { 关 于 函 数 } f ( x ) \text { 的 平 均 }

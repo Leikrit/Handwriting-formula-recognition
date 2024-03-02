@@ -1,0 +1,1 @@
+g ( x ) = x + \sin x - a x \cos x \geqslant 0 \text { 显 然 成 立 }

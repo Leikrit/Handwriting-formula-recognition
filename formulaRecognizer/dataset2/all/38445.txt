@@ -1,0 +1,1 @@
+\text { 证 明 : } a _ { 2 } , a _ { 3 } , \cdots , a _ { n } , \cdots \text { ( 即 } \left\{ a _ { n } \right\} \text { 从 第 } 2 \text { 项 起 ) 是 一 个 等 }

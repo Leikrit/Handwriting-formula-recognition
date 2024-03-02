@@ -1,0 +1,1 @@
+\text { 由 于 } \sin ( x + \varphi ) \in [ - 1 , 1 ]

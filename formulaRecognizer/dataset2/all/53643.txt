@@ -1,0 +1,1 @@
+\text { 即 } f ( x ) \approx y _ { 1 } + k _ { 1 } ( x -

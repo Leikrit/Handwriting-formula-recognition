@@ -1,0 +1,1 @@
+\text { 因 为 } g ^ { \prime } ( x ) \text { 单 调 递 增 }

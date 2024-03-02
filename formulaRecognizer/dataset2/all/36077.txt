@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = a x ^ { 3 } + b x ^ { 2 } + c x + d \text { 的 图 象 }

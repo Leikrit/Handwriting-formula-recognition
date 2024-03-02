@@ -1,0 +1,1 @@
+S _ { n } \neq 0 \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot ( 2 \overrightarrow { A C } + \overrightarrow { B C } ) = 0

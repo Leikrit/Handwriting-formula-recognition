@@ -1,0 +1,1 @@
+\text { 曲 线 } \Gamma \text { 由 } C _ { 1 } \text { 中 满 足 } | x | \geq x _ { A } \text { 的 部 分 和 } C _ { 2 } \text { 中 }

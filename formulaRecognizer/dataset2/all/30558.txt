@@ -1,0 +1,1 @@
+\text { 若 复 数 } z = \left( x ^ { 2 } - 1 \right) + ( x - 1 ) \mathrm { i } \text { 为 纯 虚 数 }

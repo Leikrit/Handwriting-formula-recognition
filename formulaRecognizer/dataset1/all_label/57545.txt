@@ -1,0 +1,1 @@
+( - \infty , - 3 ) \cup \left( 1 , \frac { 3 } { 2 } \right) \cup \left( \frac { 3 } { 2 } , + \infty \right)

@@ -1,0 +1,1 @@
+f ( \lambda \boldsymbol { a } + \mu \boldsymbol { b } ) = \lambda f ( \boldsymbol { a } ) + \mu f ( \boldsymbol { b } )

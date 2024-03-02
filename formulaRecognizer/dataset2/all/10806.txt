@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) \text { 在 } [ - 7 , 7 ] \text { 上 有 } 5 \text { 个 零 点 }

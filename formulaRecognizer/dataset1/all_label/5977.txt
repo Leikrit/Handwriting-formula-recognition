@@ -1,0 +1,1 @@
+\left| \log _ { a } ( 1 - b ) \right| > \left| \log _ { a } ( 1 + b ) \right|

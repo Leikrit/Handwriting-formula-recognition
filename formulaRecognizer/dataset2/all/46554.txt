@@ -1,0 +1,1 @@
+\text { 当 } \ a n g l e P A B \text { 最 大 时 , } \frac { y } { x + 2 } \text { 取 得 趣 } - \frac { \sqrt { 3 } } { 3 }

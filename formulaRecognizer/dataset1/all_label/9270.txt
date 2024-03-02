@@ -1,0 +1,1 @@
+y = \sin \left( \frac { 1 } { 2 } x - \frac { \pi } { 1 0 } \right)

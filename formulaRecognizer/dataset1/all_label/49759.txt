@@ -1,0 +1,1 @@
+\sin B - \cos C = \frac { c ^ { 2 } - a ^ { 2 } } { 2 a b }

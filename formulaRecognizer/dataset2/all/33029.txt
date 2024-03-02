@@ -1,0 +1,1 @@
++ S _ { \triangle O C A } \times \overrightarrow { O B } + S _ { \triangle O A B } \times \overrightarrow { O C } = \mathbf { 0 }

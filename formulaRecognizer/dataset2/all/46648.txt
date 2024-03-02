@@ -1,0 +1,1 @@
+N \left( x _ { 2 } , y _ { 2 } \right) \text { 分 别 是 函 数 } f ( x ) , g ( x ) \text { 的 图 象 上 任 意 点 }

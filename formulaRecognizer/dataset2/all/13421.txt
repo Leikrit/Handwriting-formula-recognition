@@ -1,0 +1,1 @@
+\text { 满 足 } \frac { \sqrt { 3 } b } { 2 c - \sqrt { 3 } a } = \frac { \cos B } { \cos A }

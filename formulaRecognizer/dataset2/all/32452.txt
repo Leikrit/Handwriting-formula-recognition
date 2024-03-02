@@ -1,0 +1,1 @@
+\text { 若 } \tan \alpha - \frac { 1 } { \tan \alpha } = \frac { 3 } { 2 } \text { , 且 } \alpha \in \left( \frac { \pi } { 4 } , \frac { \pi } { 2 } \right) \text { , 则 } \sin \left( 2 \alpha + \frac { \pi } { 6 } \right) \text { 的 值 为 }

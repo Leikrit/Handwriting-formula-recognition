@@ -1,0 +1,1 @@
+\hat { y } = \hat { c } + \hat { d } \sqrt { x }

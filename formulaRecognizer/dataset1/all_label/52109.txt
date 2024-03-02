@@ -1,0 +1,1 @@
+\frac { \left| M ^ { \prime } C ^ { \prime } \right| } { | M C | } = \frac { \left| M ^ { \prime } D ^ { \prime } \right| } { | M D | } = \frac { \sqrt { 1 + 4 \cdot \left( - \frac { 1 } { 2 } \right) ^ { 2 } } } { \sqrt { 1 + \left( - \frac { 1 } { 2 } \right) ^ { 2 } } }

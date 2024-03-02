@@ -1,0 +1,1 @@
+\frac { \ln x + 1 } { x } \leq s l a n t a x + b

@@ -1,0 +1,1 @@
+\overrightarrow { P F } \cdot \overrightarrow { O Q } = ( - 1 - \sqrt { 2 } \cos \alpha , - \sqrt { 2 } \sin \alpha ) \cdot \left( - 3 , \frac { 3 ( 1 + \sqrt { 2 } \cos \alpha ) } { \sqrt { 2 } \sin \alpha } \right)

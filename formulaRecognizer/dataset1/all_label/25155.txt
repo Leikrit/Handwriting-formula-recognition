@@ -1,0 +1,1 @@
+F _ { 2 } \left( \sqrt { m ^ { 2 } - 1 } , 0 \right)

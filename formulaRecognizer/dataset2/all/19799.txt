@@ -1,0 +1,1 @@
+\text { 若 } p \wedge q \text { 为 假 命 题 }

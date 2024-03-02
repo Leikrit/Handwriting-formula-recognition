@@ -1,0 +1,1 @@
+\text { 恒 有 } \ln ( 1 + x ) > 0 \geqslant k x

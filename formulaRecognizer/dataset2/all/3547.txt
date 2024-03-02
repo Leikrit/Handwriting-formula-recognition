@@ -1,0 +1,1 @@
+\text { 曲 线 } y = \mathrm { e } ^ { 2 x } + \sin x \text { 在 点 } ( 0 , f ( 0 ) ) \text { 处 的 切 线 方 程 为 }

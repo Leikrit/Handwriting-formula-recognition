@@ -1,0 +1,1 @@
+S , T , S \subseteq \mathbf { N } ^ { * } , T \subseteq \mathbf { N } ^ { * }

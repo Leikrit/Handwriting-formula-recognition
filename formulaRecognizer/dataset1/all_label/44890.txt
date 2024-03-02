@@ -1,0 +1,1 @@
+\left\{ x \mid x = x _ { i } + x _ { j } , x _ { i } , x _ { j } \in X , 1 \leq s l a n t i < j \leq s l a n t n , i , j \in \mathbf { N } \right\}

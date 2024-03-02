@@ -1,0 +1,1 @@
+c \mathrm { e } ^ { x } > \frac { 1 } { 3 } c x ^ { 3 } = \frac { 1 } { 3 } c x \cdot x ^ { 2 }

@@ -1,0 +1,1 @@
+( \sqrt { 2 } b - a ) \cos C = c \cos A

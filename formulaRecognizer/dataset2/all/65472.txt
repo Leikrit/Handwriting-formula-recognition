@@ -1,0 +1,1 @@
+f ( x ) = \ln ( x + 1 ) - a \left( x + \frac { x } { x + 1 } \right) , a \geqslant \frac { 1 } { 2 }

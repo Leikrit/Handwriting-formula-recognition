@@ -1,0 +1,1 @@
+a _ { n - 1 } + ( n + 1 ) a _ { n + 1 } \left( n \geqslant 2 \text { 且 } n \in \mathbf { N } ^ { * } \right)

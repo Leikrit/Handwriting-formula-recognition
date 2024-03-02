@@ -1,0 +1,1 @@
+\min \{ b , c \} \geqslant \min \{ a , d \}

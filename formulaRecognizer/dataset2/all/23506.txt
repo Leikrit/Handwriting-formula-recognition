@@ -1,0 +1,1 @@
+\left[ k \pi - \frac { \pi } { 3 } , k \pi + \frac { \pi } { 6 } \right] , k \in \mathbf { Z }

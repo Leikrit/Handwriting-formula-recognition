@@ -1,0 +1,1 @@
+\text { 导 函 数 为 } y ^ { \prime } = \frac { 1 } { x }

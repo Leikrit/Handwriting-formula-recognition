@@ -1,0 +1,1 @@
+P ( \mu - 2 \sigma < Z < \mu + 2 \sigma ) = 0 . 9 5 4 5

@@ -1,0 +1,1 @@
+\left( x ^ { 4 } - \frac { 1 } { x \sqrt { x } } \right) ^ { n }

@@ -1,0 +1,1 @@
+\frac { f ( a ) - f ( b ) } { a - b } < f ^ { \prime } ( b )

@@ -1,0 +1,1 @@
+\text { 已 知 } \left( 1 + x + x ^ { 2 } \right) \left( x + \frac { 1 } { x ^ { 3 } } \right) ^ { n } \text { 的 展 开 式 中 没 有 常 数 项 }

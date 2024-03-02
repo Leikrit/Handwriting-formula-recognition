@@ -1,0 +1,1 @@
+f \left[ \sin 2 \theta - ( 2 + m ) ( \sin \theta + \cos \theta ) - \frac { 4 } { \sin \theta + \cos \theta } \right]

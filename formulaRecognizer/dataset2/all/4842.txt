@@ -1,0 +1,1 @@
+\mathrm { A } \left( \mathrm { x } _ { \mathrm { A } } , \mathrm { y } _ { \mathrm { A } } \right) \text { 是 双 曲 线 } \mathrm { C } _ { 1 } : \frac { \mathrm { x } ^ { 2 } } { 4 } - \frac { \mathrm { y } ^ { 2 } } { \mathrm { ~ b } ^ { 2 } } = 1 \text { 和 }

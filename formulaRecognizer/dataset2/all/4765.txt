@@ -1,0 +1,1 @@
+\text { 得 } b \geqslant \frac { 2 } { \pi } \mathrm { e } ^ { \frac { \pi } { 2 } a }

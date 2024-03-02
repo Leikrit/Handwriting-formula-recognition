@@ -1,0 +1,1 @@
+\text { 则 输 出 量 } y \text { 与 输 人 量 } x \text { 满 }

@@ -1,0 +1,1 @@
+\left\{ b _ { n } \right\} \text { 都 是 公 差 为 } 1 \text { 的 等 差 数 列 }

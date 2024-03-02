@@ -1,0 +1,1 @@
+\text { 即 } 2 m \cdot \left( - \frac { 9 } { 3 m ^ { 2 } + 4 } \right) + ( 1 - t ) \left( - \frac { 6 m } { 3 m ^ { 2 } + 4 } \right) = 0

@@ -1,0 +1,1 @@
+| A Q | = \left| Q F _ { 1 } \right| + \left| F _ { 1 } A \right| = \frac { 4 \sqrt { 2 } } { 3 }

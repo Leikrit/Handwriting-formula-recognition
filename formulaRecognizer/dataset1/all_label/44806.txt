@@ -1,0 +1,1 @@
+f ( x ) = \left( n ^ { 2 } + 2 n - 2 \right) x ^ { n ^ { 2 } - 3 n } ( n \in \mathbf { Z } )

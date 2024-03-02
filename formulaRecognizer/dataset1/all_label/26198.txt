@@ -1,0 +1,1 @@
+\frac { x } { a } + \frac { y } { b } = 1

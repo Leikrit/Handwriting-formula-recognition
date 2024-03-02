@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t k x - \left| x + a ^ { 2 } \right| - | x - 2 |

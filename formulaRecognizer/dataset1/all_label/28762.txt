@@ -1,0 +1,1 @@
+\frac { \sin A } { \cos A } \left( \frac { \cos B } { \sin B } + \frac { \cos C } { \sin C } \right)

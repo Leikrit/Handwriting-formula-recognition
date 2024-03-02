@@ -1,0 +1,1 @@
+\max \{ p , q \} \text { 表 示 } p , q \text { 中 的 较 大 值 }

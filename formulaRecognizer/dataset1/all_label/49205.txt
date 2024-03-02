@@ -1,0 +1,1 @@
+f ( \ln k ) = k - k \ln k

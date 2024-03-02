@@ -1,0 +1,1 @@
+n \in \mathbf { N } ^ { * } , a _ { n + 1 } - a _ { n } \geqslant c

@@ -1,0 +1,1 @@
+\left. f \left( x _ { 1 } \right) \right) , Q \left( x _ { 2 } , f \left( x _ { 2 } \right) \right) \left( x _ { 1 } < x _ { 2 } \right)

@@ -1,0 +1,1 @@
+\text { “ } \theta = \frac { 2 \pi } { 3 } ” \text { 是 } ~ " \tan \theta = 2 \cos \left( \frac { \pi } { 2 } + \theta \right) ” \text { 的 }

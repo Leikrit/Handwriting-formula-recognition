@@ -1,0 +1,1 @@
+\text { 则 } m \cdot 2 ^ { n } \text { 等 于 }

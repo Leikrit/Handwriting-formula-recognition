@@ -1,0 +1,1 @@
+g ( x ) = a \left( x ^ { 3 } + x ^ { 2 } + x \right) - \frac { 1 } { 3 }

@@ -1,0 +1,1 @@
+\text { 求 } \left\{ d _ { n } \right\} \text { 前 } n \text { 项 }

@@ -1,0 +1,1 @@
+\text { 已 知 二 项 式 } \left( 2 x + \frac { 1 } { \sqrt { x } } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right) \text { 的 展 开 式 中 第 } 2 \text { 项 }

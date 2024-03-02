@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin ( \omega x + \varphi ) - \cos ( \omega x + \varphi )

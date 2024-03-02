@@ -1,0 +1,1 @@
+\text { 当 } 0 < x < \frac { 1 } { a } \text { 时 }

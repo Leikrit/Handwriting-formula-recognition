@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { S _ { 1 } + S _ { 2 } + \cdots + S _ { n } } { n }

@@ -1,0 +1,1 @@
+\text { 求 函 数 } y = ( \sin x + 1 ) ( \cos x + 1 ) , x \in \left[ - \frac { \pi } { 1 2 } , \frac { \pi } { 1 2 } \right] \text { 的 值 域 }

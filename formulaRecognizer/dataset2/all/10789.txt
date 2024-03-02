@@ -1,0 +1,1 @@
+\text { 点 } Q \text { 是 } \triangle P B C \text { 内 ( 含 边 界 ) 的 一 个 动 点 }

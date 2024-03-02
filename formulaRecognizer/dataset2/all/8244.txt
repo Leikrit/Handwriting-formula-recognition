@@ -1,0 +1,1 @@
+\text { 记 } S _ { n } \text { 是 数 列 } \left\{ a _ { n } \right\} \text { 的 前 } n \text { 项 和 }

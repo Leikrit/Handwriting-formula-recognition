@@ -1,0 +1,1 @@
+f _ { n + 1 } ( x ) = f \left( f _ { n } ( x ) \right)

@@ -1,0 +1,1 @@
+\ e x i s t s x _ { 0 } \in \mathbf { R } , \mathrm { e } ^ { x _ { 0 } } + \frac { 1 } { \mathrm { e } ^ { x _ { 0 } } } \geqslant 2

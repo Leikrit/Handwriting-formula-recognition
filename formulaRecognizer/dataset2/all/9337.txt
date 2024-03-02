@@ -1,0 +1,1 @@
+\text { 点 } P \left( 1 , \frac { \sqrt { 3 } } { 2 } \right) \text { 在 椭 圆 } C \text { 上 }

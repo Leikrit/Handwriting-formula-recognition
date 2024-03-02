@@ -1,0 +1,1 @@
+\text { 设 直 线 } A B \text { 上 一 点 } M \text { , 满 足 } \overrightarrow { B M } = \lambda \overrightarrow { M A }

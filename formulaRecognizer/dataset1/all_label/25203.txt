@@ -1,0 +1,1 @@
+\left. \mathrm { e } ^ { 1 - 3 x } \right)

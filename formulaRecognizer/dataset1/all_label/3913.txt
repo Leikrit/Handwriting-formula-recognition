@@ -1,0 +1,1 @@
+A = \left\{ ( x , y ) \mid x ^ { 2 } + y ^ { 2 } = 1 \right\}

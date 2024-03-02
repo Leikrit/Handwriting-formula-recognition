@@ -1,0 +1,1 @@
+p _ { 1 0 0 } \text { 满 足 } p _ { 1 } = 1 , p _ { i } + p _ { i + 1 } = 1 , 1 \leq s l a n t i \leq s l a n t 9 9

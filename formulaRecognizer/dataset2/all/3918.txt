@@ -1,0 +1,1 @@
+\frac { S _ { 2 } } { S _ { \triangle G A C } } = \frac { A Q } { A C } = \frac { - y _ { 3 } } { y _ { 1 } - y _ { 3 } }

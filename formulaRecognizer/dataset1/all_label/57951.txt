@@ -1,0 +1,1 @@
+f ( x ) = \left[ a x ^ { 2 } - ( a + 1 ) x + 1 \right] \mathrm { e } ^ { x }

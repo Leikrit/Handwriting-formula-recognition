@@ -1,0 +1,1 @@
+y = 2 \sin \left( \frac { \pi } { 6 } - 2 x \right) ( x \in [ 0 , \pi ] )

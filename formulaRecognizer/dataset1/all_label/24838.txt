@@ -1,0 +1,1 @@
+A B = A A _ { 1 } = \sqrt { 2 } B C = \sqrt { 2 }

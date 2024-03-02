@@ -1,0 +1,1 @@
+g ( x ) = \frac { f ( x ) } { x + 1 } \forall - 1

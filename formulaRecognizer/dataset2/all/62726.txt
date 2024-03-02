@@ -1,0 +1,1 @@
+g ( x ) = a \ln x + \sqrt { 1 + x } - \frac { \sqrt { x } } { 2 a }

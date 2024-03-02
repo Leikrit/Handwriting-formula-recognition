@@ -1,0 +1,1 @@
+\text { 若 两 个 正 实 数 } x , y \text { 满 足 } \frac { 2 } { x } + \frac { 1 } { y } = 4

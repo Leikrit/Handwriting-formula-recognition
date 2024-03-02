@@ -1,0 +1,1 @@
+\text { 等 号 当 且 仅 当 } k = - \sqrt { \frac { b } { a } } \text { 时 取 得 ( 因 为 } P \text { 点 在 第 一 象 限 ) }

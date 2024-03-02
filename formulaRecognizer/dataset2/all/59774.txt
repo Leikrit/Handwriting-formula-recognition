@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \text { 在 } x = x _ { 0 } \left( 0 < x _ { 0 } < \sqrt { \mathrm { e } } \right) \text { 处 取 得 极 值 }

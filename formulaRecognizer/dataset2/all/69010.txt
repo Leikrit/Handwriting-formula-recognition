@@ -1,0 +1,1 @@
+\mathrm { e } ^ { \frac { x _ { 1 } + x _ { 2 } } { 2 } } \cdot \left( x _ { 2 } - x _ { 1 } \right) < \mathrm { e } ^ { x _ { 2 } } - \mathrm { e } ^ { x _ { 1 } }

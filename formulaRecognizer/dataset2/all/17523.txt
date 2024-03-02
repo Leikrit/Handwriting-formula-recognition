@@ -1,0 +1,1 @@
+\text { 动 直 线 } l : y = k x + m ( m \neq 0 ) \text { 交 椭 圆 } C \text { 于 } A , B

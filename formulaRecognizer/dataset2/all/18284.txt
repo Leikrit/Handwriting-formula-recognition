@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = a \cdot b ^ { x } \text { 的 图 象 过 点 } A \left( 4 , \frac { 1 } { 4 } \right) \text { 和 } B ( 5 , 1 )

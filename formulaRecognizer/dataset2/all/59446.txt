@@ -1,0 +1,1 @@
+g \left( \frac { 1 } { k - 1 } \right) > g \left( \frac { 1 } { k } \right) > g ( 0 )

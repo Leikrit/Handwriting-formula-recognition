@@ -1,0 +1,1 @@
+\text { 的 便 是 处 理 } a ^ { 2 } + \frac { 1 } { a b } + \frac { 1 } { a ( a - b ) } \text { 了 }

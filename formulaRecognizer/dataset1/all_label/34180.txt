@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { S _ { n } } { n ^ { 2 } } =

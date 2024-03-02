@@ -1,0 +1,1 @@
+\sqrt { x } + \frac { 1 } { \sqrt { x } } \geqslant 2

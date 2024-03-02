@@ -1,0 +1,1 @@
+\text { 一 点 } F \text { 到 } M N \text { 的 距 离 } h _ { 2 } \text { ( 米 ) 与 } F \text { 到 } O O ^ { \prime } \text { 的 距 离 } b \text { ( 米 ) 之 间 满 足 关 系 式 } h _ { 2 } = - \frac { 1 } { 8 0 0 } b ^ { 3 } + 6 b

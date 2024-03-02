@@ -1,0 +1,1 @@
+m \in \left( 0 , \frac { 1 } { 2 } \right) , n \in \left( \frac { 1 } { 2 } , + \infty \right)

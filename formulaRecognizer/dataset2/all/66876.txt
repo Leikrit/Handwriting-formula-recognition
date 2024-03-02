@@ -1,0 +1,1 @@
+\left( y - a _ { n } \right) ^ { 2 } = r _ { n } ^ { 2 } \left( a _ { n } > 0 , r _ { n } > 0 , n = 1 , 2 \cdots \right) \text { 逐 个 外 }

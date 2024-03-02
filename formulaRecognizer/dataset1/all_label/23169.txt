@@ -1,0 +1,1 @@
+g \left( \mathrm { e } ^ { a x } \right) \geqslant g \left( x ^ { 2 } \right)

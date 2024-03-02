@@ -1,0 +1,1 @@
+= \left| \frac { - ( 2 t + 1 ) } { 4 } + \frac { \frac { 3 } { 4 } } { - ( 2 t + 1 ) } + 1 \right|

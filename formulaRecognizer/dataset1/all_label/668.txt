@@ -1,0 +1,1 @@
+\l g \left( a ^ { 2 } + 1 \right) > \l g \left( b ^ { 2 } + 1 \right)

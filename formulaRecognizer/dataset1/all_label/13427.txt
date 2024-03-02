@@ -1,0 +1,1 @@
+a _ { n } = \sqrt { 1 \cdot 2 } + \sqrt { 2 \cdot 3 } + \cdots + \sqrt { n ( n + 1 ) } ( n = 1 , 2 , \cdots )

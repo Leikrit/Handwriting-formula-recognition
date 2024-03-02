@@ -1,0 +1,1 @@
+f \left( \frac { x } { 2 } \right) + f \left( \frac { 4 } { x } \right)

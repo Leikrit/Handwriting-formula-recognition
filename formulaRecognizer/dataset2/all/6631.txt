@@ -1,0 +1,1 @@
+\text { 若 } \left| a _ { n } \right| \leq s l a n t \left( \frac { 3 } { 2 } \right) ^ { n }

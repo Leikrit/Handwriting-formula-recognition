@@ -1,0 +1,1 @@
+| A B | = \left| \frac { 3 } { 2 \cos \theta + 1 } + \frac { 3 } { - 2 \cos \theta + 1 } \right| = \frac { 6 } { \left| 4 \cos ^ { 2 } \theta - 1 \right| } = 4

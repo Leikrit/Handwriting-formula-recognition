@@ -1,0 +1,1 @@
+= \left| \frac { c - a } { c + 2 a } \cdot \frac { a } { c } \right|

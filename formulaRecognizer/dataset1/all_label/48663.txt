@@ -1,0 +1,1 @@
+\frac { A D } { \sin C } = \frac { 4 \sqrt { 3 } } { \sin \frac { 2 \pi } { 3 } } = \frac { D C } { \sin \left( \frac { \pi } { 3 } - C \right) }

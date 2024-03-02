@@ -1,0 +1,1 @@
+\text { 则 } \overrightarrow { A D } \cdot ( \overrightarrow { A B } + \overrightarrow { D C } ) =

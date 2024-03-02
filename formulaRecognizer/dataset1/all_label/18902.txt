@@ -1,0 +1,1 @@
+X \sim B \left( n , \frac { 1 } { n } \right) , P ( X = n ) = \frac { 1 } { 2 7 }

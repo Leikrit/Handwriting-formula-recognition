@@ -1,0 +1,1 @@
+\text { 若 点 } C \text { 满 足 } \overrightarrow { O C } = \lambda _ { 1 } \overrightarrow { O A } + \lambda _ { 2 } \overrightarrow { O B } \text { ( } O \text { 为 原 点 ) }

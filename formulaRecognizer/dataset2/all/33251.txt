@@ -1,0 +1,1 @@
+B = \{ ( x , y ) \mid x \in A , y \in A , x - y \in A \}

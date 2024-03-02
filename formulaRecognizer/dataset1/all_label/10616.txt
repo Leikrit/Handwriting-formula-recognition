@@ -1,0 +1,1 @@
+E \left( X ^ { 2 } \right) = 0 \times \frac { 1 } { 4 } + ( 1 - a ) ^ { 2 } \cdot b + ( 1 + a ) ^ { 2 } \cdot c + 4 \times \frac { 1 } { 4 }

@@ -1,0 +1,1 @@
+\left( a + \frac { 1 } { a } \right) \cdot \left( b + \frac { 1 } { b } \right) \geqslant \frac { 2 5 } { 4 }

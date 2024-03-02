@@ -1,0 +1,1 @@
+\text { 该 方 程 的 判 别 式 } \Delta = 0 \text { , 因 此 除 } H \text { 外 , 直 线 } M H \text { 与 } C \text { 没 有 其 他 公 共 点 }

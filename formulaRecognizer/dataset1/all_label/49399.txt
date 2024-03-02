@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { \frac { 1 - q ^ { n } } { 1 - q } } { q ^ { n } } = \lim _ { n \rightarrow \infty } \frac { 1 - q ^ { n } } { ( 1 - q ) q ^ { n } } = \lim _ { n \rightarrow \infty } \frac { \frac { 1 } { q ^ { n } } - 1 } { 1 - q } = \frac { 1 } { q - 1 } = \frac { 1 } { 2 }

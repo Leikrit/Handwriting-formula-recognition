@@ -1,0 +1,1 @@
+\left. 2 k \pi + \frac { 2 } { 3 } \pi \leq s l a n t \alpha \leq s l a n t 2 k \pi + \frac { 4 } { 3 } \pi , k \in \mathbf { Z } \right\}

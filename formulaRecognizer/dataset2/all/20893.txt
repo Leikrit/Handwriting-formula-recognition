@@ -1,0 +1,1 @@
+\left. y _ { 1 } \right) , \left( x _ { 2 } , y _ { 2 } \right) , 0 < x _ { 1 } < x _ { 2 }

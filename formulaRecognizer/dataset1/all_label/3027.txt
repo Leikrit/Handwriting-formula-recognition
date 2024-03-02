@@ -1,0 +1,1 @@
+\left( k _ { 1 } t + y _ { 0 } \right) ^ { 2 } = 4 \left( t + x _ { 0 } \right)

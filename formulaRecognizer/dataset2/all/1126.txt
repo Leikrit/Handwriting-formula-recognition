@@ -1,0 +1,1 @@
+( \overrightarrow { O B } - \overrightarrow { O C } ) \cdot ( \overrightarrow { O B } + \overrightarrow { O C } - 2 \overrightarrow { O A } ) = 0

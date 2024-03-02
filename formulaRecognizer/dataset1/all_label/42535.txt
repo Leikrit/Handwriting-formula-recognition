@@ -1,0 +1,1 @@
+m = \log _ { a } \left( \log _ { a } b \right)

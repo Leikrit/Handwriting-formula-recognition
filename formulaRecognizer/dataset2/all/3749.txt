@@ -1,0 +1,1 @@
+\text { 已 知 } \tan \theta + \frac { 1 } { \tan \theta } = 4

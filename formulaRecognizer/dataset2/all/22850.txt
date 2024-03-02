@@ -1,0 +1,1 @@
+\text { 方 程 可 变 为 } x \left( \frac { 1 } { 3 } x ^ { 2 } + a x + 1 \right) = 0

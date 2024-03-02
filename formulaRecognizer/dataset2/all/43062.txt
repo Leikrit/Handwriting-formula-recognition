@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) \text { 在 区 间 } \left( - 1 , \frac { \pi } { 2 } \right) \text { 内 存 在 唯 一 极 大 值 点 }

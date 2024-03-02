@@ -1,0 +1,1 @@
+l : y = \frac { \sqrt { 3 } } { b } x \text { 对 称 的 直 线 } l _ { 2 } \text { 平 行 于 } y \text { 轴 }

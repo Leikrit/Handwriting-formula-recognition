@@ -1,0 +1,1 @@
+\text { 已 知 直 线 } y = a \text { 交 抛 物 线 } y = x ^ { 2 } \text { 于 } A , B \text { 两 点 }

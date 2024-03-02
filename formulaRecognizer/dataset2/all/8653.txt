@@ -1,0 +1,1 @@
+r \overrightarrow { A B } + s \overrightarrow { A D }

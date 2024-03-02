@@ -1,0 +1,1 @@
+\text { 故 } f \left( x _ { 0 } \right) > a x _ { 0 } + 1

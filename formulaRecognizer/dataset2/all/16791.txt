@@ -1,0 +1,1 @@
+\text { 足 } x f ^ { \prime } ( x ) - f ( x ) = x \ln x

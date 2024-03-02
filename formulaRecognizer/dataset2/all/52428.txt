@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ \frac { a _ { n } - 2 5 } { b _ { n } } \right\} \text { 的 最 大 项 是 第 }

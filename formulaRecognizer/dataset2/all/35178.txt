@@ -1,0 +1,1 @@
+\text { 样 本 数 据 } \left( x _ { i } , y _ { i } \right) ( i = 1 , 2 , 3 , \cdots , n )

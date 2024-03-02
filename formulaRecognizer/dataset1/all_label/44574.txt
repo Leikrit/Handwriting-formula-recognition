@@ -1,0 +1,1 @@
+a _ { k + 1 } = \frac { \sqrt { 1 + a _ { k } ^ { 2 } } - 1 } { a _ { k } } = \frac { \sqrt { 1 + \tan ^ { 2 } \frac { \pi } { 2 ^ { k + 1 } } } - 1 } { \tan \frac { \pi } { 2 ^ { k + 1 } } } = \frac { 1 - \cos \frac { \pi } { 2 ^ { k + 1 } } } { \sin \frac { \pi } { 2 ^ { k + 1 } } } = \tan \frac { \pi } { 2 ^ { k + 2 } }

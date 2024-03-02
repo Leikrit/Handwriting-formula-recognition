@@ -1,0 +1,1 @@
+P F _ { 1 } \perp F _ { 1 } F _ { 2 } , \left| P F _ { 1 } \right| = \frac { 4 } { 3 } , \left| P F _ { 2 } \right| = \frac { 1 4 } { 3 }

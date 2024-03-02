@@ -1,0 +1,1 @@
+\beta \text { 为 } f ( x ) = \cos \left( 2 x + \frac { \pi } { 8 } \right) \text { 的 最 小 正 周 }

@@ -1,0 +1,1 @@
+\overrightarrow { C D } = \frac { 1 } { 3 } \overrightarrow { C A } + \lambda \overrightarrow { C B }

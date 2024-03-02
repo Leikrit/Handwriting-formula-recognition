@@ -1,0 +1,1 @@
+| \overrightarrow { A B } | = \lambda | \overrightarrow { A C } |

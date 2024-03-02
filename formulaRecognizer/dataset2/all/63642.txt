@@ -1,0 +1,1 @@
+2 a + b \geqslant 6 + 4 \sqrt { 2 }

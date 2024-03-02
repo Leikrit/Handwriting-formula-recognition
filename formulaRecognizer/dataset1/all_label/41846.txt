@@ -1,0 +1,1 @@
+\frac { a } { 1 + \mathrm { i } } + \frac { 1 + \mathrm { i } } { 2 }

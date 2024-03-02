@@ -1,0 +1,1 @@
+\cos \left( \frac { \pi } { 4 } + \alpha \right) = \frac { 1 } { 3 }

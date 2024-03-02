@@ -1,0 +1,1 @@
+y = \left( \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } \right) \sin | 2 x |

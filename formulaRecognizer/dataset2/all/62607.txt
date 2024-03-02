@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \cos x \left( 1 + \frac { 2 } { 2 ^ { x } - 1 } \right) \text { 的 部 分 图 象 大 致 为 }

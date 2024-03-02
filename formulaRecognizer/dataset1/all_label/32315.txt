@@ -1,0 +1,1 @@
+\{ x \mid \mathrm { e } \leq s l a n t x < \pi \}

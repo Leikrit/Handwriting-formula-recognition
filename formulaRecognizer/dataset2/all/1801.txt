@@ -1,0 +1,1 @@
+\text { 是 } \forall x \in \mathbf { R }

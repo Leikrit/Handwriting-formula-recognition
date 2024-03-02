@@ -1,0 +1,1 @@
+y = m \text { 与 } y = g ( x ) \text { 在 } \left[ \frac { 1 } { 2 } , 2 \right] \text { 上 的 交 点 个 数 问 题 }

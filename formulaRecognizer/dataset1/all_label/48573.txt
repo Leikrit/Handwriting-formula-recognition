@@ -1,0 +1,1 @@
+\left\{ ( - 1 ) ^ { n } \frac { 4 n \cdot b _ { n } } { a _ { n + 1 } } \right\}

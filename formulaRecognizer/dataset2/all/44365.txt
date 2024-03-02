@@ -1,0 +1,1 @@
+\sqrt { a _ { n } } = n ^ { 2 } + 3 n \left( n \in \mathbf { N } ^ { * } \right)

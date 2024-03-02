@@ -1,0 +1,1 @@
+m \overrightarrow { O A } + n \overrightarrow { O B } ( m , n \in \mathbf { R } )

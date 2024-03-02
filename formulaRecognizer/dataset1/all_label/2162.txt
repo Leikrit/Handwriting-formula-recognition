@@ -1,0 +1,1 @@
+g ( x ) = f ( x ) + x \cos x - \sin x - x \ln x

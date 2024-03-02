@@ -1,0 +1,1 @@
+\left( x _ { 1 } + \lambda x _ { 2 } \right) \left( x _ { 1 } - \lambda x _ { 2 } \right) + 3 \left( y _ { 1 } + \lambda y _ { 2 } \right) \left( y _ { 1 } - \lambda y _ { 2 } \right) = 3 ( 1 + \lambda ) ( 1 - \lambda )

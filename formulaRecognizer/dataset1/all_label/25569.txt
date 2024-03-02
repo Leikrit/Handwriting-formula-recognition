@@ -1,0 +1,1 @@
+b ( \ln b - 2 ) = \mathrm { e } ^ { 3 \lambda - 1 }

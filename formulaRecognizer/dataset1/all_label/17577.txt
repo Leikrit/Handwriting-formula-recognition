@@ -1,0 +1,1 @@
+\sin C = \frac { c \cdot \sin A } { a } = \frac { 2 \sqrt { 2 } \times \frac { \sqrt { 1 4 } } { 4 } } { 4 } = \frac { \sqrt { 7 } } { 4 }

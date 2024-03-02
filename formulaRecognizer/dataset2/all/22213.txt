@@ -1,0 +1,1 @@
+\text { 求 函 数 } f ( x ) \text { 在 } \left[ - \frac { 7 \pi } { 2 4 } , \frac { 5 \pi } { 1 2 } \right] \text { 上 的 值 域 }

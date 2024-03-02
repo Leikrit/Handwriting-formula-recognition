@@ -1,0 +1,1 @@
+U = A \cup B = \{ 1 , 2 , 3 , 4 \} , A \cap \ c o m p l e m e n t _ { U } B = \{ 1 , 2 \}

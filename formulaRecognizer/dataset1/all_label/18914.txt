@@ -1,0 +1,1 @@
+g ( x ) > 0 \Leftrightarrow g ( x ) _ { \min } > 0

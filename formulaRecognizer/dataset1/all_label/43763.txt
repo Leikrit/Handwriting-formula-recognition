@@ -1,0 +1,1 @@
+a \sin A - b \sin B = \sqrt { 2 } c \sin B + c \sin C , \cos B \cos C = \frac { 3 \sqrt { 2 } } { 5 }

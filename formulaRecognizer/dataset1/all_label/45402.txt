@@ -1,0 +1,1 @@
+a \ln \frac { a } { 1 - a } + \frac { a ^ { 2 } } { 2 ( 1 - a ) } + \frac { a } { a - 1 } < \frac { a } { a - 1 } ,

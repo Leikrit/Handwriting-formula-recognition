@@ -1,0 +1,1 @@
+\text { 于 是 } A B \text { 的 中 点 坐 标 为 } M \left( 2 a ^ { 2 } + 2 b ^ { 2 } , 2 a + 2 b \right)

@@ -1,0 +1,1 @@
+= \frac { 1 } { ( n - 1 ) \mathrm { C } _ { m + n } ^ { n } } \cdot \left( \mathrm { C } _ { n - 2 } ^ { n - 2 } + \mathrm { C } _ { n - 1 } ^ { n - 2 } + \cdots + \mathrm { C } _ { m + n - 2 } ^ { n - 2 } \right)

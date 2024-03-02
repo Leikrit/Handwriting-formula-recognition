@@ -1,0 +1,1 @@
+\text { 求 曲 线 } y = f ( x ) \text { 在 点 } ( \pi , f ( \pi ) ) \text { 处 的 切 线 方 程 }

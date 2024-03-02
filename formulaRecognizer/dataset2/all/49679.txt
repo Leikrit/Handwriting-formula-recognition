@@ -1,0 +1,1 @@
+\text { 当 } f ( x ) = ( x > 0 ) \text { 时 , } M _ { f } ( a , b ) \text { 为 } a , b \text { 的 调 和 平 均 数 } \frac { 2 a b } { a + b }

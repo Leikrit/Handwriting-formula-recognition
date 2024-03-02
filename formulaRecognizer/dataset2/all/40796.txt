@@ -1,0 +1,1 @@
+\text { 曲 线 } y = g ( x ) \text { 在 点 } \left( x _ { 2 } , g \left( x _ { 2 } \right) \right) \text { 处 的 切 线 }

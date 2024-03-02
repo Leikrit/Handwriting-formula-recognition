@@ -1,0 +1,1 @@
+z _ { 2 } = - \frac { 1 } { 2 } - \frac { \sqrt { 3 } } { 2 } \mathrm { i }

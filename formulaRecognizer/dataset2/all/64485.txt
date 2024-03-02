@@ -1,0 +1,1 @@
+\text { 已 知 非 零 向 量 } \overrightarrow { A B } \text { 与 } \overrightarrow { A C } \text { 满 足 } \left( \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } \right) \cdot \overrightarrow { B C } = 0

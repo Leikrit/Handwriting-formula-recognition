@@ -1,0 +1,1 @@
+\text { 存 在 } k \in \mathbf { Z } \text { 使 得 } \varphi = \frac { k \pi } { 4 }

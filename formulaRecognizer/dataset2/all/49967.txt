@@ -1,0 +1,1 @@
+\frac { | M F | } { | N F | } \text { 恒 为 定 值 } \frac { 2 \sqrt { 3 } } { 3 }

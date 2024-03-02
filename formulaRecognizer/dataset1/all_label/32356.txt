@@ -1,0 +1,1 @@
+\frac { \ln ( t + 1 ) } { t } < \frac { \ln t } { t - 1 }

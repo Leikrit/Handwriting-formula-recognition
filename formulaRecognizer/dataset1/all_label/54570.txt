@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } } { 1 + \frac { 4 } { 3 } x ^ { 2 } }

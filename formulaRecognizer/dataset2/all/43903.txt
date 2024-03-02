@@ -1,0 +1,1 @@
+y = a \cdot x ^ { b } \text { 可 以 作 为 年 销 售 量 } y \text { ( 万 件 ) }

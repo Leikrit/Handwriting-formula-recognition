@@ -1,0 +1,1 @@
+a _ { n + 1 } < \frac { a _ { n } } { 5 \sqrt { a _ { n } } + 1 } \leq s l a n t \frac { a _ { n } } { \frac { 5 n + 7 } { 5 n - 3 } } = \frac { 5 n - 3 } { 5 n + 7 } a _ { n }

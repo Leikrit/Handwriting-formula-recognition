@@ -1,0 +1,1 @@
+\text { 足 } ( a + b ) ^ { 2 } - c ^ { 2 } = 4 \text { , 且 } C = 6 0 ^ { \circ } \text { , 则 } a b \text { 的 值 为 }

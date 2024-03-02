@@ -1,0 +1,1 @@
+\text { 求 } \frac { 3 \sin ^ { 2 } \frac { x } { 2 } - 2 \sin \frac { x } { 2 } \cos \frac { x } { 2 } + \cos ^ { 2 } \frac { x } { 2 } } { \tan x + \cot x } \text { 的 值 }

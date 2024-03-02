@@ -1,0 +1,1 @@
+\frac { x _ { n + 1 } } { x _ { n } } \geqslant \frac { 1 } { 2 } ,

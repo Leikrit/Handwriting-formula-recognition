@@ -1,0 +1,1 @@
+f : V \rightarrow \mathbf { R } \text { 满 足 : 对 任 意 向 量 } \boldsymbol { a } = \left( x _ { 1 } , y _ { 1 } \right) \in V

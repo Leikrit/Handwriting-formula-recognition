@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \frac { \mathrm { e } ^ { x } } { x ^ { 2 } } - k \left( \frac { 2 } { x } + \ln x \right) ( k \text { 为 }

@@ -1,0 +1,1 @@
+( m - n ) \left( \log _ { 2 } m - \log _ { 2 } n \right) > 0

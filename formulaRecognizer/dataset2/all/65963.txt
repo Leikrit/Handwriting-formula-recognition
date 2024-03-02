@@ -1,0 +1,1 @@
+\text { 使 } 3 S _ { 1 } = \lambda S _ { 2 } \text { 成 立 }

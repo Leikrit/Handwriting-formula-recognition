@@ -1,0 +1,1 @@
+D \left( m + \sqrt { 2 - m ^ { 2 } } , \frac { 1 } { 2 } \left( m - \sqrt { 2 - m ^ { 2 } } \right) \right)

@@ -1,0 +1,1 @@
+2 \boldsymbol { a } + \frac { 1 } { 2 } \boldsymbol { b } = \overrightarrow { A N }

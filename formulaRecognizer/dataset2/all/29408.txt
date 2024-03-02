@@ -1,0 +1,1 @@
+= \left( - 1 - \frac { k } { 4 } \times \frac { k } { 2 } + \frac { k ^ { 2 } } { 1 6 } \right) \left[ 1 + 4 \times ( - 1 ) + k \times \frac { k } { 2 } + \frac { k ^ { 2 } } { 4 } \right]

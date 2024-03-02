@@ -1,0 +1,1 @@
+P ( a , b ) \text { 落 在 直 线 } x + y = n \text { 上 ” 为 事 件 } C _ { n } ( 2 \leq s l a n t n \leq s l a n t 5 , n \in \mathbf { N } )

@@ -1,0 +1,1 @@
+\text { 已 知 } \sin \alpha = \frac { 1 } { 2 } , \alpha \in \left( 0 , \frac { \pi } { 2 } \right)

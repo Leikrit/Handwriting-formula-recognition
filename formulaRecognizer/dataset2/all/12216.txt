@@ -1,0 +1,1 @@
+\text { 并 判 断 } 2 \text { 是 否 为 数 列 的 } 4 \text { 阶 } \omega \text { 系 数 }

@@ -1,0 +1,1 @@
+\text { 作 仿 射 变 换 } x ^ { \prime } = x , y ^ { \prime } = 2 y

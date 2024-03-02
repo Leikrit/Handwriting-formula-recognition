@@ -1,0 +1,1 @@
+\text { 设 } ( 2 + \mathrm { i } ) ( 3 - x \mathrm { i } ) = 3 + ( y + 5 ) \mathrm { i } ( \mathrm { i } \text { 为 虚 数 单 位 } )

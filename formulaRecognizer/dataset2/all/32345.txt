@@ -1,0 +1,1 @@
+\text { 事 实 上 , 令 } h ( t ) = \mathrm { e } ^ { t } - \mathrm { e } \cdot t , t > 0 \text { , }

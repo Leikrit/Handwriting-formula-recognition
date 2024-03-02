@@ -1,0 +1,1 @@
+\text { 问 中 求 } f ( x ) \text { 解 析 式 的 本 质 是 求 } f ^ { \prime } ( 1 ) \text { 和 } f ( 0 )

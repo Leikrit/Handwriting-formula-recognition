@@ -1,0 +1,1 @@
+u = \frac { x + y } { x + 2 \sqrt { n x y } } \geqslant \frac { x + y } { ( 1 + n \lambda ) x + \frac { 1 } { \lambda } y }

@@ -1,0 +1,1 @@
+\text { 求 随 机 变 量 } \mathrm { X } \text { 的 分 布 }

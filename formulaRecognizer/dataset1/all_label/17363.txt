@@ -1,0 +1,1 @@
+E X = 0 \times \frac { 1 } { 6 4 } + 1 \times \frac { 9 } { 6 4 } + 2 \times \frac { 2 7 } { 6 4 } + 3 \times \frac { 2 7 } { 6 4 } = \frac { 9 } { 4 }

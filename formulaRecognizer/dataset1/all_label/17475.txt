@@ -1,0 +1,1 @@
+- 2 \sin ^ { 2 } x + \cos x + 1 , x \in ( - \pi , \pi )

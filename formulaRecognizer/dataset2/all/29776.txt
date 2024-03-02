@@ -1,0 +1,1 @@
+g ( x ) \text { 在 } ( 0 , + \infty ) \text { 上 单 调 递 增 }

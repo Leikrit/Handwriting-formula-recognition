@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \sqrt { \log _ { 2 } x - 1 } \text { 的 定 义 }

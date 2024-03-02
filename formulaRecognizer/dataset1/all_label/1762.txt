@@ -1,0 +1,1 @@
+C P = \frac { 1 } { 2 } C B , B Q = \frac { 1 } { 4 } B D , A R = \frac { 1 } { 2 } A B

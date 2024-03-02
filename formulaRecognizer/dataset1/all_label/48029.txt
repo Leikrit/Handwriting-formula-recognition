@@ -1,0 +1,1 @@
+\left( - \infty , - \frac { \sqrt { 3 } } { 2 } \right] \cup \left[ \frac { \sqrt { 3 } } { 2 } , + \infty \right)

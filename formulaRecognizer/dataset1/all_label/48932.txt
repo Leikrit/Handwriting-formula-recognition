@@ -1,0 +1,1 @@
+\text { 所 以 } | A B | = \sqrt { 1 + \left( \frac { 1 } { 2 } \right) ^ { 2 } } \left| x _ { 1 } - x _ { 2 } \right| = \frac { \sqrt { 5 } } { 2 } \sqrt { \left( x _ { 1 } + x _ { 2 } \right) ^ { 2 } - 4 x _ { 1 } x _ { 2 } } = \sqrt { 5 } \sqrt { 2 - m ^ { 2 } }

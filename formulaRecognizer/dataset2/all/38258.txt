@@ -1,0 +1,1 @@
+\text { 若 自 然 数 } \left. n _ { 1 } , n _ { 2 } , \cdots , n _ { t } , \cdots \text { ( } t \text { 为 正 整 数 } \right) \text { 满 足 } 5 < n _ { 1 } < n _ { 2 } < \cdots < n _ { t } < \cdots

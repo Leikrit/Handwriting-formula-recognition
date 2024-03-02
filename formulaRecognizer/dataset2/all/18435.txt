@@ -1,0 +1,1 @@
+\text { 用 数 学 归 纳 法 证 明 : } 1 \times 4 + 2 \times 7 + 3 \times 1 0 + \cdots +

@@ -1,0 +1,1 @@
+= \frac { ( \boldsymbol { a } + \boldsymbol { x } ) \cdot ( \boldsymbol { b } - \boldsymbol { x } ) } { 1 + m ^ { 2 } }

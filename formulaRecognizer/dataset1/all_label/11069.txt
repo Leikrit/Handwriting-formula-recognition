@@ -1,0 +1,1 @@
+x \sin 3 0 ^ { \circ } - y \cos 3 0 ^ { \circ } + 1 = 0

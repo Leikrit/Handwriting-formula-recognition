@@ -1,0 +1,1 @@
+\text { 且 满 足 } | F D | = \frac { 1 } { 2 } | O F | \text { ( } O \text { 为 坐 标 原 点 ) }

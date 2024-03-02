@@ -1,0 +1,1 @@
+| f ( x ) | \cdot [ g ( 2 x ) + \lambda ] = 3

@@ -1,0 +1,1 @@
+\text { 求 } \left( x _ { i } , i \right) ( i = 1 , 2 , \cdots , 1 6 ) \text { 的 相 关 系 数 } r

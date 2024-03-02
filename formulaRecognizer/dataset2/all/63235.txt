@@ -1,0 +1,1 @@
+\text { 于 是 } B D ^ { \prime } \text { 的 最 小 值 为 } \sqrt { B G ^ { 2 } + G H ^ { 2 } + H D ^ { \prime 2 } - 2 B G \cdot H D ^ { \prime } }

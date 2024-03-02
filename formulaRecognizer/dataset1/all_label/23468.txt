@@ -1,0 +1,1 @@
+\lambda = \sqrt { x } , \bar { \lambda } = \frac { 1 } { 6 } \sum _ { i = 1 } ^ { 6 } \lambda _ { i }

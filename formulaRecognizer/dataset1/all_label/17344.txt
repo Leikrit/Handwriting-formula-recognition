@@ -1,0 +1,1 @@
+\boldsymbol { n } = \left( \frac { 1 } { 2 } \cos \omega x , \frac { 1 } { 4 } \right)

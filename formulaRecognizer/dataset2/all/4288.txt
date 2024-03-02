@@ -1,0 +1,1 @@
+\text { 于 是 } 4 = \frac { x _ { 1 } - \lambda x _ { 2 } } { 1 - \lambda }

@@ -1,0 +1,1 @@
+\left\{ ( k n + b ) \cdot q ^ { n } \right\} ( k \neq 0 , q \neq 1 )

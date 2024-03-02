@@ -1,0 +1,1 @@
+f ( x ) = \frac { \cos x + a } { \sin x }

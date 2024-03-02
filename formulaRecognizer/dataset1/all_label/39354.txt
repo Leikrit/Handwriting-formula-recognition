@@ -1,0 +1,1 @@
+g ( 0 ) \cdot g ( a ) < 0 \Rightarrow ( a + b ) \left( - a ^ { 3 } + a + b \right) < 0 \Rightarrow [ b -

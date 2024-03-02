@@ -1,0 +1,1 @@
+\text { 则 } | \overrightarrow { P A } | \cdot | \overrightarrow { P D } | \leq s l a n t \left( \frac { | \overrightarrow { P A } | + | \overrightarrow { P D } | } { 2 } \right) ^ { 2 } = \left( \frac { \sqrt { 3 } } { 2 } \right) ^ { 2 } = \frac { 3 } { 4 }

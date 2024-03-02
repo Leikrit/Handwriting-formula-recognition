@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = a - 2 x + \left| 2 x ^ { 2 } - 2 x - a \right| ( a \in \mathbf { R } ) \text { 的 最 小 值 为 } 0

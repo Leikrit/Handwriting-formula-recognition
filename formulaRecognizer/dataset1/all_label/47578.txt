@@ -1,0 +1,1 @@
+( x + y ) \left( \frac { 1 } { x } + \frac { a } { y } \right) = 1 + a + \frac { y } { x } + \frac { a x } { y } \geqslant 1 + a + 2 \sqrt { a } = ( \sqrt { a } + 1 ) ^ { 2 } \Rightarrow ( \sqrt { a } + 1 ) ^ { 2 } \geqslant 9 \Rightarrow

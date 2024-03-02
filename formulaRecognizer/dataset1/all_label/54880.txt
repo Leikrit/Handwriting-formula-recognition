@@ -1,0 +1,1 @@
+| 2 \boldsymbol { b } | ^ { 2 } > | \boldsymbol { a } + 2 \boldsymbol { b } | ^ { 2 }

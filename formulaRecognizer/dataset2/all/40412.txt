@@ -1,0 +1,1 @@
+\text { 只 需 将 函 数 } g ( x ) = \sin 2 x \text { 的 图 象 向 右 平 移 } \frac { \pi } { 3 } \text { 个 单 位 即 可 得 到 函 数 } f ( x ) \text { 的 图 象 }

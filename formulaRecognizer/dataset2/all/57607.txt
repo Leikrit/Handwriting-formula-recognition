@@ -1,0 +1,1 @@
+\text { 样 本 数 据 } x _ { 1 } , x _ { 2 } , \cdots , x _ { n } \text { 的 样 本 方 差 } s ^ { 2 } = \frac { 1 } { n } \left[ \left( x _ { 1 } - \right. \right.

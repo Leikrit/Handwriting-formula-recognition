@@ -1,0 +1,1 @@
+\left( 9 k ^ { 2 } + 4 \right) x ^ { 2 } + 1 8 \left( y _ { 0 } - k x _ { 0 } \right) k x + 9 \left( y _ { 0 } - k x _ { 0 } \right) ^ { 2 } - 3 6 = 0 ,

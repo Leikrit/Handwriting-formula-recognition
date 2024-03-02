@@ -1,0 +1,1 @@
+\text { 比 较 } \frac { f ( a ) + f ( b ) } { 2 } \text { 与 } \frac { f ( b ) - f ( a ) } { b - a } \text { 的 }

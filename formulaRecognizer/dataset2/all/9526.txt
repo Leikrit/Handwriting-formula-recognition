@@ -1,0 +1,1 @@
+\text { 已 知 } p \text { : 方 程 } \frac { x ^ { 2 } } { 5 + k } + \frac { y ^ { 2 } } { 3 - k } = 1 \text { 表 示 椭 圆 }

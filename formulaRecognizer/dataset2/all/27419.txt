@@ -1,0 +1,1 @@
+\text { 设 } b _ { n } = ( - 1 ) ^ { n } \left( S _ { n } + 2 n \right)

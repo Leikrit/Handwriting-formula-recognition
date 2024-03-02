@@ -1,0 +1,1 @@
+\overrightarrow { O P } \cdot \overrightarrow { O Q } = \frac { 1 } { 2 } b ^ { 2 }

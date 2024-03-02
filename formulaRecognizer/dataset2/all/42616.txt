@@ -1,0 +1,1 @@
+\text { 求 } \sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \cdots } } } \text { 的 值 时 }

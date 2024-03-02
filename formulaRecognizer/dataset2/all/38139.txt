@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot \overrightarrow { A C } = 6 \overrightarrow { A O } \cdot \overrightarrow { E C } \Leftrightarrow \overrightarrow { A B } \cdot \overrightarrow { A C } = 6 \cdot \frac { \overrightarrow { A B } + \overrightarrow { A C } } { 4 } \cdot \left( \overrightarrow { A C } - \frac { 1 } { 3 } \overrightarrow { A B } \right)

@@ -1,0 +1,1 @@
+X = \left| 1 - a _ { 1 } \right| + \left| 2 - a _ { 2 } \right| + \left| 3 - a _ { 3 } \right| + \left| 4 - a _ { 4 } \right|

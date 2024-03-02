@@ -1,0 +1,1 @@
+f ( x ) = \frac { b } { x - a } ( a , b \in \mathbf { R } \text { , 且 } a b \neq 0 )

@@ -1,0 +1,1 @@
+A = \left\{ x \mid x = x _ { 1 } + x _ { 2 } q + \cdots + x _ { n } q ^ { n - 1 } \right.

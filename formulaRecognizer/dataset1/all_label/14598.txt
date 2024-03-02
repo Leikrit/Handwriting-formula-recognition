@@ -1,0 +1,1 @@
+y = \sin ( 2 x + \varphi ) \left( - \frac { \pi } { 2 } < \varphi < \frac { \pi } { 2 } \right)

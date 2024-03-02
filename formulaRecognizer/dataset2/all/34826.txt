@@ -1,0 +1,1 @@
+g _ { 2 } ( x ) = \frac { \frac { x } { 1 + x } } { 1 + \frac { x } { 1 + x } } = \frac { x } { 1 + 2 x }

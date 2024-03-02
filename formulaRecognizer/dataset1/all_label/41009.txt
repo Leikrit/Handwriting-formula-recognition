@@ -1,0 +1,1 @@
+g ( x ) - f ( x ) = x ^ { n } - n ^ { 2 } x + \left( n ^ { 2 } - n \right) \cdot n ^ { \frac { 1 } { n - 1 } }

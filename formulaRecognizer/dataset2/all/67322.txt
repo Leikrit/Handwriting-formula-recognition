@@ -1,0 +1,1 @@
+\text { 已 知 } a = \frac { 1 + \tan 1 6 ^ { \circ } } { 1 - \tan 1 6 ^ { \circ } } , b = \cos 3 3 0 ^ { \circ }

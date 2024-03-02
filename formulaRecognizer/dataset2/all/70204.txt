@@ -1,0 +1,1 @@
+\text { 二 项 式 } \left( 3 x - \frac { \sqrt { x } } { 2 } \right) ^ { 5 } \text { 展 开 式 中 }

@@ -1,0 +1,1 @@
+\forall n \in \mathbf { N } , 2 ^ { n } > 2

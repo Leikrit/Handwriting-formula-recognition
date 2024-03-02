@@ -1,0 +1,1 @@
+\text { 设 点 } A _ { n } \left( x _ { n } , 0 \right) , P _ { n } \left( x _ { n } , 2 ^ { n - 1 } \right) \text { 和 抛 物 线 } C _ { n } : y = x ^ { 2 } + a _ { n } x + b _ { n }

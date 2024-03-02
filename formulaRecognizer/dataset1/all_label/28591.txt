@@ -1,0 +1,1 @@
+a = \mathrm { C } _ { 5 } ^ { 0 } \cos ^ { 5 } \theta - \mathrm { C } _ { 5 } ^ { 2 } \cos ^ { 3 } \theta \sin ^ { 2 } \theta + \mathrm { C } _ { 5 } ^ { 4 } \cos \theta \sin ^ { 4 } \theta , b = \mathrm { C } _ { 5 } ^ { 1 } \cos ^ { 4 } \theta \sin \theta - \mathrm { C } _ { 5 } ^ { 3 } \cos ^ { 2 } \theta \sin ^ { 3 } \theta + \mathrm { C } _ { 5 } ^ { 5 } \sin ^ { 5 } \theta

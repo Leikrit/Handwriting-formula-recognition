@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sqrt { 2 } \sin 2 x \cos 2 x \text { 是 }

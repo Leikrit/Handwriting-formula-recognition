@@ -1,0 +1,1 @@
+\cos \frac { A } { 2 } ( \sin 2 B + \sin 2 C ) - \sin \frac { A } { 2 }

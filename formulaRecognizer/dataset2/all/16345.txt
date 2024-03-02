@@ -1,0 +1,1 @@
+A \ n s u b s e t e q B \Leftrightarrow \text { 对 任 意 } x \in A

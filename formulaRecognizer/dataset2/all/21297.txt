@@ -1,0 +1,1 @@
+\text { 则 } \left( \hat { P } \cap \ c o m p l e m e n t _ { \mathrm { N } } \hat { Q } \right) \cup \left( \hat { Q } \cap \ c o m p l e m e n t _ { \mathrm { N } } \hat { P } \right) =

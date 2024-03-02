@@ -1,0 +1,1 @@
+f ( x ) = 2 ^ { x } \left| \log _ { 0 . 5 } x \right| - 1

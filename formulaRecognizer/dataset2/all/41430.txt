@@ -1,0 +1,1 @@
+\tan ( \alpha + \pi ) + \frac { \sin \left( \frac { 5 } { 2 } x + \alpha \right) } { \cos \left( \frac { 5 } { 2 } x - \alpha \right) }

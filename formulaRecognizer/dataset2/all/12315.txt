@@ -1,0 +1,1 @@
+\text { 求 证 : 对 任 意 正 整 数 } n \geqslant 2

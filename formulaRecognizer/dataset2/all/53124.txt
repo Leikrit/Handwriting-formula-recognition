@@ -1,0 +1,1 @@
+\text { 从 } x , y \in [ 0 , 1 ] \text { 上 随 机 抽 取 } 2 0 0 \text { 个 实 数 对 } ( x \text { , }

@@ -1,0 +1,1 @@
+\text { 在 } \left( 0 , \frac { 1 } { \mathrm { e } } \right) \text { 上 单 调 递 增 , 在 } \left( \frac { 1 } { \mathrm { e } } , 5 \right) \text { 上 单 调 递 减 }

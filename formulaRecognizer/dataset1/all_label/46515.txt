@@ -1,0 +1,1 @@
+\left\{ c _ { k } \right\} , k \in \mathbf { N } ^ { * }

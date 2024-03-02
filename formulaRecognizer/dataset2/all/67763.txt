@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = a \tan \frac { x } { a } \text { 的 最 小 正 周 期 是 }

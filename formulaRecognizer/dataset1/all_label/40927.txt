@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { x } = \frac { n ( n - 1 ) \cdots ( n - [ x ] + 1 ) } { x ( x - 1 ) \cdots ( x - [ x ] + 1 ) }

@@ -1,0 +1,1 @@
+\text { 设 直 线 } B C \text { 方 程 } l _ { B C } : x = \frac { x _ { 1 } + 2 } { y _ { 1 } } y - 2

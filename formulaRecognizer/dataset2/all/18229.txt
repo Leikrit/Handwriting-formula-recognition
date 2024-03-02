@@ -1,0 +1,1 @@
+\text { 则 点 } \left( x _ { 1 } , y _ { 1 } \right) \text { 与 点 } \left( x _ { m } , y _ { m } \right)

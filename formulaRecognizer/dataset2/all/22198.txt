@@ -1,0 +1,1 @@
+\text { 这 表 明 点 } A , B \text { 都 在 直 线 } \frac { x _ { 0 } } { 4 } x - y _ { 0 } y = 1 \text { 上 }

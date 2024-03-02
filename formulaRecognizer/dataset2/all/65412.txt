@@ -1,0 +1,1 @@
+\text { 区 间 } \left[ 0 , \frac { \pi } { 2 } \right]

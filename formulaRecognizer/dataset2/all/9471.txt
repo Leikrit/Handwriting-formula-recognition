@@ -1,0 +1,1 @@
+P _ { 1 } , P _ { 2 } , P _ { 3 } \text { 和 } P _ { 4 } \text { 归 为 第 } \mathrm { I } \text { 组 点 }

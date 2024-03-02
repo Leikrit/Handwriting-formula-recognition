@@ -1,0 +1,1 @@
+\text { 从 “ ( 1 ) } S _ { n } = n \left( n + \frac { a _ { 1 } } { 2 } \right)

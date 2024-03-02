@@ -1,0 +1,1 @@
+\text { 则 } b c \cos A + c a \cos B + a b \cos C \text { 的 值 }

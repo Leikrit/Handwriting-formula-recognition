@@ -1,0 +1,1 @@
+\text { 有 } \mathrm { e } ^ { x } f ( x ) = \left( \frac { \mathrm { e } } { 3 } \right) ^ { x } \text { 在 } \mathbf { R } \text { 上 单 调 递 减 }

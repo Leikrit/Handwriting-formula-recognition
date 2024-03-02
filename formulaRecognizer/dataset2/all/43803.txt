@@ -1,0 +1,1 @@
+\text { 点 } F _ { 2 } \text { 到 右 准 线 } l \text { 的 距 离 为 } \sqrt { 2 }

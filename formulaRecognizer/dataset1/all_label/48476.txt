@@ -1,0 +1,1 @@
+1 , \overrightarrow { A B } = \boldsymbol { a } , \overrightarrow { B C } = \boldsymbol { b } , \overrightarrow { A C } = \boldsymbol { c }

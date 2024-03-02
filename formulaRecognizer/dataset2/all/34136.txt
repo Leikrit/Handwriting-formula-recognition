@@ -1,0 +1,1 @@
+\text { 得 } y = g ( x ) \text { 在 区 间 } ( - \infty , 0 ) \text { 内 单 调 递 减 }

@@ -1,0 +1,1 @@
+\mathrm { e } ^ { 2 } ( n \geqslant 1 )

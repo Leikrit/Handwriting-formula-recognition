@@ -1,0 +1,1 @@
+\text { 故 } | \overrightarrow { P A } + 3 \overrightarrow { P B } | _ { \min } = 5

@@ -1,0 +1,1 @@
+\hat { \alpha } + \hat { \beta } u

@@ -1,0 +1,1 @@
+\cos \frac { x } { 2 } \cdot \cos \frac { x } { 2 ^ { 2 } } \cdot \cos \frac { x } { 2 ^ { 3 } } \cdot \cdots \cdot \cos \frac { x } { 2 ^ { n } } = \frac { \sin x } { 2 ^ { n } \sin \frac { x } { 2 ^ { n } } }

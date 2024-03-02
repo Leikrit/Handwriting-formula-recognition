@@ -1,0 +1,1 @@
+\text { 且 在 区 间 } \left[ - \frac { 1 } { 4 } , \frac { 1 } { 4 } \right] \text { 上 单 调 递 增 }

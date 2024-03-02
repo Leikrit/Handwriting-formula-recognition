@@ -1,0 +1,1 @@
+x _ { 1 } x _ { 2 } = \left( m y _ { 1 } - c \right) \left( m y _ { 2 } - c \right) = m ^ { 2 } y _ { 1 } y _ { 2 } - c m \left( y _ { 1 } + \right.

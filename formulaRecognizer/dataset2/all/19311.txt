@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = x ^ { 3 } \left( \frac { 1 } { 2 ^ { x } - 1 } + a \right) \text { 为 偶 函 数 }

@@ -1,0 +1,1 @@
+\overrightarrow { C F } = \frac { 1 } { 6 } \overrightarrow { A B } - \frac { 2 } { 3 } \overrightarrow { A D }

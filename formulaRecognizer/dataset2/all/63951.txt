@@ -1,0 +1,1 @@
+\text { 则 } f ^ { \prime } ( x ) = - \frac { 2 x } { \left( 1 + x ^ { 2 } \right) ^ { 2 } }

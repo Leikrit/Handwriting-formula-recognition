@@ -1,0 +1,1 @@
+\frac { \sin C \cos C } { c } = \frac { \sin B } { 6 }

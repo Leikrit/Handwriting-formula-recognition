@@ -1,0 +1,1 @@
+\text { 则 称 } y = f ( x ) \text { 具 有 } \mathrm { T } \text { 性 质 }

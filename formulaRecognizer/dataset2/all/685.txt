@@ -1,0 +1,1 @@
+\text { 当 } p , q \text { 都 为 正 数 且 } p + q = 1 \text { 时 }

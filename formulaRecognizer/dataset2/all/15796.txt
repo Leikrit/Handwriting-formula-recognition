@@ -1,0 +1,1 @@
+| \overrightarrow { O C } | = \sqrt { ( 3 m + n ) ^ { 2 } + ( m - 3 n ) ^ { 2 } } = \sqrt { 1 0 } \sqrt { m ^ { 2 } + n ^ { 2 } }

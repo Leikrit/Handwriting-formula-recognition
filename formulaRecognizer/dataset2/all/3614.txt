@@ -1,0 +1,1 @@
+Q _ { 2 } = f _ { \beta } \left[ f _ { \gamma } ( P ) \right]

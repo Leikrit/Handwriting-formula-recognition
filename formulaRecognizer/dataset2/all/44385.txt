@@ -1,0 +1,1 @@
+\text { 当 且 仅 当 } \alpha = \frac { 3 \pi } { 4 } \text { 时 等 号 成 立 }

@@ -1,0 +1,1 @@
+\text { 已 知 全 集 } U = A \cup B \text { 中 有 } m \text { 个 元 素 }

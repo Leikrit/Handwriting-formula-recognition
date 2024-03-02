@@ -1,0 +1,1 @@
+\text { 使 得 } a _ { 2 n } < c < a _ { 2 n + 1 } \text { 对 所 有 } n \in \mathbf { N } ^ { * } \text { 成 立 }

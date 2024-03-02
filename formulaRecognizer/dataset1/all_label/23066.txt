@@ -1,0 +1,1 @@
+2 \sin \alpha ( 2 - \sin \alpha ) = 1 - 2 \sin ^ { 2 } \alpha

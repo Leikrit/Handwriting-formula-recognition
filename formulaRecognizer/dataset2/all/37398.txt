@@ -1,0 +1,1 @@
+f ^ { \prime } \left( \frac { 1 } { 2 } \right) < g ^ { \prime } \left( \frac { 1 } { 2 } \right)

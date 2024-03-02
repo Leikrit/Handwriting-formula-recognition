@@ -1,0 +1,1 @@
+\left[ - \frac { 2 \pi } { 3 } , - \frac { \pi } { 6 } \right]

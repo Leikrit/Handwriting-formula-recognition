@@ -1,0 +1,1 @@
+\text { 我 们 把 由 半 椭 圆 } \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( x \geqslant 0 ) \text { 与 半 椭 圆 } \frac { y ^ { 2 } } { b ^ { 2 } } + \frac { x ^ { 2 } } { c ^ { 2 } } = 1

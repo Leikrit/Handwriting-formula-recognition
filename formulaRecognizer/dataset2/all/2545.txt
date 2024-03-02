@@ -1,0 +1,1 @@
+N \left( 4 n , - 4 n ^ { 2 } \right)

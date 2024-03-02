@@ -1,0 +1,1 @@
+y = \frac { \sin 2 x } { 1 - \cos x }

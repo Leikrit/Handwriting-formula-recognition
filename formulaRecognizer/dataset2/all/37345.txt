@@ -1,0 +1,1 @@
+f \left( f \left( x _ { 0 } \right) \right) = x _ { 0 }

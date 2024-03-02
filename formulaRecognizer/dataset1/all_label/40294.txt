@@ -1,0 +1,1 @@
+\frac { 1 } { a } + \frac { 2 } { b } = \sqrt { a b }

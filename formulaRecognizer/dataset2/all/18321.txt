@@ -1,0 +1,1 @@
+\text { 在 计 算 和 式 } T _ { n } \text { 时 可 以 利 用 数 列 } \left\{ b _ { n } \right\} \text { 进 行 中 转 }

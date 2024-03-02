@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { a ^ { f ( n ) } } { a ^ { n } + a }

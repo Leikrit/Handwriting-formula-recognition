@@ -1,0 +1,1 @@
+P ( A B C ) = P ( A ) P ( B ) P ( C )

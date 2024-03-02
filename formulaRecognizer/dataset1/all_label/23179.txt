@@ -1,0 +1,1 @@
+\varphi ( x ) _ { \max } = \varphi ( \mathrm { e } ) = \frac { 2 } { \mathrm { e } }

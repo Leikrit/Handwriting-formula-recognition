@@ -1,0 +1,1 @@
+\overrightarrow { B F } = - \frac { 2 } { 3 } \overrightarrow { A B } + \frac { 1 } { 3 } \overrightarrow { A D }

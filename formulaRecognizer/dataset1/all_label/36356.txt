@@ -1,0 +1,1 @@
+1 , F ( n ) = F ( n - 1 ) + F ( n - 2 ) \left( n \geqslant 3 , n \in \mathbf { N } ^ { * } \right)

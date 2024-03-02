@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \lambda \overrightarrow { P C } , \overrightarrow { B P } = \lambda \overrightarrow { P D }

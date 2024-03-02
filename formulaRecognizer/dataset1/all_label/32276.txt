@@ -1,0 +1,1 @@
+\ e x i s t s \lambda \in \mathbf { R } , \boldsymbol { b } = \lambda \boldsymbol { a }

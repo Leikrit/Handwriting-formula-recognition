@@ -1,0 +1,1 @@
+\text { 则 } a _ { n } + a _ { n - 1 } = 3 ^ { n - 1 } ( n \geqslant 2 )

@@ -1,0 +1,1 @@
+\text { 且 有 } f ( 0 ) = 0 , x _ { n } = f \left( x _ { n } + 1 \right)

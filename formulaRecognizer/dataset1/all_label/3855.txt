@@ -1,0 +1,1 @@
+f ( k ) \geqslant k ^ { 2 }

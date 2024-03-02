@@ -1,0 +1,1 @@
+\text { 面 积 } S = \frac { 1 } { 2 } \left( \frac { x _ { 0 } } { y _ { 0 } + 1 } + 2 \right) \left( \frac { 2 y _ { 0 } } { x _ { 0 } + 2 } + 1 \right)

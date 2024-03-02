@@ -1,0 +1,1 @@
+( x + t ) ^ { 2 } \geqslant 2 x ^ { 2 } \Rightarrow x ^ { 2 } - 2 t x - t ^ { 2 } \leq s l a n t 0

@@ -1,0 +1,1 @@
+\text { 整 数 } k \geqslant \frac { a _ { 1 } - b } { a _ { 1 } \ln b } \text { . 证 明 : } a _ { k + 1 } > b \text { . }

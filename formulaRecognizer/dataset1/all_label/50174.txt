@@ -1,0 +1,1 @@
+\beta = \left( y _ { 1 } , y _ { 2 } , y _ { 3 } \right)

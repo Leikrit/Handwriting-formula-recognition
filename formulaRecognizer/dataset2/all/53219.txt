@@ -1,0 +1,1 @@
+0 ) \text { 的 焦 点 } F \text { 的 弦 } A B \text { 满 足 } | A F | + | B F | = \frac { 2 } { p } | A F | \text { . }

@@ -1,0 +1,1 @@
+\text { 比 较 } \frac { 1 } { 2 } \log _ { a } t \text { 与 } \log _ { a } \frac { t + 1 } { 2 } \text { 的 大 小 }

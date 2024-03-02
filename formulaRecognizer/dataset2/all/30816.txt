@@ -1,0 +1,1 @@
+\text { 则 不 等 式 } \mathrm { e } ^ { x } f ( x ) > \mathrm { e } ^ { x } - 1 \text { 的 解 集 为 }

@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ x _ { n } \right\} \text { 满 足 } x _ { 1 } = p

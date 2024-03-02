@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \log _ { a } x \text { 在 区 间 } [ a , 2 a ] \text { 上 的 最 大 值 }

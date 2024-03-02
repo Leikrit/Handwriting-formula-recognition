@@ -1,0 +1,1 @@
+g ( x ) = \left( 1 - \mathrm { e } ^ { a } \right) x - a

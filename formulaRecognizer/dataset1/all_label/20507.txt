@@ -1,0 +1,1 @@
+\left( 1 - \mathrm { e } ^ { f ( x ) } \right) \left( x ^ { 2 } - m + 1 \right)

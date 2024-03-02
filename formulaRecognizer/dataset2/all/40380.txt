@@ -1,0 +1,1 @@
+\text { 第 四 个 音 的 频 率 是 } 2 ^ { \frac { 3 } { 1 2 } } F , \cdots \cdots

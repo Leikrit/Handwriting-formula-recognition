@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin ( \omega x + \varphi ) \left( 0 < \omega < 5 , | \varphi | < \frac { \pi } { 2 } \right)

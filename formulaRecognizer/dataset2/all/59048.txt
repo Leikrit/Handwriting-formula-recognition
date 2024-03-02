@@ -1,0 +1,1 @@
+= \sin \left( 2 x + \frac { \pi } { 3 } \right) \text { 取 得 最 大 值 }

@@ -1,0 +1,1 @@
+f ( x ) = 2 \cos ( \omega x + \varphi ) ( \omega > 0 , 0 \leq s l a n t \varphi \leq s l a n t

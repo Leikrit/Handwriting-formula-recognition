@@ -1,0 +1,1 @@
+l : \frac { 2 x } { 2 b + a } + \frac { y } { a + b } = 1

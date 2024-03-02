@@ -1,0 +1,1 @@
+= \frac { a ^ { 4 } - c ^ { 4 } + b ^ { 2 } m ^ { 2 } \left( a ^ { 2 } + c ^ { 2 } \right) } { a \left( a ^ { 2 } - c ^ { 2 } + b ^ { 2 } m ^ { 2 } \right) } = \frac { a ^ { 2 } + c ^ { 2 } } { a }

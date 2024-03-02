@@ -1,0 +1,1 @@
+\frac { | E P | } { | P M | } = \frac { \left| y _ { 0 } \right| } { | m | } = 3

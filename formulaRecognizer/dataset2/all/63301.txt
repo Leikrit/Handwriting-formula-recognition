@@ -1,0 +1,1 @@
+\text { 如 果 } U = \{ x \mid x \text { 是 小 于 } 9 \text { 的 正 整 数 } \}

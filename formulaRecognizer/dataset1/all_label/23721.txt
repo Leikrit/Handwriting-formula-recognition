@@ -1,0 +1,1 @@
+\left( - \alpha - \frac { 4 } { 3 } \pi \right) + \left( \alpha + \frac { \pi } { 3 } \right) = - \pi

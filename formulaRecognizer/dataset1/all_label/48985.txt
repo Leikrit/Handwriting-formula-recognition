@@ -1,0 +1,1 @@
+\left. \left[ x ^ { 2 } + ( 4 a - 3 ) x + 3 a \right] \right| _ { x = 0 } \geqslant \left. \left[ \log _ { a } ( x + 1 ) + 1 \right] \right| _ { x = 0 }

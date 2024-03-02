@@ -1,0 +1,1 @@
+\text { 记 } P = \{ n \in \mathbf { N } \mid f ( n ) \in P \}

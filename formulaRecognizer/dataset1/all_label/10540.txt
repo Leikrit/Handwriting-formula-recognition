@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) \geqslant 0 \left( f ^ { \prime } ( x ) \leq s l a n t 0 \right)

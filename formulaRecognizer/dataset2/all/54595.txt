@@ -1,0 +1,1 @@
+f \left( \log _ { 3 } \frac { 1 } { 4 } \right) > f \left( 2 ^ { - \frac { 3 } { 2 } } \right) > f \left( 2 ^ { - \frac { 2 } { 3 } } \right)

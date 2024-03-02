@@ -1,0 +1,1 @@
+\text { 已 知 定 义 在 } \mathbf { R } \text { 上 的 奇 函 数 } f ( x ) \text { 的 图 象 关 于 直 线 } x = 1 \text { 对 称 }

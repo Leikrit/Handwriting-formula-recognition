@@ -1,0 +1,1 @@
+\sin \frac { \pi m } { 2 } - \sin \frac { \pi n } { 2 } < n ^ { 3 } - m ^ { 3 }

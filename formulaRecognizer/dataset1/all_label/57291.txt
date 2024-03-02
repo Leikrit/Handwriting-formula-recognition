@@ -1,0 +1,1 @@
+f ^ { \prime \prime } \left( \frac { \pi } { 2 } \right) = 2 > 0

@@ -1,0 +1,1 @@
+\text { 由 } a > b > c \text { 易 得 } \frac { B - C } { 2 } \in \left( 0 , \frac { \pi } { 6 } \right)

@@ -1,0 +1,1 @@
+\ t h e r e f o r e A \cap B = \{ x \mid 0 < x \leq s l a n t 2 \} \cap \{ - 1 , 0 , 1 , 2 , 3 \} = \{ 1 , 2 \}

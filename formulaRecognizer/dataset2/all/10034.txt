@@ -1,0 +1,1 @@
+A B C D \text { 与 } A D E F \text { 均 为 平 行 四 边 形 }

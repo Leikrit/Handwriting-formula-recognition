@@ -1,0 +1,1 @@
+\left( 1 - a _ { n + 1 } \right) \left( 1 + a _ { n } \right) = 1

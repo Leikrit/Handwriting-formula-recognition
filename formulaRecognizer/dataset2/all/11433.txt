@@ -1,0 +1,1 @@
+S _ { n } = \frac { \left( a _ { n } + 1 \right) ^ { 2 } } { 4 }

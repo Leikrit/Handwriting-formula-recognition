@@ -1,0 +1,1 @@
+\text { 试 求 由 曲 线 } \mathrm { y } = 2 \cos \mathrm { x } \text { 之 一 半 波 与 } \mathrm { y } = 0 \text { 围 成 的 面 积 绕 } \mathrm { O } x \text { 轴 旋 转 所 产 生 的 立 体 的 体 积 }

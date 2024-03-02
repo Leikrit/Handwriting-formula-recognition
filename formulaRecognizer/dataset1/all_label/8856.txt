@@ -1,0 +1,1 @@
+\left[ 0 , \frac { \pi } { 3 } \right) \cup \left\{ \frac { 5 \pi } { 1 2 } \right\}

@@ -1,0 +1,1 @@
+\text { 且 } \tan \alpha = \frac { 1 + \sin \beta } { \cos \beta }

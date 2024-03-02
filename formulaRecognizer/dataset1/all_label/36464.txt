@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } \ln | x | } { \mathrm { e } ^ { 2 x } - 1 }

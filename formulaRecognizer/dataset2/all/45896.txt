@@ -1,0 +1,1 @@
+\text { 且 } y = f ( x ) \text { 在 } [ 0 , 1 ] \text { 上 }

@@ -1,0 +1,1 @@
+\text { 设 实 数 } a , b , t \text { 满 足 } | a + 1 | = | \sin b | = t

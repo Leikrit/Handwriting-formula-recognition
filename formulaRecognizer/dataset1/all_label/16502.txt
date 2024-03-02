@@ -1,0 +1,1 @@
+( 1 + \o p e r a t o r n a m e { t g } \alpha ) ^ { 2 } = \frac { 1 + \sin 2 \alpha } { \cos ^ { 2 } \alpha }

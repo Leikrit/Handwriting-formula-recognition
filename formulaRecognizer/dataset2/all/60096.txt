@@ -1,0 +1,1 @@
+a _ { n } = \left( - \frac { 1 } { 2 } \right) ^ { n }

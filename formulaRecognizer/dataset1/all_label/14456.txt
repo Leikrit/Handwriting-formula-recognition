@@ -1,0 +1,1 @@
+\boldsymbol { m } = ( \cos x + \sin x ,

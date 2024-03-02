@@ -1,0 +1,1 @@
+f ( x ) = A \sin ( \omega x + \varphi ) ( A > 0 , \omega > 0 , | \varphi | < \pi )

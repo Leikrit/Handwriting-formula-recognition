@@ -1,0 +1,1 @@
+\text { 若 } \frac { 1 } { 2 } < \left( \frac { 1 } { 2 } \right) ^ { b } < \left( \frac { 1 } { 2 } \right) ^ { a } < 1

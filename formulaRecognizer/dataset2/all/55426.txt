@@ -1,0 +1,1 @@
+| \overrightarrow { B C } | = | \overrightarrow { A B } - \overrightarrow { C B } |

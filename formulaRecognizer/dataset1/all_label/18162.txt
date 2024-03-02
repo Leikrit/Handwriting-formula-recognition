@@ -1,0 +1,1 @@
+\ a n g l e A O B = \ a n g l e B O C = \ a n g l e C O A = \frac { \pi } { 3 }

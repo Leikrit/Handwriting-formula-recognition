@@ -1,0 +1,1 @@
+f ( x ) = \sin \omega x ( \sin \omega x + \cos \omega x ) ( \omega > 0 )

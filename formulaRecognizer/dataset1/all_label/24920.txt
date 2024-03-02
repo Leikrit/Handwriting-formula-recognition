@@ -1,0 +1,1 @@
+( 1 + \sqrt { 3 } \mathrm { i } ) z = \sqrt { 3 } \mathrm { i }

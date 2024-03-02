@@ -1,0 +1,1 @@
+( 1 + a ) ^ { n } \approx 1 + \mathrm { C } _ { n } ^ { 1 } a + \mathrm { C } _ { n } ^ { 2 } a ^ { 2 } + \mathrm { C } _ { n } ^ { 3 } a ^ { 3 }

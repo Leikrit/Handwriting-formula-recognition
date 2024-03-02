@@ -1,0 +1,1 @@
+\text { 直 线 方 程 } \hat { v } = \hat { \beta } u + \hat { \alpha } \text { 的 斜 率 和 截 距 的 最 小 二 乘 估 计 分 别 为 }

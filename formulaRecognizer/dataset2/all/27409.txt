@@ -1,0 +1,1 @@
+\text { 以 } P ( B \mid A ) = \frac { P ( A B ) } { P ( A ) } = \frac { \frac { 5 \times 4 } { 1 0 0 \times 9 9 } } { \frac { 5 } { 1 0 0 } } = \frac { 4 } { 9 9 }

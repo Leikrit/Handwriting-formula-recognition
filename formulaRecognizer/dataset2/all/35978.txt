@@ -1,0 +1,1 @@
+\boldsymbol { n } = ( \cos A , \sin A )

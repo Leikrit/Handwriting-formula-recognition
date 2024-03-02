@@ -1,0 +1,1 @@
+\text { 若 } a _ { n } = \left| n + \frac { 9 } { n } - 8 \right|

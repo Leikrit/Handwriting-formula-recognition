@@ -1,0 +1,1 @@
+\lim _ { \Delta x \rightarrow 0 } \frac { f ( 2 ) - f ( 2 - 3 \Delta x ) } { 3 \Delta x } = 2

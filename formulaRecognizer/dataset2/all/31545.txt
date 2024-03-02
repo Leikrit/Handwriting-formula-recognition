@@ -1,0 +1,1 @@
+\left\{ x \mid x ^ { 2 } + a x + b \leq s l a n t 0 \right\}

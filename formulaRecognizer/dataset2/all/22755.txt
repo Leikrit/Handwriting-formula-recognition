@@ -1,0 +1,1 @@
+\text { 使 得 数 列 } \left\{ \frac { 1 } { S _ { n } } \right\} \text { 的 前 } k \text { 项 和 } T _ { k } > \frac { 1 5 } { 1 6 }

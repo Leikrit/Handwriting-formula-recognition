@@ -1,0 +1,1 @@
+\text { 小 到 大 的 第 } n \left( n \in \mathbf { N } ^ { * } \right) \text { 个 极 值 点 }

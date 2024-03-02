@@ -1,0 +1,1 @@
+\text { 已 知 直 线 } l \text { 与 曲 线 } C \text { 交 于 } A , B \text { 两 点 , 试 求 } A B \text { 中 点 } N \text { 的 坐 标 }

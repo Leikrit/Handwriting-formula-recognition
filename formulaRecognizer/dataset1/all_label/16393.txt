@@ -1,0 +1,1 @@
+S ( A , k ) = \left\{ s \mid s = \frac { x _ { i _ { 1 } } + x _ { i _ { 2 } } + \cdots + x _ { i _ { k } } } { k } , 1 \leq s l a n t i _ { 1 } < \right.

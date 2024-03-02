@@ -1,0 +1,1 @@
+\text { 不 等 式 } f ( 2 x - 1 ) - f ( x + 2 ) \geqslant x - 3 \text { 的 解 集 为 }

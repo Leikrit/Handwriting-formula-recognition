@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = x \left( x + a _ { 1 } \right) \left( x + a _ { 2 } \right) \cdot \cdots \cdot

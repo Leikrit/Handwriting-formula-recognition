@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \ln ( 1 + x ) - \frac { x ( 1 + \lambda x ) } { 1 + x }

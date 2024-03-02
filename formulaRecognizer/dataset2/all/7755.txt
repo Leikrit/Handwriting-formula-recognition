@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } y = a x ^ { 2 } + b x \text { 与 } y = a x + b

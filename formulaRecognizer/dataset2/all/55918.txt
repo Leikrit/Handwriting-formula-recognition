@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \geqslant 0 \text { 对 } \forall x \in [ 0 , + \infty ) \text { 恒 成 立 }

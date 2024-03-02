@@ -1,0 +1,1 @@
+( x + 1 ) ^ { 2 } \ln ( x + 1 ) - x \geqslant m x ^ { 2 } \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { O P } = a \overrightarrow { O A } + b \overrightarrow { O B } ( a , b \in \mathbf { R } , O \text { 为 坐 }

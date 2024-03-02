@@ -1,0 +1,1 @@
+\forall x _ { 1 } \in \left[ \frac { 1 } { 2 } , 2 \right] , \ e x i s t s x _ { 2 } \in \left[ \frac { 1 } { 2 } , 2 \right]

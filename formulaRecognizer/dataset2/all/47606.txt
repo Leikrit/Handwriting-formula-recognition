@@ -1,0 +1,1 @@
+\forall x \in \mathbf { R } \text { 恒 成 立 }

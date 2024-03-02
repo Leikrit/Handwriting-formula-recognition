@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { 2 } x ^ { 2 } + \cdots + \mathrm { C } _ { n } ^ { n } x ^ { n } = ( 1 + x ) ^ { n }

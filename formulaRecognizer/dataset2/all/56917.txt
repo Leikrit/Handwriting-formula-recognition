@@ -1,0 +1,1 @@
+\forall a \geqslant 0 , a ^ { 2 } + a < 0

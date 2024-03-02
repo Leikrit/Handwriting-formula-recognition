@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = ( x + 1 ) \mathrm { e } ^ { x } > 0 , \quad \ t h e r e f o r e \text { 函 数 } h ( x ) \text { 在 }

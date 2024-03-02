@@ -1,0 +1,1 @@
+\left\{ \frac { a _ { n } - \alpha } { a _ { n } - \beta } \right\}

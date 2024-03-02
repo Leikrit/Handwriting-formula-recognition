@@ -1,0 +1,1 @@
+M ( x , y ) \text { 满 足 直 线 } A M \text { 与 } B M \text { 的 斜 率 之 积 为 } - \frac { 1 } { 2 }

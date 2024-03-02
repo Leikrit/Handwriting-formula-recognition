@@ -1,0 +1,1 @@
+k _ { B M } = \frac { \sqrt { 3 } b } { a }

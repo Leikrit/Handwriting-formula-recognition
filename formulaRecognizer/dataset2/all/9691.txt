@@ -1,0 +1,1 @@
+\log _ { a } \sqrt { 2 1 } - \log _ { a } \sqrt { 3 }

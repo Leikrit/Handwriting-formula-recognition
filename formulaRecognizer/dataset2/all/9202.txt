@@ -1,0 +1,1 @@
+f ( a + | x - b | ) \geqslant f ( | x | - 2 | x - 1 | ) \text { 恒 成 立 }

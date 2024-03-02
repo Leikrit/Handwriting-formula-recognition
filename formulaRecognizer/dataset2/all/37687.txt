@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) \text { 是 定 义 在 } \mathbf { R } \text { 上 的 偶 函 数 }

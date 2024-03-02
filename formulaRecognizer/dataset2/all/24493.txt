@@ -1,0 +1,1 @@
+g ( t ) = \mathrm { e } ^ { t } - t - \mathrm { e } + 1

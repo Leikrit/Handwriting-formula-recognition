@@ -1,0 +1,1 @@
+\text { 求 证 : } f ( x ) \geqslant \frac { 2 \cos x - 3 } { 2 a \mathrm { e } ^ { 2 } }

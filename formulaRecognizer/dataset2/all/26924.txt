@@ -1,0 +1,1 @@
+\text { 故 } f ^ { \prime } ( x ) = 0 \text { 在 } ( - 2 , + \infty ) \text { 有 唯 一 实 根 } x _ { 0 }

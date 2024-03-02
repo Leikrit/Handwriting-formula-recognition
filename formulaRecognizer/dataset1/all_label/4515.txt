@@ -1,0 +1,1 @@
+= \left\{ ( x , y ) \mid y = x ^ { 2 } , x \in \mathbf { R } \right\}

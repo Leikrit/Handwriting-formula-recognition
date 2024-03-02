@@ -1,0 +1,1 @@
+h ( a ) = \mathrm { e } - a \ln ( a - 1 ) + 1

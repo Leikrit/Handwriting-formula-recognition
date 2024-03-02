@@ -1,0 +1,1 @@
+f \left( \mathrm { e } ^ { x } \right) < 3 - \frac { 1 } { \mathrm { e } ^ { x } }

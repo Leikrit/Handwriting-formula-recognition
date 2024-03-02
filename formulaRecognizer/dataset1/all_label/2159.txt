@@ -1,0 +1,1 @@
+x ^ { 2 } \sin \theta - y ^ { 2 } \cos \theta = 1

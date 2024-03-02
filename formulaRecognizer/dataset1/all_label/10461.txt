@@ -1,0 +1,1 @@
+x \sin \alpha - y + 1 = 0

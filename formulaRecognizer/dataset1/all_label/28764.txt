@@ -1,0 +1,1 @@
+= \frac { \sin ^ { 2 } A } { \cos A \sin B \sin C } = 3

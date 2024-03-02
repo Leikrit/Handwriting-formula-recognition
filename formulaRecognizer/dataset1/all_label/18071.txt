@@ -1,0 +1,1 @@
+\cos x + \cos 2 x + \cos 3 x + \cdots + \cos n x = \frac { \sin \left( n + \frac { 1 } { 2 } \right) x } { 2 \sin \frac { 1 } { 2 } x } -

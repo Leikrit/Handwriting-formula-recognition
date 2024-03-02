@@ -1,0 +1,1 @@
+| \boldsymbol { b } | = 2 \mid \boldsymbol { a }

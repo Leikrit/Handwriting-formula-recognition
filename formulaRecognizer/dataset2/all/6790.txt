@@ -1,0 +1,1 @@
+\frac { 4 } { \sqrt { 1 + k ^ { \prime 2 } } } = \sqrt { 2 }

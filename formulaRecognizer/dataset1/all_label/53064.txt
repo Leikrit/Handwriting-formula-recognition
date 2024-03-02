@@ -1,0 +1,1 @@
+a _ { n } \geqslant 0

@@ -1,0 +1,1 @@
+\text { 若 关 于 } x \text { 的 不 等 式 } x ^ { 2 } + 1 \geqslant a x + b \geqslant \frac { 3 } { 2 } x ^ { \frac { 2 } { 3 } } \text { 在 } [ 0 , + \infty ) \text { 上 恒 成 立 }

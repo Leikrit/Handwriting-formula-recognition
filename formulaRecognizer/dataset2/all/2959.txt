@@ -1,0 +1,1 @@
+\text { 因 此 函 数 } g ( x ) \text { 在 } ( - \infty , 1 ) \text { 上 单 调 递 增 }

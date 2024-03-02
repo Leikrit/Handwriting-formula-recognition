@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \tan x } { 1 + \tan ^ { 2 } x } \text { 的 最 小 正 周 期 为 }

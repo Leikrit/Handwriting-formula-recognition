@@ -1,0 +1,1 @@
+\text { 所 以 } u _ { \text { m a x } } = \sqrt { 2 } - 1

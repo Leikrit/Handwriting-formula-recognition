@@ -1,0 +1,1 @@
+a + b \mathrm { i } = c + d \mathrm { i } \Rightarrow a = c

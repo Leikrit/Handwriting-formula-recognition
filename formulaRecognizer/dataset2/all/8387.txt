@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = 3 \sin ( \omega x + \varphi ) \text { 关 于 直 线 } x = \frac { \pi } { 3 } \text { 对 称 }

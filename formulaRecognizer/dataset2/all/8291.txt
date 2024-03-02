@@ -1,0 +1,1 @@
+P \left( \frac { \sqrt { 2 } } { 2 } , \frac { \sqrt { 3 } } { 2 } \right) \text { 是 椭 圆 } \Gamma \text { 上 的 }

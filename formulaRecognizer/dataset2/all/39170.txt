@@ -1,0 +1,1 @@
+\text { 函 数 } f \left( x - \frac { 3 } { 4 } \right) \text { 为 奇 函 数 }

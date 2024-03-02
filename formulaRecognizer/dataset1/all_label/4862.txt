@@ -1,0 +1,1 @@
+\left( 1 \cdot 2 ^ { 2 } - 2 \cdot 3 ^ { 2 } \right) + \left( 3 \cdot 4 ^ { 2 } - 4 \cdot 5 ^ { 2 } \right) + \cdots + \left[ ( 2 n - 1 ) ( 2 n ) ^ { 2 } - \right.

@@ -1,0 +1,30 @@
+# Data
+/data
+
+# Hydra
+/outputs
+
+# Editors
+.vscode
+
+# Python
+__pycache__
+.ipynb_checkpoints
+.mypy_cache
+/notebooks
+
+# Virtual environment
+venv
+
+# Weights & Biases
+wandb
+
+# pytest
+.coverage*
+.pytest_cache
+htmlcov
+
+# Misc
+.DS_Store
+*.egg-info
+artifacts

@@ -1,0 +1,1 @@
+\text { 要 使 } f _ { A } ( x ) \cdot f _ { B } ( x )

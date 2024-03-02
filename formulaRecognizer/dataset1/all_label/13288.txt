@@ -1,0 +1,1 @@
+\left( 1 + x + x ^ { 2 } \right) \left( x - \frac { 1 } { x } \right) ^ { 6 }

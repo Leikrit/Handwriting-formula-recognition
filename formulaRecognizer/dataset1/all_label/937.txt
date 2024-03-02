@@ -1,0 +1,1 @@
+n + 1 \geqslant \frac { 1 } { 2 }

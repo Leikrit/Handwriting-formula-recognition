@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } U = \{ x \in \mathbf { N } \mid x \leq s l a n t 5 \}

@@ -1,0 +1,1 @@
+f ( x ) = \sin ( \omega x + 2 \varphi ) - 2 \sin \varphi \cos ( \omega x + \varphi )

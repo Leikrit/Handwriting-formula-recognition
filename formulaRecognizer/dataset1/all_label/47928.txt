@@ -1,0 +1,1 @@
+2 \cos ( B + C ) \cos ( B - C )

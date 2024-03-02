@@ -1,0 +1,1 @@
+\text { 且 } ( 2 \boldsymbol { a } - 2 \boldsymbol { b } ) \perp \boldsymbol { a }

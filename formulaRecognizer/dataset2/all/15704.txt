@@ -1,0 +1,1 @@
+\cdots \cdot \frac { 1 } { 1 - S _ { n + 1 } } > \sqrt { n + 1 } \text { 成 立 . }

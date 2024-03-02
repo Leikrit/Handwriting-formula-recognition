@@ -1,0 +1,1 @@
+\text { 故 } \frac { \ln a } { a } = \frac { 1 } { \mathrm { e } } \text { 或 } \frac { \ln a } { a } < 0

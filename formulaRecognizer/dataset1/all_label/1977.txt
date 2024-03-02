@@ -1,0 +1,1 @@
+M \left( \frac { 8 k ^ { 2 } } { 3 + 4 k ^ { 2 } } , \frac { - 6 k } { 3 + 4 k ^ { 2 } } \right)

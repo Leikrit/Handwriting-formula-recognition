@@ -1,0 +1,1 @@
+f ( x ) = | x - 2 a | + \left| x - a ^ { 2 } - 2 \right|

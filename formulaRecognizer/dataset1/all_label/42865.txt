@@ -1,0 +1,1 @@
+b _ { 1 } x + b _ { 2 } y \geqslant c _ { 2 }

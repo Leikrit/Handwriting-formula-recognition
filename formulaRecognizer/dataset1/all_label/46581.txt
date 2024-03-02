@@ -1,0 +1,1 @@
+B C = a , A C = b , A B = c

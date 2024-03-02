@@ -1,0 +1,1 @@
+y = k \left( \mathrm { e } ^ { - a t } - \mathrm { e } ^ { - b t } \right)

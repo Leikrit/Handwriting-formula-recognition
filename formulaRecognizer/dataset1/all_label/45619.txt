@@ -1,0 +1,1 @@
+y = 3 \sqrt { 2 } \sin \left( \theta + \frac { \pi } { 4 } \right) + 4 \left( \theta \in \left[ - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right] \right)

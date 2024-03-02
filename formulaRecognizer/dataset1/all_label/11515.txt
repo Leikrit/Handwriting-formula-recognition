@@ -1,0 +1,1 @@
+\text { 当 } x \in [ 1 , + \infty ) \text { 时 }

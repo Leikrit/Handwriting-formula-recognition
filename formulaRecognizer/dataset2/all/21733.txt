@@ -1,0 +1,1 @@
+f ( x ) \geqslant a x \text { 等 价 于 } \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } - a x \geqslant 0

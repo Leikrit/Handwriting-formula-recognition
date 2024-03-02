@@ -1,0 +1,1 @@
+P \left( x _ { \text { 乙 } } \geqslant 1 \right) < P \left( x _ { \text { 丙 } } \geqslant 1 \right)

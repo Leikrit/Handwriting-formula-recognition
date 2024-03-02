@@ -1,0 +1,1 @@
+\left| a ^ { 2 } + b + c \right| + \left| a ^ { 2 } + b - c \right| = 0 \leq s l a n t 1

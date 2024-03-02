@@ -1,0 +1,1 @@
+( \sqrt { 3 } \boldsymbol { a } + \lambda \boldsymbol { b } ) \perp \boldsymbol { a }

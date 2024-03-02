@@ -1,0 +1,1 @@
+a \geqslant \frac { 1 - t } { t ^ { 2 } + t }

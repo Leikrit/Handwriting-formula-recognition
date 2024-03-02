@@ -1,0 +1,1 @@
+\left. b _ { 2 } \right) + L _ { 2 } \left( b _ { 2 } - b _ { 3 } \right) + L _ { 3 } \left( b _ { 3 } - b _ { 4 } \right) + \cdots + L _ { n - 1 } \left( b _ { n - 1 } - b _ { n } \right) + L _ { n } b _ { n }

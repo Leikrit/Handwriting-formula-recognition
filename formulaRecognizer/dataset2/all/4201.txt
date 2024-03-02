@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = a x ^ { 3 } + x ^ { 2 } + b x ( a , b \in \mathbf { R } )

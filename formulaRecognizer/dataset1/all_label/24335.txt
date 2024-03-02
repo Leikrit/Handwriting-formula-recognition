@@ -1,0 +1,1 @@
+A = \left\{ x \in \mathbf { Z } \mid x ^ { 2 } + 2 x - 8 < 0 \right\} , B = \left\{ x ^ { 2 } \mid x \in A \right\}

@@ -1,0 +1,1 @@
+\frac { \mathrm { i } } { 1 + \mathrm { i } } + ( 1 + \sqrt { 3 } \mathrm { i } ) ^ { 2 }

@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \log _ { a } \left( x ^ { 2 } - 2 x + 3 \right) \text { 有 最 小 }

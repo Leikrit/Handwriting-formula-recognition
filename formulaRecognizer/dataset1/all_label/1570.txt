@@ -1,0 +1,1 @@
+( \overrightarrow { O C } + \overrightarrow { O A } ) \cdot \overrightarrow { C A } = 0

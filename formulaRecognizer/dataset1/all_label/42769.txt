@@ -1,0 +1,1 @@
+\frac { t + 2 } { t } = \frac { \left( y _ { 1 } + 2 \right) \left( y _ { 2 } + 2 \right) } { x _ { 1 } x _ { 2 } } = \frac { \frac { - ( t + 2 ) ^ { 2 } } { k ^ { 2 } - 1 } } { \frac { t ^ { 2 } - 4 } { k ^ { 2 } - 1 } } = \frac { - ( t + 2 ) ^ { 2 } } { t ^ { 2 } - 4 } = \frac { - ( t + 2 ) } { t - 2 } ( t + 2 \neq 0 )

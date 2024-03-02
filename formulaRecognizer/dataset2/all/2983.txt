@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } f ( x ) \leq s l a n t 0 \text { 在 区 间 } [ - 2 , + \infty ) \text { 内 有 解 }

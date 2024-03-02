@@ -1,0 +1,1 @@
+\{ x \in \mathbf { R } \mid \l g ( x - 1 ) < 0 \}

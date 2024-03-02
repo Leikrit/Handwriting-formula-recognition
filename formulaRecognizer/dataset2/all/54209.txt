@@ -1,0 +1,1 @@
+B = \left\{ x \mid \sin \left( \pi x - \frac { \pi } { 3 } \right) + \sqrt { 3 } \cos \left( \pi x - \frac { \pi } { 3 } \right) = 0 \right\}

@@ -1,0 +1,1 @@
+\text { 求 } \frac { x ^ { 2 } - x } { x - x ^ { \frac { 1 } { 2 } } } - x ^ { \frac { 1 } { 2 } } - \frac { x } { x + 1 }

@@ -1,0 +1,1 @@
+\{ x \mid x \leq s l a n t - 1 \} \cup \{ x \mid x \geqslant 2 \}

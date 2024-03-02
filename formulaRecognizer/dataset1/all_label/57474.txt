@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \cdot ( a + c ) \cdot c = \frac { 1 } { 2 } b ^ { 2 }

@@ -1,0 +1,1 @@
+\frac { b } { a - c } = - \frac { b } { a } \Rightarrow \frac { c } { a } = 2

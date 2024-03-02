@@ -1,0 +1,1 @@
+\overrightarrow { B E } = \frac { 1 } { 2 } \overrightarrow { E C }

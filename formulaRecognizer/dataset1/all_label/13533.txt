@@ -1,0 +1,1 @@
+A O = A B \text { , 求 直 线 } B _ { 1 } E \text { 与 平 面 } A _ { 1 } A M N \text { 所 成 角 的 正 弦 值 }

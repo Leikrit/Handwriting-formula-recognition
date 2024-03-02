@@ -1,0 +1,1 @@
+\text { 动 点 } G \text { 满 足 } \overrightarrow { A G } = \frac { 1 } { 2 } ( 1 - \lambda ) \overrightarrow { A B } + \frac { 1 } { 3 } \lambda \overrightarrow { A C }

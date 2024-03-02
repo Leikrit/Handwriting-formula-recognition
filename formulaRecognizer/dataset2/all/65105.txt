@@ -1,0 +1,1 @@
+\text { 据 此 } \left( \cos \frac { \pi } { 6 } + i \sin \frac { \pi } { 6 } \right) ^ { 6 } =

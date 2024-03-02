@@ -1,0 +1,1 @@
+f ( x ) = \left( \frac { 1 } { 2 } \right) ^ { x ^ { 2 } - x } \text { 在 } \left( - \infty , \frac { 1 } { 2 } \right) \text { 上 是 单 调 递 增 函 数 }

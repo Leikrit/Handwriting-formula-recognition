@@ -1,0 +1,1 @@
+\text { 向 量 集 合 } S = \{ a \mid a = ( x , y ) , x , y \in R \}

@@ -1,0 +1,1 @@
+\ t h e r e f o r e \frac { a _ { n } } { a _ { n - 1 } } = \frac { n - 1 } { n }

@@ -1,0 +1,1 @@
+\text { 则 } g ^ { \prime } ( x ) = \mathrm { e } ^ { x } - 1

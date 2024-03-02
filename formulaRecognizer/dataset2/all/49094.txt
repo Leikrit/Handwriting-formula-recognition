@@ -1,0 +1,1 @@
+\text { 设 离 散 型 随 机 变 量 } X \sim N \left( 2 , \sigma ^ { 2 } \right)

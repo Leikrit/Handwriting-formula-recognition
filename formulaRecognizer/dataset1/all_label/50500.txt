@@ -1,0 +1,1 @@
+m x \ln x - ( x + m ) \mathrm { e } ^ { \frac { x + m } { m } } \leq s l a n t 0

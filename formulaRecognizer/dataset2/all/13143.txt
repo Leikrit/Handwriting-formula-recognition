@@ -1,0 +1,1 @@
+\text { 求 函 数 } f ( x ) \text { 在 } [ 1 , \mathrm { e } ] \text { 上 的 最 大 值 、 最 小 值 }

@@ -1,0 +1,1 @@
+\frac { x } { 1 + \mathrm { i } } = 1 - y \mathrm { i }

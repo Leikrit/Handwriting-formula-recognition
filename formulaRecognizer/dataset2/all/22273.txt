@@ -1,0 +1,1 @@
+\varphi ^ { \prime } ( a ) = \frac { a - ( \mathrm { e } - 1 ) } { a }

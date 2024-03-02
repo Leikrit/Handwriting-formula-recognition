@@ -1,0 +1,1 @@
+\left( 0 , \frac { 2 } { 9 } \right] \cup \left[ \frac { 8 } { 9 } , 1 \right]

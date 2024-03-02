@@ -1,0 +1,1 @@
+\overrightarrow { A B } = ( 1 , - 2 ) , \overrightarrow { A D } = ( 2 , 1 )

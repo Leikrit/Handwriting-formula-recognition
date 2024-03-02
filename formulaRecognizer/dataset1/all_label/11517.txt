@@ -1,0 +1,1 @@
+\text { 设 关 于 } x \text { 的 方 程 } ( a + 2 ) \left( 1 + \frac { 1 } { x } \right) = f ( x )

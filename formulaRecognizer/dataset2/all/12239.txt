@@ -1,0 +1,1 @@
+\text { 点 } M \text { 与 两 定 点 } A ( - 1 , 0 ) , B ( 2 , 0 ) \text { 构 成 } \triangle M A B

@@ -1,0 +1,1 @@
+f \left( \frac { x + 3 } { x + 4 } \right) \text { 的 所 有 } x \text { 之 和 为 }

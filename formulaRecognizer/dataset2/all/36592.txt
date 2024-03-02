@@ -1,0 +1,1 @@
+\text { 并 判 定 函 数 } g ( x ) = \frac { \mathrm { e } ^ { x - 1 } + ( 2 - \mathrm { e } ) x + \mathrm { e } - 3 } { x - 1 } -

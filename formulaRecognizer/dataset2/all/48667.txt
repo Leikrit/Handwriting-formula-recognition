@@ -1,0 +1,1 @@
+\text { 当 } k \geqslant 2 \left( k \in \mathbf { N } ^ { * } \right) \text { 时 }

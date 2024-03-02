@@ -1,0 +1,1 @@
+\ a n g l e A B C = \ a n g l e C B D = \ a n g l e D B A = 6 0 ^ { \circ }

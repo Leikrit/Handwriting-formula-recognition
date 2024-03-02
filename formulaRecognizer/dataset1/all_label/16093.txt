@@ -1,0 +1,1 @@
+l _ { A B } : x = m y - c , A \left( x _ { 1 } , y _ { 1 } \right) , B \left( x _ { 2 } , y _ { 2 } \right) , N \left( x _ { 3 } \cdot y _ { 3 } \right) , M \left( x _ { 4 } , y _ { 4 } \right)

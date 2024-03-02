@@ -1,0 +1,1 @@
+a _ { n } = a _ { 1 } + 2 a _ { 2 } + 3 a _ { 3 } + \cdots + ( n - 1 ) a _ { n - 1 } ( n \geqslant 2 )

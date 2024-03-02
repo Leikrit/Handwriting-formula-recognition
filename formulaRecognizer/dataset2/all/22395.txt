@@ -1,0 +1,1 @@
+M _ { n } = A _ { n } \cup B _ { n } \cup C _ { n }

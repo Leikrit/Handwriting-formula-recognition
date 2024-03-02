@@ -1,0 +1,1 @@
+\Phi ( \mu + \sigma ) - \Phi ( \mu - \sigma )

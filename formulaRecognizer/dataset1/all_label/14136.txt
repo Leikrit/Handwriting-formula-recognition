@@ -1,0 +1,1 @@
+S A = A C = 2 A B = 4 , S C = 4 \sqrt { 2 } , S B = 2 \sqrt { 5 } , B C > 3

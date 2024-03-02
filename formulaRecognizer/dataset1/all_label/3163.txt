@@ -1,0 +1,1 @@
+\cos \theta = \frac { 1 - \tan ^ { 2 } \frac { \theta } { 2 } } { 1 + \tan ^ { 2 } \frac { \theta } { 2 } } = \frac { 4 - t ^ { 2 } } { 4 + t ^ { 2 } }

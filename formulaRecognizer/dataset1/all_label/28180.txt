@@ -1,0 +1,1 @@
+y = \frac { 1 } { x _ { 1 } } \left( x - x _ { 1 } \right) + \left( \ln x _ { 1 } + 2 \right) , y = \frac { 1 } { x _ { 2 } + 1 } \left( x - x _ { 2 } \right) + \ln \left( x _ { 2 } + 1 \right) .

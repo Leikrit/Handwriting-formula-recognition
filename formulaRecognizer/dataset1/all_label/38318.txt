@@ -1,0 +1,1 @@
+( a + b ) ( \sin A - \sin B ) = ( c - b ) \sin C

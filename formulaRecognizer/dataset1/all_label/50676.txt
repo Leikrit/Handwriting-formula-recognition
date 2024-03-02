@@ -1,0 +1,1 @@
+\sin \left( \theta + \frac { \pi } { 3 } \right) = \sin \left[ \pi - \left( \frac { 2 \pi } { 3 } - \theta \right) \right] = \sin \left( \frac { 2 \pi } { 3 } - \theta \right) = \frac { 4 } { 5 }

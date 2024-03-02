@@ -1,0 +1,1 @@
+\boldsymbol { a } = \left( \tan \left( \alpha + \frac { 1 } { 4 } \beta \right) , - 1 \right)

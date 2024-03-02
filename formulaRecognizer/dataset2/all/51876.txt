@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { n } = \left| a _ { n } - \sqrt { 3 } \right|

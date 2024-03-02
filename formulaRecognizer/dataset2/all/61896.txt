@@ -1,0 +1,1 @@
+\text { 则 } ( \boldsymbol { a } \times \boldsymbol { b } ) ^ { 2 } + ( \boldsymbol { a } \cdot \boldsymbol { b } ) ^ { 2 } =

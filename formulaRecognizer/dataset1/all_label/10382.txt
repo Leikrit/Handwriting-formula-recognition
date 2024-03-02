@@ -1,0 +1,1 @@
+A B ^ { 2 } = A D ^ { 2 } + B D ^ { 2 } - 2 A D \cdot B D \cos \ a n g l e A D B = 7

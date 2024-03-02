@@ -1,0 +1,1 @@
+\overrightarrow { O N } = ( 1 - t ) \overrightarrow { O B }

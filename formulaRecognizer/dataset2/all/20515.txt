@@ -1,0 +1,1 @@
+\text { 且 每 秒 移 动 的 距 离 为 } | \boldsymbol { v } |

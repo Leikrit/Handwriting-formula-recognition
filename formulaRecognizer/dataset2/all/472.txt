@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \cos ( \omega x + \varphi ) ( \omega > 0 , | \varphi | < \pi ) \text { 的 部 分 图 象 如 图 所 示 }

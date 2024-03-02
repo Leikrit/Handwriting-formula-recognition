@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = ( m + 1 ) \mathrm { e } ^ { x } + \frac { m } { x } - x - 1 - 2 m , m \in \mathbf { R }

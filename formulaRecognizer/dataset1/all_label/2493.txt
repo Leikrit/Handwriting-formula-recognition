@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } | E G | \cdot \left| y _ { A } - y _ { B } \right|

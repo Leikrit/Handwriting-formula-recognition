@@ -1,0 +1,1 @@
+M _ { z } = \left\{ w \mid w = z ^ { n } , n \in \mathbf { N } \right\}

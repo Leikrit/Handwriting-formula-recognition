@@ -1,0 +1,1 @@
+\text { 存 在 } k \text { 使 得 直 线 } l \text { 与 直 线 } l _ { 0 } : x - 2 y + 2 = 0 \text { 垂 直 }

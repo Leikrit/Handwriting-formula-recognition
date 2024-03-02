@@ -1,0 +1,1 @@
+\ln \left( \frac { 2 } { k + 2 } + 1 \right) > \frac { 2 } { k + 3 }

@@ -1,0 +1,1 @@
+F ( 1 0 0 ) = 9 \times 1 + 9 0 \times 2 + 1 \times 3 = 1 9 2

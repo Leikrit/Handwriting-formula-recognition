@@ -1,0 +1,1 @@
+A \left( x _ { A } , y _ { A } \right) \text { 和 } B \left( x _ { B } , y _ { B } \right)

@@ -1,0 +1,1 @@
+\text { 顶 点 } C _ { 1 } \text { 到 平 面 } \alpha \text { 的 距 离 即 为 } \overrightarrow { A C _ { 1 } } \text { 在 法 向 量 } \boldsymbol { n } \text { 上 的 }

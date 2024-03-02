@@ -1,0 +1,1 @@
+\text { 有 } ( \lambda \boldsymbol { a } ) \odot \boldsymbol { b } = \lambda ( \boldsymbol { a } \odot \boldsymbol { b } )

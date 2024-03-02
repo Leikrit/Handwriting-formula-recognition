@@ -1,0 +1,1 @@
+f ( x ) = \cos \left( 2 x - \frac { \pi } { 3 } \right) + 2 \sin \left( x - \frac { \pi } { 4 } \right)

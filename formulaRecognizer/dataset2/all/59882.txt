@@ -1,0 +1,1 @@
+\text { 只 需 要 } c - \lambda ( 2 a + b ) ^ { 2 } \text { 即 }

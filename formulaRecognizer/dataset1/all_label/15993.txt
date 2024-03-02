@@ -1,0 +1,1 @@
+\Delta = 4 \left( a ^ { 2 } - 3 b \right) > 0

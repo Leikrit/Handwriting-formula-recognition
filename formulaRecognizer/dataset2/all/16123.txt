@@ -1,0 +1,1 @@
+\text { 求 证 : } | A - S | + | B - S | + | S - C | \geqslant 1

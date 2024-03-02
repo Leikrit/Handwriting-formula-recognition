@@ -1,0 +1,1 @@
+\sin \alpha + \cos \alpha = \frac { 1 } { 2 } , \alpha \in ( 0 , \pi )

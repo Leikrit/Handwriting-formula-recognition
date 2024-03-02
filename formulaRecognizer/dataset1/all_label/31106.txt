@@ -1,0 +1,1 @@
+h ( x ) _ { \min } = h ( 0 ) = 0 \geqslant 0

@@ -1,0 +1,1 @@
+\text { 设 } y = f ( t ) \text { 是 某 港 口 水 的 深 度 } y \text { ( 米 ) 关 于 时 间 } t \text { ( 时 ) }

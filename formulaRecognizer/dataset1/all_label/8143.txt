@@ -1,0 +1,1 @@
+\left. y ^ { \prime } \right| _ { x = m } = \frac { 1 - \ln m } { m ^ { 2 } }

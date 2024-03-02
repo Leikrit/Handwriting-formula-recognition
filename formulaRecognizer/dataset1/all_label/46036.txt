@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { 4 \overrightarrow { A C } } { | \overrightarrow { A C } | }

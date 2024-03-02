@@ -1,0 +1,1 @@
+f ( x ) = \frac { 3 \ln x } { x } + a - 2 a x

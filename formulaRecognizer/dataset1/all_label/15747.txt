@@ -1,0 +1,1 @@
+t \in \mathbf { R } \text { , 则 } \frac { \boldsymbol { b } \cdot \boldsymbol { e } _ { 3 } } { | \boldsymbol { b } | } \text { 的 最 大 值 为 }

@@ -1,0 +1,1 @@
+y = \cos x + \frac { 1 } { \cos x } \left( 0 < x < \frac { \pi } { 2 } \right)

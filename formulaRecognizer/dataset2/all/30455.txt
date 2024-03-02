@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } , \frac { \mathrm { e } } { 3 } \right) \cup \left( \frac { \mathrm { e } } { 3 } , + \infty \right)

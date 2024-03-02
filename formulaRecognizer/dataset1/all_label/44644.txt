@@ -1,0 +1,1 @@
+S _ { \triangle A B E } = \frac { 1 } { 2 } | A B | d = 2 \left( | s | + \frac { 1 } { | s | } \right) ^ { 3 } \geqslant 1 6

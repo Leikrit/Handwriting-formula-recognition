@@ -1,0 +1,1 @@
+\text { 若 数 列 } \left\{ a _ { n } \right\} \text { 的 通 项 公 式 是 } a _ { n } = ( - 1 ) ^ { n + 1 } \cdot ( 3 n - 2 )

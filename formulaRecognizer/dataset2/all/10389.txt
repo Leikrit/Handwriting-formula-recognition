@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) = \frac { 1 } { \sqrt { \log _ { \frac { 1 } { 2 } } ( 2 x + 1 ) } }

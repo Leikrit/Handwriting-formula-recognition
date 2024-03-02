@@ -1,0 +1,1 @@
+\text { 设 } P \left( x _ { 1 } , y _ { 1 } \right) \text { 为 圆 } O _ { 1 } : x ^ { 2 } + y ^ { 2 } = 9 \text { 上 任 一 点 }

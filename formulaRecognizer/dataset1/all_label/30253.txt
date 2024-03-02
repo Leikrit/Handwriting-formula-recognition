@@ -1,0 +1,1 @@
+b _ { n } = \log _ { 3 } \left( a _ { n } + 1 \right)

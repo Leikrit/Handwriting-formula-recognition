@@ -1,0 +1,1 @@
+\tan A = \frac { \tan B + \tan C } { \tan B \tan C - 1 } = \frac { 2 \tan B \tan C } { \tan B \tan C - 1 }

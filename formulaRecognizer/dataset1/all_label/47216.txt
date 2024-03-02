@@ -1,0 +1,1 @@
+q _ { 1 } : p _ { 1 } \vee p _ { 2 } , q _ { 2 } : p _ { 1 } \wedge p _ { 2 } , q _ { 3 } : \left( \ne g p _ { 1 } \right) \vee p _ { 2 }

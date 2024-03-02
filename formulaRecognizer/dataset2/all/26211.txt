@@ -1,0 +1,1 @@
+\text { 若 关 于 } x \text { 的 不 等 式 } | a | \geqslant | x + 1 | + | x - 2 | \text { 存 在 实 数 解 }

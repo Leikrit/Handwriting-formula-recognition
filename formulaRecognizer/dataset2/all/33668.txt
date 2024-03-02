@@ -1,0 +1,1 @@
+\frac { \left( x ^ { \prime } + \sqrt { 2 } \right) ^ { 2 } } { 6 } + \frac { \left( y ^ { \prime } + \sqrt { 2 } \right) ^ { 2 } } { 3 } = 1

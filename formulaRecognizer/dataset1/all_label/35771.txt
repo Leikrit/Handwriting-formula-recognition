@@ -1,0 +1,1 @@
+\boldsymbol { m } = \left( x ^ { 2 } , 1 \right)

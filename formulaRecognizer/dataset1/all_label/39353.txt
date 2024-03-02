@@ -1,0 +1,1 @@
+g ^ { \prime } ( t ) = 6 t ^ { 2 } - 6 a t = 0 \Rightarrow t _ { 1 } = 0 , t _ { 2 } = a

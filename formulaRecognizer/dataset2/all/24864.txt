@@ -1,0 +1,1 @@
+\ln \left( 1 + x _ { n + 1 } \right) \geqslant \frac { 2 x _ { n + 1 } - x _ { n + 1 } ^ { 2 } } { 2 + x _ { n + 1 } }

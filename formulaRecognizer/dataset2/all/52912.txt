@@ -1,0 +1,1 @@
+\text { 解 关 于 } x \text { 的 不 等 式 } \frac { x - a } { x - a ^ { 2 } } < 0 ( a \in \mathbf { R } )

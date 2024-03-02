@@ -1,0 +1,1 @@
+\text { 求 函 数 } f ( x ) = \sin x \sin ( x + \theta ) \text { 在 } \left[ 0 , \frac { \pi } { 2 } \right] \text { 上 的 }

@@ -1,0 +1,1 @@
+\overrightarrow { A E } = \lambda \overrightarrow { A C } - \overrightarrow { A B } ( \lambda \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\text { 记 第 } n \text { 个 } k \text { 边 形 数 为 } N ( n , k )

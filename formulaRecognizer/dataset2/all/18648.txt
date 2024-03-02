@@ -1,0 +1,1 @@
+\text { 取 } \boldsymbol { e } \text { 为 与 } \boldsymbol { a } + \boldsymbol { b } \text { 同 向 的 单 位 向 量 可 以 使 得 上 述 不 等 式 取 得 等 号 }

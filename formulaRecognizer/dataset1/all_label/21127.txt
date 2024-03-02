@@ -1,0 +1,1 @@
+( | x - a | - b ) \sin \left( \pi x + \frac { \pi } { 6 } \right) \leq s l a n t 0

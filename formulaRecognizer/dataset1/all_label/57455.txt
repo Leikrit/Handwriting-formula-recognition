@@ -1,0 +1,1 @@
+P ( \sqrt { 3 } , 1 ) , Q ( \cos x , \sin x )

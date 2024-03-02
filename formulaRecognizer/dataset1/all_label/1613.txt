@@ -1,0 +1,1 @@
+N \left( \mu , \delta ^ { 2 } \right)

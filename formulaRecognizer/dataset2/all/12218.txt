@@ -1,0 +1,1 @@
+\left\{ a _ { n } \right\} \text { 的 } m \text { 阶 } \omega \text { 系 数 为 } 3 \text { , 求 } m \text { 的 值 }

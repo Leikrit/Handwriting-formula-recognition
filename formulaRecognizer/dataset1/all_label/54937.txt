@@ -1,0 +1,1 @@
+\frac { \pi } { m } x _ { 0 } = k \pi + \frac { 1 } { 2 } \pi , ( k \in \mathbf { Z } )

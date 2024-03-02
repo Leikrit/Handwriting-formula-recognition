@@ -1,0 +1,1 @@
+\text { 曲 线 } y = \frac { 1 } { x } - \ln x \text { 在 } x = 1 \text { 处 的 切 线 在 } x \text { 轴 上 的 截 距 }

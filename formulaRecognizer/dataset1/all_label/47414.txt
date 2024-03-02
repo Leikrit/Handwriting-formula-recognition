@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x } f ( x ) > \mathrm { e } ^ { x } - 1

@@ -1,0 +1,1 @@
+\ t h e r e f o r e \cos \langle \boldsymbol { a } , \boldsymbol { b } \rangle = \frac { \boldsymbol { a } \cdot \boldsymbol { b } } { | \boldsymbol { a } \| \boldsymbol { b } | } = \frac { - 5 } { \sqrt { 5 } \times \sqrt { 1 0 } } = - \frac { \sqrt { 2 } } { 2 }

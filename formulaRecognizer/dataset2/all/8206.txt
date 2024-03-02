@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \ln x + x + \frac { 2 } { x } , g ( x ) = \frac { \mathrm { e } ^ { x } } { x }

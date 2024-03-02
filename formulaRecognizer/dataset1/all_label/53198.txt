@@ -1,0 +1,1 @@
+f ( \sin \alpha ) > f ( \sin \beta )

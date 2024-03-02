@@ -1,0 +1,1 @@
+\text { 对 于 } E = \left\{ a _ { 1 } , a _ { 2 } , \cdots , a _ { 1 0 0 } \right\} \text { 的 子 集 } X = \left\{ a _ { i _ { 1 } } \right. \text { , }

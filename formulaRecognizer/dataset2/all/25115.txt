@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 \cos 2 x + \sin ^ { 2 } x - 4 \cos x

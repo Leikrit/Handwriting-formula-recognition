@@ -1,0 +1,1 @@
+p : x \geqslant m , q : 2 + x - x ^ { 2 } < 0

@@ -1,0 +1,1 @@
+a \geqslant \frac { 2 \ln x } { x }

@@ -1,0 +1,1 @@
+\left( u _ { 1 } , v _ { 1 } \right) , \left( u _ { 2 } , v _ { 2 } \right) , \cdots , \left( u _ { n } , v _ { n } \right)

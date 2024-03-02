@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = 2 \left( \mathrm { e } ^ { x } - a \right) ( x - \sin x )

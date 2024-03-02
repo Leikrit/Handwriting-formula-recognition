@@ -1,0 +1,1 @@
+\text { 量 } \boldsymbol { b } = ( 2 , 3 , 1 ) \text { 垂 直 }

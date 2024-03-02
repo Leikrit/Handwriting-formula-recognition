@@ -1,0 +1,1 @@
+b \cos 2 A = b \cos A - a \sin B

@@ -1,0 +1,1 @@
+\text { 设 平 面 } A C F \text { 的 法 向 量 为 } \boldsymbol { n } = ( u , v , w )

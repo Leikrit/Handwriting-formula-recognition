@@ -1,0 +1,1 @@
+E \left( \frac { 1 } { 4 t ^ { 2 } } , - \frac { 1 } { t } \right)

@@ -1,0 +1,1 @@
+z = \frac { 2 - 5 \mathrm { i } } { 2 - \mathrm { i } } = \frac { ( 2 - 5 \mathrm { i } ) ( 2 + \mathrm { i } ) } { ( 2 - \mathrm { i } ) ( 2 + \mathrm { i } ) } = \frac { 9 } { 5 } - \frac { 8 } { 5 } \mathrm { i }

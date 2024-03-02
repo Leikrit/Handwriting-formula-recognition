@@ -1,0 +1,1 @@
+\text { 且 集 合 } A = \{ x \in \mathbf { N } \mid x > 3 \}

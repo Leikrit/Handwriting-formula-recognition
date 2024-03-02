@@ -1,0 +1,1 @@
+\left| b _ { 1 } - \frac { 3 } { 2 } \right| + \left| b _ { 2 } - \frac { 3 } { 2 } \right| + \cdots + \left| b _ { 2 k - 1 } - \frac { 3 } { 2 } \right| +

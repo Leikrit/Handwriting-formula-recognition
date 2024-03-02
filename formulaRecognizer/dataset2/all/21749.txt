@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = a x ^ { 2 } + b x + c ( a \neq 0 ) \text { 至 多 有 两 个 不 动 点 }

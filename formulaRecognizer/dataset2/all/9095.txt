@@ -1,0 +1,1 @@
+\text { ( 1 ) } y = \alpha + \beta x ^ { 2 } \text { , ( 2 ) } y = \mathrm { e } ^ { \lambda x + t }

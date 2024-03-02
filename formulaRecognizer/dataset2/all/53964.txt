@@ -1,0 +1,1 @@
+\text { 若 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } 4 ^ { b _ { 1 } - 1 } 4 ^ { b _ { 2 } - 1 } \cdots 4 ^ { b _ { n } - 1 } = \left( a _ { n } + 1 \right) ^ { b _ { n } } \left( n \in \mathbf { N } ^ { * } \right)

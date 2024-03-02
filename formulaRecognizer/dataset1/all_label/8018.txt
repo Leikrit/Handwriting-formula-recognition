@@ -1,0 +1,1 @@
+\lambda _ { 1 } + \lambda _ { 2 } = 0

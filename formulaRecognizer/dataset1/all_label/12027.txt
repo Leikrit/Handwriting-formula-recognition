@@ -1,0 +1,1 @@
+\text { 设 向 量 } \boldsymbol { a } , \boldsymbol { b } \text { 满 足 } | \boldsymbol { a } | = 1 , | \boldsymbol { b } | = 2 \text { , 且 } \boldsymbol { a } \perp ( \boldsymbol { a } + \boldsymbol { b } ) \text { , 则 向 量 } \boldsymbol { a } \text { 在 向 量 } \boldsymbol { b } \text { 方 向 上 的 投 影 为 }

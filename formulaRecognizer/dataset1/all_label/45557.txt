@@ -1,0 +1,1 @@
+\frac { 1 0 } { 3 } = \frac { x ^ { 2 } + y ^ { 2 } } { x ^ { 2 } } \cdot \frac { \cos ^ { 2 } \theta } { \sin ^ { 2 } \theta + \cos ^ { 2 } \theta } + \frac { x ^ { 2 } + y ^ { 2 } } { y ^ { 2 } } \cdot

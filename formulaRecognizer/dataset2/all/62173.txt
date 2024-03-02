@@ -1,0 +1,1 @@
+\text { 曲 线 } C _ { 2 } : \sqrt { 2 } \rho \sin \left( \theta - \frac { \pi } { 4 } \right) - 2 = 0

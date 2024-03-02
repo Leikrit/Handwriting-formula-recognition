@@ -1,0 +1,1 @@
+\sin 1 3 3 ^ { \circ } > \sin 4 6 ^ { \circ } > \sin 2 3 ^ { \circ }

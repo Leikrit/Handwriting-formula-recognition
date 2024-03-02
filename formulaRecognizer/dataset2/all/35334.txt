@@ -1,0 +1,1 @@
+a _ { 1 } + a _ { 2 } + \cdots + a _ { 1 9 - n } \left( n < 1 9 , n \in \mathbf { N } ^ { * } \right) \text { 成 立 }

@@ -1,0 +1,1 @@
+\l g T _ { n } = \l g \left( 1 + a _ { 1 } \right) + \l g \left( 1 + a _ { 2 } \right) + \cdots + \l g \left( 1 + a _ { n } \right) = \left( 1 + 2 ^ { 1 } + \cdots + 2 ^ { n - 1 } \right) \l g 3 = \left( 2 ^ { n } - 1 \right) \l g 3 =

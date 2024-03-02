@@ -1,0 +1,1 @@
+\text { 若 } \mathrm { e } ^ { a } + 2 a = \mathrm { e } ^ { b } + 3 b

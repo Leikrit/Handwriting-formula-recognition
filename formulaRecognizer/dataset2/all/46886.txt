@@ -1,0 +1,1 @@
+\frac { \left| F _ { 1 } M \right| } { \left| F _ { 1 } N \right| } = \frac { 1 } { 2 }

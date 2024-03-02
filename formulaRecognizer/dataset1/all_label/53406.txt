@@ -1,0 +1,1 @@
+y = - \frac { b ^ { 2 } } { y _ { 0 } } \left( \frac { x _ { 0 } x } { a ^ { 2 } } + \frac { 1 } { 2 } \right)

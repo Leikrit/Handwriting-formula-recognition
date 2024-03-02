@@ -1,0 +1,1 @@
+b = \log _ { \sqrt { 2 } } \sqrt { 3 }

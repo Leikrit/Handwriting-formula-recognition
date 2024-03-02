@@ -1,0 +1,1 @@
+\overrightarrow { A _ { 2 } B _ { 2 } } = \mu \overrightarrow { A _ { 2 } E }

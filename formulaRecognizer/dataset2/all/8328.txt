@@ -1,0 +1,1 @@
+\text { 点 } B \left( \rho _ { 2 } , \frac { \pi } { 6 } \right) \text { 在 圆 } C : \rho = 4 \sin \theta \text { 上 }

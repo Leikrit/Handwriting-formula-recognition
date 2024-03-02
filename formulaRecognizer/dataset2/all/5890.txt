@@ -1,0 +1,1 @@
+\text { 求 证 : } | A B | = \frac { 4 \sqrt { 2 } } { 2 - \cos ^ { 2 } \theta } \text { ; }

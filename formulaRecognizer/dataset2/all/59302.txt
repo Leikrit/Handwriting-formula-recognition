@@ -1,0 +1,1 @@
+\lim _ { x \rightarrow \infty } \left( \frac { 2 x ^ { 2 } } { x + 1 } - a x - b \right) = 2

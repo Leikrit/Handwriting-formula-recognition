@@ -1,0 +1,1 @@
+4 ^ { a + 1 } \times ( \sqrt { 3 } ) ^ { 2 - b } = 4 \cdot \left( 2 ^ { a } \right) ^ { 2 } \times \frac { 3 } { \sqrt { 3 ^ { b } } } = 4 \times 3 ^ { 2 } \times \frac { 3 } { \sqrt { 1 8 } } = 3 6 \times \frac { 1 } { \sqrt { 2 } } = 1 8 \sqrt { 2 }

@@ -1,0 +1,1 @@
+\mathrm { E } \left( \xi _ { 1 } \right) < \mathrm { E } \left( \xi _ { 2 } \right)

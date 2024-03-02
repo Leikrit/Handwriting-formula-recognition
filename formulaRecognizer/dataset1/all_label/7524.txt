@@ -1,0 +1,1 @@
+x \in \{ x | | x - 1 \mid \leq s l a n t 1 \}

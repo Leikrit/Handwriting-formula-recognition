@@ -1,0 +1,1 @@
+\text { 若 正 数 } a , b \text { 满 足 } 2 + \log _ { 2 } a = 3 + \log _ { 3 } b = \log _ { 6 } ( a + b )

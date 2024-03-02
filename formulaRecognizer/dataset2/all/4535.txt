@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \sqrt { a x ^ { 2 } + a b x + b } \text { 的 定 义 域 为 } \{ x \mid 1 \leq s l a n t

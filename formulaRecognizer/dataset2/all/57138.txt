@@ -1,0 +1,1 @@
+\sin \omega x ( \omega > 0 ) \text { 两 个 相 邻 的 极 值 点 }

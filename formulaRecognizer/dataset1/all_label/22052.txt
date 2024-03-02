@@ -1,0 +1,1 @@
+I _ { 3 } = | O C | \cdot | O D | \cdot \cos \ a n g l e C O D < | O A | \cdot | O B | \cdot \cos \ a n g l e A O B = I _ { 1 } < 0 < I _ { 2 }

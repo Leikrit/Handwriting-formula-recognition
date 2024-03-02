@@ -1,0 +1,1 @@
+\text { 已 知 } f ( x ) = x ^ { 2 } - ( a - 1 ) x \mathrm { e } ^ { x - 1 } - ( a + 1 ) \mathrm { e } ^ { 2 ( x - 1 ) } \text { 恰 有 三 个 不 }

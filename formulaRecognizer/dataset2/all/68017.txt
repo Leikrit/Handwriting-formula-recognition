@@ -1,0 +1,1 @@
+\text { 第 } 0 \text { 格 , 第 } 1 \text { 格 , 第 } 2 \text { 格 , } \cdots \text { , 第 } 5 0 \text { 格 }

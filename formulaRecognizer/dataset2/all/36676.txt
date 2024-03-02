@@ -1,0 +1,1 @@
+\text { 且 } 0 < \beta < \alpha < \frac { \pi } { 2 } \text { , 求 } \beta \text { . }

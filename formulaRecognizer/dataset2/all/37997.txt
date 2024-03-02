@@ -1,0 +1,1 @@
+\text { 且 } f ( x ) \text { 在 区 间 } [ m , n ] \text { 上 的 值 域 }

@@ -1,0 +1,1 @@
+\text { 集 合 } M = \left\{ a \mid a = ( x , y ) , y \geq x ^ { 2 } \right\} \text { 是 “ 凸 集 ” }

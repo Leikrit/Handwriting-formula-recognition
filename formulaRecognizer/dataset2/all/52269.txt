@@ -1,0 +1,1 @@
+\text { 式 如 } | A B | = | A F | + | B F | = \frac { 2 p } { 1 - \cos ^ { 2 } \theta } = \frac { 2 p } { \sin ^ { 2 } \theta }

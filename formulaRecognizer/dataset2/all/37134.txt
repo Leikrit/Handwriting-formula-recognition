@@ -1,0 +1,1 @@
+\overrightarrow { D F } = \frac { 4 } { 5 } \overrightarrow { A D } - \frac { 2 } { 5 } \overrightarrow { A B }

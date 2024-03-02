@@ -1,0 +1,1 @@
+\text { “ 直 角 距 离 ” 为 } d ( A , B ) = \left| x _ { 1 } - x _ { 2 } \right| + \left| y _ { 1 } - y _ { 2 } \right|

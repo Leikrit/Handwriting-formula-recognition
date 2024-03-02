@@ -1,0 +1,1 @@
+f ( x ) = \sin \frac { \pi } { 2 } x

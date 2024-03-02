@@ -1,0 +1,1 @@
+\text { 令 } \boldsymbol { a } \odot \boldsymbol { b } = m q -

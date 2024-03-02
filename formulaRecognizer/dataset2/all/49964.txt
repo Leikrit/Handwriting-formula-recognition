@@ -1,0 +1,1 @@
+\frac { | M F | } { | N F | } = \frac { | P F | } { | P H | }

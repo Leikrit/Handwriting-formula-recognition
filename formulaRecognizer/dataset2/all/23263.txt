@@ -1,0 +1,1 @@
+\text { 只 需 将 } y = \frac { \sqrt { 2 } } { 2 } ( \cos 3 x - \sin 3 x )

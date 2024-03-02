@@ -1,0 +1,1 @@
+\text { 若 随 机 变 量 } \xi \text { 服 从 正 态 分 布 } N \left( \mu , \sigma ^ { 2 } \right)

@@ -1,0 +1,1 @@
+= \frac { a } { 2 \sin \frac { A } { 2 } } \cdot \frac { \cos ( B - C ) - \cos ( B + C ) } { 2 \sin \frac { B + C } { 2 } \cos \frac { B - C } { 2 } }

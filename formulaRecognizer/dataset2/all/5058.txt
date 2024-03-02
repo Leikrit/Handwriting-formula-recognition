@@ -1,0 +1,1 @@
+\text { 故 当 } a + 1 = \sqrt { \mathrm { e } } , b = \frac { \sqrt { \mathrm { e } } } { 2 } \text { 时 }

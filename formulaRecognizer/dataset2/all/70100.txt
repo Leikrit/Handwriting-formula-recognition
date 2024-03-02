@@ -1,0 +1,1 @@
+\text { 已 知 } z = 2 \mathrm { i } - \frac { ( 1 + \mathrm { i } ) ^ { 2 } } { 1 - \mathrm { i } } \text { ( } \mathrm { i } \text { 为 虚 数 单 位 ) }

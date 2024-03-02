@@ -1,0 +1,1 @@
+\ a n g l e A = \frac { 2 \pi } { 3 }

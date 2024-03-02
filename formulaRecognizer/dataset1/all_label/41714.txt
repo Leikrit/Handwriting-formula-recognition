@@ -1,0 +1,1 @@
+\left\{ \frac { 2 ^ { n } } { a _ { n } \cdot a _ { n + 1 } } \right\}

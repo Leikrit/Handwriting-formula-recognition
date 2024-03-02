@@ -1,0 +1,1 @@
+\text { 令 } w = - 1 , \quad \boldsymbol { n } = ( 0 , 2 , - 1 )

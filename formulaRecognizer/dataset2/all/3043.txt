@@ -1,0 +1,1 @@
+\text { 集 合 } A = \left\{ x \mid 2 ^ { 1 - x } \leq s l a n t \frac { 1 } { 1 6 } \right\}

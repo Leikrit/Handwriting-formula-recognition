@@ -1,0 +1,1 @@
+\text { 设 伸 缩 变 换 } \left( x ^ { \prime } , y ^ { \prime } \right) = ( x , \sqrt { 3 } y )

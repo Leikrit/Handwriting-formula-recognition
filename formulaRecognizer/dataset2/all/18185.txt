@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = f ( x ) - k ( x - \ln x ) = ( x - 2 ) \mathrm { e } ^ { x } - k ( x - \ln x )

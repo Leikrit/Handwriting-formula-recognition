@@ -1,0 +1,1 @@
+\text { 使 得 } f ( x ) > \frac { 1 } { x } - \mathrm { e } ^ { 1 - x } \text { 在 区 间 } ( 1 , + \infty ) \text { 内 恒 成 立 }

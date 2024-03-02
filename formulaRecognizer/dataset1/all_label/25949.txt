@@ -1,0 +1,1 @@
+\frac { \cos 2 \alpha } { 1 + \tan \alpha }

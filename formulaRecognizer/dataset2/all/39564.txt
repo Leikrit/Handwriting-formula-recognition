@@ -1,0 +1,1 @@
+\text { 则 } \sin \left( 2 \alpha + \frac { \pi } { 4 } \right) \text { 的 值 是 }

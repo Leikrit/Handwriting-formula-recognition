@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = k x - \ln x \text { 在 区 间 }

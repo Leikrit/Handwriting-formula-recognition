@@ -1,0 +1,1 @@
+\left\{ x \mid \frac { x - 1 } { x + 3 } \geqslant 2 \right\}

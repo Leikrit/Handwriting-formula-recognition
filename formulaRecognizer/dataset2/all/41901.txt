@@ -1,0 +1,1 @@
+x \rightarrow y = 6 - x

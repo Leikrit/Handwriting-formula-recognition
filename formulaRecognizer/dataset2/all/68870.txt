@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \frac { g ( x ) } { x }

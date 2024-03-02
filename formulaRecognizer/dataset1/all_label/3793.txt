@@ -1,0 +1,1 @@
+\overrightarrow { A C } = \lambda \overrightarrow { A E } + \mu \overrightarrow { A F }

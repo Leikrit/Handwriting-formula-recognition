@@ -1,0 +1,1 @@
+y = \tan x + \sin x - | \tan x - \sin x |

@@ -1,0 +1,1 @@
+\overrightarrow { A B } \perp \overrightarrow { A C } , | \overrightarrow { A B } | = \frac { 1 } { t } , | \overrightarrow { A C } | = t

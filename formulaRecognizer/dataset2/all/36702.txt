@@ -1,0 +1,1 @@
+\text { 函 数 } y = x \cos x + \sin x \text { 在 区 间 } [ - \pi , \pi ] \text { 上 的 }

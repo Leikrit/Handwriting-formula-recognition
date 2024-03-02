@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin \left( x + \frac { 3 \pi } { 8 } \right)

@@ -1,0 +1,1 @@
+\cos B + \cos A \cos C = \sqrt { 3 } \cos A \sin C

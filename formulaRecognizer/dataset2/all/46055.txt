@@ -1,0 +1,1 @@
+\text { 抛 物 线 } y ^ { 2 } = 2 p x \text { 的 焦 点 为 } F \left( \frac { p } { 2 } , 0 \right)

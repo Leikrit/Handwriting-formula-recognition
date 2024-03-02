@@ -1,0 +1,1 @@
+\left\{ b _ { n } \right\} \text { 是 首 项 为 } b _ { 1 } \text { , 公 比 为 } q \text { 的 }

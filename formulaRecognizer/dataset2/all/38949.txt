@@ -1,0 +1,1 @@
+\text { 如 果 } \left\{ a _ { n } \right\} \text { 不 是 等 差 数 列 }

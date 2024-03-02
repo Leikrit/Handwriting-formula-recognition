@@ -1,0 +1,1 @@
+\text { 且 函 数 } f ( x ) \text { 在 } \left( x _ { 1 } , x _ { 2 } \right) \text { 上 单 调 }

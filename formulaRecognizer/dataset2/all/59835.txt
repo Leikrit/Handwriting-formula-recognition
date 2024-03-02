@@ -1,0 +1,1 @@
+f ( x ) \geqslant a g ( x ) ( a \in \mathbf { R } ) \text { 恒 成 立 }

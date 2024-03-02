@@ -1,0 +1,1 @@
+\text { 已 知 抛 物 线 } \Omega : x ^ { 2 } = 2 p y ( p > 0 ) \text { 与 双 曲 线 } \Gamma : \frac { y ^ { 2 } } { a ^ { 2 } } - \frac { x ^ { 2 } } { 3 } = 1 ( a > 0 ) \text { 有 相 同 的 焦 点 }

@@ -1,0 +1,1 @@
+\forall x \not i n \mathbf { N } , \ln x ( x + 1 ) \geqslant 1

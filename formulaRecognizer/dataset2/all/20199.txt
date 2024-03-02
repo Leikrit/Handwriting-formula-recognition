@@ -1,0 +1,1 @@
+\text { 令 } t = \cos \frac { B - C } { 2 } \in \left( \frac { \sqrt { 3 } } { 2 } , 1 \right)

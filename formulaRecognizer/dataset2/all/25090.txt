@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \text { 在 } \left[ m ^ { 2 } , n \right] \text { 上 的 最 大 }

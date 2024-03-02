@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin ( \omega x + \varphi ) ( \omega > 0 , | \varphi | < \pi ) \text { 的 部 分 图 象 如 }

@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 满 足 } a _ { 1 } = 3 , a _ { n + 1 } = \frac { 3 n - 1 } { 3 n + 2 } a _ { n } ( n \geqslant 1 ) \text { , 求 } a _ { n } \text { 的 通 项 公 式 }

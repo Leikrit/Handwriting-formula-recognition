@@ -1,0 +1,1 @@
+| T A | \cdot | T B | = \sqrt { 1 + k _ { 1 } ^ { 2 } } \left| t _ { 1 } \right| \cdot \sqrt { 1 + k _ { 1 } ^ { 2 } } \left| t _ { 2 } \right| = \left( 1 + k _ { 1 } ^ { 2 } \right) \cdot \frac { \left| y _ { 0 } ^ { 2 } - 4 x _ { 0 } \right| } { k _ { 1 } ^ { 2 } }

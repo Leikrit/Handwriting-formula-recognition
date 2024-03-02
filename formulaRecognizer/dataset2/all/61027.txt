@@ -1,0 +1,1 @@
+\text { 设 } l \text { 为 曲 线 } C : y = \frac { \ln x } { x }

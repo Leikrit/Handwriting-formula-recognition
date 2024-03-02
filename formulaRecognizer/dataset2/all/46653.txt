@@ -1,0 +1,1 @@
+\text { 求 } h ( x ) = f ( x ) - \mathrm { e g } ( x ) \text { 的 最 小 值 }

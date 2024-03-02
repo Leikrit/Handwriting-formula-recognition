@@ -1,0 +1,1 @@
+a = \sqrt { 3 } , \sin B = \frac { 1 } { 2 } , C = \frac { \pi } { 6 }

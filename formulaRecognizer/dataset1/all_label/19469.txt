@@ -1,0 +1,1 @@
+\left| \overrightarrow { F _ { 2 } M } + \overrightarrow { F _ { 2 } N } \right| = \frac { 2 \sqrt { 2 6 } } { 3 }

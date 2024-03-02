@@ -1,0 +1,1 @@
+U = \{ x \mid 0 < x < 5 , \quad x \in \mathbf { N } \} = \{ 1 , 2 , 3 , 4 \}

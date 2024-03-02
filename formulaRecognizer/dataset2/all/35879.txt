@@ -1,0 +1,1 @@
+\frac { \cos B } { \sin C } \cdot \overrightarrow { A B } + \frac { \cos C } { \sin B } \cdot \overrightarrow { A C } = 2 m \cdot \overrightarrow { A O }

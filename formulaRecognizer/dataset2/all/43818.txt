@@ -1,0 +1,1 @@
+S = S + \left( x _ { i } - \bar { x } \right) ^ { 2 }

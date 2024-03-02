@@ -1,0 +1,1 @@
+\text { 使 得 } \left( 3 x + \frac { 1 } { x \sqrt { x } } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right) \text { 的 展 开 式 中 }

@@ -1,0 +1,1 @@
+\text { 取 出 的 } 3 \text { 个 球 颜 色 齐 全 但 号 码 不 全 的 概 率 是 } P = \frac { \mathrm { C } _ { 3 } ^ { 1 } \mathrm { C } _ { 3 } ^ { 1 } \mathrm { C } _ { 3 } ^ { 1 } - 6 } { \mathrm { C } _ { 9 } ^ { 3 } } = \frac { 1 } { 4 }

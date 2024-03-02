@@ -1,0 +1,1 @@
+\left| P F _ { 1 } \right| + \left| Q F _ { 1 } \right| - | P Q |

@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } x = \mathrm { e } \text { 处 取 得 极 大 值 } \frac { 1 } { \mathrm { e } }

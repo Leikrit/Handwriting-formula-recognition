@@ -1,0 +1,1 @@
+f ( x ) \geqslant a x \cos x \Leftrightarrow x + \sin x \geqslant a x \cos x

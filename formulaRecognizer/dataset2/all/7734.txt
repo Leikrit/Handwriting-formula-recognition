@@ -1,0 +1,1 @@
+C \text { 变 为 曲 线 } \frac { y ^ { \prime 2 } } { 4 } + \left( x ^ { \prime } - 1 \right) ^ { 2 } = 1

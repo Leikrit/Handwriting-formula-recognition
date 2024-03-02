@@ -1,0 +1,1 @@
+a = 2 m \mathrm { e } ^ { 2 m }

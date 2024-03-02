@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \frac { 8 \cdot 1 } { 1 ^ { 2 } \cdot 3 ^ { 2 } } , \frac { 8 \cdot 2 } { 3 ^ { 2 } \cdot 5 ^ { 2 } } , \cdots , \frac { 8 n } { ( 2 n - 1 ) ^ { 2 } ( 2 n + 1 ) ^ { 2 } } , \cdots \text { , }

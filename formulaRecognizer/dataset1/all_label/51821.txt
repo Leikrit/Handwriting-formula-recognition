@@ -1,0 +1,1 @@
+( \mathrm { e } , \mathrm { e } + 1 ]

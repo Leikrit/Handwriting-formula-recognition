@@ -1,0 +1,1 @@
+\frac { 1 } { \sqrt { a } } + \frac { 1 } { \sqrt { b } } \geqslant 2 \sqrt { 2 }

@@ -1,0 +1,1 @@
+\text { 求 和 结 束 后 再 利 用 } b _ { n } \text { 和 } a _ { n } \text { 之 间 的 关 系 得 到 } T _ { n } \text { 与 } S _ { n } \text { 之 间 }

@@ -1,0 +1,1 @@
+f ( x ) = ( 1 + \cot x ) \sin ^ { 2 } x + m \sin \left( x + \frac { \pi } { 4 } \right) \cdot

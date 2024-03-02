@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \left| x + \frac { 4 } { x } - a \right| + a \text { 在 区 间 } [ 1 , 4 ] \text { 上 的 最 大 值 是 } 5

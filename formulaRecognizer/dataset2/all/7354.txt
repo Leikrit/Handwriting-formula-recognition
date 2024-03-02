@@ -1,0 +1,1 @@
+\text { 非 零 向 量 } a \text { 和 } b \text { 满 足 } | a | = | \boldsymbol { b } | = | \boldsymbol { a } - \boldsymbol { b } | \text { , 则 } a \text { 与 } a + b

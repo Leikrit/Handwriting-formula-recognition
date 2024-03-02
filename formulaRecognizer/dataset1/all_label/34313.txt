@@ -1,0 +1,1 @@
+\left\{ ( x , y ) \mid \frac { y - 3 } { x - 2 } = 1 \right\} , N = \{ ( x , y ) \mid y \neq x + 1 \}

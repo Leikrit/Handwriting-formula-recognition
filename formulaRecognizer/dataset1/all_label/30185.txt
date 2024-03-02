@@ -1,0 +1,1 @@
+| \overrightarrow { A B } | ^ { 2 } = 2 \overrightarrow { B A } \cdot \overrightarrow { C A }

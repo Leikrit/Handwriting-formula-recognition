@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \overrightarrow { A D } + x \overrightarrow { A B } + y \overrightarrow { A A _ { 1 } }

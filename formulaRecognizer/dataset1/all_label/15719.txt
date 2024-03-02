@@ -1,0 +1,1 @@
+I \left( 2 ^ { k } - 2 \right) - I \left( 2 ^ { k } - 1 \right) = 1 \left( k \in \mathbf { N } _ { + } , k \geqslant 2 \right)

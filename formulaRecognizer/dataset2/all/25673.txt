@@ -1,0 +1,1 @@
+\frac { a \sin \alpha + b \cos \alpha } { a \cos \alpha - b \sin \alpha } =

@@ -1,0 +1,1 @@
+g ( 1 ) = \mathrm { e } - a \ln ( a - 1 ) + 1 \geqslant 0

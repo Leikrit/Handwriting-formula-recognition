@@ -1,0 +1,1 @@
+\text { 已 知 向 量 } \boldsymbol { a } , \boldsymbol { b } \text { 满 足 } | \boldsymbol { a } | = | \boldsymbol { b } | = 2

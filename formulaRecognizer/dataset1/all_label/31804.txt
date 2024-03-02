@@ -1,0 +1,1 @@
+f ( x ) = \cos \left( x + \frac { 2 } { 3 } \pi \right) + 2 \cos ^ { 2 } \frac { x } { 2 } , x \in \mathbf { R }

@@ -1,0 +1,1 @@
+= \lim _ { x \rightarrow 0 ^ { + } } \frac { - x ^ { - 1 } } { - 2 x ^ { - 3 } } = \lim _ { x \rightarrow 0 ^ { + } } \frac { x ^ { 2 } } { 2 } = 0

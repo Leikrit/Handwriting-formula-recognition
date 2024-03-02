@@ -1,0 +1,1 @@
+\text { 对 于 } \forall x \in \mathbf { R } \text { 都 有 } f ( 1 + x ) = f ( 1 - x )

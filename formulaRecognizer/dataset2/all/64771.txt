@@ -1,0 +1,1 @@
+\text { 有 穷 数 列 } \left\{ b _ { n } \right\} , \left\{ c _ { n } \right\}

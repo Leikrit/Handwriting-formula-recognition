@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = 2 \ln x - \frac { 1 } { 2 } x ^ { 2 } - x + a \text { . 若 对 任 意 的 } m \in ( 4 , 6 ]

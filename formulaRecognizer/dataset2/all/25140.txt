@@ -1,0 +1,1 @@
+\text { 定 义 在 } \mathbf { R } \text { 上 的 函 数 } y = f ( x )

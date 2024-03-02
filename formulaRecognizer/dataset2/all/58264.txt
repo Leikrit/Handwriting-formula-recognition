@@ -1,0 +1,1 @@
+a _ { n } ^ { 2 } - 2 a _ { n } = a _ { n - 1 } \cdot a _ { n + 1 } - a _ { n + 1 } - a _ { n - 1 } \left( n \geqslant 2 , n \in \mathbf { N } ^ { * } \right)

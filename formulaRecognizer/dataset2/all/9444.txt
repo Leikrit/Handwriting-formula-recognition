@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \frac { 2 \sin x - 3 } { \sin x - 2 }

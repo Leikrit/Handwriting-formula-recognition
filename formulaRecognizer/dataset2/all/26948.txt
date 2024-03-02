@@ -1,0 +1,1 @@
+\text { 不 等 式 两 边 取 对 数 得 } x \geqslant \ln ( x + 1 )

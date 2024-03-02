@@ -1,0 +1,1 @@
+f ( x ) = \ln | x | + | \sin x | ( - \pi \leq s l a n t x \leq s l a n t \pi

@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } M = \{ x \mid x < 1 \} , N = \left\{ x \mid x ^ { 2 } - x < 0 \right\}

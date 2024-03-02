@@ -1,0 +1,1 @@
+\ t h e r e f o r e \text { 圆 心 } ( 1 , 2 ) \text { 到 直 线 } 3 x + 4 y + 4 = 0 \text { 的 距 离 } d = \frac { | 3 + 8 + 4 | } { \sqrt { 3 ^ { 2 } + 4 ^ { 2 } } } = 3

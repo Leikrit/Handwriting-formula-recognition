@@ -1,0 +1,1 @@
+f ( x ) = a \ln x + x , x \in ( 1 , + \infty )

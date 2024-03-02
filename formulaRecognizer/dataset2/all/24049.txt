@@ -1,0 +1,1 @@
+\alpha \perp \beta , \alpha \cap \beta = m , n \perp m \Rightarrow n \perp \beta

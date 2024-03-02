@@ -1,0 +1,1 @@
+\left\{ a _ { n } \right\} \text { 是 公 差 不 为 } 0 \text { 的 等 差 }

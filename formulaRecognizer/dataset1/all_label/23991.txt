@@ -1,0 +1,1 @@
+\frac { \sin A + \sin B } { \sin C } = 3 c

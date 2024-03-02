@@ -1,0 +1,1 @@
+\text { 考 虑 方 程 } \mathrm { e } ^ { x } - k x = 0 \text { 在 } ( 0 , 2 ) \text { 上 的 解 的 个 数 }

@@ -1,0 +1,1 @@
+\frac { 1 } { d _ { 1 } } + \frac { 1 } { d _ { 2 } } + \cdots + \frac { 1 } { d _ { n } } > \frac { 4 } { 9 }

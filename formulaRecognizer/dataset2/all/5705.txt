@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) \text { 在 区 间 } ( 0 , + \infty ) \text { 内 可 导 }

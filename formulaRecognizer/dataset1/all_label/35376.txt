@@ -1,0 +1,1 @@
+= \lambda _ { 1 } \overrightarrow { A F _ { 1 } } , \overrightarrow { M B } = \lambda _ { 2 } \overrightarrow { B F _ { 1 } }

@@ -1,0 +1,1 @@
+\left\{ p _ { i + 1 } - p _ { i } \right\} ( i = 0 , 1 , 2 , \cdots , 7 )

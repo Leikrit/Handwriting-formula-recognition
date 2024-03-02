@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \cos 2 x - 2 \sqrt { 3 } \sin x \cos x \text { 的 最 小 正 }

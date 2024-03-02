@@ -1,0 +1,1 @@
+\left| f _ { k } \left( a _ { 2 } \right) - f _ { k } \left( a _ { 1 } \right) \right| + \cdots + \left| f _ { k } \left( a _ { 9 9 } \right) - f _ { k } \left( a _ { 9 8 } \right) \right| , k = 1 , 2 , 3 ,

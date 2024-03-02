@@ -1,0 +1,1 @@
+1 , ( 1 + 2 ) , \left( 1 + 2 + 2 ^ { 2 } \right) , \cdots , \left( 1 + 2 + 2 ^ { 2 } + \cdots + 2 ^ { n - 1 } \right) , \cdots

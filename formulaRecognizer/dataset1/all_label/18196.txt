@@ -1,0 +1,1 @@
+P ^ { \prime } \left( \frac { y } { x ^ { 2 } + y ^ { 2 } } , \frac { - x } { x ^ { 2 } + y ^ { 2 } } \right)

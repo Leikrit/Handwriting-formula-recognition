@@ -1,0 +1,1 @@
+\bar { z } = a \bar { x } + ( 1 - a ) \bar { y }

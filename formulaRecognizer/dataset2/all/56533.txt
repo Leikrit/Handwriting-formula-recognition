@@ -1,0 +1,1 @@
+\text { 记 } f ( x ) = \o p e r a t o r n a m e { I m } z ( \o p e r a t o r n a m e { I m } z \text { 表 示 复 数 } z \text { 的 虚 部 } )

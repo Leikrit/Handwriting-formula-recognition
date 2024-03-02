@@ -1,0 +1,1 @@
+\left( x + \frac { 1 } { \sqrt [ 3 ] { x } } - 4 y \right) ^ { 7 }

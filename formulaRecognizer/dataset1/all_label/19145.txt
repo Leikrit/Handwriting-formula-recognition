@@ -1,0 +1,1 @@
+\log _ { 5 } \left( x ^ { 2 } + 2 x - 2 \right) = 0 , 2 \log _ { 5 } ( x + 2 ) - \log _ { 5 } y + \frac { 1 } { 2 } = 0

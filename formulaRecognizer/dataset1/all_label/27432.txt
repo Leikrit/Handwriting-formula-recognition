@@ -1,0 +1,1 @@
+3 | \overrightarrow { A B } | \cdot | \overrightarrow { B C } | \cdot \cos 1 2 0 ^ { \circ } - 6 | \overrightarrow { B C } | ^ { 2 } + 4 | \overrightarrow { A B } | \cdot

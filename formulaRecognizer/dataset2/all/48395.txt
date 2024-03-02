@@ -1,0 +1,1 @@
+B = \left\{ x \mid \frac { x + 3 } { x - 1 } < 0 \right\}

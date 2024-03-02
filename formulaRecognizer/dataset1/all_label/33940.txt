@@ -1,0 +1,1 @@
+( 4 - 4 \lambda ) a ^ { 2 } + ( - 2 - 4 \lambda ) a b + ( 4 - \lambda ) b ^ { 2 }

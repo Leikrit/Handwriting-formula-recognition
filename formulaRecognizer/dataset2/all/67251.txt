@@ -1,0 +1,1 @@
+S _ { n } \text { 满 足 } 2 S _ { n } = 4 a _ { n } - a _ { 2 } \left( n \in \mathbf { N } ^ { * } \right)

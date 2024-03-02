@@ -1,0 +1,1 @@
+\overrightarrow { A M } + \overrightarrow { A N } = x \overrightarrow { A B } + y \overrightarrow { A D }

@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = f ( x ) - m x ( m \in \mathbf { R } ) \text { 是 单 调 的 }

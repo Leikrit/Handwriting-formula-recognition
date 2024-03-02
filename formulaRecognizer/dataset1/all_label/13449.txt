@@ -1,0 +1,1 @@
+< \frac { 4 } { \pi ^ { 2 } } + \frac { 1 } { \pi ^ { 2 } } \left[ 1 + \frac { 1 } { 1 \cdot 2 } + \frac { 1 } { 2 \cdot 3 } + \cdots + \frac { 1 } { ( n - 2 ) \cdot ( n - 1 ) } \right]

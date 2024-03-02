@@ -1,0 +1,1 @@
+P ( t , 1 ) \text { 表 示 } 6 \text { 月 } t \text { 日 的 日 }

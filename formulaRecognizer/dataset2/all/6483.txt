@@ -1,0 +1,1 @@
+\text { 作 出 函 数 } y = \log _ { 2 } ( x + 1 ) \text { 和 } y = | x | \text { 的 图 象 }

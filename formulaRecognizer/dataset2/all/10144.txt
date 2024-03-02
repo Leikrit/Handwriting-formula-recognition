@@ -1,0 +1,1 @@
+\text { 设 函 数 } m ( x ) = - a x ^ { 2 } + ( a + 2 + \sqrt { \mathrm { e } } ) x + 2 - \sqrt { \mathrm { e } }

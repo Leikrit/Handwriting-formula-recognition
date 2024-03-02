@@ -1,0 +1,1 @@
+\left[ \frac { \pi } { 1 2 } , \frac { 5 \pi } { 1 2 } \right]

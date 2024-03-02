@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = m \left( \mathrm { e } ^ { m x } - 1 \right) + 2 x

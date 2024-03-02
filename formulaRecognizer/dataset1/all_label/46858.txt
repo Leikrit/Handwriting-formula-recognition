@@ -1,0 +1,1 @@
+S _ { n } = \frac { \sqrt { 3 } } { 3 } \left( \frac { 3 } { 4 } \right) ^ { n }

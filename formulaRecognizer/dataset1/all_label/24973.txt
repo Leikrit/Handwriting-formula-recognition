@@ -1,0 +1,1 @@
+\sqrt { 5 a _ { m n } } - \sqrt { a _ { m } a _ { n } } > 1

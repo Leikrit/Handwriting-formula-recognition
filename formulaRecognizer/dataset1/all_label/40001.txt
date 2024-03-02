@@ -1,0 +1,1 @@
+A = \left\{ a \mid f ( x ) = \ln x + \frac { 1 } { 2 } x ^ { 2 } - 2 a x \right.

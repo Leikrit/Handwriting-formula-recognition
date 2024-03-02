@@ -1,0 +1,1 @@
+\text { 在 ( 1 ) } \left( A B ^ { 2 } + A C ^ { 2 } - B C ^ { 2 } \right) \tan \ a n g l e B A C = \sqrt { 3 } A B \cdot A C

@@ -1,0 +1,1 @@
+\frac { S _ { \triangle A B C } } { S _ { \triangle A B D } } = \frac { 2 } { 3 }

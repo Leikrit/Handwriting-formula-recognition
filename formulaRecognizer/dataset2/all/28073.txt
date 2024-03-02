@@ -1,0 +1,1 @@
+\cos 3 0 ^ { \circ } = \frac { \boldsymbol { n } \cdot \boldsymbol { n } _ { 1 } } { | \boldsymbol { n } | \left| \boldsymbol { n } _ { 1 } \right| } = \frac { 1 } { \sqrt { a ^ { 2 } + b ^ { 2 } + 1 } }

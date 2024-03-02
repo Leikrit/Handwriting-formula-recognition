@@ -1,0 +1,1 @@
+\text { 若 集 合 } S = \left\{ y \mid y = 3 ^ { x } , x \in \mathbf { R } \right\}

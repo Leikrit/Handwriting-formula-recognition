@@ -1,0 +1,1 @@
+\text { 则 } \sum _ { i = 1 } ^ { 7 } u _ { i } \approx 2 2

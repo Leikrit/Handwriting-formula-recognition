@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = f ( x ) - \sqrt { 3 } \text { 在 } [ 0 , 1 0 ] \text { 内 共 有 } 8 \text { 个 零 点 }

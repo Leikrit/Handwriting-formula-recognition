@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = f ^ { \prime } \left( \frac { \pi } { 4 } \right) \cos x + \sin x

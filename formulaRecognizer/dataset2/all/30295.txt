@@ -1,0 +1,1 @@
+\text { 令 } \ln \left( b - 1 + \sqrt { b ^ { 2 } - 2 b } \right) = \ln \sqrt { 2 }

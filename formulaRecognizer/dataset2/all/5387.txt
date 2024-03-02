@@ -1,0 +1,1 @@
+\text { 已 知 } \frac { \bar { z } } { 1 + \mathrm { i } } = 2 + \mathrm { i }

@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ \frac { n ( n + 1 ) } { 2 } \right\} \left( n \in \mathbf { N } ^ { * } \right) \text { 的 前 } 3 \text { 项 和 是 }

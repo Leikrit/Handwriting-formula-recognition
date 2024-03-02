@@ -1,0 +1,1 @@
+\overrightarrow { O P } = \overrightarrow { O A } + \overrightarrow { O B }

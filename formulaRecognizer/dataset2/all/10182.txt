@@ -1,0 +1,1 @@
+\text { 点 } A ( - 1 , 4 ) \text { 射 到 点 } B \text { 后 经 直 线 } l \text { 反 射 }

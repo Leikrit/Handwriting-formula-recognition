@@ -1,0 +1,1 @@
+\text { 且 } \overrightarrow { A P } = \frac { a _ { 1 } + a _ { 4 } } { b _ { 3 } } \cdot \overrightarrow { A B } + \lambda \cdot \overrightarrow { A C }

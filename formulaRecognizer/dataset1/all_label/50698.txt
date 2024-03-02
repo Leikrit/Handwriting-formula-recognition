@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin \left( w x + \frac { \pi } { 3 } \right) ( w > 0 ) \text { 在 } \left[ 0 , \frac { \pi } { 4 } \right] \text { 上 单 调 }

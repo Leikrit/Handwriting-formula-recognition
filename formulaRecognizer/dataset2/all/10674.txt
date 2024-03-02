@@ -1,0 +1,1 @@
+1 0 ^ { \frac { p } { q } } \neq k - \frac { 1 } { n }

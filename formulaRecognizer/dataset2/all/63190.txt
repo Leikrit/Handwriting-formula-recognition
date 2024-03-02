@@ -1,0 +1,1 @@
+\text { 有 序 数 对 } ( x , y ) \text { 称 为 向 量 } \overrightarrow { O M } \text { 的 反 射 坐 标 }

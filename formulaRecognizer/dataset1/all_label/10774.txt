@@ -1,0 +1,1 @@
+\cdots + a _ { n + k - 1 } + a _ { n + k } = 2 k a _ { n } \text { 对 任 意 正 整 数 } n ( n > k ) \text { 总 成 立 }

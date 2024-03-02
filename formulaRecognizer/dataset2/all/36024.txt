@@ -1,0 +1,1 @@
+\text { 定 义 “ 规 范 } 0 1 \text { 数 列 ” } \left\{ a _ { n } \right\} \text { 如 下 ： } \left\{ a _ { n } \right\} \text { 共 有 } 2 m

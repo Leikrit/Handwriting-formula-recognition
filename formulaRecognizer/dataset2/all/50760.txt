@@ -1,0 +1,1 @@
+\text { 若 关 于 } x \text { 的 不 等 式 } x ^ { 2 } - a x - a > 0 \text { 的 解 集 为 } ( - \infty , + \infty )

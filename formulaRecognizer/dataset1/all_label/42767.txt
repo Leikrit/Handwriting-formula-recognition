@@ -1,0 +1,1 @@
+\left( y _ { 1 } + 2 \right) \left( y _ { 2 } + 2 \right) = \left( k x _ { 1 } + t + 2 \right) \left( k x _ { 2 } + t + 2 \right) = k ^ { 2 } x _ { 1 } x _ { 2 } + k ( t + 2 ) \left( x _ { 1 } + x _ { 2 } \right) + ( t + 2 ) ^ { 2 }

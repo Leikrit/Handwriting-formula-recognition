@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \ln ( a x + 1 ) + x ^ { 3 } - x ^ { 2 } - a x \text { 在 } [ 1 , + \infty ) \text { 上 为 增 函 数 }

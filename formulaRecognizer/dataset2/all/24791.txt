@@ -1,0 +1,1 @@
+P \left( \chi ^ { 2 } \geqslant x _ { \alpha } \right)

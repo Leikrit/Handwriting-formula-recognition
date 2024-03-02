@@ -1,0 +1,1 @@
+\text { 可 得 } \frac { b } { c } + 1 \geqslant \frac { a } { c }

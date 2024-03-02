@@ -1,0 +1,1 @@
+\log _ { \sqrt { 3 } } \sqrt { a b }

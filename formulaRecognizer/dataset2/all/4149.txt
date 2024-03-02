@@ -1,0 +1,1 @@
+\text { 若 } 2 f ( x ) + 2 | 2 x + 1 | + x > 2 a ^ { 2 } - 3 \text { 对 任 意 } x \in \mathbf { R } \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+2 \sin ^ { 2 } \left( \frac { \pi } { 4 } + \frac { A } { 2 } \right) - 2 \sin B = 1

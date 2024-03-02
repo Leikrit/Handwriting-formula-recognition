@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 + \cos \frac { \pi } { 6 } } { 2 } }

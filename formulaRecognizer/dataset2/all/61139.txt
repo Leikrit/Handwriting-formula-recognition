@@ -1,0 +1,1 @@
+\text { 且 } | \boldsymbol { a } - 2 \boldsymbol { b } | \in ( 2 , 2 \sqrt { 3 } ]

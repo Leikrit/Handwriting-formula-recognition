@@ -1,0 +1,1 @@
+\overrightarrow { T A } + \overrightarrow { T P } = \overrightarrow { T Q }

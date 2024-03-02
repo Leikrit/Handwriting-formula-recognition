@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \cos x } { x } + \frac { x ^ { 2 } } { \sin x } \text { 在 区 间 } ( - \pi , 0 ) \cup ( 0 , \pi ) \text { 内 的 大 致 }

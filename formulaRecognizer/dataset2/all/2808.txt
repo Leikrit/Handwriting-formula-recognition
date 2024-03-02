@@ -1,0 +1,1 @@
+\text { 如 果 复 数 } \left( m ^ { 2 } + \mathrm { i } \right) \cdot ( 1 + m \mathrm { i } ) \text { 是 实 数 }

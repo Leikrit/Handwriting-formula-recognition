@@ -1,0 +1,1 @@
+d ( C , B D E ) = \frac { S _ { \triangle B C D } } { S _ { \triangle B D E } } \cdot d ( E , B C D ) = \frac { \frac { 1 } { 2 } \cdot \sqrt { 2 } \cdot \sqrt { 2 } } { \frac { 3 } { 2 } } \cdot 2 = \frac { 4 } { 3 }

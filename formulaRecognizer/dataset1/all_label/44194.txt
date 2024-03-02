@@ -1,0 +1,1 @@
+\frac { 1 } { m } + \frac { 2 } { n } = 2 \left( \frac { 1 } { m } + \frac { 2 } { n } \right) ( m + n ) = 2 \left( 3 + \frac { n } { m } + \frac { 2 m } { n } \right) \geqslant 6 + 4 \sqrt { 2 }

@@ -1,0 +1,1 @@
+\lambda = \frac { | \overrightarrow { O M } | } { | \overrightarrow { O A } | } = 4

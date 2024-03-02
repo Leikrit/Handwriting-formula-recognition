@@ -1,0 +1,1 @@
+c = \mathrm { e } ^ { \sqrt { 2 } - 1 } - \ln 2

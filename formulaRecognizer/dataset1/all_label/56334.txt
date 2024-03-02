@@ -1,0 +1,1 @@
+f \left( t _ { 1 } + t _ { 2 } \right) + m \geqslant 0

@@ -1,0 +1,1 @@
+x _ { n + 1 } = \frac { x _ { n } \left( x _ { n } ^ { 2 } + 3 \right) } { 3 x _ { n } ^ { 2 } + 1 } \left( n \in \mathbf { N } ^ { * } \right)

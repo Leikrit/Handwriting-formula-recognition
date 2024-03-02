@@ -1,0 +1,1 @@
+\text { 所 以 } g ( x ) = \sqrt { 3 } \sin \left( x + \frac { \pi } { 4 } - \frac { \pi } { 3 } \right) = \sqrt { 3 } \sin \left( x - \frac { \pi } { 1 2 } \right)

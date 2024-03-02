@@ -1,0 +1,1 @@
+a \sin B = b \sin \left( \frac { 2 \pi } { 3 } - A \right)

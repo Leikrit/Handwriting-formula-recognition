@@ -1,0 +1,1 @@
+\alpha = \mathrm { k } \pi + ( - 1 ) ^ { \mathrm { k } } \beta

@@ -1,0 +1,1 @@
+\text { 将 抛 物 线 } x ^ { 2 } = \frac { 1 } { 2 } y \text { 第 一 象 限 内 一 点 } \left( a _ { n } , y _ { n } \right) \text { 处 的 切 线 }

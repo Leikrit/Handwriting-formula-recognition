@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 满 足 } a _ { 1 } + \frac { a _ { 2 } } { 3 } + \frac { a _ { 3 } } { 5 } + \cdots + \frac { a _ { n } } { 2 n - 1 } = ( n + 1 ) ^ { 2 }

@@ -1,0 +1,1 @@
+C _ { 2 } \text { 在 点 } N \text { 处 的 切 线 斜 率 为 } k _ { 2 } = a x + \left. b \right| _ { x = \frac { x _ { 1 } + x _ { 2 } } { 2 } } = \frac { a \left( x _ { 1 } + x _ { 2 } \right) } { 2 } + b

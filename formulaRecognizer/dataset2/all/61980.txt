@@ -1,0 +1,1 @@
+P _ { 1 } , P _ { 2 } , P _ { 3 } \text { 三 点 共 线 且 向 量 } \overrightarrow { O P _ { 3 } } \text { 与 向 量 } \boldsymbol { a } = ( 1 , - 1 ) \text { 共 线 }

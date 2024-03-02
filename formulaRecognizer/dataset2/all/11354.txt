@@ -1,0 +1,1 @@
+\text { 当 } a = \mathrm { e } ^ { \frac { 1 } { 2 } } - 1 , b = \frac { \mathrm { e } ^ { \frac { 1 } { 2 } } } { 2 } \text { 时 }

@@ -1,0 +1,1 @@
+\text { 得 } f ( x ) = \sqrt { 3 } \sin \left( 2 x - \frac { \pi } { 3 } \right)

@@ -1,0 +1,1 @@
+\text { 求 函 数 } f ( x ) = \frac { \sin ^ { 4 } x + \cos ^ { 4 } x + \sin ^ { 2 } x \cos ^ { 2 } x } { 2 - \sin 2 x } \text { 的 最 小 正 周 }

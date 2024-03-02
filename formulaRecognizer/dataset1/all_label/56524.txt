@@ -1,0 +1,1 @@
+\left( \frac { m ^ { 2 } } { 4 } + \frac { 1 } { 3 } \right) y ^ { 2 } - m y = 0

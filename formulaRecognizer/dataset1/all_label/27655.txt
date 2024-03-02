@@ -1,0 +1,1 @@
+y = \sqrt { \log _ { \frac { 1 } { 2 } } \left( x ^ { 2 } - 1 \right) }

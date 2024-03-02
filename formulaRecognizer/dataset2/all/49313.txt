@@ -1,0 +1,1 @@
+\text { 则 } Q \left( 1 + \frac { 2 } { a } + \frac { 2 } { m } - a , \frac { 2 } { a } - m \right)

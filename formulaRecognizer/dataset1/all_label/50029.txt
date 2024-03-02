@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin x \cos x - \cos ^ { 2 } x - \frac { 1 } { 2 } ( x \in \mathbf { R } )

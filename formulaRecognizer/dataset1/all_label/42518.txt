@@ -1,0 +1,1 @@
+\frac { 2 m ^ { 2 } \cdot 2 n - 2 n ^ { 2 } \cdot 2 m } { 2 n - 2 m } = 2

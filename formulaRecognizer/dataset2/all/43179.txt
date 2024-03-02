@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = - \mathrm { e } ^ { - x } \left( x ^ { 3 } - 9 x \right) = - x \mathrm { e } ^ { - x } ( x - 3 ) ( x + 3 )

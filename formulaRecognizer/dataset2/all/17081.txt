@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \mathrm { e } ^ { 2 x } - 2 t \left( \mathrm { e } ^ { x } + x \right) + x ^ { 2 } + 2 t ^ { 2 } + 1

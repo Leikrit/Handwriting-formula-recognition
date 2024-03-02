@@ -1,0 +1,1 @@
+\left[ f \left( \frac { t } { 2 } \right) \right] ^ { 2 } = \frac { 1 } { 4 }

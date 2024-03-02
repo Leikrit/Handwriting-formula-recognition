@@ -1,0 +1,1 @@
+\frac { \ln 1 + \ln 2 + \ln 3 + \ln 4 + \ln 5 } { 5 } \approx 0 . 9 6 , 5 \ln 1 +

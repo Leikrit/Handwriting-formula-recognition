@@ -1,0 +1,1 @@
+y = x \mathrm { e } ^ { x } + 2 x + 1

@@ -1,0 +1,1 @@
+\text { 且 } \frac { c - b \cos A } { \sin B } = \sqrt { 3 } a

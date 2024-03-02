@@ -1,0 +1,1 @@
+f \left( 1 - x ^ { 2 } \right) > f ( 2 x )

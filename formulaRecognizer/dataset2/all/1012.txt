@@ -1,0 +1,1 @@
+\text { 的 所 有 正 数 } x \text { 从 小 到 大 排 成 数 列 } \left\{ x _ { n } \right\}

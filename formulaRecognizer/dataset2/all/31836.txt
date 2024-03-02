@@ -1,0 +1,1 @@
+\text { 命 题 “ } \forall x \in [ 1 , 2 ] , x ^ { 2 } - 3 x + 2 \leq s l a n t 0 \text { ” 的 否 定 为 }

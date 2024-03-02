@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = A \sin \left( \omega x + \frac { \pi } { 6 } \right) ( A , \omega > 0 ) \text { 只 能 同 时 满 足 }

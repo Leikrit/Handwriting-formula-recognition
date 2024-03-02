@@ -1,0 +1,1 @@
+g ( x ) = \mathrm { e } ^ { x } - b \text { 要 使 } g ( x ) \geqslant 0 \text { 恒 成 立 }

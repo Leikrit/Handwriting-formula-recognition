@@ -1,0 +1,1 @@
+g ( x ) \geqslant f ( x ) \text { 恒 成 立 }

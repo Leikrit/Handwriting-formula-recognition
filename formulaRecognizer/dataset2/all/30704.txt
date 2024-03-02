@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { P A } + 3 \overrightarrow { P B } + 2 \overrightarrow { P C } = \mathbf { 0 }

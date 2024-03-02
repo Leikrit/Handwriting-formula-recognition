@@ -1,0 +1,1 @@
+\frac { S _ { 6 } } { S _ { 4 } } = \frac { 1 - \left( \frac { 1 } { 2 } \right) ^ { 6 } } { 1 - \left( \frac { 1 } { 2 } \right) ^ { 4 } } = \frac { 6 3 } { 6 0 } = \frac { 5 } { m }

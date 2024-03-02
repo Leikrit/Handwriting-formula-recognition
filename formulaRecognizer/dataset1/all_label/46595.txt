@@ -1,0 +1,1 @@
+\overrightarrow { A F } = \lambda \overrightarrow { A B } + ( \mu - 1 ) \overrightarrow { A D }

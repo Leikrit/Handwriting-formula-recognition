@@ -1,0 +1,1 @@
+\text { 存 在 不 全 为 零 的 实 数 } \lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 1 } a + \lambda _ { 2 } b = 0

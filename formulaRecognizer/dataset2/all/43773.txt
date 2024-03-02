@@ -1,0 +1,1 @@
+A B = B C = A D = \frac { 1 } { 2 } C D = 2

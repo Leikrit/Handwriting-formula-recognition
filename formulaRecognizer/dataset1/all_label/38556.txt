@@ -1,0 +1,1 @@
+\sin 4 0 ^ { \circ } - \mathrm { i } \cos 4 0 ^ { \circ }

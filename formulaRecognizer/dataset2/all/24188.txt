@@ -1,0 +1,1 @@
+P ( \xi = 1 ) = \mathrm { C } _ { 3 } ^ { 1 } \frac { 3 } { 5 } \left( \frac { 2 } { 5 } \right) ^ { 2 } = \frac { 3 6 } { 1 2 5 }

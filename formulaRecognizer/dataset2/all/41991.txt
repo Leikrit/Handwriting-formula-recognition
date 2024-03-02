@@ -1,0 +1,1 @@
+a \cos C + \sqrt { 3 } a \sin C - b - c = 0 \text { 。 }

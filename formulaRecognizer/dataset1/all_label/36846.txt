@@ -1,0 +1,1 @@
+f ( x ) = \ln \left( \mathrm { e } ^ { a x } + 1 \right) - b x ( b \neq 0 )

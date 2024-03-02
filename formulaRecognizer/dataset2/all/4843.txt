@@ -1,0 +1,1 @@
+\text { 圆 } \mathrm { C } _ { 2 } : \mathrm { x } ^ { 2 } + \mathrm { y } ^ { 2 } = 4 + \mathrm { b } ^ { 2 } \text { 在 第 一 象 限 内 的 交 点 }

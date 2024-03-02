@@ -1,0 +1,1 @@
+\text { 函 数 } y = g ( x ) \text { 是 } \mathbf { R } \text { 上 的 偶 函 数 }

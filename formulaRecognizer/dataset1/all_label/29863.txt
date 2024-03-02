@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { 2 } ( \cos x - \sin x ) ( \cos x + \sin x ) + 3 a ( \sin x - \cos x ) + ( 4 a - 1 ) x

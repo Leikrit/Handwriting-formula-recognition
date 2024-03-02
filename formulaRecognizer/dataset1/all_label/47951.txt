@@ -1,0 +1,1 @@
+B T = \frac { c a } { b + c }

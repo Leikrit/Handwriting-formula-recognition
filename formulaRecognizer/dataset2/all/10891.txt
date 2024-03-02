@@ -1,0 +1,1 @@
+S = n ^ { 2 } + 4 m n \cos \theta

@@ -1,0 +1,1 @@
+\sin \left( \frac { \pi } { 3 } + \alpha \right) = \cos \left( \frac { \pi } { 3 } - \alpha \right)

@@ -1,0 +1,1 @@
+\text { 离 之 比 等 于 常 数 } \lambda ( \lambda > 0 \text { 且 } \lambda \neq 1 ) \text { 的 动 点 } P \text { 的 轨 迹 叫 }

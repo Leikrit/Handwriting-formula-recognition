@@ -1,0 +1,1 @@
+\sin A + \sin B = \sqrt { 2 } \sin C

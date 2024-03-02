@@ -1,0 +1,1 @@
+\text { 复 数 } z = \mathrm { i } ( 3 - a \mathrm { i } )

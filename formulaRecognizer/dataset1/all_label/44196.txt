@@ -1,0 +1,1 @@
+m = \frac { \sqrt { 2 } - 1 } { 2 } , n = \frac { 2 - \sqrt { 2 } } { 2 }

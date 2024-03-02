@@ -1,0 +1,1 @@
+\text { 求 证 : } \frac { \ln 1 } { 2 } + \frac { \ln 2 } { 3 } + \cdots + \frac { \ln n } { n + 1 } \leq s l a n t \frac { n ( n - 1 ) } { 4 }

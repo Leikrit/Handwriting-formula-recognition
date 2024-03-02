@@ -1,0 +1,1 @@
+\frac { c } { a + b } + \frac { b + a } { 2 c } - \frac { 1 } { 2 } \geqslant \sqrt { 2 } - \frac { 1 } { 2 }

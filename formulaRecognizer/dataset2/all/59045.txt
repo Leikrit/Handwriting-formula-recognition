@@ -1,0 +1,1 @@
+\text { 函 数 } y = \cos ( 2 x + \varphi ) \text { 取 得 最 小 值 }

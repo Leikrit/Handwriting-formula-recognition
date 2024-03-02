@@ -1,0 +1,1 @@
+\left| \overrightarrow { P A _ { 1 } } + \overrightarrow { P A _ { 2 } } + \cdots + \overrightarrow { P A _ { n } } \right|

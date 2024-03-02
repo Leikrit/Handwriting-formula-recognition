@@ -1,0 +1,1 @@
+A \left( x _ { 0 } , \ln x _ { 0 } \right)

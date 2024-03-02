@@ -1,0 +1,1 @@
+\text { 且 } \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } = \frac { 1 } { 2 }

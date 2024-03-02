@@ -1,0 +1,1 @@
+A = \left\{ x \mid \frac { x + 2 } { x } \leq s l a n t 0 \right\}

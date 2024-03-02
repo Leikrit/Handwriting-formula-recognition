@@ -1,0 +1,1 @@
+\text { 即 } t = v - 8 + \frac { 6 4 } { v - 8 } \text { 在 } \left( 8 , v _ { 0 } \right] \text { 上 为 减 函 数 }

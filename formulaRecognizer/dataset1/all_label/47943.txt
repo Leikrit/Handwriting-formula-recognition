@@ -1,0 +1,1 @@
+\frac { \frac { 2 \tan B } { 1 + \tan ^ { 2 } B } + \frac { 2 \tan C } { 1 + \tan ^ { 2 } C } } { \frac { 1 - \tan ^ { 2 } B } { 1 + \tan ^ { 2 } B } + \frac { 1 - \tan ^ { 2 } C } { 1 + \tan ^ { 2 } C } }

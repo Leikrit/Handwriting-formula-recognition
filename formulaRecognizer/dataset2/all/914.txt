@@ -1,0 +1,1 @@
+\text { 且 } \overrightarrow { O M } = \alpha \overrightarrow { O A } + \beta \overrightarrow { O B } ( \alpha + \beta = 1 )

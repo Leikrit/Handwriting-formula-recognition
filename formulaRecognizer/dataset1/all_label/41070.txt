@@ -1,0 +1,1 @@
+a _ { 1 } = 2 , a _ { n + 1 } = \frac { n + 2 } { n } S _ { n } \left( n \in \mathbf { N } ^ { * } \right)

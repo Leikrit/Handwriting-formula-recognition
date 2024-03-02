@@ -1,0 +1,1 @@
+2 \tan \theta - \tan \left( \theta + \frac { \pi } { 4 } \right) = 7

@@ -1,0 +1,1 @@
+\text { 如 果 } f ( x ) \text { 与 } g ( x ) \text { 仅 当 } x = 0 \text { 时 的 函 数 值 }

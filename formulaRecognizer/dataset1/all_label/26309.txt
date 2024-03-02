@@ -1,0 +1,1 @@
+\cos ^ { 2 } \left( \frac { \pi } { 2 } + A \right) + \cos A = \frac { 5 } { 4 }

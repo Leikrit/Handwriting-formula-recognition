@@ -1,0 +1,1 @@
+\text { 求 关 于 } x \text { 的 不 等 式 } f ( x ) \geqslant | 2 x + 1 | \text { 的 解 集 }

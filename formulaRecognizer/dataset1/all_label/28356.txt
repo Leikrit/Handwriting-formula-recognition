@@ -1,0 +1,1 @@
+\lambda \overrightarrow { A B } + \mu \overrightarrow { A D }

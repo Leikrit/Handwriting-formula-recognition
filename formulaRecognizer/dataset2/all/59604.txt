@@ -1,0 +1,1 @@
+\text { 所 有 样 本 点 } \left( x _ { i } , y _ { i } \right)

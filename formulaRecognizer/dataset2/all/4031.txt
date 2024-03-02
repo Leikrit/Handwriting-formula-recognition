@@ -1,0 +1,1 @@
+\text { 若 } \frac { x - 2 \mathrm { i } } { 1 + \mathrm { i } } = 2 y ( x , y \in \mathbf { R } , \mathrm { i } \text { 为 虚 数 单 位 } )

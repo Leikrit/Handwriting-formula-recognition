@@ -1,0 +1,1 @@
+T - T _ { a } = \left( \frac { 1 } { 2 } \right) ^ { \frac { t } { h } } \cdot \left( T _ { 0 } - \right.

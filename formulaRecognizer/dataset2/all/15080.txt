@@ -1,0 +1,1 @@
+\text { 已 知 某 口 袋 中 有 } 3 \text { 个 白 球 和 } a \text { 个 黑 球 } \left( a \in \mathbf { N } ^ { * } \right)

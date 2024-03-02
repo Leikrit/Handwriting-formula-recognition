@@ -1,0 +1,1 @@
+S _ { \triangle A B F _ { 1 } } = 1 + \frac { \sqrt { 3 } } { 2 } \text { ( 其 中 } A \text { 为 右 顶 点 ) }

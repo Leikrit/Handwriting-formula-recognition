@@ -1,0 +1,1 @@
+\log _ { a } \frac { 1 } { x + 1 } ( a > 0 \text { 且 } a \neq 1 )

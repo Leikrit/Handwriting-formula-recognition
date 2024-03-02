@@ -1,0 +1,1 @@
+b - c = \frac { 2 \sin A } { \sin B + \sin C }

@@ -1,0 +1,1 @@
+2 \o p e r a t o r n a m e { e l n } a > 0

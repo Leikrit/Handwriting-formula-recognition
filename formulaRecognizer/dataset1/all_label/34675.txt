@@ -1,0 +1,1 @@
+\sum _ { r = 1 } ^ { n } \mathrm { C } _ { r + p - 1 } ^ { p } = \mathrm { C } _ { n + p } ^ { p + 1 }

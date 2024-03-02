@@ -1,0 +1,1 @@
+\frac { \sin ^ { 2 } A } { \sin ^ { 2 } B } = \frac { a } { c }

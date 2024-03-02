@@ -1,0 +1,1 @@
+\text { 故 所 求 直 线 } l \text { 的 方 程 为 } y = \sqrt { 6 } x - 2 \sqrt { 3 } \text { , 或 } y = \sqrt { 6 } x + 2 \sqrt { 3 }

@@ -1,0 +1,1 @@
+\overrightarrow { A C } = 9 \overrightarrow { A O } \cdot \overrightarrow { E C }

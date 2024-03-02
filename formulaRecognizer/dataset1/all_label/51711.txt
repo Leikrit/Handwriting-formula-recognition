@@ -1,0 +1,1 @@
+\overrightarrow { F A } + \overrightarrow { F B } + \overrightarrow { F C } = \mathbf { 0 }

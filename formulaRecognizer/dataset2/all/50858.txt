@@ -1,0 +1,1 @@
+\text { 若 } \tan A \tan B + \tan B \tan C = 3 \tan A \tan C

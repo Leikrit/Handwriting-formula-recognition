@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = x \left( \mathrm { e } ^ { x } - 1 \right) \geqslant 0 \text { 且 等 号 不 恒 成 立 }

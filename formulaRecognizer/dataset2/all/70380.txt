@@ -1,0 +1,1 @@
+\text { 则 } t \in [ 1 , 3 ] \text { 且 } t \neq 2

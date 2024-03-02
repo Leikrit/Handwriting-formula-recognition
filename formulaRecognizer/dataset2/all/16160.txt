@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \leq s l a n t k ( x + 1 ) + b \text { 在 } ( 0 , + \infty ) \text { 上 恒 成 立 }

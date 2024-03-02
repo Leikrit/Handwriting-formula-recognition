@@ -1,0 +1,1 @@
+\{ x \mid x > 0 \text { 或 } x \leq s l a n t - 1 \}

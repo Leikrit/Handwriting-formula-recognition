@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { m x + 1 } { 2 x + n } \text { 的 图 象 }

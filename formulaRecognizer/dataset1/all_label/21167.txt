@@ -1,0 +1,1 @@
+\log _ { 2 } \left( x ^ { 2 } + a \right)

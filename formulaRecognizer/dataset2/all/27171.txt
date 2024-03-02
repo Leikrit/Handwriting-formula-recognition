@@ -1,0 +1,1 @@
+\frac { T } { 4 } = \frac { 7 \pi } { 1 2 } - \frac { \pi } { 3 } = \frac { \pi } { 4 } , \ t h e r e f o r e T = \pi , \omega = \frac { 2 \pi } { \pi } = 2 . \ t h e r e f o r e 2 \times \frac { \pi } { 3 } +

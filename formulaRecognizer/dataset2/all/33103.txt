@@ -1,0 +1,1 @@
+f \left( \log _ { \frac { 1 } { 4 } } 6 \right) < f \left( \log _ { 4 } \frac { 1 } { 5 } \right) < f \left( 2 ^ { - \frac { 3 } { 4 } } \right)

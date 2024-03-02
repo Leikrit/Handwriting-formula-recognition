@@ -1,0 +1,1 @@
+c = f \left( - \frac { 5 } { 2 } \right)

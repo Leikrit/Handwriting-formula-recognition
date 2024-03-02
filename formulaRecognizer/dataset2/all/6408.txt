@@ -1,0 +1,1 @@
+\left| a _ { n } \right| < \left( \frac { 1 } { 2 ^ { n - 1 } } + \frac { \left| a _ { m } \right| } { 2 ^ { m } } \right) \cdot 2 ^ { n } \leq s l a n t \left[ \frac { 1 } { 2 ^ { n - 1 } } + \frac { 1 } { 2 ^ { m } } \cdot \right.

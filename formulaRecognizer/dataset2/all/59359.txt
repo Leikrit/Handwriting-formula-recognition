@@ -1,0 +1,1 @@
+\text { 则 } \overrightarrow { P A } = ( - x , \sqrt { 3 } - y )

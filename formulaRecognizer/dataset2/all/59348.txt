@@ -1,0 +1,1 @@
+\text { 又 } | \overrightarrow { P A } | + | \overrightarrow { P D } | = | \overrightarrow { A D } | = 2 \times \frac { \sqrt { 3 } } { 2 } = \sqrt { 3 }

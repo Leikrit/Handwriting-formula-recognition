@@ -1,0 +1,1 @@
+\left( \ln \frac { 1 } { 2 \mathrm { e } } , + \infty \right)

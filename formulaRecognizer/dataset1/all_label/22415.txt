@@ -1,0 +1,1 @@
+a _ { n } - \frac { f \left( a _ { n } \right) } { f ^ { \prime } \left( a _ { n } \right) } ( n = 1 , 2 , \cdots ) .

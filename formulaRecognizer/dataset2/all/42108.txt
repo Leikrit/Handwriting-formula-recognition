@@ -1,0 +1,1 @@
+\text { 已 知 } f \left( 2 ^ { x } \right) = 2 x ^ { 2 } - 1

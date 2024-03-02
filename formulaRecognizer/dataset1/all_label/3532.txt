@@ -1,0 +1,1 @@
+B = \left\{ x \mid x ^ { 2 } \leq s l a n t 4 \right\}

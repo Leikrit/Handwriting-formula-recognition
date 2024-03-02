@@ -1,0 +1,1 @@
+\text { 点 } B \text { 是 } A ( 1 , 2 , 3 ) \text { 在 } x O z \text { 坐 标 平 面 内 的 射 影 }

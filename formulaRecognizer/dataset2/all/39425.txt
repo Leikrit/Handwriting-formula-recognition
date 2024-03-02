@@ -1,0 +1,1 @@
+g ^ { \prime } \left( \frac { \pi } { 2 } \right) = \mathrm { e } ^ { \frac { \pi } { 2 } } - 1 > 0

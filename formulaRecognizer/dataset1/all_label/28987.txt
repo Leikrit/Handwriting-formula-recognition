@@ -1,0 +1,1 @@
+\sin \left( A + \frac { \pi } { 4 } \right) + \sqrt { 2 } \cos ( B +

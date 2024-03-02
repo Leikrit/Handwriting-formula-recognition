@@ -1,0 +1,1 @@
+\overrightarrow { E B } = \boldsymbol { a } , \overrightarrow { A D } = \boldsymbol { b } , M , N

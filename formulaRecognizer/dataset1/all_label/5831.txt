@@ -1,0 +1,1 @@
+x _ { 2 } + \theta \in \left[ \theta , \theta + \frac { \pi } { 2 } \right]

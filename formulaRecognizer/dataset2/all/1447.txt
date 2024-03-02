@@ -1,0 +1,1 @@
+\overrightarrow { A B } + \lambda \left( \frac { 1 } { 4 } \overrightarrow { A C } - \overrightarrow { A B } \right) = ( 1 - \lambda ) \overrightarrow { A B } + \frac { 1 } { 4 } \lambda \overrightarrow { A C }

@@ -1,0 +1,1 @@
+\text { 点 } N \text { 的 横 坐 标 的 取 值 范 围 是 } \left( - \frac { \sqrt { 2 } } { 3 } , 0 \right)

@@ -1,0 +1,1 @@
+\int _ { - 2 } ^ { 2 } \left( x + \sqrt { 4 - x ^ { 2 } } \right) \mathrm { d } x =

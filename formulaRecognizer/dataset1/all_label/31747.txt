@@ -1,0 +1,1 @@
+y = \frac { 2 \sin ^ { 2 } x + 1 } { \sin 2 x }

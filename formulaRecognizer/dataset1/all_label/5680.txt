@@ -1,0 +1,1 @@
+\left[ \frac { \mathrm { e } ^ { 4 } } { 2 } - \frac { 1 } { 8 } , + \infty \right)

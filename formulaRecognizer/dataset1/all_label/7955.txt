@@ -1,0 +1,1 @@
+\ln ^ { + } \left( a ^ { b } \right) = b \ln ^ { + } a \text { ; }

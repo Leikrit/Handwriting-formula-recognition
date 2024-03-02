@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { \left( a x ^ { 2 } - 2 \right) ( x - 1 ) } { x ^ { 3 } }

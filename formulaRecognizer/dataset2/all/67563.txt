@@ -1,0 +1,1 @@
+\text { 必 有 } x \in \{ x \mid x \in A \text { 且 } x \not i n B \} \cup \{ x \mid x \in B \text { 且 }

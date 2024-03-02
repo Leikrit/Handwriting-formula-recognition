@@ -1,0 +1,1 @@
+\frac { \left| A x _ { 1 } + B y _ { 1 } + C z _ { 1 } + D \right| } { \sqrt { A ^ { 2 } + B ^ { 2 } + C ^ { 2 } } }

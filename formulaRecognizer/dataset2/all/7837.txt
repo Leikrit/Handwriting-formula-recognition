@@ -1,0 +1,1 @@
+\text { 不 等 式 } | 2 x - 1 | + | 2 x + 1 | \leq s l a n t

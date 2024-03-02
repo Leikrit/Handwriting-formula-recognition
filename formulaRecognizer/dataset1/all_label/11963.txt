@@ -1,0 +1,1 @@
+\int _ { 0 } ^ { \frac { 1 } { 2 } } x \mathrm { ~ d } x + \int _ { 0 } ^ { \frac { 1 } { 2 } } x ^ { 2 } \mathrm { ~ d } x + \cdots + \int _ { 0 } ^ { \frac { 1 } { 2 } } x ^ { n } \mathrm { ~ d } x + \cdots = \int _ { 0 } ^ { \frac { 1 } { 2 } } \frac { 1 } { 1 - x } \mathrm { ~ d } x

@@ -1,0 +1,1 @@
+\text { 则 } \boldsymbol { a } - \boldsymbol { b } \text { 在 } \boldsymbol { a } \text { 方 向 上 的 投 影 是 }

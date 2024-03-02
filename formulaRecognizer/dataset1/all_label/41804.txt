@@ -1,0 +1,1 @@
+\tan \left( \alpha - \frac { \pi } { 7 } \right) = 2

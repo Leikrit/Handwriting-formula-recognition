@@ -1,0 +1,1 @@
+\left| a _ { n + m } \right| \geqslant 2 ^ { m } \left( \left| a _ { n } \right| - 2 \right)

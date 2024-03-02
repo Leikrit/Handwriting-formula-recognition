@@ -1,0 +1,1 @@
+\text { 已 知 等 差 数 列 } \left\{ a _ { n } \right\} \text { 满 足 } a _ { 1 } = 2

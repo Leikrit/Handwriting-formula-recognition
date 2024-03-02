@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } y = \mathrm { e } ^ { x } \text { 的 图 象 与 函 数 } y = f ( x ) \text { 的 图 象 关 于 直 }

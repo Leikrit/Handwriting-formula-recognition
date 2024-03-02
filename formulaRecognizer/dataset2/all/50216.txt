@@ -1,0 +1,1 @@
+\frac { \left| F _ { 1 } F _ { 2 } \right| } { \left| D F _ { 1 } \right| } = 2 \sqrt { 2 }

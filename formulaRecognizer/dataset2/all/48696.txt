@@ -1,0 +1,1 @@
+\text { 是 否 存 在 正 整 数 } n \text { 使 得 对 任 意 } \alpha = \left( x _ { 1 } , x _ { 2 } , x _ { 3 } , x _ { 4 } \right) \in A \left( x _ { 1 } \geqslant x _ { 2 } \geqslant x _ { 4 } \geqslant x _ { 3 } \right) \text { 都 有 }

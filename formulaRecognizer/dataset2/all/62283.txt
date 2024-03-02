@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z \text { 满 足 } ( 1 + \mathrm { i } ) z = 2 \mathrm { i } \text { ( } \mathrm { i } \text { 为 虚 数 单 位 ) }

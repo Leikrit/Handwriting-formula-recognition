@@ -1,0 +1,1 @@
+f ( x ) = \frac { 3 \sin x } { 1 + \cos 2 x }

@@ -1,0 +1,1 @@
+f ( x ) = \left| x ^ { 3 } + 2 ^ { x } + a \right|

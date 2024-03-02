@@ -1,0 +1,1 @@
+\sqrt { a _ { n } } < \sqrt { a _ { n + 2 } } - \frac { c } { \sqrt { a _ { n + 2 } } }

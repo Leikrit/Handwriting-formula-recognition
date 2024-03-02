@@ -1,0 +1,1 @@
+\text { 使 } | f ( x ) | \leq s l a n t M | x | \text { 对 一 切 实 数 } x \text { 均 成 }

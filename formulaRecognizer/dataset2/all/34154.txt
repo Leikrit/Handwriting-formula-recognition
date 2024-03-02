@@ -1,0 +1,1 @@
+\lambda a + ( 1 - \lambda ) \mathrm { b } \in S

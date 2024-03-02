@@ -1,0 +1,1 @@
+A , B , C \text { 是 平 面 } \alpha \text { 上 不 共 线 的 三 点 }

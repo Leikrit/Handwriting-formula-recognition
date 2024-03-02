@@ -1,0 +1,1 @@
+\text { 当 函 数 } y = f ( x ) \text { 与 } y = g ( x ) \text { 在 区 间 }

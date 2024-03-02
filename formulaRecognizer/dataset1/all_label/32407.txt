@@ -1,0 +1,1 @@
+\overrightarrow { A P } = ( 1 - \lambda ) \overrightarrow { A B } + \frac { 2 } { 3 } \lambda \overrightarrow { A C } ( \lambda \in \mathbf { R } )

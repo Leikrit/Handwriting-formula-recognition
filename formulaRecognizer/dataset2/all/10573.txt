@@ -1,0 +1,1 @@
+\frac { \prod } { k k _ { 1 } } + \frac { 1 } { k k _ { 2 } } = 4 \sqrt { 2 } - 8

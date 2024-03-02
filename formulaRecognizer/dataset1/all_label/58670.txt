@@ -1,0 +1,1 @@
+k = - \frac { \left( 3 x ^ { 2 } - 2 x + 5 \right) } { 2 x + 1 } = - \frac { 3 } { 4 } \left[ ( 2 x + 1 ) + \frac { 9 } { 2 x + 1 } - \frac { 1 0 } { 3 } \right]

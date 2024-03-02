@@ -1,0 +1,1 @@
+\left( x _ { 1 } - \frac { a } { a - 1 } \right) \left( x _ { 2 } - \frac { a } { a - 1 } \right) > 0 \Rightarrow x _ { 1 } x _ { 2 } - \frac { a } { a - 1 } \left( x _ { 1 } + x _ { 2 } \right) + \left( \frac { a } { a - 1 } \right) ^ { 2 } > 0

@@ -1,0 +1,1 @@
+\text { 函 数 } y = \frac { \cos 4 x } { \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } } \text { 的 大 致 图 象 为 }

@@ -1,0 +1,1 @@
+\text { 设 } \alpha \perp \beta \text { , 则 } a \perp b \text { 是 } a \perp l \text { 的 必 要 不 充 分 条 件 }

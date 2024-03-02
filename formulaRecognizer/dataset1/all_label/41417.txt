@@ -1,0 +1,1 @@
+\text { 点 } A \left( x _ { 0 } , y _ { 0 } \right) \text { 在 双 曲 线 } \frac { x ^ { 2 } } { 4 } - \frac { y ^ { 2 } } { 3 2 } = 1 \text { 的 右 支 上 , 若 点 } A \text { 到 }

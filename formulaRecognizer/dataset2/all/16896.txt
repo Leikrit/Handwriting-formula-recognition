@@ -1,0 +1,1 @@
+f \left( x _ { 2 } \right) = x _ { 2 } ^ { 3 } + 3 b x _ { 2 } ^ { 2 } + 3 c x _ { 2 } = b x _ { 2 } ^ { 2 } + 2 c x _ { 2 } = g \left( x _ { 2 } \right)

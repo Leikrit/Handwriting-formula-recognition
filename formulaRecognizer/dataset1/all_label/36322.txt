@@ -1,0 +1,1 @@
+p = a + \frac { 1 } { a - 2 } , q = \left( \frac { 1 } { 2 } \right)

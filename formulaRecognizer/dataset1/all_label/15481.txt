@@ -1,0 +1,1 @@
+P E = \lambda P D ( 0 < \lambda < 1 )

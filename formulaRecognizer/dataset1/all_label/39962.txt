@@ -1,0 +1,1 @@
+\left( x + \frac { a } { x } \right) \left( 2 x - \frac { 1 } { x } \right) ^ { 5 }

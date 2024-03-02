@@ -1,0 +1,1 @@
+g ( x ) = ( f ( x ) ) ^ { 2 } + \sqrt { 3 } f ( - x ) \cdot f \left( \frac { \pi } { 2 } - x \right) \left( 0 \leq x \leq \frac { \pi } { 4 } \right)

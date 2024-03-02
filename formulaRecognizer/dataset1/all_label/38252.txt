@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \frac { \mathrm { e } ^ { x } ( x - 2 ) } { x ^ { 3 } }

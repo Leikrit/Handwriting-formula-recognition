@@ -1,0 +1,1 @@
+S = \{ ( a , b ) \mid a \in A , b \in A , a + b \in A \} ;

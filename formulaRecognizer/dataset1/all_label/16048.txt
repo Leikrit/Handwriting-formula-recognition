@@ -1,0 +1,1 @@
+\overrightarrow { A P } = l \overrightarrow { A B } + m \overrightarrow { A C }

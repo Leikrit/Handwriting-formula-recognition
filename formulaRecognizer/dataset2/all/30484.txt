@@ -1,0 +1,1 @@
+\text { 斯 蒂 增 长 模 型 具 体 为 } P ( t ) = \frac { \mathrm { e } ^ { 0 . 4 2 t } } { 1 + \left( \mathrm { e } ^ { 0 . 4 2 t } - \frac { 1 } { K } \right) }

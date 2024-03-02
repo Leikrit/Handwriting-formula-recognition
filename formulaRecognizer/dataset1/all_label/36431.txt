@@ -1,0 +1,1 @@
+\text { 已 知 正 整 数 } n \geqslant 7 \text { , 若 } \left( x - \frac { 1 } { x } \right) ( 1 - x ) ^ { n } \text { 的 展 开 式 中 不 含 } x ^ { 4 }

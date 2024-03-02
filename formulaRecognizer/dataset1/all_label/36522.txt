@@ -1,0 +1,1 @@
+f ( x ) = x \ln x - a x + a , a \in \mathbf { R }

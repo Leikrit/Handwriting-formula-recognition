@@ -1,0 +1,1 @@
+f ( x ) = \sin ( \pi x + \theta ) ( 0 < \theta < 2 \pi )

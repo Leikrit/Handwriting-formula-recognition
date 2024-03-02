@@ -1,0 +1,1 @@
+\left( x ^ { 2 } \cos x \right) ^ { \prime } = - 2 x \sin x

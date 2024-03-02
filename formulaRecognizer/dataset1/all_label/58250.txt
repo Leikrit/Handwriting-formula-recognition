@@ -1,0 +1,1 @@
+- f ( x ) _ { \text { m a x } - \min } \geqslant a ^ { 2 } - 2 a

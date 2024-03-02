@@ -1,0 +1,1 @@
+\sin A + \sin C = p \sin B ( p \in \mathbf { R } )

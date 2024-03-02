@@ -1,0 +1,1 @@
+\text { 设 数 列 } \left\{ x _ { n } \right\} \text { 的 各 项 都 为 正 数 且 } x _ { 1 } = 1

@@ -1,0 +1,1 @@
+\cos 5 \theta - i \sin 5 \theta

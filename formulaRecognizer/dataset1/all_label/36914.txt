@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { x } + x - 2 , g ( x ) = \ln x + x ^ { 2 } - 3

@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } Z \text { 满 足 } 2 Z + \bar { Z } = 1 - \mathrm { i }

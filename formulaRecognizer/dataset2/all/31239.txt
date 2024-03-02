@@ -1,0 +1,1 @@
+\text { 令 } g ( x ) = x ^ { 2 } - ( a + 2 ) x + 1 = ( x - \alpha ) ( x - \beta )

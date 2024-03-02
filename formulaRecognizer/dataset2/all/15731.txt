@@ -1,0 +1,1 @@
+\text { 函 数 } y = \frac { 2 \sin x } { 1 + \sin x } \text { 的 值 域 是 }

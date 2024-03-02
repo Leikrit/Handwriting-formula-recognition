@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = x - x \ln x \text { . 数 列 } \left\{ a _ { n } \right\} \text { 满 足 } 0 < a _ { 1 } < 1

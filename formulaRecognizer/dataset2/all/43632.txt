@@ -1,0 +1,1 @@
+\left( A b ^ { 2 } + B a ^ { 2 } \right) y ^ { 2 } - 2 A b y + A - a ^ { 2 } + \left( B a ^ { 2 } + A b ^ { 2 } \right) x ^ { 2 } - 2 B a x + B - b ^ { 2 } = 0

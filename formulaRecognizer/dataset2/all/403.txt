@@ -1,0 +1,1 @@
+f \left( \log _ { 2 } 7 \right) < f ( - 5 ) < f ( 6 )

@@ -1,0 +1,1 @@
+\left( 4 ^ { x } - 2 ^ { - x } \right) ^ { 6 } ( x \in \mathbf { R } )

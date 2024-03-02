@@ -1,0 +1,1 @@
+\text { 间 间 隔 } t \text { ( 单 位 : 分 钟 ) 满 足 } 2 \leq s l a n t t \leq s l a n t 2 0 , t \in \mathbf { N } \text { . }

@@ -1,0 +1,1 @@
+\left( \frac { 2 } { 5 } \right) ^ { b } < \left( \frac { 2 } { 5 } \right) ^ { a } < \left( \frac { 3 } { 5 } \right) ^ { a }

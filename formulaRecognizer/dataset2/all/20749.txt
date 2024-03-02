@@ -1,0 +1,1 @@
+\text { 则 } f \left( 1 0 ^ { x } \right) > 0 \text { 的 解 集 为 }

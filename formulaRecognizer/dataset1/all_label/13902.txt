@@ -1,0 +1,1 @@
+2 \cos C ( a \cos B + b \cos A ) = c

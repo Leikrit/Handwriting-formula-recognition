@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) - 2 f ( x ) \geqslant 0 \text { 成 立 }

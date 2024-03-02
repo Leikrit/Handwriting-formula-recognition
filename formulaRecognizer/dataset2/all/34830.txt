@@ -1,0 +1,1 @@
+\text { 假 设 当 } n = k \left( k \in \mathbf { N } ^ { * } \right) \text { 时 }

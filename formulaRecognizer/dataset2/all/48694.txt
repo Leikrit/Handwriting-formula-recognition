@@ -1,0 +1,1 @@
+\text { 求 } T ^ { 4 } ( \alpha ) \text { 和 } T ^ { 4 } ( \beta )

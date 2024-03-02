@@ -1,0 +1,1 @@
+\text { 得 } 0 < x < \sqrt { \mathrm { e } }

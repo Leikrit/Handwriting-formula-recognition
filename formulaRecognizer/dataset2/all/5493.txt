@@ -1,0 +1,1 @@
+\text { 设 全 集 } U = \mathbf { R } , A = \{ x \mid - 1 < x < 1 \} , B = \{ x \mid x - a < 0 \}

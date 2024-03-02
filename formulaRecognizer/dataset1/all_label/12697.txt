@@ -1,0 +1,1 @@
+\overrightarrow { O P } \cdot \overrightarrow { O Q } = ( 6 \cos \alpha , 2 \sin \alpha ) \cdot ( \cos \beta , 3 \sin \beta ) = 6 \cos ( \alpha - \beta )

@@ -1,0 +1,1 @@
+\text { 下 图 是 求 样 本 } x _ { 1 } , x _ { 2 } , \cdots , x _ { 1 0 } \text { 平 均 数 } \bar { x } \text { 的 程 }

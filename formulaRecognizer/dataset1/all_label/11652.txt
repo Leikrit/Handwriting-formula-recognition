@@ -1,0 +1,1 @@
+u _ { n } = \frac { f \left( 2 ^ { - n } \right) } { n } ( n \in \mathbf { N } )

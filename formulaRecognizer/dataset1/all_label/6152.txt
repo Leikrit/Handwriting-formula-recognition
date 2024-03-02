@@ -1,0 +1,1 @@
+f ( x ) = \left| x + \frac { 4 } { x } - a \right| + a

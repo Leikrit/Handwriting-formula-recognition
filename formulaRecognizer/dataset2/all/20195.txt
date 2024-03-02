@@ -1,0 +1,1 @@
+\text { 由 正 弦 定 理 知 } A T = \frac { a } { \sin \frac { A } { 2 } } \cdot \frac { \sin B \sin C } { \sin B + \sin C }

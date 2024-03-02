@@ -1,0 +1,1 @@
+\text { 查 对 临 界 值 表 知 } P \left( \chi ^ { 2 } \geqslant 3 . 8 4 1 \right) \approx 0 . 0 5

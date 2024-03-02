@@ -1,0 +1,1 @@
+A B = \frac { 2 \sin \left( 1 0 5 ^ { \circ } - \theta \right) } { \sin \theta } = \frac { \sqrt { 6 } + \sqrt { 2 } } { 2 } \cdot \frac { 1 } { \tan \theta } + \frac { \sqrt { 6 } - \sqrt { 2 } } { 2 }

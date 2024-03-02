@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \left( x ^ { 2 } - 2 a x \right) \ln x - \frac { 1 } { 2 } x ^ { 2 } + 2 a x ( a \in \mathbf { R } )

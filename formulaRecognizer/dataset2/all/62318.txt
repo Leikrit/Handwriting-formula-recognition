@@ -1,0 +1,1 @@
+\text { 此 时 函 数 } h ( x ) \text { 在 } \mathbf { R } \text { 上 单 调 递 增 }

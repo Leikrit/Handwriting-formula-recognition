@@ -1,0 +1,1 @@
+\text { 则 } f ^ { \prime } ( x ) = x ^ { 2 } + a , f ( x ) = 0 \text { 有 两 个 不 同 实 根 } \Leftrightarrow

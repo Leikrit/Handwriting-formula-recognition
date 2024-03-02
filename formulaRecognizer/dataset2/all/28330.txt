@@ -1,0 +1,1 @@
+\text { 在 } h ( x ) = \frac { \mathrm { e } ^ { x } } { x } \text { 的 图 象 的 下 方 }

@@ -1,0 +1,1 @@
+\overrightarrow { F _ { 2 } P } = \frac { 2 } { 3 } \overrightarrow { P Q }

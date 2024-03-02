@@ -1,0 +1,1 @@
+= \frac { m \cdot \frac { 3 t ^ { 2 } - 1 2 } { 4 + 3 m ^ { 2 } } + ( t + 2 ) \cdot \left( \frac { - 6 m t } { 4 + 3 m ^ { 2 } } - y _ { 1 } \right) } { m \cdot \frac { 3 t ^ { 2 } - 1 2 } { 4 + 3 m ^ { 2 } } + ( t - 2 ) \cdot y _ { 1 } }

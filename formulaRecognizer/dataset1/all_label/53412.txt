@@ -1,0 +1,1 @@
+( M \cap P ) \cap S

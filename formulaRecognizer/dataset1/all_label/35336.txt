@@ -1,0 +1,1 @@
+f ^ { - 1 } ( x ) = 1 - \sqrt { x - 1 } \quad ( x \geqslant 2 )

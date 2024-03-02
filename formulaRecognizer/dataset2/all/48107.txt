@@ -1,0 +1,1 @@
+\text { 线 } y = \ln x \text { 上 到 直 线 } l \text { 距 离 最 近 的 一 点 }

@@ -1,0 +1,1 @@
+\text { 是 否 为 } g ^ { \prime } ( x ) \text { 的 零 点 }

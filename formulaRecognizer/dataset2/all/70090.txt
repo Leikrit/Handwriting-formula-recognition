@@ -1,0 +1,1 @@
+y = \frac { \l g x } { x } , x \in ( 1 , + \infty ) \text { 的 值 域 为 } \left( 0 , \frac { \l g 3 } { 3 } \right]

@@ -1,0 +1,1 @@
+y \sin x + 2 y = 1 - \cos x

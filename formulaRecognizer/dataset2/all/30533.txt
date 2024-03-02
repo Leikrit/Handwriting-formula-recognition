@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) - a \text { 最 多 有 } 4 \text { 个 零 点 }

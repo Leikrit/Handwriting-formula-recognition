@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin \left( 2 0 2 0 x + \frac { \pi } { 4 } \right) + \cos \left( 2 0 2 0 x - \frac { \pi } { 4 } \right) \text { 的 最 }

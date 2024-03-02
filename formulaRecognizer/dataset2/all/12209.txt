@@ -1,0 +1,1 @@
+\left| a _ { 3 } - c \right| + \cdots + \left| a _ { k } - c \right|

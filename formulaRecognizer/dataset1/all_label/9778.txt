@@ -1,0 +1,1 @@
+\sin \beta + 2 \cos \alpha \sin ( \alpha - \beta ) = \frac { \sqrt { 3 } } { 2 }

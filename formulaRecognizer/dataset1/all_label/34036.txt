@@ -1,0 +1,1 @@
+\left| P A _ { 2 } \right| = \frac { \sqrt { 5 } } { 2 } \left| A _ { 1 } A _ { 2 } \right|

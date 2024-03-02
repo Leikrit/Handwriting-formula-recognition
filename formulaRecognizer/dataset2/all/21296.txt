@@ -1,0 +1,1 @@
+Q = \{ n \in \mathbf { N } \mid f ( n ) \in Q \}

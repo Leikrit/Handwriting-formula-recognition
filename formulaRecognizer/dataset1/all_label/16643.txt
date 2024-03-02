@@ -1,0 +1,1 @@
+\overrightarrow { M Q } = \frac { 1 } { 3 } \overrightarrow { M O } + \frac { 2 } { 3 } \overrightarrow { M P }

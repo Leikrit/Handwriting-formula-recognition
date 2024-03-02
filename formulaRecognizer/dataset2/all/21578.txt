@@ -1,0 +1,1 @@
+\text { 是 否 存 在 两 项 } a _ { m } , a _ { t } \left( m , t \in \mathbf { N } ^ { * } \text { 且 } m < t \right)

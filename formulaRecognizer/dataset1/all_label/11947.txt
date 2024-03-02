@@ -1,0 +1,1 @@
+\forall x \in [ - 2 , 4 ] , - 6 \leq s l a n t \frac { 1 } { 4 } x ^ { 3 } - x ^ { 2 } \leq s l a n t 0

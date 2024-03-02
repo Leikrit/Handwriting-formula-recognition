@@ -1,0 +1,1 @@
+\frac { | P T | ^ { 2 } } { | P A | \cdot | P B | } \cdot \frac { \left| P ^ { \prime } A ^ { \prime } \right| \cdot \left| P ^ { \prime } B ^ { \prime } \right| } { \left| P ^ { \prime } T ^ { \prime } \right| ^ { 2 } } = \frac { 4 } { 5 }

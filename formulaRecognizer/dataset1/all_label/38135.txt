@@ -1,0 +1,1 @@
+\overrightarrow { P C } \cdot ( \overrightarrow { P B } + \overrightarrow { P D } )

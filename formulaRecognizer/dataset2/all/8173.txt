@@ -1,0 +1,1 @@
+2 a \cos A = \sqrt { 3 } ( b \cos C + c \cos B )

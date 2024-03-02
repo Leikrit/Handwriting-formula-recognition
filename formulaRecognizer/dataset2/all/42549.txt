@@ -1,0 +1,1 @@
+\text { 得 } f ( x ) = ( x - 1 ) \left( x ^ { 2 } + ( a + 1 ) x + a + b + 1 \right)

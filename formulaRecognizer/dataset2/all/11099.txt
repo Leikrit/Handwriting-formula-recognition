@@ -1,0 +1,1 @@
+\text { 将 函 数 } y = \sin \omega x ( \omega > 0 ) \text { 的 图 象 按 向 量 } \boldsymbol { a } = \left( - \frac { \pi } { 6 } , 0 \right)

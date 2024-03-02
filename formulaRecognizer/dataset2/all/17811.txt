@@ -1,0 +1,1 @@
+\text { 则 } 2 \tan x + \tan \left( \frac { \pi } { 2 } - x \right) \text { 的 最 小 值 }

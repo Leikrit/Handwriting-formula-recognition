@@ -1,0 +1,1 @@
+\sum _ { k = 1 } ^ { n } \left( a _ { n + 1 } - a _ { n } \right) = \sum _ { k = 1 } ^ { n } ( 2 k - 2 )

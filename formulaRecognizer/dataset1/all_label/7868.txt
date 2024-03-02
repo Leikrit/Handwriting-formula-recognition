@@ -1,0 +1,1 @@
+g ( x ) = \cos x - \sqrt { 3 } \sin x

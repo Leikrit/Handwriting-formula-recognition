@@ -1,0 +1,1 @@
+\text { 不 等 式 } f ( x ) + g ( x ) \geqslant 2 t ^ { 2 } - t + 9 ( t > 0 ) \text { 恒 成 立 }

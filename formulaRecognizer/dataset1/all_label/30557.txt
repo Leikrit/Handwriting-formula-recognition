@@ -1,0 +1,1 @@
+\overrightarrow { P C } = \overrightarrow { P C } \cdot \overrightarrow { P A }

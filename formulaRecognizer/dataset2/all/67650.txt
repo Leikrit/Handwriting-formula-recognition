@@ -1,0 +1,1 @@
+P \left( \xi _ { i } = 1 \right) = p _ { i } , P \left( \xi _ { i } = 0 \right) = 1 - p _ { i } , i = 1 , 2

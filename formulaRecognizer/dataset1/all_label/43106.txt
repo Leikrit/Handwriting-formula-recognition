@@ -1,0 +1,1 @@
+\frac { \sin ^ { 2 } \theta } { e _ { 1 } ^ { 2 } } + \frac { \cos ^ { 2 } \theta } { e _ { 2 } ^ { 2 } } = 1

@@ -1,0 +1,1 @@
+A , B , C \text { 的 对 边 , 且 满 足 } b \cos C + \sqrt { 3 } b \sin C - a - c =

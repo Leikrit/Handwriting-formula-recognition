@@ -1,0 +1,1 @@
+\l g \left( 1 + a _ { n } \right) = 2 ^ { n - 1 } \l g 3

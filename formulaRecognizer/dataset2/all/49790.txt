@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { A _ { 1 } A _ { 3 } } = \lambda \overrightarrow { A _ { 1 } A _ { 2 } } ( \lambda \in \mathbf { R } )

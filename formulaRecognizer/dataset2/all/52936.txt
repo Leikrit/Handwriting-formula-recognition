@@ -1,0 +1,1 @@
+\text { 若 } \lim _ { x \rightarrow 1 } \left( \frac { a } { 1 - x } - \frac { b } { 1 - x ^ { 2 } } \right) = 1

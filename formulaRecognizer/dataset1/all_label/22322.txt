@@ -1,0 +1,1 @@
+S = b ^ { 2 } \cdot \tan \frac { \ a n g l e F _ { 1 } P F _ { 2 } } { 2 } = 1 6 \Rightarrow b = 4

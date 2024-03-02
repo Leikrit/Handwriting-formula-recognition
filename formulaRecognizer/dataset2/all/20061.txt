@@ -1,0 +1,1 @@
+\text { 已 知 } A = \{ x \mid - 1 \leq s l a n t x < 3 \}

@@ -1,0 +1,1 @@
+\sin \left( 2 B - \frac { A } { 2 } \right) + \sin \left( 2 C - \frac { A } { 2 } \right) = 0

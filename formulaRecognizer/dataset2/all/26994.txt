@@ -1,0 +1,1 @@
+\text { 函 数 } \varphi ( x ) = f ( x ) - \sin x \text { 有 且 只 有 两 个 零 点 } x _ { 1 } , x _ { 2 }

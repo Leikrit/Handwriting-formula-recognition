@@ -1,0 +1,1 @@
+x \in \left( - \infty , \frac { 2 } { a } \right) \cup ( 0 , + \infty )

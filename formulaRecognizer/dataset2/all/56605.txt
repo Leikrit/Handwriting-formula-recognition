@@ -1,0 +1,1 @@
+l \text { 的 极 坐 标 方 程 为 } 2 \rho \cos \theta + \sqrt { 3 } \rho \sin \theta + 1 1 = 0

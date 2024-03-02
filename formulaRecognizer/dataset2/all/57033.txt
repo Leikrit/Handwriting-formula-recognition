@@ -1,0 +1,1 @@
+\overrightarrow { A E } + \overrightarrow { D E } = \mathbf { 0 }

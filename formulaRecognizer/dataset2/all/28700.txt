@@ -1,0 +1,1 @@
+\text { 当 } n = 3 \text { 且 } k < 0 \text { 时 }

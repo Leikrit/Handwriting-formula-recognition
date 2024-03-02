@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t 3 \cdot 2 ^ { x } , f ( x + 6 ) - f ( x ) \geqslant 6 3 \cdot 2 ^ { x }

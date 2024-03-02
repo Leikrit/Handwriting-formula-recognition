@@ -1,0 +1,1 @@
+\frac { S _ { 1 } } { S _ { 2 } } = \left| \frac { \left( \frac { 8 } { 3 } c ^ { 2 } + \frac { 2 } { 3 } \right) - 1 } { - 4 a c - \left( \frac { 8 } { 3 } c ^ { 2 } + \frac { 2 } { 3 } \right) } \cdot \frac { 4 a } { 4 c } \right| = \mid \frac { 8 c ^ { 2 } - 1 } { 8 c ^ { 2 } + 1 2 a c + 2 } \cdot \frac { a } { c }

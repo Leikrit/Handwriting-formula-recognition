@@ -1,0 +1,1 @@
+\Rightarrow \frac { x _ { n + 1 } } { x _ { n } } > \frac { 1 } { 2 } \Rightarrow x _ { n } > x _ { 1 } \left( \frac { 1 } { 2 } \right) ^ { n - 1 } = \frac { 1 } { 2 ^ { n - 1 } }

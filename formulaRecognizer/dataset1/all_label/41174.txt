@@ -1,0 +1,1 @@
+f ( x ) _ { \min } = f ( 2 ) = \left| 2 ^ { 2 } - 2 \times 2 \right| + 4 - \sin \frac { 2 \pi } { 4 } = 3

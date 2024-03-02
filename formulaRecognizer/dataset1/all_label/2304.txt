@@ -1,0 +1,1 @@
+a _ { n } = \int _ { 0 } ^ { n } 2 ^ { x } \ln 2 \mathrm { ~ d } x

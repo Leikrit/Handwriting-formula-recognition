@@ -1,0 +1,1 @@
+\left( - \infty , \frac { - 3 - \sqrt { 7 } } { 2 } \right] \cup [ 1 , + \infty ) \text { . }

@@ -1,0 +1,1 @@
+\frac { x } { \sin x } \in ( m , n ) ( m < n )

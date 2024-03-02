@@ -1,0 +1,1 @@
+\text { 余 的 } 4 \text { 个 位 置 , 有 } \mathrm { A } _ { 4 } ^ { 4 } \text { 种 站 法 , 此 时 有 } 2 \times \mathrm { A } _ { 5 } ^ { 2 } \times \mathrm { A } _ { 4 } ^ { 4 } = 9 6 0 \text { 种 不 同 站 法 }

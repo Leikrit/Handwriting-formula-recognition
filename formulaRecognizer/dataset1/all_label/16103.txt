@@ -1,0 +1,1 @@
+k _ { C B } - k _ { N C } = \frac { y _ { 2 } } { x _ { 2 } + a } + \frac { ( a + c ) } { ( a - c ) \left( a - x _ { 1 } \right) } y _ { 1 } = \frac { \left( a ^ { 2 } - c ^ { 2 } \right) \left( y _ { 1 } + y _ { 2 } \right) + 2 c m y _ { 1 } y _ { 2 } } { m }

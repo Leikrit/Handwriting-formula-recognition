@@ -1,0 +1,1 @@
+a _ { n + 1 } + \alpha ( n + 1 ) + \beta = p \left( a _ { n } + \alpha \cdot n + \beta \right)

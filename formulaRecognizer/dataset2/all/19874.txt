@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \mathrm { e } ^ { x } ( x - a ) \left[ x ^ { 2 } + ( 3 - a + b ) x + 2 b - a b - a \right]

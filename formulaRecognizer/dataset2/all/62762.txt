@@ -1,0 +1,1 @@
+\text { 结 合 } f ( x ) \text { 在 区 间 } \left[ \frac { \pi } { 6 } , \frac { \pi } { 2 } \right] \text { 上 单 调 }

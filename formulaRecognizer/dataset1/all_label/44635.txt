@@ -1,0 +1,1 @@
+\left( \frac { 1 } { s } - s \right) y + 2 ( x - 1 ) = 0

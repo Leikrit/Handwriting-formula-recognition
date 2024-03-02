@@ -1,0 +1,1 @@
+\text { 位 : } \left. { } ^ { \circ } \mathrm { C } \right) \text { 之 间 满 足 函 数 关 系 } y = \mathrm { e } ^ { k x + b } \text { ( } \mathrm { e } \text { 为 自 然 对 数 的 }

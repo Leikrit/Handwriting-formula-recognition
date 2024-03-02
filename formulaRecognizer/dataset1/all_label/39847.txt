@@ -1,0 +1,1 @@
+\frac { b _ { 1 } + 1 } { b _ { 1 } } \frac { b _ { 2 } + 1 } { b _ { 2 } } \cdots \frac { b _ { n } + 1 } { b _ { n } } > \sqrt { n + 1 }

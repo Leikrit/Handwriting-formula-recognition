@@ -1,0 +1,1 @@
+f ( x ) \geqslant \frac { 2 } { \mathrm { e } ^ { 2 } }

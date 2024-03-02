@@ -1,0 +1,1 @@
+\frac { \cos ^ { 2 } \alpha } { \sin ^ { 2 } \beta } = 2

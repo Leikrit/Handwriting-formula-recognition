@@ -1,0 +1,1 @@
+\text { 且 } B P = \lambda B D _ { 1 } ( \lambda \in ( 0 , 1 ) )

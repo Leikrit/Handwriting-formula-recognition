@@ -1,0 +1,1 @@
+c x ( a , b , c \in \mathbf { R } , a \neq 0 )

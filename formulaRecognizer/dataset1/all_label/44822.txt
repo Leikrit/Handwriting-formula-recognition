@@ -1,0 +1,1 @@
+g \left( \log _ { 2 } \left| 3 ^ { x } - 1 \right| \right) < g ( 1 )

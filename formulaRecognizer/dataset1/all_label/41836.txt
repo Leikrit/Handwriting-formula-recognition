@@ -1,0 +1,1 @@
+X \sim N \left( \mu _ { 1 } , \sigma _ { 1 } ^ { 2 } \right) , Y \sim N \left( \mu _ { 2 } , \sigma _ { 2 } ^ { 2 } \right)

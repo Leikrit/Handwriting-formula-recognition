@@ -1,0 +1,1 @@
+\left. y _ { 2 } \right) + c ^ { 2 } = \frac { a ^ { 2 } \left( c ^ { 2 } - b ^ { 2 } m ^ { 2 } \right) } { a ^ { 2 } + b ^ { 2 } m ^ { 2 } }

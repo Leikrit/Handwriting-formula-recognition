@@ -1,0 +1,1 @@
+f ( x ) = - \frac { 3 } { x ^ { 2 } } + \frac { 1 } { x } + 5 , 1 \leq s l a n t x \leq s l a n t 1 0

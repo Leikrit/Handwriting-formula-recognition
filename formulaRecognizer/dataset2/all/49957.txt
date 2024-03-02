@@ -1,0 +1,1 @@
+\overrightarrow { F N } \cdot \overrightarrow { F P } = \left( - \frac { 1 } { 2 } , \frac { x _ { 0 } - 2 } { 2 y _ { 0 } } \right) \cdot \left( x _ { 0 } - 2 , y _ { 0 } \right) = 0

@@ -1,0 +1,1 @@
+f ( x ) \cdot g ( x ) \text { 为 } D \text { 上 的 增 函 数 }

@@ -1,0 +1,1 @@
+M = \left\{ n \mid n ( n + 1 ) \geqslant t \left( a _ { n } + 1 \right) , n \in \mathbf { N } ^ { * } \right\}

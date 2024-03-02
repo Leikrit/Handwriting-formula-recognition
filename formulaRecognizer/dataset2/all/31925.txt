@@ -1,0 +1,1 @@
+\text { 故 } \frac { 1 } { a _ { 1 } } + \frac { 1 } { a _ { 2 } } + \cdots + \frac { 1 } { a _ { n } } \text { 的 最 大 值 为 } 1 - \frac { 1 } { 2 ^ { n } }

@@ -1,0 +1,1 @@
+\sin \alpha > \tan \alpha > \cot \alpha \left( - \frac { \pi } { 2 } < \alpha < \frac { \pi } { 2 } \right)

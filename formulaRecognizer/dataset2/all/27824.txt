@@ -1,0 +1,1 @@
+\text { 若 } b _ { n } = ( - 1 ) ^ { n + 1 } \cdot a _ { n } a _ { n + 1 } , T _ { n } \text { 为 } \left\{ b _ { n } \right\} \text { 的 }

@@ -1,0 +1,1 @@
+P _ { 0 } \cdot \mathrm { e } ^ { k t }

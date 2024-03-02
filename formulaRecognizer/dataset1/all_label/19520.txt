@@ -1,0 +1,1 @@
+\lambda \sin ^ { 2 } \alpha + \mu \tan ^ { 2 } \alpha = \sin ^ { 2 } \alpha \tan ^ { 2 } \alpha

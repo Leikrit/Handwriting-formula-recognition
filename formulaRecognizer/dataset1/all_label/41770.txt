@@ -1,0 +1,1 @@
+\overrightarrow { A B } = ( 2 , 1 ) , \quad \overrightarrow { A G } = ( 1 , 1 )

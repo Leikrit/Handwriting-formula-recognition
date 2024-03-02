@@ -1,0 +1,1 @@
+f \left( a ^ { 2 } - 4 \right) = f ( 2 a - 8 )

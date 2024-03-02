@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \frac { \sqrt { 3 } } { 2 } - \sqrt { 3 } \sin ^ { 2 } \omega x - \sin \omega x \cos \omega x

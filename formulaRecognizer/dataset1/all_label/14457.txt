@@ -1,0 +1,1 @@
+2 \sqrt { 3 } \sin x ) , \boldsymbol { n } = ( \sin x - \cos x , \cos x )

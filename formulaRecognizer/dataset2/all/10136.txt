@@ -1,0 +1,1 @@
+\left( x + \frac { 1 } { x } \right) \left( 2 x - \frac { a } { x } \right) ^ { 5 } \text { 的 展 开 式 中 各 项 系 数 之 和 为 } 2

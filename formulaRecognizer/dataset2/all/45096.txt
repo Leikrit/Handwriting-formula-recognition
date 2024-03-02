@@ -1,0 +1,1 @@
+\text { 若 存 在 唯 一 的 整 数 } x _ { 0 } \text { 使 得 } f \left( x _ { 0 } \right) < 0

@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 7 } y _ { i } = 9 . 3 2 , \sum _ { i = 1 } ^ { 7 } t _ { i } y _ { i } = 4 0 . 1 7 , \sqrt { \sum _ { i = 1 } ^ { 7 } \left( y _ { i } - \bar { y } \right) ^ { 2 } } = 0 . 5 5 , \sqrt { 7 } \approx 2 . 6 4 6

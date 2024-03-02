@@ -1,0 +1,1 @@
+\text { 设 函 数 } h ( x ) = f ( x ) - a g ( x ) ( a \neq 0 )

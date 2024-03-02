@@ -1,0 +1,1 @@
+\text { 命 题 } p \Rightarrow q \text { 的 否 定 是 } p \Rightarrow \ne g q

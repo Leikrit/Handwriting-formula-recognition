@@ -1,0 +1,1 @@
+\text { 已 知 } \alpha \in \mathbf { R } , \sin \alpha + 2 \cos \alpha = \frac { \sqrt { 1 0 } } { 2 }

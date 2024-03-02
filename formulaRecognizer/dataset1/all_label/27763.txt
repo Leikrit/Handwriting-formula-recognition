@@ -1,0 +1,1 @@
+4 S _ { \triangle A B C } = b ^ { 2 } + c ^ { 2 } - a ^ { 2 }

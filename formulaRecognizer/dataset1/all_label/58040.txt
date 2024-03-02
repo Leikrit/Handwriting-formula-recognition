@@ -1,0 +1,1 @@
+a \log _ { b } c < b \log _ { a } c

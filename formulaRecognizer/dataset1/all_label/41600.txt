@@ -1,0 +1,1 @@
+\max \left\{ 3 ^ { \pi } , \pi ^ { 3 } \right\}

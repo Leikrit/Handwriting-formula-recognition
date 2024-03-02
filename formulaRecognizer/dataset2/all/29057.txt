@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \boldsymbol { m } \cdot \boldsymbol { n } \text { 在 } x = 1 \text { 处 取 得 极 值 }

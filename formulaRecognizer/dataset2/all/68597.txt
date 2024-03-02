@@ -1,0 +1,1 @@
+\text { 令 } T _ { n } = \mid a _ { n } + a _ { n + 1 } + \cdots +

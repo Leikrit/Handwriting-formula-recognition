@@ -1,0 +1,1 @@
+\ e x i s t s n _ { 0 } \in \mathbf { N } ^ { * }

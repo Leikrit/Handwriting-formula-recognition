@@ -1,0 +1,1 @@
+a _ { n } = \frac { 1 } { 5 } \left[ 3 ^ { n } + ( - 1 ) ^ { n - 1 } \cdot 2 ^ { n } \right] + ( - 1 ) ^ { n } \cdot 2 ^ { n } a _ { 0 }

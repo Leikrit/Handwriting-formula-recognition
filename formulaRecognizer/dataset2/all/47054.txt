@@ -1,0 +1,1 @@
+\left. \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)

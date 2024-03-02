@@ -1,0 +1,1 @@
+\text { 显 然 当 } x \rightarrow 0 \text { 时 , } h ( x ) \rightarrow + \infty

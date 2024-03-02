@@ -1,0 +1,1 @@
+\text { 是 否 存 在 实 数 } x , y \text { 使 } \left\{ a _ { n } + y n \right\} \text { 为 等 比 数 列 }

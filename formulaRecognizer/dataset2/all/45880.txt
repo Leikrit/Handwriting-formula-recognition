@@ -1,0 +1,1 @@
+\text { 若 已 知 关 于 } x \text { 的 方 程 } \l g \left( - x ^ { 2 } + 3 x - m \right) = \l g ( 3 - x ) \text { 在 区 间 } [ 0 , 3 ) \text { 上 有 唯 一 实 数 }

@@ -1,0 +1,1 @@
+\text { 且 } \frac { 1 } { | A Q | } + \frac { 1 } { | B Q | } \text { 为 定 值 }

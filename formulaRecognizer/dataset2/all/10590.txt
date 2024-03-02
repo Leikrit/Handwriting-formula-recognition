@@ -1,0 +1,1 @@
+\text { 已 知 直 线 } l \text { 的 倾 斜 角 } \alpha \text { 满 足 方 程 } \frac { \sin \alpha } { 1 + \cos \alpha } = 2

@@ -1,0 +1,1 @@
+y = \log _ { 2 } x \text { 与 } y = \log _ { \frac { 1 } { 2 } } x

@@ -1,0 +1,1 @@
+a _ { 4 } = 2 7 \text { 且 } \frac { a _ { n - m } } { a _ { n } } = \frac { a _ { n } } { a _ { n + m } } ( n > m , m \text { , }

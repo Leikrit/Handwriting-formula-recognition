@@ -1,0 +1,1 @@
+\overrightarrow { A C } = \overrightarrow { A B } + \overrightarrow { B C } = ( 2 \tan \alpha , 3 ) = ( 2 , 3 )

@@ -1,0 +1,1 @@
+\frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } \cdot \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } = \frac { 1 } { 2 }

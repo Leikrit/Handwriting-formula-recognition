@@ -1,0 +1,1 @@
+\ t h e r e f o r e \tan A = \sqrt { 3 } , \quad \b e c a u s e 0 < A < \pi , \quad \ t h e r e f o r e A = \frac { \pi } { 3 }

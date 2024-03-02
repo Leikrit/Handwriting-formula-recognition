@@ -1,0 +1,1 @@
+B = \{ x \mid ( x - 4 ) ( x + 2 ) \geqslant 0 \}

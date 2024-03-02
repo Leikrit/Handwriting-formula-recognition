@@ -1,0 +1,1 @@
+\left| \mathrm { e } ^ { \frac { \pi i } { 4 } } \right| = 1

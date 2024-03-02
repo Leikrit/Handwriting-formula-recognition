@@ -1,0 +1,1 @@
+( a , b , c ) = \left( \frac { 1 } { 2 \sqrt { 5 } } , \frac { 2 } { \sqrt { 5 } } , \frac { 1 2 } { \sqrt { 5 } } \right)

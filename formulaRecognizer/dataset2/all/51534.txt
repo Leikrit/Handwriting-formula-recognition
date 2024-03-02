@@ -1,0 +1,1 @@
+\text { 设 曲 线 } C \text { 的 极 坐 标 方 程 为 } \rho = \cos \theta ( \rho \cos \theta + 4 )

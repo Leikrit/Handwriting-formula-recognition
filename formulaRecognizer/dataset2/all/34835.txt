@@ -1,0 +1,1 @@
+\text { 因 此 } g _ { n } ( x ) = \frac { x } { 1 + n x } \left( n \in \mathbf { N } ^ { * } \right)

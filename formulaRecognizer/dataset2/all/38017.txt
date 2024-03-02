@@ -1,0 +1,1 @@
+\text { 直 线 } l \text { 与 函 数 } f ( x ) = \mathrm { e } ^ { x } \text { 和 函 数 } g ( x ) = \ln x \text { 的 图 像 均 相 切 }

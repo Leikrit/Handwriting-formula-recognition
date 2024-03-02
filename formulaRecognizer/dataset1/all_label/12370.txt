@@ -1,0 +1,1 @@
+f ( x ) = x \left( a - \frac { 1 } { \mathrm { e } ^ { x } } \right)

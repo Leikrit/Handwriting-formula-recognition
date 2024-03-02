@@ -1,0 +1,1 @@
+\frac { 5 \pi } { 6 } - \alpha = \pi - \left( \frac { \pi } { 6 } + \alpha \right)

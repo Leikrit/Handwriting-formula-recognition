@@ -1,0 +1,1 @@
+\left. a _ { l _ { 2 } } , \cdots , a _ { l _ { n } } \right\}

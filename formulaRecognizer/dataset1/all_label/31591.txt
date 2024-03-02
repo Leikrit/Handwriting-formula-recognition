@@ -1,0 +1,1 @@
+P \left( c _ { n } , c _ { n + 1 } \right)

@@ -1,0 +1,1 @@
+\varphi = 2 k \pi + \pi , k \in \mathbf { Z } , \ t h e r e f o r e \varphi = 2 k \pi + \frac { \pi } { 3 } ( k \in \mathbf { Z } ) \text { . 令 } k = 0

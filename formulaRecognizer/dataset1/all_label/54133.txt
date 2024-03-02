@@ -1,0 +1,1 @@
+\left( 2 \sqrt { x } - \frac { 1 } { \sqrt { x } } \right) ^ { n }

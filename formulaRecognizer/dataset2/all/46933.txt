@@ -1,0 +1,1 @@
+a \sin x + b \cos x , a \cos x - b \sin x

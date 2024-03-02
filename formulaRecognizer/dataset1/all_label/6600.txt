@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = - \frac { 1 } { 2 } \left( x ^ { 2 } - 2 x - 1 \right) = - \frac { 1 } { 2 } x ^ { 2 } + x + \frac { 1 } { 2 }

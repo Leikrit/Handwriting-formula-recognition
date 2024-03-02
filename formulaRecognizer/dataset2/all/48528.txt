@@ -1,0 +1,1 @@
+\text { 已 知 以 } F \text { 为 焦 点 的 抛 物 线 } C : y ^ { 2 } = 4 x \text { 上 的 两 点 } A , B \text { 满 足 } \overrightarrow { A F } = \lambda \overrightarrow { F B } \left( \frac { 1 } { 3 } \leq s l a n t \lambda \leq s l a n t 3 \right)

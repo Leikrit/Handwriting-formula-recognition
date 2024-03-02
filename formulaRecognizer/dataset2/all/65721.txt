@@ -1,0 +1,1 @@
+y = \ln x \text { 在 点 } A \left( x _ { 0 } , \ln x _ { 0 } \right) \text { 处 的 切 线 也 是 曲 线 }

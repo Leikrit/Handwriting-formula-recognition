@@ -1,0 +1,1 @@
+V = \sqrt { 3 } \cdot \sqrt { x ^ { 4 } ( 2 5 - 1 0 x ) } = \sqrt { 3 } \cdot \sqrt { 2 5 x ^ { 4 } - 1 0 x ^ { 5 } }

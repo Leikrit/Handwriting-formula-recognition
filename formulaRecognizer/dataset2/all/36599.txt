@@ -1,0 +1,1 @@
+g \left( x _ { 0 } \right) = f \left( x _ { 1 } \right)

@@ -1,0 +1,1 @@
+\text { 则 由 } f ^ { \prime } ( x ) = 0 \text { 得 } x = \ln \left( - \frac { a } { 2 } \right)

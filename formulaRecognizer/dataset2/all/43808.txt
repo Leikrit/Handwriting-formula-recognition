@@ -1,0 +1,1 @@
+\overrightarrow { F _ { 2 } F _ { 1 } } + \overrightarrow { F _ { 2 } M } + \overrightarrow { F _ { 2 } N } = \mathbf { 0 }

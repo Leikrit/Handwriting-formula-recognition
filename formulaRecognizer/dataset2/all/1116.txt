@@ -1,0 +1,1 @@
+\forall t \in \left[ \frac { 1 } { 2 } , 1 \right] , f ( t ) - f ( t + 1 ) \leq s l a n t 1

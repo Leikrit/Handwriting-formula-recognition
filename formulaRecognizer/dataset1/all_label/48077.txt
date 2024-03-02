@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 \sin \omega x \cos \omega x + 2 \sqrt { 3 } \sin ^ { 2 } \omega x - \sqrt { 3 }

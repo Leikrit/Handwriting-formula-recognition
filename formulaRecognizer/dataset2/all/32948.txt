@@ -1,0 +1,1 @@
+x _ { 2 } > \frac { b \ln b } { 2 \mathrm { e } ^ { 2 } } x _ { 1 } + \frac { \mathrm { e } ^ { 2 } } { b } .

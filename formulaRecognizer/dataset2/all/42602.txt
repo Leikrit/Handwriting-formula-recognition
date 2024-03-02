@@ -1,0 +1,1 @@
+\cos \frac { B + C } { 2 } = \sin \frac { A } { 2 }

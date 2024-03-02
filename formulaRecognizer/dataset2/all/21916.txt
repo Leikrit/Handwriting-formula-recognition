@@ -1,0 +1,1 @@
+\text { 若 } \frac { 1 } { 2 \mathrm { e } } < a < 2 \sqrt { \mathrm { e } }

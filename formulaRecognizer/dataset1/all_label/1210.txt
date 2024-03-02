@@ -1,0 +1,1 @@
+\alpha \in \left[ \frac { \pi } { 4 } , \pi \right]

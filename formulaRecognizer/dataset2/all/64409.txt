@@ -1,0 +1,1 @@
+\text { 且 } g ( x ) \text { 在 区 间 } \left( \frac { 1 } { \mathrm { e } } , \mathrm { e } \right) \text { 上 有 且 只 有 一 个 极 值 点 }

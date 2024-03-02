@@ -1,0 +1,1 @@
+\text { 已 知 } | 2 f ( x ) | \leq s l a n t 1 \text { 对 } \forall x \in [ - 1 , 1 ] \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+\text { 对 } \forall x > 0 , g ( x ) < 1 + \mathrm { e } ^ { - 2 }

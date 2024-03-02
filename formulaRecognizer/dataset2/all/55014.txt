@@ -1,0 +1,1 @@
+a _ { n + 1 } = \left( n ^ { 2 } + n - \lambda \right) a _ { n } ( n = 1 , 2 , \cdots )

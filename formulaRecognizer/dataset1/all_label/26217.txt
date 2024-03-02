@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = 2 k \mathrm { e } ^ { x } ( x + 2 ) - 2 x - 4 = ( x + 2 ) \left( 2 k \mathrm { e } ^ { x } - 2 \right) = 0 \Rightarrow x = - \ln k \geqslant - 2

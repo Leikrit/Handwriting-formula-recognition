@@ -1,0 +1,1 @@
+( - \infty , - 7 ) \cup [ 3 , + \infty ) \cup \{ - 3 \}

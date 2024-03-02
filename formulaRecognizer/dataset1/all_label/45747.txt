@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 2 \mathrm { e } ^ { 2 x } - \frac { a } { x } ( x > 0 )

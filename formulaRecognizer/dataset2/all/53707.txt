@@ -1,0 +1,1 @@
+a ( 2 - b ) = \log _ { 2 } 3 \times \left( 2 - \log _ { 3 } 1 8 \right) = \log _ { 2 } 3 \times \left( \log _ { 3 } 9 - \log _ { 3 } 1 8 \right) = - \log _ { 2 } 3 \times \left( \log _ { 3 } 1 8 - \log _ { 3 } 9 \right) = - \log _ { 2 } 3 \times \log _ { 3 } 2 = - 1

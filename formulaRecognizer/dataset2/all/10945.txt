@@ -1,0 +1,1 @@
+\text { 曲 线 } y = f ( x ) \text { 在 } ( 1 , 0 ) \text { 处 的 切 线 经 过 点 } ( \mathrm { e } , 0 )

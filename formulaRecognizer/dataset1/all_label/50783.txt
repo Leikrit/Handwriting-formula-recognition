@@ -1,0 +1,1 @@
+\sin A \cos C = 3 \cos A \sin C

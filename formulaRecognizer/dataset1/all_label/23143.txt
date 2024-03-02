@@ -1,0 +1,1 @@
+a \left[ \frac { f ( x ) } { x } + 3 \right] \geqslant 2 \left( x + \frac { 1 } { x } \right) \ln x

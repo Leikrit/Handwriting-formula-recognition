@@ -1,0 +1,1 @@
+\text { 若 } a + b > 2 \sqrt { a b }

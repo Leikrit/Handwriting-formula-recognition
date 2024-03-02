@@ -1,0 +1,1 @@
+\text { 记 } \Omega = \left\{ ( P , Q ) \mid P \in C _ { 1 } , Q \in C _ { 2 } , \overrightarrow { O P } \cdot \overrightarrow { O Q } = w \right\}

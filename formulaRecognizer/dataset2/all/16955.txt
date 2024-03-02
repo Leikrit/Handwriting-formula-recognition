@@ -1,0 +1,1 @@
+\left| \overrightarrow { O B _ { 1 } } \right| = \left| \overrightarrow { O B _ { 2 } } \right| = 1 \Rightarrow B _ { 1 } , B _ { 2 } \text { 在 以 原 点 为 圆 心 的 单 位 圆 }

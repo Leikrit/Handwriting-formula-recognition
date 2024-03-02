@@ -1,0 +1,1 @@
+\text { 则 数 列 } \left\{ \frac { 1 } { n b _ { n } } \right\} \text { 的 前 } 9 9

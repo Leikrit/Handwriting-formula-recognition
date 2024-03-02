@@ -1,0 +1,1 @@
+f ( x ) \text { 在 点 } ( \mathrm { e } , f ( \mathrm { e } ) ) \text { 处 切 线 的 斜 率 为 }

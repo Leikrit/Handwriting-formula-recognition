@@ -1,0 +1,1 @@
+\overrightarrow { C A } = \left( x _ { 1 } - t , y _ { 1 } \right) , \overrightarrow { C B } = \left( x _ { 2 } - t , y _ { 2 } \right)

@@ -1,0 +1,1 @@
+a \sin B \cos C + c \sin B \cos A = \frac { 1 } { 2 } b

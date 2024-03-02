@@ -1,0 +1,1 @@
+\int _ { 0 } ^ { 1 } \left( 2 x + \mathrm { e } ^ { x } \right) \mathrm { d } x

@@ -1,0 +1,1 @@
+D = \left\{ x \mid x = \frac { n - 1 } { n } , n \in \mathbf { N } ^ { * } \right\}

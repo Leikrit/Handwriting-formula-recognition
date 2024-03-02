@@ -1,0 +1,1 @@
+\text { 不 妨 假 设 } a _ { k } ( 2 \leq s l a n t k \leq s l a n t N ) \text { 是 } a _ { 2 } , a _ { 3 } , \cdots , a _ { N } \text { 中 第 一 个 大 于 } a _ { 1 } \text { 的 数 }

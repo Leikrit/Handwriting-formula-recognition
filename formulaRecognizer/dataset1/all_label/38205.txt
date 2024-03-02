@@ -1,0 +1,1 @@
+f ( x ) = x \left[ f ^ { \prime } ( x ) - \ln x \right]

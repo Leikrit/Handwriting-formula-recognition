@@ -1,0 +1,1 @@
+b _ { 1 } + 3 b _ { 2 } + 7 b _ { 3 } + \cdots + \left( 2 ^ { n } - 1 \right) b _ { n } = a _ { n }

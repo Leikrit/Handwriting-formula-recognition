@@ -1,0 +1,1 @@
+\lim _ { x \rightarrow \pi } \frac { ( x - \pi ) \cos x } { \sqrt { x } - \sqrt { \pi } } =

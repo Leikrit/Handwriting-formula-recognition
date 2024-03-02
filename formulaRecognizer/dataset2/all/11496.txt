@@ -1,0 +1,1 @@
+\frac { \mathrm { e } ^ { x } + \cos x } { x } \text { 成 立 }

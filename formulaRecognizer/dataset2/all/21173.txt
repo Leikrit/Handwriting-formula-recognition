@@ -1,0 +1,1 @@
+\text { 类 似 的 有 } \prod _ { i = 1 } ^ { n } a _ { i } = a _ { 1 } \times a _ { 2 } \times \cdots \times a _ { n }

@@ -1,0 +1,1 @@
+\text { 当 } a = \frac { 1 } { 6 } \text { 时 , 求 } f ( x ) \text { 的 极 值 }

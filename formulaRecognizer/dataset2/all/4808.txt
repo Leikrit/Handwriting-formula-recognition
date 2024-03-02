@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sqrt { x - 1 } + 1 ( x \geqslant 1 ) \text { 的 反 函 数 是 }

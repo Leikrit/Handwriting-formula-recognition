@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) > 0 \Leftrightarrow 0 < x < \alpha \text { 或 } x > \beta

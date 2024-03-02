@@ -1,0 +1,1 @@
+a = \left( - 6 m , - 6 \cos \frac { \pi } { 3 } \right)

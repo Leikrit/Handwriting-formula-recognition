@@ -1,0 +1,1 @@
+\text { 直 线 } y = - \left( x - t _ { 2 } \right) - 6 \sqrt { 3 }

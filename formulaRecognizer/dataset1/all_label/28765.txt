@@ -1,0 +1,1 @@
+a ^ { 2 } = 3 b c \cos A = \frac { 3 } { 2 } \left( b ^ { 2 } + c ^ { 2 } - a ^ { 2 } \right)

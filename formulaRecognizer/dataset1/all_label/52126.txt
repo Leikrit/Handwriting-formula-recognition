@@ -1,0 +1,1 @@
+| P F | = \lambda | O F |

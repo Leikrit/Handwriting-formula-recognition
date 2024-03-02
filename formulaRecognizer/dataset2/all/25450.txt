@@ -1,0 +1,1 @@
+\text { 已 知 非 零 向 量 } \boldsymbol { m } , \boldsymbol { n } \text { 满 足 } 4 | \boldsymbol { m } | = 3 | \boldsymbol { n } |

@@ -1,0 +1,1 @@
+\ t h e r e f o r e A B = \sqrt { 3 ^ { 2 } + ( \sqrt { 2 } ) ^ { 2 } - 2 \times 3 \times \sqrt { 2 } \times \cos \left( \frac { \pi } { 2 } - \frac { \pi } { 4 } \right) } = \sqrt { 5 }

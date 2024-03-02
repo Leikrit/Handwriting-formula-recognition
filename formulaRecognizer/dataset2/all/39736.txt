@@ -1,0 +1,1 @@
+\text { 若 } a _ { 1 } a _ { 2 } - a _ { 2 } a _ { 3 } + a _ { 3 } a _ { 4 } - a _ { 4 } a _ { 5 } + \cdots + a _ { 2 n - 1 } a _ { 2 n } - a _ { 2 n } a _ { 2 n + 1 } \geqslant t \cdot 2 ^ { n + 3 } \text { 对 } n \in \mathbf { N } ^ { * } \text { 恒 成 立 }

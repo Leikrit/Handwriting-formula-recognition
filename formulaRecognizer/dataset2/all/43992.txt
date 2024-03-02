@@ -1,0 +1,1 @@
+x \in A , y \in B \text { 是 从 定 义 域 } A \text { 到 值 域 } B

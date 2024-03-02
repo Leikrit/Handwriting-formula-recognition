@@ -1,0 +1,1 @@
+g ( x ) \text { 在 } [ 0 , \pi ] \text { 上 有 } 2 \text { 个 零 点 }

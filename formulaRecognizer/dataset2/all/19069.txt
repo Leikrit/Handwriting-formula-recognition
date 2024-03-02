@@ -1,0 +1,1 @@
+g ( x ) = b \sin x + a \cos x

@@ -1,0 +1,1 @@
+n = k \left( k \in \mathbf { N } ^ { * } , \quad k \geqslant 1 \right)

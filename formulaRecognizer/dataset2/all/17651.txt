@@ -1,0 +1,1 @@
+f ( 1 ) < \o p e r a t o r n a m e { e f } ( 0 )

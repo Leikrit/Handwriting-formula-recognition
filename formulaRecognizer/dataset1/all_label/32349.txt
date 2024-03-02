@@ -1,0 +1,1 @@
+\ln x _ { 1 } = t \ln x _ { 2 } = t \ln t x _ { 1 } = t \left( \ln x _ { 1 } + \ln t \right)

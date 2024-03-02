@@ -1,0 +1,1 @@
+x \text { 的 不 等 式 } f ( x ) \geqslant 3 ^ { m } - 2 \text { 恒 成 立 . }

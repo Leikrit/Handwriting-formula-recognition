@@ -1,0 +1,1 @@
+S _ { n } = \sum _ { i = 1 } ^ { n } a _ { i } = \sum _ { i = 1 } ^ { n } \left( \frac { 1 } { a _ { i + 1 } } - \frac { 1 } { a _ { i } } \right) = \frac { 1 } { a _ { n + 1 } } - 1

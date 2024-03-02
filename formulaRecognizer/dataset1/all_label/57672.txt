@@ -1,0 +1,1 @@
+l : ( \lambda + 2 ) x - ( \lambda + 1 ) y - 4 \lambda - 6 = 0

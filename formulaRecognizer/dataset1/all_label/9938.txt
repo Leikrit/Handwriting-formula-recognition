@@ -1,0 +1,1 @@
+- \frac { \pi } { 1 2 } + k \pi < x < \frac { \pi } { 4 } + k \pi

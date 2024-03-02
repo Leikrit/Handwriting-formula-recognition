@@ -1,0 +1,1 @@
+\text { 且 对 任 意 } x \in \mathbf { R } \text { 都 有 } f ( x + 1 ) = \frac { 1 - f ( x ) } { 1 + f ( x ) }

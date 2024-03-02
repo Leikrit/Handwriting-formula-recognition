@@ -1,0 +1,1 @@
+\text { 则 } d = A B = \sqrt { A G ^ { 2 } + B G ^ { 2 } } = \sqrt { A G ^ { 2 } + B H ^ { 2 } + H G ^ { 2 } }

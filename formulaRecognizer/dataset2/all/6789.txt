@@ -1,0 +1,1 @@
+\text { 没 此 时 } P ^ { \prime } Q ^ { \prime } \text { 的 方 程 为 } y ^ { \prime } = k ^ { \prime } x ^ { \prime } - 4

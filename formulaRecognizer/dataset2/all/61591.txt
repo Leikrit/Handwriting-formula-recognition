@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } \left[ - \frac { \pi } { 3 } , 0 \right] \text { 上 单 调 递 增 }

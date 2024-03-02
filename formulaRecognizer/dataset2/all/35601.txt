@@ -1,0 +1,1 @@
+\text { 复 数 } z = \sin \frac { 7 \pi } { 6 } - \mathrm { i } \cos \frac { 7 \pi } { 6 }

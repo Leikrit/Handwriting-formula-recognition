@@ -1,0 +1,1 @@
+\left( S _ { 8 } - S _ { 5 } \right) \cdot \left( S _ { 9 } - S _ { 5 } \right) < 0

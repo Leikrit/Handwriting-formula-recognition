@@ -1,0 +1,1 @@
+\log _ { b } c > \log _ { a } b > \log _ { c } a

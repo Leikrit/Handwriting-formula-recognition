@@ -1,0 +1,1 @@
+\left\{ \frac { S _ { n } } { n } \right\}

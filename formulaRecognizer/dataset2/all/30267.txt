@@ -1,0 +1,1 @@
+\tan A \tan B \tan C = \tan A + 2 \tan B \tan C \geqslant 2 \sqrt { \tan A \cdot 2 \tan B \tan C }

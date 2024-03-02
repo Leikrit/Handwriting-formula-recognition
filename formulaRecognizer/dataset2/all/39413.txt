@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = f ( x ) - \cos x = \mathrm { e } ^ { x } - 2 x - \cos x

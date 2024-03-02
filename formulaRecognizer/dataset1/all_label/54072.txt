@@ -1,0 +1,1 @@
+\ a n g l e A P B = \ a n g l e B P C = \ a n g l e C P A = 9 0 ^ { \circ }

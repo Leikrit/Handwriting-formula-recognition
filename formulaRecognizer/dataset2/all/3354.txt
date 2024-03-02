@@ -1,0 +1,1 @@
+\forall n \in \mathbf { N } ^ { * } , n \pi - \frac { 3 \pi } { 4 } \leq s l a n t \left| a \mathrm { e } ^ { n \pi - \frac { 3 \pi } { 4 } } \cdot \cos \left( n \pi - \frac { 3 \pi } { 4 } \right) \right|

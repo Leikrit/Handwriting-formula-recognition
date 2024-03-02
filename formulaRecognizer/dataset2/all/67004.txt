@@ -1,0 +1,1 @@
+\text { 在 } [ 0 , 2 \pi ] \text { 上 满 足 } \sin x \geqslant \frac { 1 } { 2 } \text { 的 } x \text { 的 取 值 范 围 是 }

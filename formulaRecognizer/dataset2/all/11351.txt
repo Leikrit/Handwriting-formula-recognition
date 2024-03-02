@@ -1,0 +1,1 @@
+\text { 故 } h ( a ) \text { 在 } a = \mathrm { e } ^ { \frac { 1 } { 2 } } - 1 \text { 处 取 得 最 大 值 }

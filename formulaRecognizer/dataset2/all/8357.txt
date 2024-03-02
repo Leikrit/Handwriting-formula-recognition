@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { 3 ^ { n } + 5 ^ { n } } { 3 ^ { n - 1 } + 5 ^ { n - 1 } } = \lim _ { n \rightarrow \infty } \frac { 3 \left( \frac { 3 } { 5 } \right) ^ { n - 1 } + 5 } { \left( \frac { 3 } { 5 } \right) ^ { n - 1 } + 1 } = 5

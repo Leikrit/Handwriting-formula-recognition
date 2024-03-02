@@ -1,0 +1,1 @@
+\text { 具 有 性 质 } f \left( \frac { 1 } { x } \right) = - f ( x ) \text { 的 函 数 }

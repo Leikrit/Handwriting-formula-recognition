@@ -1,0 +1,1 @@
+A C = 5 , \frac { 1 } { \tan \frac { A } { 2 } } + \frac { 1 } { \tan \frac { C } { 2 } }

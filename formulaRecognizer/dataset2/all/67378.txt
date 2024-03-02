@@ -1,0 +1,1 @@
+\text { 若 } f ( x + a ) \geqslant g ( x ) \text { , 求 } a \text { 的 取 值 范 围 }

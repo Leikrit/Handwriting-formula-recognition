@@ -1,0 +1,1 @@
+\frac { S _ { 1 } } { S _ { \triangle G A B } } = \frac { A F } { A B } = \frac { y _ { 1 } } { y _ { 1 } - y _ { 2 } }

@@ -1,0 +1,1 @@
+\text { 又 知 正 项 等 差 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { 1 } = 2

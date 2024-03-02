@@ -1,0 +1,1 @@
+\overrightarrow { Q P } \cdot \overrightarrow { Q F } = \overrightarrow { F P } \cdot \overrightarrow { F Q }

@@ -1,0 +1,1 @@
+k _ { 1 } + k _ { 2 } = \frac { y _ { 0 } } { x _ { 0 } } \in \left[ - \frac { \sqrt { 3 } } { 3 } , \frac { \sqrt { 3 } } { 3 } \right]

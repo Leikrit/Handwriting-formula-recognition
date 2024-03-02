@@ -1,0 +1,1 @@
+\overrightarrow { M A } \cdot \overrightarrow { A B } = \overrightarrow { M B } \cdot \overrightarrow { B A }

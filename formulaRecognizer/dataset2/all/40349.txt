@@ -1,0 +1,1 @@
+\left[ 2 k \pi - \frac { \pi } { 6 } , 2 k \pi + \frac { 7 \pi } { 6 } \right] ( k \in \mathbf { Z } )

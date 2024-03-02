@@ -1,0 +1,1 @@
+\text { 则 } A , C \text { 两 点 到 水 平 面 } A ^ { \prime } B ^ { \prime } C ^ { \prime } \text { 的 高 度 差 } A A ^ { \prime } - C C ^ { \prime } \text { 约 为 } ( \sqrt { 3 } \approx 1 . 7 3 2 )

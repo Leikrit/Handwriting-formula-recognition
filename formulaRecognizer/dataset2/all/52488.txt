@@ -1,0 +1,1 @@
+\text { 证 明 : } f ^ { \prime } \left( x _ { 0 } \right) < 0

@@ -1,0 +1,1 @@
+S _ { \triangle M A B } : S _ { \triangle M C B } : S _ { \triangle M A C } = 1 : 2 :

@@ -1,0 +1,1 @@
+\frac { \sin ^ { 2 } \theta } { \sin ^ { 2 } \theta + \cos ^ { 2 } \theta } = \frac { t ^ { 2 } + 1 } { t ^ { 2 } } \cdot \frac { 1 } { t ^ { 2 } + 1 } + \frac { t ^ { 2 } + 1 } { 1 } \cdot \frac { t ^ { 2 } } { t ^ { 2 } + 1 } =

@@ -1,0 +1,1 @@
+( 2 n - 1 ) \cdot 3 ^ { n } = ( A n + B ) \cdot 3 ^ { n + 1 } - [ A ( n - 1 ) + B ] \cdot 3 ^ { n }

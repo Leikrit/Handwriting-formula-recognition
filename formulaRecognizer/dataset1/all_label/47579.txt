@@ -1,0 +1,1 @@
+\sqrt { a } \geqslant 2 \Rightarrow a \geqslant 4

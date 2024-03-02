@@ -1,0 +1,1 @@
+\hat { b } = \frac { \sum _ { i = 1 } ^ { n } u _ { i } v _ { i } - n \bar { u } \bar { v } } { \sum _ { i = 1 } ^ { n } u _ { i } ^ { 2 } - n \bar { u } ^ { 2 } } , \hat { a } = \bar { v } - \hat { b } \bar { u } .

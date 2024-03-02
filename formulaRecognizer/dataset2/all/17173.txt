@@ -1,0 +1,1 @@
+\text { 通 项 公 式 } a _ { m } = - m ^ { 2 } + ( 3 + 2 \lambda ) m - 3 \lambda \ln m

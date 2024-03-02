@@ -1,0 +1,1 @@
+\text { 已 知 } | \overrightarrow { A B } + \overrightarrow { A C } | = | \overrightarrow { B C } |

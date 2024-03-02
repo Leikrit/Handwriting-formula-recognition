@@ -1,0 +1,1 @@
+\text { 即 函 数 的 单 调 递 减 区 间 为 } \left[ \frac { 2 k \pi + \frac { \pi } { 4 } } { \omega } , \frac { 2 k \pi + \frac { 5 \pi } { 4 } } { \omega } \right]

@@ -1,0 +1,1 @@
+\text { ( 1 ) } f ^ { \prime } ( x ) = 3 x ^ { 2 } - 6 x + a , f ^ { \prime } ( 0 ) = a = 1

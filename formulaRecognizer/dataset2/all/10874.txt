@@ -1,0 +1,1 @@
+S = \boldsymbol { x } _ { 1 } \cdot \boldsymbol { y } _ { 1 } + \boldsymbol { x } _ { 2 } \cdot \boldsymbol { y } _ { 2 } + \boldsymbol { x } _ { 3 } \cdot \boldsymbol { y } _ { 3 } + \boldsymbol { x } _ { 4 } \cdot \boldsymbol { y } _ { 4 } + \boldsymbol { x } _ { 5 } \cdot \boldsymbol { y } _ { 5 }

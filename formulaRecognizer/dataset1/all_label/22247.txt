@@ -1,0 +1,1 @@
+T _ { n } = 2 - \left( \frac { 1 } { 2 } \right) ^ { n - 1 }

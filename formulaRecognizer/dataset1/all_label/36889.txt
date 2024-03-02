@@ -1,0 +1,1 @@
+b _ { n } = \left( 4 - a _ { n } \right) q ^ { n - 1 } \left( q \neq 0 , n \in \mathbf { N } ^ { * } \right)

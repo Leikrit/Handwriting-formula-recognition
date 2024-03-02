@@ -1,0 +1,1 @@
+\left| \mathrm { a } _ { 2 } - \mathrm { a } _ { 1 } \right| \leq \left| \mathrm { a } _ { 3 } - \mathrm { a } _ { 1 } \right| \leq \cdots \leq \left| \mathrm { a } _ { \mathrm { m } } - \mathrm { a } _ { 1 } \right|

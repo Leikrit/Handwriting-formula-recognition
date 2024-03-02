@@ -1,0 +1,1 @@
+P \left( X = x _ { 1 } \right) = \frac { 2 } { 3 } , P \left( X = x _ { 2 } \right) = \frac { 1 } { 3 }

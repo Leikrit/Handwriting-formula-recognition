@@ -1,0 +1,1 @@
+\left( - \frac { x ^ { 2 } } { 2 - 2 x } \right) ^ { \prime } = \frac { x ( x - 2 ) } { 2 ( x - 1 ) ^ { 2 } }

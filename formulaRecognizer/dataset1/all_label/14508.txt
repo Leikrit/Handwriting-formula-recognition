@@ -1,0 +1,1 @@
+\overrightarrow { F Q } \cdot ( \overrightarrow { P Q } + \overrightarrow { P F } ) = 0

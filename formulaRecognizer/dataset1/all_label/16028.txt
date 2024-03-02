@@ -1,0 +1,1 @@
+\text { 已 知 椭 圆 } \frac { x ^ { 2 } } { 8 } + \frac { y ^ { 2 } } { 4 } = 1 \text { 的 动 弦 } M N \text { 垂 直 交 } x \text { 轴 于 点 } P \left( x _ { 0 } , 0 \right) \text { , 椭 圆 的 长 轴 端 点 分 别 为 }

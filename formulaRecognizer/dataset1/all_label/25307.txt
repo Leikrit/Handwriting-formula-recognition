@@ -1,0 +1,1 @@
+A = \{ x | | x - 2 \mid \leq s l a n t 2 , x \in \mathbf { R } \} , B = \left\{ y \mid y = x ^ { 2 } - \right.

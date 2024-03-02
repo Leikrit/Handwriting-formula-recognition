@@ -1,0 +1,1 @@
+\text { 该 图 象 向 右 平 移 } \frac { \pi } { 6 } \text { 个 单 位 长 度 可 得 } y = 2 \sin 2 x \text { 的 }

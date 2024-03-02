@@ -1,0 +1,1 @@
+x ^ { - \frac { 1 } { 4 } } = \sqrt [ 4 ] { \left( \frac { 1 } { x } \right) ^ { 3 } } ( x > 0 )

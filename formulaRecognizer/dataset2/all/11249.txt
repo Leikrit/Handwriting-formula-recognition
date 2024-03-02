@@ -1,0 +1,1 @@
+\text { 当 } x \in \left( - \infty , \ln \left( - \frac { a } { 2 } \right) \right) \text { 时 }

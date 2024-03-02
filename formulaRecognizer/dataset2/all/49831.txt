@@ -1,0 +1,1 @@
+\text { 知 正 午 的 太 阳 高 度 角 } h = 9 0 ^ { \circ } - | \varphi - \delta |

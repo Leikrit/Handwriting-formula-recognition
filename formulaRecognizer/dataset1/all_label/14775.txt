@@ -1,0 +1,1 @@
+\frac { 2 \sin C - \sqrt { 3 } \sin A } { \cos A } = \frac { \sqrt { 3 } \sin B } { \cos B }

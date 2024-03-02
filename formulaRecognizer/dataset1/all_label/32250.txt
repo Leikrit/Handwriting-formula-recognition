@@ -1,0 +1,1 @@
+\left( x _ { m - 1 } , y _ { m - 1 } \right)

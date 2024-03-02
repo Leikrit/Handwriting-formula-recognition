@@ -1,0 +1,1 @@
+\left( \frac { b } { c } \right) ^ { a } < 1

@@ -1,0 +1,1 @@
+a \geqslant 0 \text { , 此 时 在 } x \leq s l a n t 0 \text { 的 部 分 , 函 数 } f ( x ) \text { 在 } x = 0 \text { 处 取 得 最 小 值 为 } a ^ { 2 } \text { ; 在 } x > 0 \text { 的 部 分 , 函 数 } f ( x )

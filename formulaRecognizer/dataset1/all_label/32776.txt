@@ -1,0 +1,1 @@
+a = \frac { t + 1 } { t - 1 } , t \in \left[ \frac { 5 } { 3 } , 3 \right]

@@ -1,0 +1,1 @@
+\overrightarrow { B P } = \frac { 1 } { 3 } \overrightarrow { B A } + \frac { 2 } { 3 } \overrightarrow { B C }

@@ -1,0 +1,1 @@
+g ( 0 ) = \frac { 1 } { 2 } \in \left[ - \frac { 1 } { 2 } , \frac { 5 } { 2 } \right]

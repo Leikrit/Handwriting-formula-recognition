@@ -1,0 +1,1 @@
+B = \left( b _ { 1 } , \right.

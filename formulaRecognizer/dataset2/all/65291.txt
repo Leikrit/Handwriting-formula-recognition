@@ -1,0 +1,1 @@
+\text { 题 设 条 件 } f ( x ) ( x \in \mathbf { R } ) \text { 为 抽 象 函 数 }

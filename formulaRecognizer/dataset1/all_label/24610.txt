@@ -1,0 +1,1 @@
+( z - 2 ) ( 1 + \mathrm { i } ) = 1 - \mathrm { i }

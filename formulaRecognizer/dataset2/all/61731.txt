@@ -1,0 +1,1 @@
+\text { 满 足 } \hat { y } = \hat { a } ( x - 1 1 ) ^ { 2 } + \hat { b } ( \hat { a } , \hat { b } \text { 为 常 数 } )

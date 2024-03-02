@@ -1,0 +1,1 @@
+B = \{ x \in \mathbf { R } | | x \mid > 1 \}

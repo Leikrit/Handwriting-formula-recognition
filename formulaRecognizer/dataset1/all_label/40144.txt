@@ -1,0 +1,1 @@
+F _ { 1 } \left( - \sqrt { a ^ { 2 } - b ^ { 2 } } , r \right)

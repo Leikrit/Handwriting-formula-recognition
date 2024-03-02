@@ -1,0 +1,1 @@
+f _ { n } ( x ) = \frac { x - n } { r _ { 0 } ( x ) + r _ { 1 } ( x ) + r _ { 2 } ( x ) + \cdots + r _ { n - 1 } ( x ) } \mathrm { e } ^ { x }

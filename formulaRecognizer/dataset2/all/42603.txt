@@ -1,0 +1,1 @@
+\sin \frac { A } { 2 } = 2 \sin \frac { A } { 2 } \cos \frac { A } { 2 }

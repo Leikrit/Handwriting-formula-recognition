@@ -1,0 +1,1 @@
+\boldsymbol { c } = m \boldsymbol { a } + \boldsymbol { b } ( m \in \mathbf { R } )

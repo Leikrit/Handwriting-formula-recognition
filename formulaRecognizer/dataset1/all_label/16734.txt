@@ -1,0 +1,1 @@
+\frac { 1 } { 4 k } = x _ { 2 } ^ { 2 } \left( 1 - \ln x _ { 2 } \right)

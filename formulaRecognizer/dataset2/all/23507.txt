@@ -1,0 +1,1 @@
+\left[ k \pi + \frac { \pi } { 6 } , k \pi + \frac { 7 \pi } { 6 } \right] , k \in \mathbf { Z }

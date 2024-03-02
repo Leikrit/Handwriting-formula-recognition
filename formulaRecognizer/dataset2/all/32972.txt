@@ -1,0 +1,1 @@
+\text { 由 正 弦 定 理 及 } ( \sin B - \sin C ) ^ { 2 } = \sin ^ { 2 } A - \sin B \sin C

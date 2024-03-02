@@ -1,0 +1,1 @@
+( a + b ) \otimes c = ( a \otimes c ) + ( b \otimes c )

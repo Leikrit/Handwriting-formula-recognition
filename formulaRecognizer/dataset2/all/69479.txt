@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = 2 ^ { x } \left| \log _ { 0 . 5 } x \right| - 1 \text { 的 零 点 个 数 }

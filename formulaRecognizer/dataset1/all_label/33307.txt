@@ -1,0 +1,1 @@
+( \boldsymbol { a } + k \boldsymbol { c } ) / / ( 2 \boldsymbol { b } - \boldsymbol { a } )

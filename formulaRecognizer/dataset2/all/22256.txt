@@ -1,0 +1,1 @@
+b ( \sqrt { 3 } \sin C + \cos C ) = 0

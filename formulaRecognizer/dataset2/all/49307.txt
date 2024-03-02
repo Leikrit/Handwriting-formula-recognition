@@ -1,0 +1,1 @@
+\text { 代 入 得 } \left| \frac { 2 a } { a ^ { 2 } + 2 } - a \right| =

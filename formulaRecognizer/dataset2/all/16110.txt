@@ -1,0 +1,1 @@
+\text { 集 合 } X - Y = \{ x \mid x \in X \text { , 且 } x \not i n

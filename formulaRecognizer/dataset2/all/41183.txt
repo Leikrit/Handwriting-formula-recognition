@@ -1,0 +1,1 @@
+\text { 记 } C \text { 点 到 城 } A \text { 的 距 离 为 } x \mathrm { ~ k m }

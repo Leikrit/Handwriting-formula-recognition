@@ -1,0 +1,1 @@
+B = \left\{ x \mid x ^ { 2 } - 2 x \leq s l a n t 0 \right\}

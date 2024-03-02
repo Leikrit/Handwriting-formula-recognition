@@ -1,0 +1,1 @@
+\sin B \cos C + \cos B \sin C =

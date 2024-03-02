@@ -1,0 +1,1 @@
+\text { 点 } P \text { 在 射 线 } y = \frac { 4 } { 3 } x ( x > 0 ) \text { 上 }

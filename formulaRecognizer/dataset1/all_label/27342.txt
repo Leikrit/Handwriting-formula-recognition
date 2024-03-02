@@ -1,0 +1,1 @@
+f ( m ) \geqslant f ( 0 )

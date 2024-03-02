@@ -1,0 +1,1 @@
+e \in \left[ \frac { \sqrt { 3 } } { 3 } , \frac { \sqrt { 2 } } { 2 } \right]

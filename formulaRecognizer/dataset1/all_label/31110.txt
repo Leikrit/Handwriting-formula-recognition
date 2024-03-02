@@ -1,0 +1,1 @@
+1 - x \leq s l a n t f ( x ) \leq s l a n t \frac { 1 } { 1 + x }

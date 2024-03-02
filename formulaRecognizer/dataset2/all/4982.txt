@@ -1,0 +1,1 @@
+\lambda _ { 1 } \overrightarrow { Q A } = \lambda _ { 2 } \overrightarrow { Q B }

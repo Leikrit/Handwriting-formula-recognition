@@ -1,0 +1,1 @@
+B = \{ x \mid 2 x - 3 \geqslant 0 \}

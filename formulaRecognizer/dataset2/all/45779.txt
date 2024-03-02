@@ -1,0 +1,1 @@
+2 k \pi + \frac { \pi } { 6 } < \theta < 2 k \pi + \frac { 5 \pi } { 6 } ( k \text { 为 任 意 整 数 ) }

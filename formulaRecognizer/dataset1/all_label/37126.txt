@@ -1,0 +1,1 @@
+A \cup B = \{ x \mid x > 1 \}

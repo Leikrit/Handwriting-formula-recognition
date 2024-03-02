@@ -1,0 +1,1 @@
+f ( x ) \geqslant \min \{ f ( 0 ) , f ( \pi ) \} = 0

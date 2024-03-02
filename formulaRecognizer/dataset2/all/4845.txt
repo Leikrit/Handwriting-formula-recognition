@@ -1,0 +1,1 @@
+\text { 满 足 } | \mathrm { x } | \geq \mathrm { x } _ { \mathrm { A } } \text { 的 部 分 构 成 }

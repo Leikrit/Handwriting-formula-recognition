@@ -1,0 +1,1 @@
+\left( 2 + \sqrt { x } - \frac { 1 } { x ^ { 2 0 1 6 } } \right) ^ { 1 0 }

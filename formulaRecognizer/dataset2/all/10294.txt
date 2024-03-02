@@ -1,0 +1,1 @@
+\{ a \mid 1 \leq s l a n t a \leq s l a n t 3 \}

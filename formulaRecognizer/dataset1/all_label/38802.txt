@@ -1,0 +1,1 @@
+A = \lambda _ { 1 } - \lambda _ { 3 }

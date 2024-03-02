@@ -1,0 +1,1 @@
+k _ { A Q } = \frac { a ^ { 2 } + c } { a - \frac { a + b } { 2 } } = \frac { a ^ { 2 } - a b } { \frac { a - b } { 2 } } = 2 a

@@ -1,0 +1,1 @@
+( - a ) ] \left[ b - \left( a ^ { 3 } - a \right) \right] < 0

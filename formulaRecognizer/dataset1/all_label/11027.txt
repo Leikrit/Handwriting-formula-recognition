@@ -1,0 +1,1 @@
+P ( X = 1 ) = \frac { \mathrm { C } _ { 6 } ^ { 2 } \mathrm { C } _ { 2 } ^ { 1 } } { \mathrm { C } _ { 8 } ^ { 3 } } = \frac { 1 5 } { 2 8 } ,

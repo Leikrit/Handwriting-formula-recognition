@@ -1,0 +1,1 @@
+b _ { n + 1 } = ( n - \lambda ) \left( \frac { 1 } { a _ { n } } + 1 \right)

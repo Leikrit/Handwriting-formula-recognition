@@ -1,0 +1,1 @@
+( 4 \boldsymbol { a } + \boldsymbol { b } ) \perp \overrightarrow { B C }

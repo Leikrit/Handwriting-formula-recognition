@@ -1,0 +1,1 @@
+\sqrt { 3 } \cos ( - \alpha ) = - \sqrt { 2 } \cos ( \pi + \beta )

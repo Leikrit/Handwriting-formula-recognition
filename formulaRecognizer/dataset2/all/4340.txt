@@ -1,0 +1,1 @@
+| A B | = \frac { \sqrt { 1 + k ^ { 2 } } } { \sqrt { 1 + ( \sqrt { 3 } k ) ^ { 2 } } } \cdot \left| A ^ { \prime } B ^ { \prime } \right| = \frac { \sqrt { 2 } } { 2 } \cdot \left| A ^ { \prime } B ^ { \prime } \right| \leq s l a n t \sqrt { 6 }

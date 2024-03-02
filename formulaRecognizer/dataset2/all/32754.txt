@@ -1,0 +1,1 @@
+\text { 若 对 任 意 } t \in \left[ \frac { 1 } { \mathrm { e } } , \mathrm { e } \right]

@@ -1,0 +1,1 @@
+\text { 光 度 } T \text { 的 数 学 表 达 式 为 } \l g \frac { 1 } { T } = k c L

@@ -1,0 +1,1 @@
+\hat { y } = \hat { b } t + \hat { a } = \frac { 3 } { 4 } t + 5 1 \text { . }

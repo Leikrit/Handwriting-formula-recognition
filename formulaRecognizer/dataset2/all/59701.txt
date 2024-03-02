@@ -1,0 +1,1 @@
+f ( x ) \text { 等 于 } 1 + \sin x \text { 和 } 1 - \sin x \text { 中 接 }

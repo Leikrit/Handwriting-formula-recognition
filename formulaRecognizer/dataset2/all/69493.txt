@@ -1,0 +1,1 @@
+\text { 二 项 式 } ( x + 1 ) ^ { n } \left( n \in \mathbf { N } ^ { + } \right) \text { 的 展 开 式 中 } x ^ { 2 } \text { 的 系 数 为 } 1 5

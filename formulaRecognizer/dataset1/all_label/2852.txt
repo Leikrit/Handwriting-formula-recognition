@@ -1,0 +1,1 @@
+\sin \left( A + \frac { \pi } { 3 } \right) = \frac { \sqrt { 3 } b } { 2 c }

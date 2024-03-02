@@ -1,0 +1,1 @@
+\frac { \tan \alpha } { \tan \alpha + 1 } =

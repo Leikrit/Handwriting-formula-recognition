@@ -1,0 +1,1 @@
+\ln ( t + 1 ) \leq s l a n t t , \mathrm { e } ^ { t } \geqslant t + 1 , \mathrm { e } ^ { t - 1 } \geqslant t

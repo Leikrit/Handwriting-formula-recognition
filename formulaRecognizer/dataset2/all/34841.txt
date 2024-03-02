@@ -1,0 +1,1 @@
+\text { 在 } ( 0 , a - 1 ) \text { 上 } h ^ { \prime } ( x ) < 0

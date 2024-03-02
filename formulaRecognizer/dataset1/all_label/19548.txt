@@ -1,0 +1,1 @@
+f ( x ) = m \ln x + \frac { 1 } { 2 } \cos \left( x + \frac { \pi } { 2 } \right) , g ( x ) = f ( x ) -

@@ -1,0 +1,1 @@
+x _ { j } \in \mathbf { N }

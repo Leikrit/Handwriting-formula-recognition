@@ -1,0 +1,1 @@
+\text { 过 曲 线 } C : f ( x ) = x ^ { 3 } - a x + b \text { 外 的 点 } A ( 1 , 0 ) \text { 作 曲 }

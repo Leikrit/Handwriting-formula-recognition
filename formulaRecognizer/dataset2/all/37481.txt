@@ -1,0 +1,1 @@
+\text { 已 知 } ( x \cos \theta + 1 ) ^ { 5 } \text { 的 展 开 式 中 } x ^ { 2 } \text { 的 系 数 与 } \left( x + \frac { 5 } { 4 } \right) ^ { 4 } \text { 的 }

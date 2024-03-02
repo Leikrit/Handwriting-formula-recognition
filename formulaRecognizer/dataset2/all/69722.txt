@@ -1,0 +1,1 @@
+\text { 放 量 } W \text { 与 时 间 } t \text { 的 关 系 为 } W = f ( t )

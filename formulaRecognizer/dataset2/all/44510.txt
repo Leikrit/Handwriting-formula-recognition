@@ -1,0 +1,1 @@
+\overrightarrow { O C } = k \boldsymbol { a } + 1 2 \boldsymbol { b }

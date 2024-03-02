@@ -1,0 +1,1 @@
+\frac { \sin 2 \alpha \cos \alpha - \sin \alpha } { \sin 2 \alpha \cos 2 \alpha }

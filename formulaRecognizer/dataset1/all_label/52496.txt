@@ -1,0 +1,1 @@
+\overrightarrow { M A _ { 1 } } + \overrightarrow { M A _ { 2 } } + \overrightarrow { M A _ { 3 } } + \overrightarrow { M A _ { 4 } }

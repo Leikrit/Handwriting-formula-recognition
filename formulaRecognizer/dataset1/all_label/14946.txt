@@ -1,0 +1,1 @@
+a _ { 1 } = 1 , \left( S _ { n + 1 } - S _ { n } \right) a _ { n } = 2 ^ { n } \left( n \in \mathbf { N } ^ { * } \right)

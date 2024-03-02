@@ -1,0 +1,1 @@
+\text { 若 函 数 } g ( x ) = x \ln x - \frac { 1 } { 2 } a x ^ { 2 } + \frac { a } { 2 } \text { 有 两 个 极 值 点 }

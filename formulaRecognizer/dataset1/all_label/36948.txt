@@ -1,0 +1,1 @@
+\sin \varphi = \frac { 1 } { 2 \sin \theta } < 1

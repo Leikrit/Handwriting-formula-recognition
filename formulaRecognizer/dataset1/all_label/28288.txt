@@ -1,0 +1,1 @@
+y ^ { \prime } = 2 \sin 2 x

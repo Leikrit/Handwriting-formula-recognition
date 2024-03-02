@@ -1,0 +1,1 @@
+x _ { 2 } \in \left( - 1 , - \frac { 1 } { 2 } \right]

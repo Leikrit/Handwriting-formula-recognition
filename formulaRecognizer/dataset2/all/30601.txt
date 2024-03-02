@@ -1,0 +1,1 @@
+\text { 则 “ } a \perp b \text { ” 是 “ } | a + b | = | a - b | \text { ” }

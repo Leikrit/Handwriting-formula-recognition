@@ -1,0 +1,1 @@
+y = f ( x ) \text { 的 图 像 沿 } x \text { 轴 向 左 平 移 } \frac { \pi } { 6 } \text { 个 单 位 }

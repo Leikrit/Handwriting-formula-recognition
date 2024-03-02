@@ -1,0 +1,1 @@
+\text { 已 知 } a = \log _ { 3 } \frac { 3 } { 2 } , \frac { 1 } { b } = \log _ { 2 } 3

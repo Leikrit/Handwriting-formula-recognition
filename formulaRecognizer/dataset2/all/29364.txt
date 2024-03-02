@@ -1,0 +1,1 @@
+\text { 满 足 } \left| a _ { 1 } \right| + \left| a _ { 2 } \right| + \cdots + \left| a _ { n } \right| = \left| a _ { 1 } + 1 \right| +

@@ -1,0 +1,1 @@
+A \Delta B = \left\{ x \mid f _ { A } ( x ) \cdot f _ { B } ( x ) = - 1 \right\}

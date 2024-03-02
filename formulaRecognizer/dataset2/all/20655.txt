@@ -1,0 +1,1 @@
+\forall x \in \ m a t h b b { N } ^ { * } , x ^ { 2 } \not i n \mathbf { N } ^ { * } \text { 或 } x ^ { 2 } < x

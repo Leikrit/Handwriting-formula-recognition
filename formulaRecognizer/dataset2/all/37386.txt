@@ -1,0 +1,1 @@
+\text { 由 题 意 可 转 化 为 } y = \frac { 1 } { t } \text { 与 } y = 2 \sin ( 1 - t ) \pi = 2 \sin t \pi \text { 的 交 }

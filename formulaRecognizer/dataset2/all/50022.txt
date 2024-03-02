@@ -1,0 +1,1 @@
+q = \log _ { a } \left( a ^ { 3 } - a + 1 \right)

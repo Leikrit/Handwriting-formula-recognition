@@ -1,0 +1,1 @@
+\ e x i s t s x _ { 0 } \in \mathbf { N } , \ln x _ { 0 } \left( x _ { 0 } + 1 \right) < 1

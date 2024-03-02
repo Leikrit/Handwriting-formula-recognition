@@ -1,0 +1,1 @@
+\text { 若 直 线 } y = \frac { 1 } { 2 } x \text { 是 曲 线 } y = f ( x ) \text { 的 切 线 }

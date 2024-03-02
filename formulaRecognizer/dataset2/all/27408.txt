@@ -1,0 +1,1 @@
+\text { 将 } f ( x ) \text { 的 图 象 向 左 平 移 } \frac { \pi } { 6 } \text { , 得 到 } g ( x ) \text { 的 图 象 }

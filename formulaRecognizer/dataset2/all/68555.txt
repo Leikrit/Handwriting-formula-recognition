@@ -1,0 +1,1 @@
+= 4 \frac { \sqrt { 2 k ^ { 2 } + 1 } } { | k | } = 4 \sqrt { 2 + \frac { 1 } { k ^ { 2 } } } \rightarrow 4 \sqrt { 2 } ( k \rightarrow \infty )

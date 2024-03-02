@@ -1,0 +1,1 @@
+\overrightarrow { D C } = 3 \overrightarrow { D F } , \overrightarrow { B C } = 3 \overrightarrow { B E } , \overrightarrow { A C } = x \overrightarrow { A F } + y \overrightarrow { A E }

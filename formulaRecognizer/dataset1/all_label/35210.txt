@@ -1,0 +1,1 @@
+( 2 a - b ) \perp a , ( a + b ) \perp ( 3 a - b )

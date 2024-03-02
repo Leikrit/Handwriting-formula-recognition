@@ -1,0 +1,1 @@
+\forall b > a > 0 , f ( b ) - b < f ( a ) - a

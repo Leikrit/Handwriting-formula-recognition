@@ -1,0 +1,1 @@
+\text { 设 数 列 } \left\{ a _ { n } \right\} \text { 的 公 差 为 } d ( d > 0 )

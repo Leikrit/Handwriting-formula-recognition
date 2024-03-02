@@ -1,0 +1,1 @@
+c = a - \left( \frac { a \cdot a } { a \cdot b } \right) b

@@ -1,0 +1,1 @@
+l _ { 1 } : k x + y = 0 ( k \in \mathbf { R } )

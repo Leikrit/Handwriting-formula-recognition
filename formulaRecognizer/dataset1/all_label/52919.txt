@@ -1,0 +1,1 @@
+f \left[ f ( x ) - \log _ { 2 } x \right] = 1 1

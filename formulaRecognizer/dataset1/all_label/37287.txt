@@ -1,0 +1,1 @@
+A \oplus B = \{ x \mid x \in A \cup B , x \not i n A \cap B \}

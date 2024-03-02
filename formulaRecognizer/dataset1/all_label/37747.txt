@@ -1,0 +1,1 @@
+\overrightarrow { A O } = m \overrightarrow { A B } + n \overrightarrow { A C }

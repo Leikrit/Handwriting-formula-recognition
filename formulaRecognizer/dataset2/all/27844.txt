@@ -1,0 +1,1 @@
+\text { 求 当 } x < 0 \text { 时 } f ( x ) \text { 的 表 }

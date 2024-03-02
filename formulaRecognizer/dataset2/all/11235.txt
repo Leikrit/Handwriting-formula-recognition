@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 2 \mathrm { e } ^ { 2 x } - a \mathrm { e } ^ { x } - a ^ { 2 } = \left( 2 \mathrm { e } ^ { x } + a \right) \left( \mathrm { e } ^ { x } - a \right)

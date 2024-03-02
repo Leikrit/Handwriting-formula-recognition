@@ -1,0 +1,1 @@
+\text { 所 以 } \overrightarrow { A O } = \frac { m } { 2 } \overrightarrow { A M } + \frac { n } { 2 } \overrightarrow { A N }

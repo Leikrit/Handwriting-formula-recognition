@@ -1,0 +1,1 @@
+N = \left\{ y \mid y = m + \frac { 1 } { 2 } , m \in \mathbf { Z } \right\}

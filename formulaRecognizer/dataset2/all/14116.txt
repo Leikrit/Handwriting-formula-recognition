@@ -1,0 +1,1 @@
+\text { 故 当 } x \in [ 1 , 4 a ] \text { 时 } \left| f ^ { \prime } ( x ) \right| \leq s l a n t 1 2 a \text { 不 恒 成 立 }

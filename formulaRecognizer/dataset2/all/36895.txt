@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 对 任 意 的 } x \in \mathbf { R } \text { 都 有 } f ( x ) + f ( 1 - x ) = 1

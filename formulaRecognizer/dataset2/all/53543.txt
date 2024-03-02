@@ -1,0 +1,1 @@
+\text { 设 } f ( x ) = x ^ { 3 } + \l g \left( x + \sqrt { x ^ { 2 } + 1 } \right)

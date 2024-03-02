@@ -1,0 +1,1 @@
+\text { 设 } G \text { 为 满 足 向 量 } \overrightarrow { O G } = \overrightarrow { O E } + \overrightarrow { O F } \text { 的 点 }

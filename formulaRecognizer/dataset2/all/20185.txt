@@ -1,0 +1,1 @@
+\text { 由 正 弦 定 理 知 } \frac { A T } { \sin B } = \frac { B T } { \sin \frac { A } { 2 } }

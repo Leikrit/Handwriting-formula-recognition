@@ -1,0 +1,1 @@
+\left| x - x _ { 2 } \right| + x _ { 3 } - x = \left| x - x _ { 2 } \right| - x _ { 1 } + x _ { 3 }

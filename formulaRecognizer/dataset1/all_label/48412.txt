@@ -1,0 +1,1 @@
+a _ { n } \geqslant \left( \frac { 2 } { 5 n - 3 } \right) ^ { 2 }

@@ -1,0 +1,1 @@
+f ( x ) = ( x - 1 ) ^ { 2 } + 1 \quad ( x \leq s l a n t 0 )

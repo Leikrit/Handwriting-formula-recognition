@@ -1,0 +1,1 @@
+\text { 由 } \left| f ^ { \prime } ( x ) \right| \leq s l a n t 1 2 a \text { 得 } - 1 2 a \leq s l a n t 3 x ^ { 2 } - 6 a x - 9 a ^ { 2 } \leq s l a n t 1 2 a

@@ -1,0 +1,1 @@
+\text { 若 } \mathrm { e } ^ { a } - b < \mathrm { e } ^ { b } - a \mathrm { e } ^ { a } - a < \mathrm { e } ^ { b } - a

@@ -1,0 +1,1 @@
+\boldsymbol { c } _ { \lambda } \cdot \boldsymbol { c } _ { \frac { 1 } { 2 } } = \frac { 1 } { 2 }

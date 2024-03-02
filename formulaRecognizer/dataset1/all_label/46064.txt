@@ -1,0 +1,1 @@
+A \cup B = \left\{ x \mid x < \frac { 3 } { 2 } \right\}

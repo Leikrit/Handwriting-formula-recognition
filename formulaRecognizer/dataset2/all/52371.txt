@@ -1,0 +1,1 @@
+\text { 方 程 } y - k x + k = 0 ( k \in \mathbf { R } ) \text { 表 示 }

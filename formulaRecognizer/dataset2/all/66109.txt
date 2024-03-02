@@ -1,0 +1,1 @@
+P \left( K ^ { 2 } \geqslant 3 . 8 4 1 \right) \approx 0 . 0 5 , P \left( K ^ { 2 } \geqslant 6 . 6 3 5 \right) \approx 0 . 0 1

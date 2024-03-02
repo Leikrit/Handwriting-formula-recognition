@@ -1,0 +1,1 @@
+q : " x \in \mathbf { R } , \mathrm { e } ^ { x } = - 1 "

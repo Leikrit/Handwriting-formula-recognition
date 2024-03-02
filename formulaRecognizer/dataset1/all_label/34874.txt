@@ -1,0 +1,1 @@
+f ( x ) = \sin ^ { 2 } x + \sqrt { 3 } \cos x

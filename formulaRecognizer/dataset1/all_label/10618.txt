@@ -1,0 +1,1 @@
+\ t h e r e f o r e D ( X ) = E \left( X ^ { 2 } \right) - ( E X ) ^ { 2 } = - 4 a ^ { 2 } b ^ { 2 } + 2 a ^ { 2 } b + \frac { 1 } { 4 } a ^ { 2 } + \frac { 1 } { 2 } = - a ^ { 2 } \left( 2 b - \frac { 1 } { 2 } \right) ^ { 2 } + \frac { 1 } { 2 } a ^ { 2 } + \frac { 1 } { 2 }

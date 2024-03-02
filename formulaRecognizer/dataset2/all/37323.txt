@@ -1,0 +1,1 @@
+\frac { - a ^ { 2 } + 4 b ^ { 2 } } { 4 b ^ { 2 } } \geqslant \frac { 1 } { 2 } \Rightarrow 2 b ^ { 2 } \geqslant a ^ { 2 } \Rightarrow 2 \left( a ^ { 2 } - c ^ { 2 } \right) \geqslant a ^ { 2 } \Rightarrow \mathrm { e } ^ { 2 } \leq s l a n t \frac { 1 } { 2 }

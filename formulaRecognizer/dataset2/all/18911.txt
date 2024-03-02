@@ -1,0 +1,1 @@
+\text { 设 } b _ { n } + 2 = 3 \log _ { \frac { 1 } { 4 } } a _ { n } \left( n \in \mathbf { N } ^ { * } \right)

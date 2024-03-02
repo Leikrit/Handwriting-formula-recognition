@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 3 a x \left( x - \frac { 2 } { a } \right)

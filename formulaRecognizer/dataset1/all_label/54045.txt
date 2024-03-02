@@ -1,0 +1,1 @@
+a _ { 3 } \mathrm { C } _ { n } ^ { 2 } + \cdots + a _ { n + 1 } \mathrm { C } _ { n } ^ { n } = n \cdot 2 ^ { n + 1 }

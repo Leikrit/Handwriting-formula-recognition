@@ -1,0 +1,1 @@
+3 T _ { n } + 1 > \log _ { 2 } \left( a _ { n } + 3 \right)

@@ -1,0 +1,1 @@
+\text { 则 } \frac { 2 \sin \alpha - \cos \alpha } { \sin \alpha + 2 \cos \alpha } \text { 的 值 为 }

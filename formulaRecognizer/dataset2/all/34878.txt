@@ -1,0 +1,1 @@
+\alpha \perp \text { 平 面 } \beta \text { , 直 线 } a \not \subset \beta \text { , 则 “ } a \perp \alpha \text { ” 是 “ } a / / \beta \text { ” 的 充 分 不 必 要 条 件 }

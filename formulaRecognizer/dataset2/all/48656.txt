@@ -1,0 +1,1 @@
+\text { 函 数 } y = x \cos x + \sin x \text { 的 图 像 大 致 为 }

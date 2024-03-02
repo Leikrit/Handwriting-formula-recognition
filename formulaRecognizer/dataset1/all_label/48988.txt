@@ -1,0 +1,1 @@
+y = 2 - \frac { x } { 3 } ( x \leq s l a n t 6 )

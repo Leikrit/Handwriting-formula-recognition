@@ -1,0 +1,1 @@
+2 \overrightarrow { F Q } = \overrightarrow { F P } , \overrightarrow { F P } \cdot \overrightarrow { O Q } = 0

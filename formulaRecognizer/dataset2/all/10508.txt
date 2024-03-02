@@ -1,0 +1,1 @@
+S _ { n } = \frac { 1 } { 6 } \left( a _ { n } + 1 \right) \left( a _ { n } + 2 \right)

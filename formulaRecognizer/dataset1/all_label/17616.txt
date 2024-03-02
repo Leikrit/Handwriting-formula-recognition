@@ -1,0 +1,1 @@
+P \left( x _ { 0 } , y _ { 0 } \right) \left( x _ { 0 } > 0 , y _ { 0 } > 0 \right)

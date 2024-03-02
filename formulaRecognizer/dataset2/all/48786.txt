@@ -1,0 +1,1 @@
+\theta \in [ 0 , 2 \pi ) \text { 且 } \theta \neq \frac { \pi } { 2 } , \frac { 3 \pi } { 2 }

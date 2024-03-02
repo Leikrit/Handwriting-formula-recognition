@@ -1,0 +1,1 @@
+\text { 若 } 0 < a _ { n } < 1 \text { 对 任 意 } n \in \mathbf { N } ^ { * } \text { 成 立 }

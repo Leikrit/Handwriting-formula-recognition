@@ -1,0 +1,1 @@
+\rho ^ { 2 } a ^ { 2 } \sin ^ { 2 } \theta + 4 \rho ^ { 2 } \cos ^ { 2 } \theta = 4 a ^ { 2 }

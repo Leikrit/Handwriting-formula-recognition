@@ -1,0 +1,1 @@
+f ( x ) = \frac { a ^ { 2 } + a \sin x + 2 } { a ^ { 2 } + a \cos x + 2 }

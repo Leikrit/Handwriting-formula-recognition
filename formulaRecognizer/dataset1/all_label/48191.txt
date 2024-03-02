@@ -1,0 +1,1 @@
+f ( x ) = \frac { \cos \left( x + \frac { 3 \pi } { 2 } \right) } { \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } }

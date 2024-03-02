@@ -1,0 +1,1 @@
+x _ { 1 } , x _ { 2 } , \cdots , x _ { N } \text { 和 } y _ { 1 } , y _ { 2 } , \cdots , y _ { N }

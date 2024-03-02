@@ -1,0 +1,1 @@
+\text { 记 } \left( 2 x + \frac { 1 } { x } \right) ^ { n } \text { 的 展 开 式 中 第 } m \text { 项 的 系 数 为 } b _ { m }

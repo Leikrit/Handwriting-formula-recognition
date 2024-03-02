@@ -1,0 +1,1 @@
+\text { 究 某 作 物 种 子 的 发 芽 率 } y \text { 和 温 度 } x \text { ( 单 位 : } { } ^ { \circ } \mathrm { C } \text { ) 的 关 系 }

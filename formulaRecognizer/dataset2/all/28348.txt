@@ -1,0 +1,1 @@
+p _ { 3 } : \forall ( x , y ) \in D , \left| \frac { y } { x + 2 } \right| \leq s l a n t \frac { 1 } { 2 }

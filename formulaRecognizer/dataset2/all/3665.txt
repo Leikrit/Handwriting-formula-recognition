@@ -1,0 +1,1 @@
+\text { 若 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { n } = a _ { n } + ( - 1 ) ^ { n } \ln a _ { n }

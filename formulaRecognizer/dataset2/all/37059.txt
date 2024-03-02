@@ -1,0 +1,1 @@
+\text { 且 对 任 意 的 } n \in \mathbf { N } ^ { * } \text { 都 有 } \left| a _ { n + 1 } - \frac { 2 a _ { n } ^ { 2 } + a _ { n + 1 } } { a _ { n } + 1 } \right| < \frac { 1 } { 2 }

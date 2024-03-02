@@ -1,0 +1,1 @@
+\text { 得 直 线 } O E \text { 的 方 程 : } \left( \frac { 1 } { b } - \frac { 1 } { c } \right) x + \left( \frac { 1 } { p } - \frac { 1 } { a } \right) y = 0

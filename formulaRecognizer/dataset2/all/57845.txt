@@ -1,0 +1,1 @@
+\text { 若 随 机 变 量 } X \sim N \left( \mu , \sigma ^ { 2 } \right)

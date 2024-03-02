@@ -1,0 +1,1 @@
+\text { 求 } \mathrm { e } ^ { a _ { 1 } } + \mathrm { e } ^ { a _ { 2 } } + \cdots + \mathrm { e } ^ { a _ { n } }

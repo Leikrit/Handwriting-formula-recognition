@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 和 } g ( x ) \text { 的 定 义 域 均 为 } \mathbf { R }

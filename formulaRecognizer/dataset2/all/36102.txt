@@ -1,0 +1,1 @@
+\overrightarrow { A E } = m \overrightarrow { A F } + ( 1 - m ) \overrightarrow { A G }

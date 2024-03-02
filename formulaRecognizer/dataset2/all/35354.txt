@@ -1,0 +1,1 @@
+\text { 即 } f \left( x _ { 1 } \right) \cdot f \left( x _ { 2 } \right) = \left( 1 + \frac { 2 } { 3 } ( - a ) ^ { \frac { 3 } { 2 } } \right) \cdot \left( 1 - \frac { 2 } { 3 } ( - a ) ^ { \frac { 3 } { 2 } } \right) = 1 - \frac { 4 } { 9 } ( - a ) ^ { 3 } = 0 \Rightarrow a = - \sqrt [ 3 ] { \frac { 9 } { 4 } }

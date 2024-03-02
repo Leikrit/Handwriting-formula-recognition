@@ -1,0 +1,1 @@
+f ( x ) = \left| 3 \sin \left( 2 x + \frac { \pi } { 3 } \right) + 1 \right|

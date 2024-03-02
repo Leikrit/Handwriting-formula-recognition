@@ -1,0 +1,1 @@
+\text { 对 任 意 } 1 \leq s l a n t n \leq s l a n t m \text { 且 } n \in \mathbf { N } ^ { * }

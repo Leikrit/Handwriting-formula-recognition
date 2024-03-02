@@ -1,0 +1,1 @@
+\text { 于 是 可 得 } x _ { n } = n \pi - \frac { 3 \pi } { 4 } , n \in \mathbf { N } ^ { * }

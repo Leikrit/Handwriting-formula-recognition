@@ -1,0 +1,1 @@
+1 \leq s l a n t \frac { a _ { n } } { a _ { n + 1 } } \leq s l a n t 2

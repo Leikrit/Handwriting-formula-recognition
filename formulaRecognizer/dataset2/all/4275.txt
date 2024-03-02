@@ -1,0 +1,1 @@
+\text { 满 足 } | \overrightarrow { A P } | | \overrightarrow { Q B } | = | \overrightarrow { A Q } | | \overrightarrow { P B } |

@@ -1,0 +1,1 @@
+\sin \left( \alpha + \frac { \pi } { 3 } \right) = \frac { 7 } { 8 }

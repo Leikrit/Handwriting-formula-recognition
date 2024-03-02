@@ -1,0 +1,1 @@
+m \left( \mathrm { e } ^ { x } - \mathrm { e } \right)

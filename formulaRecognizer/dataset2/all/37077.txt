@@ -1,0 +1,1 @@
+\text { 所 以 } \left| a _ { n + 1 } - 2 a _ { n } \right| < 1

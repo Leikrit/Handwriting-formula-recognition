@@ -1,0 +1,1 @@
+\forall a \in ( 0 , 1 ) \cup ( 1 , + \infty )

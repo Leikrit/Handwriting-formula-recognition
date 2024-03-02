@@ -1,0 +1,1 @@
+\Leftrightarrow \sqrt { 1 + a ^ { 2 } } \cdot ( n \pi - \varphi ) < \mathrm { e } ^ { a ( n \pi - \varphi ) }

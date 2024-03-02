@@ -1,0 +1,1 @@
+\left( 1 - \frac { m } { n + 3 } \right) ^ { n } < \left( \frac { 1 } { 2 } \right) ^ { m } , m = 1 , 2 , \cdots , n

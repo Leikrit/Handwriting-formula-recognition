@@ -1,0 +1,1 @@
+\left. a ^ { 2 } + 4 \right) ( a > 0 \text { , 且 } a \neq 1 )

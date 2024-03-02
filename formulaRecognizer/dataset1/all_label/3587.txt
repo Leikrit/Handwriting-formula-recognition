@@ -1,0 +1,1 @@
+2 T _ { n } + b _ { n } - 1 = 0 \left( n \in \mathbf { N } ^ { * } \right)

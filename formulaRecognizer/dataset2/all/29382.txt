@@ -1,0 +1,1 @@
+\text { 由 ( 1 ) 知 } y _ { M } = \frac { 1 } { 2 } \left( y _ { 1 } + y _ { 2 } \right) = \frac { 1 } { 2 } \left( k x _ { 1 } + 2 + k x _ { 2 } + 2 \right) = \frac { 1 } { 2 } \left[ k \left( x _ { 1 } + x _ { 2 } \right) + 4 \right]

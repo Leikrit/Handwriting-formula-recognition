@@ -1,0 +1,1 @@
+\text { 记 } N \left( a _ { 1 } , a _ { 2 } , a _ { 3 } \right) \text { 为 } a _ { 1 } , a _ { 2 } , a _ { 3 } \text { 中 不 同 数 字 的 }

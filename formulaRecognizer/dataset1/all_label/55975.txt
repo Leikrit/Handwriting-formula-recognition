@@ -1,0 +1,1 @@
+\text { 且 } \forall n \in \mathbf { N } ^ { * } , a _ { n } +

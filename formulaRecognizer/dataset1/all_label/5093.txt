@@ -1,0 +1,1 @@
+S = S + i \cos \left( \frac { 2 \pi } { 3 } i \right)

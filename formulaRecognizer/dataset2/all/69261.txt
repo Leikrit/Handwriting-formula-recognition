@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = e ^ { x } + \frac { a } { x } \text { 在 } [ 1 , 2 ] \text { 上 单 调 递 增 }

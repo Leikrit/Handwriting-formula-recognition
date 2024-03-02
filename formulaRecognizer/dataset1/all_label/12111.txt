@@ -1,0 +1,1 @@
+\text { 不 等 式 } x - \ln x + a - \frac { a \mathrm { e } ^ { x } } { x } \leq s l a n t 0 \text { 恒 成 立 }

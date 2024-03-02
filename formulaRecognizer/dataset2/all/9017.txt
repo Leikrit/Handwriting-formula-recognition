@@ -1,0 +1,1 @@
+\text { 则 } \frac { 2 \pi } { \omega } \geqslant \pi

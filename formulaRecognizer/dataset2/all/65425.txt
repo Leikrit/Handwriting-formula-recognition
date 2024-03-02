@@ -1,0 +1,1 @@
+\text { 若 随 机 变 量 } \xi \sim B \left( 5 , \frac { 1 } { 3 } \right)

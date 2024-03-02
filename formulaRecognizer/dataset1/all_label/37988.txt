@@ -1,0 +1,1 @@
+\o p e r a t o r n a m e { t g } \ a n g l e \mathrm { A P C } \cdot \o p e r a t o r n a m e { t g } \ a n g l e \mathrm { B P D } = \frac { 1 } { 4 }

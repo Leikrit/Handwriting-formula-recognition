@@ -1,0 +1,1 @@
+\ln \left( \frac { 3 } { k + 2 } + 1 \right) < \frac { 3 } { k + 3 }

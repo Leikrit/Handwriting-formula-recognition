@@ -1,0 +1,1 @@
+f ( x ) = \left( 2 + x + a x ^ { 2 } \right) \ln ( 1 +

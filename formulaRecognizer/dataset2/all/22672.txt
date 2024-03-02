@@ -1,0 +1,1 @@
+\sqrt { S _ { n } } + \sqrt { S _ { n - 1 } } = a _ { n } ( n \geqslant 2 )

@@ -1,0 +1,1 @@
+\tan \ a n g l e P A H = \frac { P H } { A H } = \frac { C H } { \sqrt { 3 } A H } = \frac { 1 } { \sqrt { 3 } } \cdot \frac { \sin \ a n g l e H A C } { \sin \ a n g l e H C A } \leq s l a n t \frac { 1 } { \sqrt { 3 } } \cdot \frac { 1 } { \frac { 1 5 } { 2 5 } } = \frac { 5 } { 9 } \sqrt { 3 }

@@ -1,0 +1,1 @@
+\text { 集 合 } A = \{ y \in \mathbf { R } \mid y = \l g x , x > 1 \}

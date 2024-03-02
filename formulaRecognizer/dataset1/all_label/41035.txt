@@ -1,0 +1,1 @@
+2 \sin \left( 2 x + \frac { \pi } { 6 } \right) = m

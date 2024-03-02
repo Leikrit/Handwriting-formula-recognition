@@ -1,0 +1,1 @@
+\rho \sin ( \alpha - \theta ) = \sin \alpha

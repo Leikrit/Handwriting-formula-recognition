@@ -1,0 +1,1 @@
+( 1 - \mathrm { i } ) z + \frac { 2 - \mathrm { i } } { \frac { 1 } { 2 } + \mathrm { i } } = 0

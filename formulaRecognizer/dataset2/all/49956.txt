@@ -1,0 +1,1 @@
+\text { 于 是 可 以 解 得 } N \left( \frac { 3 } { 2 } , \frac { x _ { 0 } - 2 } { 2 y _ { 0 } } \right)

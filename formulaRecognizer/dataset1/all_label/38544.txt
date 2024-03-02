@@ -1,0 +1,1 @@
+\text { 对 变 量 } x , y \text { 有 观 测 数 据 } \left( x _ { i } , y _ { i } \right)

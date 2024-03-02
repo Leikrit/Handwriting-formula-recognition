@@ -1,0 +1,1 @@
+“ \ e x i s t s x _ { 0 } \in \mathbf { R } , \sin x _ { 0 } + \ln x _ { 0 } \geqslant x _ { 0 }

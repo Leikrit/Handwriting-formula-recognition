@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 满 足 } \left( 1 - a _ { n + 1 } \right) \left( 1 + a _ { n } \right) = 1

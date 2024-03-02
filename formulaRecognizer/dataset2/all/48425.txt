@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = A \sin ( \omega x + \varphi ) \cdot \mathrm { e } ^ { - | x | } ( A >

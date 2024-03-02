@@ -1,0 +1,1 @@
+\text { 所 以 } \sin \left( \alpha + \frac { \pi } { 4 } \right) \in \left[ - \frac { \sqrt { 2 } } { 2 } , 1 \right]

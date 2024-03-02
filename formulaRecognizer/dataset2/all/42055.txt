@@ -1,0 +1,1 @@
+x f ^ { \prime } ( x ) + f ( x ) \leq s l a n t 0

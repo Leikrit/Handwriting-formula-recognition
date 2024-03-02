@@ -1,0 +1,1 @@
+\left[ \frac { 3 - \sqrt { 6 } } { 6 } , \frac { 3 + \sqrt { 6 } } { 6 } \right]

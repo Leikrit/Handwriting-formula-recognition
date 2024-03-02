@@ -1,0 +1,1 @@
+\text { 若 集 合 } E = \{ ( p , q , r , s ) \mid 0 \leq s l a n t p < s \leq s l a n t 4 , 0 \leq s l a n t q < s \leq s l a n t 4 , 0 \leq s l a n t r < s \leq s l a n t 4 \text { 且 } p

@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \left( 2 a x ^ { 2 } + 4 x \right) \ln x - a x ^ { 2 } - 4 x

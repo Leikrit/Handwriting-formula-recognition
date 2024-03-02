@@ -1,0 +1,1 @@
+\text { 设 复 数 } z \text { 满 足 } ( z - 2 ) ( 1 + \mathrm { i } ) = 1 - \mathrm { i }

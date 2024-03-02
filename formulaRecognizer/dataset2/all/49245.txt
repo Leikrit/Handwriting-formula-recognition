@@ -1,0 +1,1 @@
+\text { 函 数 } y = h ( x ) \text { 有 } 5 \text { 个 零 点 }

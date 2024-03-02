@@ -1,0 +1,1 @@
+h ( x ) = x + \sin \frac { x } { 3 } \text { 是 以 } 6 \pi \text { 为 余 弦 周 期 的 余 弦 周 期 函 数 }

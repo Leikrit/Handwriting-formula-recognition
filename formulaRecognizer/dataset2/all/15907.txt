@@ -1,0 +1,1 @@
+\text { 判 断 数 列 } \left\{ \frac { 2 \times 3 ^ { n } } { a _ { n } a _ { n + 1 } } \right\} \text { 的 前 } n \text { 项 和 } T _ { n } \text { 与 } \frac { 1 } { 2 } \text { 的 大 小 关 系 }

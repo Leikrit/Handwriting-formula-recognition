@@ -1,0 +1,1 @@
+a _ { n } - b _ { n } \leq s l a n t - 1

@@ -1,0 +1,1 @@
+\left\{ b _ { n } \right\} \text { 满 足 } b _ { n } = f ( 0 ) + f \left( \frac { 1 } { n } \right) + f \left( \frac { 2 } { n } \right) + \cdots +

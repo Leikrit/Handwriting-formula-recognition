@@ -1,0 +1,1 @@
+\text { 设 } y = x \ln \left( 1 + x ^ { 2 } \right)

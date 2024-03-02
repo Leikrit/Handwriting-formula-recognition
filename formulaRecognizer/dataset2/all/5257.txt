@@ -1,0 +1,1 @@
+\text { 不 等 式 } f ( x ) + | x + a | \geqslant a ^ { 2 } - 2 a \text { 恒 成 立 }

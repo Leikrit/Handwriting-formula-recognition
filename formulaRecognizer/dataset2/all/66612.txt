@@ -1,0 +1,1 @@
+\text { 已 知 不 等 式 } a x ^ { 2 } + b x + c \geqslant 0 \text { 的 解 集 是 } [ - 1 , 3 ]

@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \mathrm { e } ^ { x } + \frac { 1 } { 2 \sqrt { x + 1 } } - \left( \frac { 5 } { 4 } + x \right)

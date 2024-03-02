@@ -1,0 +1,1 @@
+m = \left| \lambda _ { 1 } \overrightarrow { A B } + \lambda _ { 2 } \overrightarrow { B C } + \lambda _ { 3 } \overrightarrow { C D } + \lambda _ { 4 } \overrightarrow { D A } + \lambda _ { 5 } \overrightarrow { A C } + \lambda _ { 6 } \overrightarrow { B D } \right|

@@ -1,0 +1,1 @@
+g ( x ) \leq s l a n t \varphi ( x ) \leq s l a n t \varphi ( 1 ) = 0

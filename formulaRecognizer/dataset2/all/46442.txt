@@ -1,0 +1,1 @@
+A * B = \{ z \mid z = x y , x \in A , y \in B \}

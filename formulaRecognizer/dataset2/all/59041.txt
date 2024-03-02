@@ -1,0 +1,1 @@
+\text { 点 } \left( - \frac { 5 \pi } { 1 2 } , 1 \right) \text { 是 函 数 } y = \cos ( 2 x + \varphi ) \text { 的 图 }

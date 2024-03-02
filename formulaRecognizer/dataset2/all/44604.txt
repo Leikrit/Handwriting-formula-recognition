@@ -1,0 +1,1 @@
+\sin x + \frac { 1 } { \sin x } \geqslant 2 ( x \neq k \pi , k \in \mathbf { Z } )

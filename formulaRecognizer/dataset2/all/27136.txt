@@ -1,0 +1,1 @@
+\text { 求 } \sin ( \alpha + \pi ) \text { 的 值 }

@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \frac { k x + 1 } { x ^ { 2 } + c } ( c > 0 \text { 且 } c \neq 1 , k \in \mathbf { R } )

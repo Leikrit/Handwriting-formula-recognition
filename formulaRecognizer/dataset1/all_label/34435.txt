@@ -1,0 +1,1 @@
+\text { 在 } \left( \frac { x } { 2 } - \frac { 1 } { \sqrt [ 3 ] { x } } \right) ^ { 8 } \text { 的 展 开 式 中 常 数 项 是 }

@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { 2 x } - 8 \mathrm { e } ^ { x } + 6 x

@@ -1,0 +1,1 @@
+m \neq 1 \text { 时 , 直 线 } M N \text { 的 斜 率 为 } k _ { M N } = \frac { \frac { 2 } { m } + 2 m } { \frac { 2 } { m ^ { 2 } } - 2 m ^ { 2 } } = \frac { 1 } { \frac { 1 } { m } - m } = \frac { m } { 1 - m ^ { 2 } }

@@ -1,0 +1,1 @@
+\text { 则 } f ( m ) = \int _ { 1 } ^ { m } \left( 1 - \frac { 4 } { x ^ { 2 } } \right) \mathrm { d } x \text { 的 最 小 值 为 }

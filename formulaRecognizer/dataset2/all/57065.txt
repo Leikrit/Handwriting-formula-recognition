@@ -1,0 +1,1 @@
+u = \frac { x + y } { x + 2 \sqrt { 2 x y } } = \frac { 2 + t ^ { 2 } } { 2 + 4 t } = \frac { 1 } { 8 }

@@ -1,0 +1,1 @@
+\text { 己 知 实 数 } x , y \text { 满 足 } x - 2 \sqrt { x } = 2 \sqrt { y + 1 } -

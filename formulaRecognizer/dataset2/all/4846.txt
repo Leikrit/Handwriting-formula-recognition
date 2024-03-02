@@ -1,0 +1,1 @@
+\text { 若 } \mathrm { x } _ { \mathrm { A } } = \sqrt { 6 } \text { , 求 } \mathrm { b } \text { 的 值 }

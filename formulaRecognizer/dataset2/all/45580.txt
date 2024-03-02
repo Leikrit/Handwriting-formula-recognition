@@ -1,0 +1,1 @@
+\text { 如 果 函 数 } f ( x ) = \left| \cos \left( \frac { \pi } { 4 } + a x \right) \right|

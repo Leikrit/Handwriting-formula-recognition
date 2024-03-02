@@ -1,0 +1,1 @@
+\text { 都 有 } a + b , a - b , a b , \frac { a } { b } \in P ( \text { 除 数 } b \neq 0 )

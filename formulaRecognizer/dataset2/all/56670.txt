@@ -1,0 +1,1 @@
+f ( x ) \text { 的 图 象 可 以 由 } y = \frac { 2 ( \tan 2 x + \sqrt { 3 } ) } { \tan ^ { 2 } 2 x + 1 } - \sqrt { 3 }

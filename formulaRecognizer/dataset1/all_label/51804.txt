@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \mathrm { e } ^ { x } - a \ln ( a x - 1 ) + 1 \geqslant 0

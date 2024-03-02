@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) - x \text { 有 且 只 有 } 1 \text { 个 零 点 }

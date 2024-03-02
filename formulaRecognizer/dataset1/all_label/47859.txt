@@ -1,0 +1,1 @@
+a _ { 1 } = 0 , a _ { n + 1 } = \frac { a _ { n } - \sqrt { 3 } } { \sqrt { 3 } a _ { n } + 1 } \left( n \in \mathbf { N } ^ { * } \right)

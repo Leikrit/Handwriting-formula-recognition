@@ -1,0 +1,1 @@
+\frac { n } { 3 ^ { n - 1 } } a _ { n + 1 } \leq s l a n t ( n + 6 ) \lambda

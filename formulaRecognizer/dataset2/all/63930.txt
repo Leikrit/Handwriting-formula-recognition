@@ -1,0 +1,1 @@
+\text { 所 以 函 数 } f ( x ) - g ( x ) \text { 在 } \left( 0 , \frac { 1 } { k } - 1 \right) \text { 上 单 调 递 增 }

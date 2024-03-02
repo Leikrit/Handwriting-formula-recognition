@@ -1,0 +1,1 @@
+\left\{ S _ { 2 n - 1 } \right\} \text { 为 递 增 数 列 }

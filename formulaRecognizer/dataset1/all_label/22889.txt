@@ -1,0 +1,1 @@
+\text { 所 以 } ( 3 5 \sqrt { 7 } ) ^ { 2 } = h ^ { 2 } + ( \sqrt { 3 } h ) ^ { 2 } - 2 h \cdot \sqrt { 3 } h \cdot \left( - \frac { \sqrt { 3 } } { 2 } \right)

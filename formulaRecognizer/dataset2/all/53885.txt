@@ -1,0 +1,1 @@
+\text { 且 存 在 } [ m , n ] \subseteq D \text { 使 } f ( x ) \text { 在 } [ m , n ] \text { 上 的 值 域 为 } \left[ \frac { m } { 2 } , \frac { n } { 2 } \right]

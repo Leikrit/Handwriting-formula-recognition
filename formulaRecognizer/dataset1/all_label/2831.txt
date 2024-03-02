@@ -1,0 +1,1 @@
+y = \sin ( 2 x + \varphi )

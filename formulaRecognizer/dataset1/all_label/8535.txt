@@ -1,0 +1,1 @@
+\frac { \l g \left( S _ { n } - c \right) + \l g \left( S _ { n + 2 } - c \right) } { 2 } =

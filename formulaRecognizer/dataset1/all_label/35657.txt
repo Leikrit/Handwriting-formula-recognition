@@ -1,0 +1,1 @@
+4 \sqrt { 3 } \sin \left( B + \frac { \pi } { 3 } \right) + 3

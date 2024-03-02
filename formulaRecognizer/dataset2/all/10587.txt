@@ -1,0 +1,1 @@
+\text { 因 为 } \frac { \sin \alpha } { 1 + \cos \alpha } = 2

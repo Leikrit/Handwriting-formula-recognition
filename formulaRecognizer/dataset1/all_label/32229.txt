@@ -1,0 +1,1 @@
+f \left( a _ { 1 } \right) + f \left( a _ { 2 } \right) + f \left( a _ { 3 } \right) + \cdots + f \left( a _ { 2 0 1 8 } \right) + f \left( a _ { 2 0 1 9 } \right)

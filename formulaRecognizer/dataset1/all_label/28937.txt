@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin ^ { 2 } \left( x + \frac { \pi } { 4 } \right) - \sqrt { 3 } \cos ^ { 2 } \left( x + \frac { \pi } { 4 } \right) -

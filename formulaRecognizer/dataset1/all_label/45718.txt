@@ -1,0 +1,1 @@
+\left\{ b , \frac { b } { a } , 0 \right\}

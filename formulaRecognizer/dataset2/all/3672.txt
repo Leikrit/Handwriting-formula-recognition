@@ -1,0 +1,1 @@
+\text { 设 } h ( x ) = f ( x ) - a g ( x ) \geqslant 0 \text { 恒 }

@@ -1,0 +1,1 @@
+\forall x \in \mathbf { R } , x ^ { 2 } - x \leq s l a n t 0

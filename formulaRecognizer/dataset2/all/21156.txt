@@ -1,0 +1,1 @@
+\text { 则 过 点 } A \text { 的 曲 线 } C : y = f ( x ) \text { 的 切 线 方 程 是 }

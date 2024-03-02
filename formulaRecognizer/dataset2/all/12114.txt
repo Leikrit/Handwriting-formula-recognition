@@ -1,0 +1,1 @@
+\text { 地 表 示 成 } \boldsymbol { c } = \lambda \boldsymbol { a } + \mu \boldsymbol { b } ( \lambda , \mu \text { 为 实 数 } )

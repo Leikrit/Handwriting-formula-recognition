@@ -1,0 +1,1 @@
+\text { 且 } C \subset \ c o m p l e m e n t _ { U } ( A \cup B )

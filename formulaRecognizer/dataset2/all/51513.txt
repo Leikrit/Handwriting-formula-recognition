@@ -1,0 +1,1 @@
+\text { 求 和 : } T _ { 2 n } = \frac { 1 } { a _ { 1 } } - \frac { 2 } { a _ { 2 } } + \frac { 3 } { a _ { 3 } } - \cdots - \frac { 2 n } { a _ { 2 n } }

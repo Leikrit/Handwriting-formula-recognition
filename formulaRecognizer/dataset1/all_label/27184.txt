@@ -1,0 +1,1 @@
+1 \geqslant \left| a ^ { 2 } + b + c \right| + \left| a + b ^ { 2 } - c \right| \geqslant \left| a ^ { 2 } + a + b ^ { 2 } + b \right|

@@ -1,0 +1,1 @@
+V = \frac { h ^ { \prime } h } { 6 } ( a + b + c )

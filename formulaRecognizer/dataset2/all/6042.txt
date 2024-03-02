@@ -1,0 +1,1 @@
+\text { 满 足 } 2 \overrightarrow { M A } + 3 \overrightarrow { M B } + 4 \overrightarrow { M C } = \mathbf { 0 }

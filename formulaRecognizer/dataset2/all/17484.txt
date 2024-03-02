@@ -1,0 +1,1 @@
+\text { 当 } x \in \left[ \frac { 1 } { 2 } , 1 \right] \text { 时 }

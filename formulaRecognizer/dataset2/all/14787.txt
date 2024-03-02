@@ -1,0 +1,1 @@
+\text { 使 得 } C D = A C \text { , 且 } B D = 2 B C \text { , 若 } c = 6 \text { , 求 } \triangle A B C \text { 的 周 长 }

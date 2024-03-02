@@ -1,0 +1,1 @@
+\text { 曲 线 } y = \left( x ^ { 3 } - 3 x \right) \cdot \ln x \text { 在 }

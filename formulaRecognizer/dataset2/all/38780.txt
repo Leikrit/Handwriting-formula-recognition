@@ -1,0 +1,1 @@
+\text { 则 } \sin \theta = \frac { 2 \tan \frac { \theta } { 2 } } { 1 + \tan ^ { 2 } \frac { \theta } { 2 } } = \frac { 4 t } { 4 + t ^ { 2 } }

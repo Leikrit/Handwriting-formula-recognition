@@ -1,0 +1,1 @@
+b \sin A = a \sin \left( \frac { \pi } { 3 } - \right.

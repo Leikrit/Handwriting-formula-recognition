@@ -1,0 +1,1 @@
+a _ { n } = 5 + 4 \times \left( - \frac { 1 } { 2 } \right) ^ { n } ( n = 1 , 2 , \cdots )

@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { 1 } { x } ( x \neq 0 )

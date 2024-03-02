@@ -1,0 +1,1 @@
+\text { 已 知 曲 线 } y = \frac { x } { x } \text { 在 } x = x _ { 1 } \text { 处 的 切 线 为 } l _ { 1 }

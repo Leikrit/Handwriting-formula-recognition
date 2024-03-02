@@ -1,0 +1,1 @@
+P \left( t _ { 0 } \right) = \frac { K } { K + \frac { K - 1 } { \mathrm { e } ^ { 2 7 . 3 } } }

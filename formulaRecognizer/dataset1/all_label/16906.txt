@@ -1,0 +1,1 @@
+\overrightarrow { D F } = \frac { 1 } { 9 \lambda } \overrightarrow { D C }

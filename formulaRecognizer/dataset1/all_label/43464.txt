@@ -1,0 +1,1 @@
+\boldsymbol { a } , \boldsymbol { b } , | \boldsymbol { a } | = | \boldsymbol { b } | = 1 , \boldsymbol { a } \cdot \boldsymbol { b } = 0

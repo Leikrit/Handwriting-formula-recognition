@@ -1,0 +1,1 @@
+f ( x ) = \left| \sqrt { a ^ { 2 } + b ^ { 2 } } \sin ( x + \varphi ) - 1 \right| + \mid \sqrt { a ^ { 2 } + b ^ { 2 } } \cdot

@@ -1,0 +1,1 @@
+\text { 关 于 函 数 } f ( x ) = \sin x + \frac { 1 } { \sin x } \text { 有 如 下 }

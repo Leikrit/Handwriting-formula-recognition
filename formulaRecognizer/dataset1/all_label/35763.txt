@@ -1,0 +1,1 @@
+b _ { n } = a _ { n } x ^ { n } ( x \in \mathbf { R } )

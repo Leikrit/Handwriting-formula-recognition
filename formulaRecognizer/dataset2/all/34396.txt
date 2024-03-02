@@ -1,0 +1,1 @@
+f ^ { \prime } ( \mathrm { e } ) \cdot \ln x - \frac { x } { \mathrm { e } }

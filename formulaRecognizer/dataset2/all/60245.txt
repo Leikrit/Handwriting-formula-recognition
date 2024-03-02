@@ -1,0 +1,1 @@
+\text { 在 } \left( x ^ { 4 } + \frac { 1 } { x } \right) ^ { 1 0 } \text { 的 展 开 式 中 常 数 项 是 }

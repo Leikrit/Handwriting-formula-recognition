@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { n } p \left( x _ { i } \right) = 1

@@ -1,0 +1,1 @@
+\sin \left( \frac { 2 \pi } { 3 } + \beta \right) = \frac { 5 } { 1 3 }

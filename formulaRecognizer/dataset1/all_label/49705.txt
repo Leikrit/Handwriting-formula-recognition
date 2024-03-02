@@ -1,0 +1,1 @@
+w _ { i } = \sqrt { x _ { i } } , \bar { w } = \frac { 1 } { 8 } \sum _ { i = 1 } ^ { 8 } w _ { i }

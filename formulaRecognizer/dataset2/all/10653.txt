@@ -1,0 +1,1 @@
+\frac { 1 } { a _ { n + 1 } } \geqslant \sqrt { 2 n + 2 } > \sqrt { 2 n }

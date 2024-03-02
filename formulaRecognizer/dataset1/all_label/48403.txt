@@ -1,0 +1,1 @@
+y = \frac { \sqrt { 1 - \frac { 2 } { 3 } x } } { \sqrt [ 3 ] { 3 x - 1 } }

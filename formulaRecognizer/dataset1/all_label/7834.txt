@@ -1,0 +1,1 @@
+a \overrightarrow { G A } + \overrightarrow { b G B } +

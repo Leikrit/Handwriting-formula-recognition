@@ -1,0 +1,1 @@
+f ( x ) = \frac { 1 } { \log _ { 2 } \left( - x ^ { 2 } + 4 x - 3 \right) }

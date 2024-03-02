@@ -1,0 +1,1 @@
+\text { 曲 线 } y = \frac { \sin x } { \sin x + \cos x } - \frac { 1 } { 2 } \text { 在 点 } M \left( \frac { \pi } { 4 } , 0 \right) \text { 处 的 切 }

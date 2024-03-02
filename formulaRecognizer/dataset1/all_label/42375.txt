@@ -1,0 +1,1 @@
+f ( x ) = \frac { \sin x + a } { \sin x } ( 0 < x < \pi )

@@ -1,0 +1,1 @@
+\text { 已 知 幂 函 数 } f ( x ) = x ^ { n } \text { 的 图 象 过 点 } \left( 8 , \frac { 1 } { 4 } \right)

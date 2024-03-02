@@ -1,0 +1,1 @@
+\text { 将 函 数 } y = \sin \left( 2 x + \frac { \pi } { 5 } \right) \text { 的 图 象 向 右 平 移 } \frac { \pi } { 1 0 } \text { 个 单 }

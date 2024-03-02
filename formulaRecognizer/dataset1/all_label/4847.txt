@@ -1,0 +1,1 @@
+f ( x ) = \sin \omega x \cos \omega x - \sqrt { 3 } \sin ^ { 2 } \omega x + a

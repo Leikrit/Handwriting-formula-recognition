@@ -1,0 +1,1 @@
+\left[ 2 k \pi - \frac { \pi } { 1 2 } , 2 k \pi + \frac { 7 \pi } { 1 2 } \right] ( k \in \mathbf { Z } )

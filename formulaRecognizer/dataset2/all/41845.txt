@@ -1,0 +1,1 @@
+2 \left( x _ { M } \in \left( 0 , \frac { 2 } { y _ { 0 } } \right) , y _ { M } \in \left( 0 , \frac { 2 } { x _ { 0 } } \right) \right)

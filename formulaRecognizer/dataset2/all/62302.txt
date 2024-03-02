@@ -1,0 +1,1 @@
+( x - \sin x ) ^ { \prime } = 1 - \cos x

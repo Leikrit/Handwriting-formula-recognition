@@ -1,0 +1,1 @@
+\text { 求 证 : } \left\{ \frac { n } { a _ { n } } \right\} \text { 是 等 差 数 列 }

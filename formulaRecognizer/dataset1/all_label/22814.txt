@@ -1,0 +1,1 @@
+f ( x ) + f \left( x - \frac { 1 } { 2 } \right) > 1

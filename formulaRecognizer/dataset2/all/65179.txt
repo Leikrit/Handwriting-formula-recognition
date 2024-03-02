@@ -1,0 +1,1 @@
+\text { 则 “ } S _ { i } > S _ { j } \left( i , j \in \mathbf { N } ^ { * } \right) \text { ” 是 “ } S _ { i + 1 } >

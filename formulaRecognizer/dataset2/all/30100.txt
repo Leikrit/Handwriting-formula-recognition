@@ -1,0 +1,1 @@
+\text { 证 明 } \left[ f \left( x _ { 0 } \right) \right] ^ { 2 } = \frac { x _ { 0 } ^ { 4 } } { 1 + x _ { 0 } ^ { 2 } }

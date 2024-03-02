@@ -1,0 +1,1 @@
+\overrightarrow { F M } \cdot \overrightarrow { F N } = \left( x _ { 1 } - 1 \right) \left( x _ { 2 } - 1 \right) + y _ { 1 } y _ { 2 } = 0

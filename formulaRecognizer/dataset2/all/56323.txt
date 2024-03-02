@@ -1,0 +1,1 @@
+\text { 已 知 } \left( \sqrt { x } - \frac { 2 } { x ^ { 2 } } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right) \text { 的 展 开 式 中 }

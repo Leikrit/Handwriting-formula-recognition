@@ -1,0 +1,1 @@
+S _ { \triangle O P M } = \frac { 1 } { 2 } | O N | \cdot \left| y _ { P } - y _ { M } \right| = 2 4 - 2 t

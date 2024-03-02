@@ -1,0 +1,1 @@
+\hat { b } = \frac { \sum _ { i = 1 } ^ { n } x _ { i } y _ { i } - n \bar { x } \cdot \bar { y } } { \sum _ { i = 1 } ^ { n } x _ { i } ^ { 2 } - n \bar { x } ^ { 2 } }

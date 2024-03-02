@@ -1,0 +1,1 @@
+\lim _ { x \rightarrow 1 } \frac { x \sqrt { x } - x } { x - 1 } =

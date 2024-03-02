@@ -1,0 +1,1 @@
+A \left( \frac { a - c } { 2 } , \frac { b } { 2 } \right)

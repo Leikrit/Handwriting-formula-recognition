@@ -1,0 +1,1 @@
+\tan A - \tan B = \frac { \sin ( A - B ) } { \cos A \cos B }

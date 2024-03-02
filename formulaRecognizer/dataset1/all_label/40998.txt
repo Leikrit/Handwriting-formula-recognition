@@ -1,0 +1,1 @@
+\left| x _ { 2 } - x _ { 1 } \right| < \frac { a } { 1 - n } + 2

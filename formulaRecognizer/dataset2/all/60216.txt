@@ -1,0 +1,1 @@
+\text { 集 合 } P = A \cap B

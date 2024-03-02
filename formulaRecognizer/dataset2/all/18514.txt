@@ -1,0 +1,1 @@
+\text { 使 得 } \mathrm { a } _ { \mathrm { n } } = \frac { \mathrm { a } _ { \mathrm { k } } ^ { 2 } } { \mathrm { a } _ { \mathrm { l } } }

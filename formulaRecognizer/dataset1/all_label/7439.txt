@@ -1,0 +1,1 @@
+\theta = \alpha \left( 0 < \alpha < \frac { \pi } { 4 } \right)

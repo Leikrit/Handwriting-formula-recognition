@@ -1,0 +1,1 @@
+\text { 且 } c _ { n } = a _ { n } \times b _ { n }

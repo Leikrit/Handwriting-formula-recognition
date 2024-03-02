@@ -1,0 +1,1 @@
+\text { 设 } \left\{ a _ { n } \right\} \text { 是 一 个 公 差 为 } d ( d \neq 0 ) \text { 的 等 差 数 列 }

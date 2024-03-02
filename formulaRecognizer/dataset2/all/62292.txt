@@ -1,0 +1,1 @@
+\text { 令 } h ( x ) = g ( x ) - a f ( x ) ( a \in \mathbf { R } )

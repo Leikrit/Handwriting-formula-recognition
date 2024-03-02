@@ -1,0 +1,1 @@
+\text { 即 } \frac { \sum _ { i = 2 } ^ { n } \left( a _ { i } - a _ { i - 1 } \right) } { n - 1 }

@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \mathrm { e } ^ { - ( x - \mu ) ^ { 2 } } \text { ( } \mathrm { e } \text { 是 自 然 对 数 的 底 数 ) 的 最 大 }

@@ -1,0 +1,1 @@
+( \mu - \sigma , \mu + 2 \sigma )

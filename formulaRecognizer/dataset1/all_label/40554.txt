@@ -1,0 +1,1 @@
+x + \frac { a } { x ^ { n } } \geqslant n + 1 \left( n \in \mathbf { N } ^ { * } \right)

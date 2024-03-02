@@ -1,0 +1,1 @@
+\text { 值 域 为 } \left[ \frac { 1 } { 2 } , \frac { 5 } { 2 } \right]

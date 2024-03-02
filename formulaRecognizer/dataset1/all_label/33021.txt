@@ -1,0 +1,1 @@
+\frac { \sin \left( \alpha + \frac { \pi } { 4 } \right) } { \cos ^ { 2 } \alpha - \sin ^ { 2 } \alpha } =

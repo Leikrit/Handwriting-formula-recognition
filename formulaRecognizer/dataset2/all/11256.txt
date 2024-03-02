@@ -1,0 +1,1 @@
+\text { 则 } f ( x ) = \mathrm { e } ^ { 2 x }

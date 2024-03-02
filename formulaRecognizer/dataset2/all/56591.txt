@@ -1,0 +1,1 @@
+\text { 不 等 式 } f ( x ) \leq s l a n t g ( x ) \text { 恒 成 立 }

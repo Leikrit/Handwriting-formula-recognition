@@ -1,0 +1,1 @@
+\text { 即 要 求 } \left| P C _ { 1 } \right| + \left| P C _ { 2 } \right| \text { 的 最 小 值 }

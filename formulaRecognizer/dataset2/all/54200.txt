@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin \left( \omega x + \frac { \pi } { 4 } \right) ( \omega > 0 ) \text { 的 图 象 的 两 条 对 称 轴 之 间 距 离 的 最 小 值 为 } 4

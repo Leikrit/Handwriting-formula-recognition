@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sin ( x + \varphi ) ( 0 \leq s l a n t \varphi \leq s l a n t \pi ) \text { 是 } \mathbf { R } \text { 上 的 偶 函 数 }

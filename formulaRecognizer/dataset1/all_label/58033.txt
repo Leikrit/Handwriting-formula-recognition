@@ -1,0 +1,1 @@
+a x ^ { 2 } + b x + c = a \left( x - \frac { b } { 2 a } \right) ^ { 2 } + \frac { 4 a c - b ^ { 2 } } { 4 a }

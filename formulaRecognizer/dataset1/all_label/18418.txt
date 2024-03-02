@@ -1,0 +1,1 @@
+\frac { a ^ { 2 } } { \sqrt { a \cdot \sqrt [ 3 ] { a ^ { 2 } } } }

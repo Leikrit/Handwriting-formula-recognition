@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \left| \log _ { 2 } x \right|

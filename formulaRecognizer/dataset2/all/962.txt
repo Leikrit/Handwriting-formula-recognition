@@ -1,0 +1,1 @@
+\text { 与 生 长 时 间 } x ( x \in \mathbf { N } \text { , 单 位 : 月 } ) \text { 之 间 的 关 系 }

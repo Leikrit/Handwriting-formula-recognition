@@ -1,0 +1,1 @@
+F ( x ) \geqslant x + 1

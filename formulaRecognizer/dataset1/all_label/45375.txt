@@ -1,0 +1,1 @@
+S = 4 \left( t + \frac { 1 } { 4 } \right) ^ { 2 } - \frac { 5 } { 4 } \in \left( - 1 , \frac { \sqrt { 2 } - 1 } { 2 } \right]

@@ -1,0 +1,1 @@
+\text { 定 义 } f _ { n } ( x ) = \underbrace { f ( f ( f \cdots f ( x ) \cdots ) ) } _ { n \uparrow }

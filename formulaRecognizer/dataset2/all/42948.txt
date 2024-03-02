@@ -1,0 +1,1 @@
+f ( x ) \text { 的 解 析 式 可 能 为 } f ( x ) = \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } - x ^ { 2 }

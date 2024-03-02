@@ -1,0 +1,1 @@
+f ( x ) > \frac { \ln x } { x - 1 } + \frac { k } { x }

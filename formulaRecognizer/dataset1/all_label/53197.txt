@@ -1,0 +1,1 @@
+f ( \cos \alpha ) > f ( \cos \beta )

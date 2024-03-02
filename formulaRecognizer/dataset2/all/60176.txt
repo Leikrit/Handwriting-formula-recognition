@@ -1,0 +1,1 @@
+\text { 点 } \left( n , \frac { S _ { n } } { n } \right) \left( n \in \mathbf { N } ^ { * } \right) \text { 均 在 函 数 } y = x + 1 \text { 的 图 像 上 }

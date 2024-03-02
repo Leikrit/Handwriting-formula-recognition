@@ -1,0 +1,1 @@
+\frac { | a + a - 2 | } { \sqrt { 1 + a ^ { 2 } } } = \frac { \sqrt { 3 } } { 2 } \cdot 2

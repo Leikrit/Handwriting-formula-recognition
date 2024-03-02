@@ -1,0 +1,1 @@
+\frac { \sum _ { i = 1 } ^ { n } t _ { i } y _ { i } - n \bar { t } \bar { y } } { \sum _ { i = 1 } ^ { n } t _ { i } ^ { 2 } - n \bar { t } ^ { 2 } } , \hat { a } = \bar { y } - \hat { b } \bar { t }

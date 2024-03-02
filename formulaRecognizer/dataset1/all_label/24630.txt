@@ -1,0 +1,1 @@
+\forall x \in \left( 0 , \frac { 1 } { 3 } \right) , \left( \frac { 1 } { 2 } \right) ^ { x } < \log _ { \frac { 1 } { 3 } } x

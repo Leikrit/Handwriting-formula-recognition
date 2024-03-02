@@ -1,0 +1,1 @@
+\forall t \geqslant 1 , - a \leq s l a n t h ( t )

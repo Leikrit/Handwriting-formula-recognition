@@ -1,0 +1,1 @@
+\text { 数 即 为 函 数 } y = \left| \log _ { 0 . 5 } x \right| \text { 与 } y = \frac { 1 } { 2 ^ { x } } \text { 图 象 的 交 点 个 }

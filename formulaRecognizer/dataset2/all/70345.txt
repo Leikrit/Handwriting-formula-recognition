@@ -1,0 +1,1 @@
+\text { 设 数 列 } a _ { 1 } , a _ { 2 } , \cdots , a _ { n } , \cdots \text { 中 的 每 一 项 都 不 为 } 0 \text { . }

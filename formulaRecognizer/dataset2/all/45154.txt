@@ -1,0 +1,1 @@
+g ( x ) = \log _ { \frac { 1 } { a } } \left( x + \frac { 1 } { 2 } \right) ( a > 0 \text { 且 }

@@ -1,0 +1,1 @@
+A B \rightarrow B D \rightarrow D B \rightarrow B C

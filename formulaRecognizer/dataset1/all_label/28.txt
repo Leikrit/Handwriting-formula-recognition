@@ -1,0 +1,1 @@
+4 \sqrt { \frac { 4 } { 1 5 } } , \cdots , \sqrt { 6 + \frac { a } { b } } = 6 \sqrt { \frac { a } { b } } , a , b \text { 均 为 正 实 数 , 由 以 }

@@ -1,0 +1,1 @@
+\text { 此 时 函 数 在 } t \in [ 0 , + \infty ] \text { 上 }

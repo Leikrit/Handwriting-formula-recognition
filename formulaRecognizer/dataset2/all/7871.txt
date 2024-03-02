@@ -1,0 +1,1 @@
+\boldsymbol { c } = \lambda \boldsymbol { a } + \mu \boldsymbol { b } \left( \lambda ^ { 2 } + \right.

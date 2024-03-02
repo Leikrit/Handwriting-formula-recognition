@@ -1,0 +1,1 @@
+n \sin x + ( n + 1 ) \cos x = n + 2

@@ -1,0 +1,1 @@
+\text { 二 项 式 } \left( x + \frac { a + 1 } { x } \right) ^ { 6 } \text { 展 开 式 中 含 有 } x ^ { 2 } \text { 项 的 系 数 不 大 于 }

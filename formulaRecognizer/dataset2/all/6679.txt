@@ -1,0 +1,1 @@
+\text { 已 知 直 线 } y = x + 1 \text { 与 曲 线 } y = \ln ( x + a ) \text { 相 切 }

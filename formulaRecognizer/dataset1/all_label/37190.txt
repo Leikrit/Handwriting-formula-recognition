@@ -1,0 +1,1 @@
+\frac { \pi } { 2 } - \arccos \frac { 4 } { 5 }

@@ -1,0 +1,1 @@
+\text { 导 函 数 } \varphi ^ { \prime } ( x ) = 1 - x ^ { 2 }

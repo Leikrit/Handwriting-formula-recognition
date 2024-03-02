@@ -1,0 +1,1 @@
+\frac { 2 \sin \left( A + \frac { \pi } { 4 } \right) \sin \left( B + C + \frac { \pi } { 4 } \right) } { 1 - \cos 2 A }

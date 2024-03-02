@@ -1,0 +1,1 @@
+Q ^ { \prime } \left( x _ { Q ^ { \prime } } , y _ { Q ^ { \prime } } \right)

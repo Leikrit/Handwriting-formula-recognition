@@ -1,0 +1,1 @@
+\text { 关 于 } b \text { 的 方 程 } b ( \ln b - 2 ) = \mathrm { e } ^ { 3 \lambda - 1 } ( a , b , \lambda \in \mathbf { R } )

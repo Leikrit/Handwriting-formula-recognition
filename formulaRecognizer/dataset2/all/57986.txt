@@ -1,0 +1,1 @@
+\triangle A B D \text { 面 积 是 } \triangle B C D \text { 面 积 的 }

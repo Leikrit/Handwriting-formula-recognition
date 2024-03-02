@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { A B } \cdot \overrightarrow { A C } = 6 \overrightarrow { A O } \cdot \overrightarrow { E C }

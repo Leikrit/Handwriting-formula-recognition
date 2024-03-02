@@ -1,0 +1,1 @@
+( a , b ) \subseteq \left( 2 ^ { k } , 2 ^ { k + 1 } \right)

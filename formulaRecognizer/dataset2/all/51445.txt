@@ -1,0 +1,1 @@
+\text { 布 } N \left( 1 0 , \sigma ^ { 2 } \right)

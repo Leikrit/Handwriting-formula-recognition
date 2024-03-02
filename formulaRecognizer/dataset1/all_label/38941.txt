@@ -1,0 +1,1 @@
+| P Q | ^ { 2 } = \left| F _ { 1 } Q \right| \cdot \left| F _ { 2 } Q \right|

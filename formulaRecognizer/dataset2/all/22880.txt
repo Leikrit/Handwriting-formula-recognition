@@ -1,0 +1,1 @@
+\text { 若 满 足 } ( x - 1 ) f ^ { \prime } ( x ) \geqslant 0

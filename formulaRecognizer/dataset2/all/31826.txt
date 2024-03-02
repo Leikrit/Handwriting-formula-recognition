@@ -1,0 +1,1 @@
+\text { 有 } \overrightarrow { O P } = \overrightarrow { O A } + \overrightarrow { O B } \text { 成 立 }

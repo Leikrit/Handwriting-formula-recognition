@@ -1,0 +1,1 @@
+1 \times \mathrm { C } _ { 6 } ^ { 5 } \times 2 ^ { 5 } - 1 \times \mathrm { C } _ { 6 } ^ { 4 } \times 2 ^ { 4 } = - 4 8

@@ -1,0 +1,1 @@
+f ( x ) = \ln ( x + 1 ) - \frac { x } { x + 1 } \geqslant f ( 0 ) = 0

@@ -1,0 +1,1 @@
+\text { 即 } f ^ { \prime } ( x ) \text { 在 } ( 1 , + \infty ) \text { 上 恒 正 }

@@ -1,0 +1,1 @@
+y = f \left( x + \frac { 5 \pi } { 1 2 } \right)

@@ -1,0 +1,1 @@
+\text { 设 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { n } = \frac { a _ { n } } { n \cdot 3 ^ { n - 1 } }

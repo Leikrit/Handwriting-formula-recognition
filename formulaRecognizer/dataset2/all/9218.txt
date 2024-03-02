@@ -1,0 +1,1 @@
+\frac { a _ { 1 } + a _ { 2 } + \cdots + a _ { n } } { b _ { 1 } + b _ { 2 } + \cdots + b _ { n } } =

@@ -1,0 +1,1 @@
+\text { 单 位 : 件 } ) \text { 的 函 数 关 系 是 } p = \frac { 3 x } { 4 x + 3 2 } \left( x \in \mathbf { N } ^ { * } \right)

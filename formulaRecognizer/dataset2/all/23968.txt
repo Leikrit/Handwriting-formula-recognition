@@ -1,0 +1,1 @@
+\text { 知 圆 上 的 弧 } \o v e r p a r e n { A C } = \o v e r p a r e n { B D }

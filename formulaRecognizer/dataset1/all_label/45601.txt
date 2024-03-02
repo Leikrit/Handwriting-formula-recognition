@@ -1,0 +1,1 @@
+\overrightarrow { B D } \cdot \overrightarrow { A E } = ( \overrightarrow { A D } - \overrightarrow { A B } ) \cdot \overrightarrow { A E } = 5 \cdot 2 \cdot \cos 6 0 ^ { \circ } - 2 \sqrt { 3 } \cdot 2 \cdot \cos 3 0 ^ { \circ } = - 1

@@ -1,0 +1,1 @@
+\text { 集 合 } A = \left\{ x \mid \frac { x - 1 } { x + 1 } < 0 \right\}

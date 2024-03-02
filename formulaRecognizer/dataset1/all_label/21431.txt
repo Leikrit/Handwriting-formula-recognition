@@ -1,0 +1,1 @@
+\left( a ^ { 2 } + c ^ { 2 } - b ^ { 2 } \right) \tan B = \sqrt { 3 } a c

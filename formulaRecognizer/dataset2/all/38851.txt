@@ -1,0 +1,1 @@
+\text { 所 以 } g ( x ) \text { 在 区 间 } ( 0 , \mathrm { e } ) \text { 上 的 最 大 值 为 } g ( 1 )

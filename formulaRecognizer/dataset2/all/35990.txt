@@ -1,0 +1,1 @@
+\text { 点 } P \left( x _ { 0 } , f \left( x _ { 0 } \right) \right) \text { 处 的 切 线 与 该 曲 线 恰 有 一 个 公 共 点 } P

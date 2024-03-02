@@ -1,0 +1,1 @@
+\text { 所 以 } E ( \xi ) = 0 \times \left( 1 - P _ { 1 } \right) \left( 1 - P _ { 2 } \right) + 1 \times \left[ P _ { 1 } \left( 1 - P _ { 2 } \right) + \left( 1 - P _ { 1 } \right) P _ { 2 } \right] + 2 \times P _ { 1 } P _ { 2 } = P _ { 1 } + P _ { 2 } = 3 p ^ { 2 } - 2 p ^ { 3 } + p ^ { 2 }

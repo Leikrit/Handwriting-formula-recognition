@@ -1,0 +1,1 @@
+\text { 若 } A B \text { 与 } C D \text { 相 交 , 且 } A C / / l \text { , 则 } B D \text { 可 以 与 } l \text { 相 交 }

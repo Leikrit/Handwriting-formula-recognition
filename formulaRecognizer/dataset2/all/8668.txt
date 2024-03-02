@@ -1,0 +1,1 @@
+\text { 条 件 } p \text { 为 } x ^ { 2 } \leq x

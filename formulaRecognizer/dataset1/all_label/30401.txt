@@ -1,0 +1,1 @@
+f ( x ) = a \sin ( \pi x + \alpha ) + b \cos ( \pi x + \beta )

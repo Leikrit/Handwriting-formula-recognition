@@ -1,0 +1,1 @@
+\text { 定 义 : 平 面 } \alpha \text { 的 一 般 方 程 为 } A x + B y + C z + D = 0 ( A , B \text { , }

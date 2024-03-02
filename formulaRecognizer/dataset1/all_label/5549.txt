@@ -1,0 +1,1 @@
+A = \{ x | | x \mid < 3 , x \in \mathbf { Z } \}

@@ -1,0 +1,1 @@
+\text { 计 算 } \sin 4 3 ^ { \circ } \cos 1 3 ^ { \circ } - \cos 4 3 ^ { \circ } \sin 1 3 ^ { \circ } \text { 的 结 果 等 于 }

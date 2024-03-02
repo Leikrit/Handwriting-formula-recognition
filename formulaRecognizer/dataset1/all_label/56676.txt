@@ -1,0 +1,1 @@
+\overrightarrow { O A } = 1 2 \overrightarrow { A B } + 3 \overrightarrow { A C }

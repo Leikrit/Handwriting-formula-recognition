@@ -1,0 +1,1 @@
+S _ { j } = \left\{ a _ { j } , b _ { j } \right\} ( i \neq j , i , j \in \{ 1 , 2 , 3 , \cdots , k \} )

@@ -1,0 +1,1 @@
+\text { 由 已 知 条 件 知 } \overrightarrow { A I } = \frac { 1 } { a + b + c } ( b \overrightarrow { A B } + c \overrightarrow { A C } )

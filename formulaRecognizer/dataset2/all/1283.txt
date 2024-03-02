@@ -1,0 +1,1 @@
+\overrightarrow { P M } = \frac { 4 } { 7 } \overrightarrow { P D } + \frac { 3 } { 7 } \overrightarrow { P F _ { 2 } }

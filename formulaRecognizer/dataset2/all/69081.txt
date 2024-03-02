@@ -1,0 +1,1 @@
+\text { 是 “ } \left\{ a _ { n } \right\} \text { 和 } \left\{ S _ { n } \right\} \text { 都 有 最 小 项 ” 的 }

@@ -1,0 +1,1 @@
+A , B \text { 是 圆 } C : x ^ { 2 } + \left( y - \frac { 1 } { 2 } \right) ^ { 2 } = 3 6 \text { 上 的 两 个 }

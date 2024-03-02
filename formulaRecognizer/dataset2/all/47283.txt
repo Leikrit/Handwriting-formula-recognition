@@ -1,0 +1,1 @@
+l _ { 1 } \perp l _ { 2 } \Leftrightarrow k _ { 1 } k _ { 2 } = - 1

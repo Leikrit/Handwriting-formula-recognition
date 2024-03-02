@@ -1,0 +1,1 @@
+\langle \boldsymbol { a } - \boldsymbol { c } , \boldsymbol { b } - \boldsymbol { c } \rangle = 6 0 ^ { \circ }

@@ -1,0 +1,1 @@
+\text { 则 } c \cdot ( a - b ) \text { 的 值 为 }

@@ -1,0 +1,1 @@
+\text { 若 } l \perp \beta , m \perp \beta , m \perp \alpha \text { , 则 } l \perp \alpha

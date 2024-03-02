@@ -1,0 +1,1 @@
+\text { 点 } Q ( x - 2 a , - y ) \text { 是 函 数 } y = g ( x ) \text { 图 象 上 的 点 }

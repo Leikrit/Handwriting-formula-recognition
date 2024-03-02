@@ -1,0 +1,1 @@
+x = \ln \pi , y = \log _ { 5 } 2 , z = \mathrm { e } ^ { - 0 . 5 }

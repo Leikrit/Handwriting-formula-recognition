@@ -1,0 +1,1 @@
+\overrightarrow { O A } \cdot \overrightarrow { O B } , I _ { 2 } = \overrightarrow { O B } \cdot \overrightarrow { O C } , I _ { 3 } = \overrightarrow { O C } \cdot \overrightarrow { O D }

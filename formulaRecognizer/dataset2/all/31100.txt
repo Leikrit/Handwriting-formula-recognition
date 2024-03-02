@@ -1,0 +1,1 @@
+\text { 若 } \left| \overrightarrow { P F _ { 1 } } + \overrightarrow { P F _ { 2 } } \right| = \left| \overrightarrow { P F _ { 1 } } - \overrightarrow { P F _ { 2 } } \right|

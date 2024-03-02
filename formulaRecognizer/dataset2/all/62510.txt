@@ -1,0 +1,1 @@
+\text { 一 个 等 比 数 列 } \left\{ a _ { n } \right\} \text { 的 前 三 项 的 积 为 } 2

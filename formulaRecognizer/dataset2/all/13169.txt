@@ -1,0 +1,1 @@
+2 S _ { n } S _ { n - 1 } = 0 \left( n \geqslant 2 , n \in \mathbf { N } ^ { * } \right)

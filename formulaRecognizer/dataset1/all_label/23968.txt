@@ -1,0 +1,1 @@
+\boldsymbol { n } \perp ( t \boldsymbol { m } + \boldsymbol { n } )

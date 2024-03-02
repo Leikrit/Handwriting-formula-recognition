@@ -1,0 +1,1 @@
+\text { 过 点 } S \left( 0 , \frac { b ^ { 2 } } { 2 } + 2 \right) \text { 作 斜 率 为 } - \frac { b } { 2 } \text { 的 直 线 } l

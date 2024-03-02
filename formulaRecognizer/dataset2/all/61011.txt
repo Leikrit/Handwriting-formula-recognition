@@ -1,0 +1,1 @@
+\text { 求 } g ^ { \prime } ( x ) \text { 在 } [ 0 , + \infty ) \text { 上 的 最 }

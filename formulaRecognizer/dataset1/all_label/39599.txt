@@ -1,0 +1,1 @@
+\frac { 1 } { \lambda } \overrightarrow { A B } ^ { 2 } + \frac { 1 } { 3 } \overrightarrow { B C } ^ { 2 } + \left( \frac { 1 } { 3 \lambda } + 1 \right) \overrightarrow { A B } \cdot \overrightarrow { B C } = 1

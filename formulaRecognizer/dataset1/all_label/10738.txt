@@ -1,0 +1,1 @@
+a \left( c ^ { 2 } + 1 \right) > b \left( c ^ { 2 } + 1 \right)

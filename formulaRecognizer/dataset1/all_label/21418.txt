@@ -1,0 +1,1 @@
+A B \perp A C , B D \perp C D

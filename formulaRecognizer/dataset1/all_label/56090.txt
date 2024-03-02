@@ -1,0 +1,1 @@
+A = \{ ( x , y ) \mid x - y \geqslant 1 , a x + y > 4 , x - a y \leq s l a n t 2 \}

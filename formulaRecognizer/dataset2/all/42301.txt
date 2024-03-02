@@ -1,0 +1,1 @@
+\left| x _ { 1 } - x _ { 2 } \right| = \frac { \sqrt { ( 2 \sqrt { 3 } n ) ^ { 2 } - 4 \cdot \frac { 1 } { 2 } \cdot ( 3 n - 1 ) } } { \frac { 1 } { 2 } } = 2 \sqrt { 1 2 n ^ { 2 } - 6 n + 2 }

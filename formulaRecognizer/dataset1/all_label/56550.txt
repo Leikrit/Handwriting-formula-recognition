@@ -1,0 +1,1 @@
+( 2 c + b \cos A ) \cos B = b \sin A \sin B

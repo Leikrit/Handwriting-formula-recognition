@@ -1,0 +1,1 @@
+( \boldsymbol { a } + \boldsymbol { b } ) \cdot \boldsymbol { c } = \frac { 5 } { 2 }

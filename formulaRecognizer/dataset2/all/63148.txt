@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = a \mathrm { e } ^ { x } - x ^ { 2 } - 1

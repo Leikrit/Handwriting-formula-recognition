@@ -1,0 +1,1 @@
+b _ { n } = a _ { n } \cdot \log _ { 2 } a _ { n }

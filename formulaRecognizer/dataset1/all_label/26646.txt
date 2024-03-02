@@ -1,0 +1,1 @@
+\{ x \mid ( x - 1 ) ( x - a ) \geqslant 0 \}

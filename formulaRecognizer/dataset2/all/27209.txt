@@ -1,0 +1,1 @@
+\text { 求 } \mathrm { e } ^ { 3 } , 3 ^ { \mathrm { e } } , \mathrm { e } ^ { \pi } , \pi ^ { \mathrm { e } } , 3 ^ { \pi } , \pi ^ { 3 }

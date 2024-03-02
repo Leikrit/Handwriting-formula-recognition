@@ -1,0 +1,1 @@
+P A : y - y _ { 0 } = k \left( x - x _ { 0 } \right)

@@ -1,0 +1,1 @@
+\text { 若 } \sin ^ { 4 } \alpha - \cos ^ { 4 } \alpha = - \frac { 4 } { 5 } \left( \alpha \in \left( 0 , \frac { \pi } { 2 } \right) \right)

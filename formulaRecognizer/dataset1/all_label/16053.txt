@@ -1,0 +1,1 @@
+\text { 点 } P \text { 满 足 } \overrightarrow { O P } = \frac { 1 } { 3 } \left( \frac { 1 } { 2 } \overrightarrow { O A } + \frac { 1 } { 2 } \overrightarrow { O B } + 2 \overrightarrow { O C } \right)

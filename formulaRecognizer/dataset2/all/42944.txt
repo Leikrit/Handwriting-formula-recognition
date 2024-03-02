@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = f ( x ) \cos x \text { 为 奇 函 数 }

@@ -1,0 +1,1 @@
+\left( - 8 , \frac { 9 } { 2 } \right) \cup \left( \frac { 9 } { 2 } , + \infty \right)

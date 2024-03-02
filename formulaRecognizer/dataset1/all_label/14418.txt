@@ -1,0 +1,1 @@
+\left. \log _ { 2 } \left( 2 ^ { x } - 1 \right) \right\}

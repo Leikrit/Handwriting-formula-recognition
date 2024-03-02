@@ -1,0 +1,1 @@
+a _ { 2 } \text { 是 } a _ { 1 } \text { 与 } a _ { 4 } \text { 等 比 中 项 } \Rightarrow a _ { 2 } ^ { 2 } = a _ { 1 } a _ { 4 } \Rightarrow \left( a _ { 1 } + d \right) ^ { 2 } = a _ { 1 } \left( a _ { 1 } + 3 d \right) \Rightarrow a _ { 1 } = d

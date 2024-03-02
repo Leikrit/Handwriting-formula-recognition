@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \frac { - 1 } { 2 a - x } - \frac { - a } { ( 2 a - x ) ^ { 2 } } - \frac { 1 } { x } + \frac { a } { x ^ { 2 } } = \frac { 4 a ( x - a ) ^ { 2 } } { x ^ { 2 } ( 2 a - x ) ^ { 2 } } > 0

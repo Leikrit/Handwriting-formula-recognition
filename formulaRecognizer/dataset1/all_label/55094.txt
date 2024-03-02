@@ -1,0 +1,1 @@
+f ( x ) \geqslant \mathrm { e } ^ { x } + k

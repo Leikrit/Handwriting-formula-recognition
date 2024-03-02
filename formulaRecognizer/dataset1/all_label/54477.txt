@@ -1,0 +1,1 @@
+P \left( B \mid A _ { 1 } \right) = \frac { 5 } { 1 1 }

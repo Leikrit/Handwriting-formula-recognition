@@ -1,0 +1,1 @@
+\text { 动 点 } P \text { 到 点 } F _ { 2 } ( c , 0 ) \text { 与 到 定 直 线 } x = \frac { a ^ { 2 } } { c } \text { 的 距 离 之 比 为 大 于 } 1 \text { 的 常 数 } t

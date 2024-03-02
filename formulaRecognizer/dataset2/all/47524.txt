@@ -1,0 +1,1 @@
+\text { 点 } F \left( x _ { 1 } , y _ { 1 } , z _ { 1 } \right) \text { 到 平 面 } \alpha \text { 的 距 离 } d =

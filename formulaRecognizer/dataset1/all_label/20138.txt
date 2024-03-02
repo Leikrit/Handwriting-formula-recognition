@@ -1,0 +1,1 @@
+\text { 设 过 } Q \text { 的 切 线 为 } y - y _ { 1 } = k _ { 1 } \left( x - x _ { 1 } \right) , y ^ { \prime } = 2 x

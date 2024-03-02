@@ -1,0 +1,1 @@
+\text { 且 满 足 } \boldsymbol { a } \cdot \left( \frac { 1 } { 2 } \boldsymbol { a } + \boldsymbol { b } \right) = 0

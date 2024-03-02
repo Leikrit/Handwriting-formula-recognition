@@ -1,0 +1,1 @@
+B F = 4 \sin 1 5 ^ { \circ } = 4 \sin \left( 4 5 ^ { \circ } - 3 0 ^ { \circ } \right) = \sqrt { 6 } - \sqrt { 2 }

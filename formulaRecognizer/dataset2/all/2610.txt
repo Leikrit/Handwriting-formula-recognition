@@ -1,0 +1,1 @@
+\text { 若 } S _ { \triangle A B D } = 2 S _ { \triangle A C D } = 8 \sqrt { 7 }

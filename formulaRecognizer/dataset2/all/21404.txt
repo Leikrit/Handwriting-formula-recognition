@@ -1,0 +1,1 @@
+g ( x ) \text { 分 别 是 定 义 在 } \mathbf { R } \text { 上 }

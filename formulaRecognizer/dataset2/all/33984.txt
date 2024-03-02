@@ -1,0 +1,1 @@
+\text { 证 明 : 等 差 数 列 } \left\{ a _ { n } \right\} \text { 是 “ } P ( 3 ) \text { 数 列 ” }

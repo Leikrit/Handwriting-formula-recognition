@@ -1,0 +1,1 @@
+\text { 若 曲 线 } C _ { 1 } : \frac { x ^ { 2 } } { 8 } + \frac { y ^ { 2 } } { 2 } = 1 \text { 在 矩 阵 } \boldsymbol { A B } \text { 对 应 的 变 换 作 用 下 得 到 另 一 曲 线 } C _ { 2 }

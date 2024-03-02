@@ -1,0 +1,1 @@
+f \left( a ^ { 2 } + a + 2 \right) > f \left( \frac { 7 } { 4 } \right)

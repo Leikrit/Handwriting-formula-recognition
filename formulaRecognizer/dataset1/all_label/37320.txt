@@ -1,0 +1,1 @@
+\left[ 0 , \frac { \pi } { 3 } \right] \cup \left[ \frac { 2 \pi } { 3 } , \pi \right)

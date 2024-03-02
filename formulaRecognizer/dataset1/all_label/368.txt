@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { 2 \left( x ^ { 2 } - a \right) } { x }

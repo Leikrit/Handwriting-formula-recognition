@@ -1,0 +1,1 @@
+\text { 讨 论 函 数 } g ( x ) = f ^ { \prime } ( x ) - \frac { x } { 3 } \text { 的 零 点 个 数 }

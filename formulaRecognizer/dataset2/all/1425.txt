@@ -1,0 +1,1 @@
+\text { 已 知 } f ( x ) = 2 \cos ^ { 2 } \omega x + \sqrt { 3 } \sin 2 \omega x - 1 ( \omega > 0 ) \text { 的 最 小 正 周 }

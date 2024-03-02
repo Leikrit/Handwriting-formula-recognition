@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } [ - \pi , \pi ] \text { 有 } 4 \text { 个 零 点 }

@@ -1,0 +1,1 @@
+\text { 如 果 对 小 于 } n ( 2 \leq s l a n t n \leq s l a n t N ) \text { 的 每 个 正 }

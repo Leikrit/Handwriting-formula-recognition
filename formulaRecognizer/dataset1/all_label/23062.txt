@@ -1,0 +1,1 @@
+\frac { \sin 2 \alpha } { \cos 2 \alpha } = \frac { \cos \alpha } { 2 - \sin \alpha }

@@ -1,0 +1,1 @@
+| f ( x ) | = f ( x ) \geqslant f ( 0 ) = a > 1

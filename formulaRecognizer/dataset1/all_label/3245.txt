@@ -1,0 +1,1 @@
+f \left( x + \frac { 1 } { 2 } \right) = \frac { 1 } { 2 x } , \quad f ( x + 1 ) = \frac { 1 } { 2 x + 1 } , \quad g ( x + 1 ) = x ^ { 2 } - 1 , \quad g ( x - 1 ) = ( x - 2 ) ^ { 2 } - 1

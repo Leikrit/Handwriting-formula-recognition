@@ -1,0 +1,1 @@
+\text { 欧 拉 公 式 } \mathrm { e } ^ { x \mathrm { i } } = \cos x + \mathrm { i } \sin x \text { ( 其 中 } \mathrm { i } \text { 为 虚 数 单 位 , } x \in \mathbf { R } \text { ) }

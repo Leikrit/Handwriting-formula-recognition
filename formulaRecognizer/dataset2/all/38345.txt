@@ -1,0 +1,1 @@
+\text { 若 } m \subset \alpha , n \subset \alpha , m / / \beta , n / / \beta

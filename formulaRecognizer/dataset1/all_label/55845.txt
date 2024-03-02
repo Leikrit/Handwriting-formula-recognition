@@ -1,0 +1,1 @@
+S _ { \text { 球 } } = 4 \cdot \pi \cdot 3 ^ { 2 } = 3 6 \pi

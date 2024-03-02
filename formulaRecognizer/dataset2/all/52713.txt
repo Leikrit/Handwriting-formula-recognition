@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { A P } = m \boldsymbol { a } + n \boldsymbol { b }

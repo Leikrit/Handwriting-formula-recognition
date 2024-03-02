@@ -1,0 +1,1 @@
+\text { 由 } y = 3 \sin 2 x \text { 的 图 象 向 右 平 移 } \frac { \pi } { 3 } \text { 个 单 位 长 度 可 以 }

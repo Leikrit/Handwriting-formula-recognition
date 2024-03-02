@@ -1,0 +1,1 @@
+\text { 是 否 存 在 实 数 } k \text { 使 } \overrightarrow { N A } \cdot \overrightarrow { N B } = 0

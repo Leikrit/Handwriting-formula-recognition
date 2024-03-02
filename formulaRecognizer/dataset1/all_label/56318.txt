@@ -1,0 +1,1 @@
+\text { 4 ) } \left. \left( x ^ { 2 } - 9 \right) = 0 \right\} , B = \left\{ x \mid x ^ { 2 } > x + 6 \right\} \text { , }

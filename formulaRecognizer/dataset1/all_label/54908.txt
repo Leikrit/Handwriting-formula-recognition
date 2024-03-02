@@ -1,0 +1,1 @@
+\frac { | m + n | } { 2 } \leq s l a n t \sqrt { \frac { m ^ { 2 } + n ^ { 2 } } { 2 } }

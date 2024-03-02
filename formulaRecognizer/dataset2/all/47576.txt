@@ -1,0 +1,1 @@
+g ( x ) \text { 在 } ( - \infty , \ln a ) \text { 内 单 调 递 减 }

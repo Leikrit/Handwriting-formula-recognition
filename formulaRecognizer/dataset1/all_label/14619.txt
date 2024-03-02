@@ -1,0 +1,1 @@
+f ( x ) = \l g \left( \sqrt { x ^ { 2 } + 1 } + x \right) + \frac { 1 } { 2 }

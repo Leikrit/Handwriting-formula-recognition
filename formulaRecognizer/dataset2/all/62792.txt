@@ -1,0 +1,1 @@
+\text { 故 } \frac { 1 } { 2 a } + b \in \left[ \sqrt { 2 } - 1 , \frac { 3 } { 2 } \right]

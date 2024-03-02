@@ -1,0 +1,1 @@
+\text { 则 } \frac { \cos 2 \theta } { 1 + \sin 2 \theta } \text { 的 值 为 }

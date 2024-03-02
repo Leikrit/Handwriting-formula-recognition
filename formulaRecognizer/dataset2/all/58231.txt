@@ -1,0 +1,1 @@
+\text { 方 程 } a \left( \frac { 1 } { 4 } \right) ^ { x } - \left( \frac { 1 } { 2 } \right) ^ { x } + 2 = 0

@@ -1,0 +1,1 @@
+\text { 又 } S _ { 9 } = 8 1 , \ t h e r e f o r e 9 a _ { 1 } + \frac { 9 \times 8 } { 2 } d = 8 1 \text { 即 } a _ { 1 } + 4 d = 9

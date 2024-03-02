@@ -1,0 +1,1 @@
+\text { 设 定 义 在 } D \text { 上 的 函 数 } y = f ( x ) \text { 在 点 } P \left( x _ { 0 } , f \left( x _ { 0 } \right) \right) \text { 处 的 }

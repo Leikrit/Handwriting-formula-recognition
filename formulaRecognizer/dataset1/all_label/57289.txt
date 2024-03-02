@@ -1,0 +1,1 @@
+f ^ { \prime \prime } ( x ) = 2 - \pi \cos x

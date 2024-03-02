@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } \ln 2 , \mathrm { e } ^ { 2 } \right)

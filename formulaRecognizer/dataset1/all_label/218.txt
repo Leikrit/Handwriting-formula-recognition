@@ -1,0 +1,1 @@
+B = \{ x \mid \ln x \leq s l a n t 0 \}

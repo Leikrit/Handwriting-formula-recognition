@@ -1,0 +1,1 @@
+\text { 得 函 数 } y = \log _ { 2 } \frac { 1 } { x - 1 } ( x \in ( 1 , + \infty ) ) \text { 的 反 函 数 是 }

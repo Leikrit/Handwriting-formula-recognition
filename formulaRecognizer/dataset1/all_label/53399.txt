@@ -1,0 +1,1 @@
+\frac { \left( x _ { 1 } - x _ { 2 } \right) \left( x _ { 1 } + x _ { 2 } \right) } { a ^ { 2 } } + \frac { \left( y _ { 1 } - y _ { 2 } \right) \left( y _ { 1 } + y _ { 2 } \right) } { b ^ { 2 } } = 0

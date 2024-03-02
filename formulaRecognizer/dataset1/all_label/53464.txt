@@ -1,0 +1,1 @@
+\sin \left( \frac { \pi } { 2 } - \alpha \right) \cdot \tan \alpha =

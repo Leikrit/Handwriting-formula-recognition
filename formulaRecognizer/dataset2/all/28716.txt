@@ -1,0 +1,1 @@
+\text { 满 足 } ( \overrightarrow { O A } + \overrightarrow { O B } ) \cdot \overrightarrow { O C } = 0 , | \overrightarrow { O B } | = | \overrightarrow { O C } |

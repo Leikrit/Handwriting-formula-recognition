@@ -1,0 +1,1 @@
+\mathrm { e } ^ { a } - \mathrm { e } ^ { b } = 1

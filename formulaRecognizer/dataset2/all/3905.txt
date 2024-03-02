@@ -1,0 +1,1 @@
+\frac { 1 } { | \overrightarrow { B A } | } \overrightarrow { B A } +

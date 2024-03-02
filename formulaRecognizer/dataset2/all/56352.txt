@@ -1,0 +1,1 @@
+\text { 则 } T - T _ { a } = \left( T _ { 0 } - T _ { a } \right) \cdot \left( \frac { 1 } { 2 } \right) ^ { \frac { t } { h } } \text { , }

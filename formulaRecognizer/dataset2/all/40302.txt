@@ -1,0 +1,1 @@
+\text { 切 线 方 程 为 } y - \ln x _ { 0 } = \frac { 1 } { x _ { 0 } } \left( x - x _ { 0 } \right)

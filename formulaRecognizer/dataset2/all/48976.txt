@@ -1,0 +1,1 @@
+\text { 存 在 点 } P \text { 满 足 } B ^ { \prime } P \perp A ^ { \prime } C ^ { \prime }

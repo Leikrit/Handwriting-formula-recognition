@@ -1,0 +1,1 @@
+| A C | \cdot | B C | \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+\text { 以 原 点 为 起 点 的 向 量 } \boldsymbol { a } = ( a , b )

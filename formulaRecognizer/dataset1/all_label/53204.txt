@@ -1,0 +1,1 @@
+\frac { 2 } { n + 2 } < a _ { n } \leq s l a n t \frac { 3 } { n + 2 }

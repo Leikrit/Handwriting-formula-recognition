@@ -1,0 +1,1 @@
+S _ { \triangle A P B } = \frac { 1 } { 2 } \cdot P B \cdot P A = \frac { 1 } { 2 } \times 2 \times 2 \sqrt { 3 } = 2 \sqrt { 3 }

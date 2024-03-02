@@ -1,0 +1,1 @@
+\text { 令 } g ( x ) = \frac { 1 + x } { 1 - x } \mathrm { e } ^ { - a x } - 1 ( 0 < x < 1 )

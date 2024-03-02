@@ -1,0 +1,1 @@
+\rho \left( \frac { 1 } { \cos \theta } - \cos \theta \right) = 1

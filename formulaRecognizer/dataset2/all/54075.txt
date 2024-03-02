@@ -1,0 +1,1 @@
+\text { 即 } \frac { b ^ { 2 } } { c } = \frac { 2 } { \sqrt { 3 } }

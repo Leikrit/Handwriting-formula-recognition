@@ -1,0 +1,1 @@
+\left( a - a ^ { 2 } \right) \left( x ^ { 2 } + 1 \right) + x \leq s l a n t 0

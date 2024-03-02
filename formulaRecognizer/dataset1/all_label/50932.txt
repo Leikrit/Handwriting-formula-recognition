@@ -1,0 +1,1 @@
+P = \{ \boldsymbol { a } \mid \boldsymbol { a } = ( 1 , 0 ) + m ( 0 , 1 ) , m \in \mathbf { R } \} , Q = \{ \boldsymbol { b } \mid \boldsymbol { b } =

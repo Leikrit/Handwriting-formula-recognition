@@ -1,0 +1,1 @@
+h = \frac { 1 } { 2 } ( x + y ) = \frac { 1 } { 2 } \left( x + \frac { 4 } { x } \right) \in \left( 2 , \frac { 5 } { 2 } \right)

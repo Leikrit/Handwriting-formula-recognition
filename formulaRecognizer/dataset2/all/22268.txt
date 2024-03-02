@@ -1,0 +1,1 @@
+\text { 向 量 } \boldsymbol { a } = ( 1 , 1 ) , \boldsymbol { b } = ( - 1 , 3 ) , \boldsymbol { c } = ( 2 , 1 )

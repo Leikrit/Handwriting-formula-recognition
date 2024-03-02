@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z \text { 满 足 } ( 1 - \mathrm { i } ) z + \frac { 2 - \mathrm { i } } { \frac { 1 } { 2 } + \mathrm { i } } = 0

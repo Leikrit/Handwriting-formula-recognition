@@ -1,0 +1,1 @@
+f ( x ) < \left( x ^ { 2 } + 2 x + 2 \right) \mathrm { e } ^ { \sin x }

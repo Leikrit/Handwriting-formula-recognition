@@ -1,0 +1,1 @@
+\text { 若 复 数 } z \text { 满 足 } \mathrm { i } \cdot z = 1 + 2 \mathrm { i }

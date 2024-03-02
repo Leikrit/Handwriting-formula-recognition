@@ -1,0 +1,1 @@
+\text { 则 椭 圆 } E \text { 变 为 圆 } E ^ { \prime } : x ^ { \prime 2 } + y ^ { \prime 2 } = 4

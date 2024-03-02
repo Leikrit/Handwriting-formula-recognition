@@ -1,0 +1,1 @@
+\left| \overrightarrow { \mathrm { a } _ { \mathrm { i } } } - \overrightarrow { \mathrm { b } _ { \mathrm { j } } } \right| \in \{ 1 , 2 \}

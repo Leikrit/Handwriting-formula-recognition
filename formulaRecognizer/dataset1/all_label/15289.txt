@@ -1,0 +1,1 @@
+P ( t ) = \frac { \mathrm { e } ^ { 0 . 4 2 t } } { 1 + \left( \mathrm { e } ^ { 0 . 4 2 t } - \frac { 1 } { K } \right) }

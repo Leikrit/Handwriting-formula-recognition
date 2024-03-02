@@ -1,0 +1,1 @@
+\overrightarrow { D P } = - \frac { 1 } { 3 } \overrightarrow { D C } + x \overrightarrow { D E }

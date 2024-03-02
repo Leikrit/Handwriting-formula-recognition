@@ -1,0 +1,1 @@
+\text { 则 下 列 概 率 中 等 于 } \frac { \mathrm { C } _ { 6 } ^ { 4 } \mathrm { C } _ { 9 } ^ { 6 } } { \mathrm { C } _ { 1 5 } ^ { 1 0 } } \text { 的 是 }

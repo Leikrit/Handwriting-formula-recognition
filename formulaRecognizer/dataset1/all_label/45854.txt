@@ -1,0 +1,1 @@
+a _ { i } = \frac { i } { 9 9 } , i = 0 , 1 , 2 , \cdots , 9 9 \text { . 记 } I _ { k } = \left| f _ { k } \left( a _ { 1 } \right) - f _ { k } \left( a _ { 0 } \right) \right| +

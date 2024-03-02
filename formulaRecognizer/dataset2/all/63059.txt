@@ -1,0 +1,1 @@
+y = 0 \text { 和 } x + a y = 0 \text { 上 }

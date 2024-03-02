@@ -1,0 +1,1 @@
+f ( x ) - a ^ { 2 } \geqslant | x + 2 |

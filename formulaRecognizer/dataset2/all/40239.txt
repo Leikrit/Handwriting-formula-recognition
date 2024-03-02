@@ -1,0 +1,1 @@
+g ( x ) = \frac { 1 } { x } - \frac { m } { x ^ { 2 } } - \frac { x } { 3 }

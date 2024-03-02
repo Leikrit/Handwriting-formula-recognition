@@ -1,0 +1,1 @@
+x _ { 1 } x _ { 2 } + y _ { 1 } y _ { 2 } = \left( m y _ { 1 } + \frac { m ^ { 2 } } { 2 } \right) \left( m y _ { 2 } + \frac { m ^ { 2 } } { 2 } \right) + y _ { 1 } y _ { 2 } = \left( m ^ { 2 } + 1 \right) \left( \frac { m ^ { 2 } } { 8 } - \frac { 1 } { 2 } \right)

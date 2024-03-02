@@ -1,0 +1,1 @@
+\text { 满 足 } \left| A F _ { 1 } \right| = 2 \left| A F _ { 2 } \right|

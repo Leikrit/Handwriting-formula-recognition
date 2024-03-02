@@ -1,0 +1,1 @@
+5 0 \left( 5 x - \frac { 3 } { x } + 1 \right)

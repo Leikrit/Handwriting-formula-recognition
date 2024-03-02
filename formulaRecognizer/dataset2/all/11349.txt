@@ -1,0 +1,1 @@
+\text { 所 以 } h ( a ) \text { 在 } \left( - 1 , \mathrm { e } ^ { \frac { 1 } { 2 } } - 1 \right) \text { 上 单 调 递 增 }

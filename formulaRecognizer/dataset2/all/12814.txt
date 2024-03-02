@@ -1,0 +1,1 @@
+\text { 记 } \boldsymbol { a } \text { 的 象 为 } f ( \boldsymbol { a } )

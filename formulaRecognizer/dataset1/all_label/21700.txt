@@ -1,0 +1,1 @@
+g ( \ln a ) _ { \min } = a - a \ln a

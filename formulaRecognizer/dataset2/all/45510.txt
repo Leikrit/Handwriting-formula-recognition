@@ -1,0 +1,1 @@
+\text { 对 于 } n \in \mathbf { N } ^ { * } , \mathrm { C } _ { 4 n + 1 } ^ { 1 } + \mathrm { C } _ { 4 n + 1 } ^ { 5 } + \mathrm { C } _ { 4 n + 1 } ^ { 9 } + \cdots + \mathrm { C } _ { 4 n + 1 } ^ { 4 n + 1 }

@@ -1,0 +1,1 @@
+\text { 推 断 } f ( x ) = c \cos x \text { 为 奇 函 数 }

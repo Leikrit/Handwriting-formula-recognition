@@ -1,0 +1,1 @@
+\left( \mathrm { e } ^ { x } f ( x ) \right) ^ { \prime } = \mathrm { e } ^ { x } ( \cos x - \sin x ) = \mathrm { e } ^ { x } \cdot \sqrt { 2 } \sin \left( x + \frac { 3 \pi } { 4 } \right)

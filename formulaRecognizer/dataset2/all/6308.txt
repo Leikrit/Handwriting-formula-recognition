@@ -1,0 +1,1 @@
+\text { 对 应 一 组 数 据 } \left( u _ { 1 } , v _ { 1 } \right) , \left( u _ { 2 } , v _ { 2 } \right) , \left( u _ { 3 } , v _ { 3 } \right) , \cdots

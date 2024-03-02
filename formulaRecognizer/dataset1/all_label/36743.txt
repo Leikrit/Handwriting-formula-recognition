@@ -1,0 +1,1 @@
+\frac { a } { \mathrm { e } ^ { a } } = \frac { \ln b } { \mathrm { e } ^ { b } } = - \frac { c } { \mathrm { e } ^ { c } }

@@ -1,0 +1,1 @@
+\left( \overrightarrow { F _ { 1 } A } + \overrightarrow { F _ { 1 } B } \right)

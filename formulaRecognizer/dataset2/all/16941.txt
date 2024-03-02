@@ -1,0 +1,1 @@
+\boldsymbol { a } \cdot ( \boldsymbol { a } - 2 \boldsymbol { b } ) = 2

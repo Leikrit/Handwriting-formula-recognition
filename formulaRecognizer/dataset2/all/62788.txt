@@ -1,0 +1,1 @@
+\text { 显 然 } \frac { 1 } { 2 a } + a - 1 \geqslant 2 \sqrt { \frac { 1 } { 2 a } \cdot a } - 1 = \sqrt { 2 } - 1

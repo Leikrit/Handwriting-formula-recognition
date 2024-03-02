@@ -1,0 +1,1 @@
+\text { 列 } \left\{ b _ { n } \right\} \text { 各 项 均 为 正 数 且 满 足 } b _ { 1 } = a _ { 1 }

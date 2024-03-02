@@ -1,0 +1,1 @@
+\overrightarrow { O A } + \overrightarrow { O B } = \overrightarrow { O D }

@@ -1,0 +1,1 @@
+\text { 且 } g \left( x _ { 1 } \right) + g \left( x _ { 2 } \right) > \lambda \left( x _ { 1 } + x _ { 2 } \right) \text { 恒 }

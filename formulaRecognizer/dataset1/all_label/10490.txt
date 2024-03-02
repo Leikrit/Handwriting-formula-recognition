@@ -1,0 +1,1 @@
+\frac { | \overrightarrow { B M } | } { | \overrightarrow { B C } | } = \frac { | \overrightarrow { C N } | } { | \overrightarrow { C D } | } = \lambda ( 0 \leq s l a n t \lambda \leq s l a n t 1 )

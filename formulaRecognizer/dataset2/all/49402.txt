@@ -1,0 +1,1 @@
+\text { 点 } P \text { 在 直 线 } l _ { 2 } : y = \frac { b } { a } x

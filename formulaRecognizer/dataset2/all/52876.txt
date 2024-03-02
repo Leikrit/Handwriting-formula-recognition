@@ -1,0 +1,1 @@
+\text { 直 线 } l : x = t ( 0 < t < m ) \text { 与 抛 物 线 } Z \text { 的 交 点 为 }

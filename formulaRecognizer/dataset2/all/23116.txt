@@ -1,0 +1,1 @@
+\text { 判 断 动 直 线 } l : \frac { m + n } { 2 } x + ( m - n ) y = \frac { \sqrt { 3 } + 1 } { 2 } m +

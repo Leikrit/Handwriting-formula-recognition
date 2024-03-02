@@ -1,0 +1,1 @@
+\text { 且 } \cos ( \alpha + \beta ) = \sin ( \alpha - \beta )

@@ -1,0 +1,1 @@
+\frac { 1 } { a } + \frac { 1 } { b } > \frac { 2 } { \sqrt { a b } }

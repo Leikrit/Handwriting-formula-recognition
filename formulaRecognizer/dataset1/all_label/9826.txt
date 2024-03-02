@@ -1,0 +1,1 @@
+f ( x ) = \left| \frac { 2 } { x - 1 } - a \right| ( x > 1 , a > 0 ) , f ( x )

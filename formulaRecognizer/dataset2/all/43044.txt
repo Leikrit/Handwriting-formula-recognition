@@ -1,0 +1,1 @@
+\text { 存 在 } k \in ( 0 , 1 ) \text { 使 直 线 } y = k x

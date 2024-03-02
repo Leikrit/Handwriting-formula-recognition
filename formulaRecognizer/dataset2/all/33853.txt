@@ -1,0 +1,1 @@
+x _ { 1 } = - 2 \left[ 8 k ^ { 2 } / \left( 3 + 4 k ^ { 2 } \right) - 3 \right] - 3

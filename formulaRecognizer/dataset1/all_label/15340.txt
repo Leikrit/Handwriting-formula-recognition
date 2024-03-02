@@ -1,0 +1,1 @@
+\boldsymbol { a } = \left( \frac { 1 } { 2 } , 0 \right) , \boldsymbol { b } = ( \cos \alpha , \sin \alpha ) , \boldsymbol { c } = ( \cos \beta

@@ -1,0 +1,1 @@
+\sin \left( \alpha + \frac { \pi } { 3 } \right) + \sin \alpha = \frac { 4 \sqrt { 3 } } { 5 }

@@ -1,0 +1,1 @@
+\text { 将 直 线 } A B : y _ { M } x + x _ { M } y = 2 \text { 代 入 } x y = 1 \text { 得 } y _ { M } x ^ { 2 } -

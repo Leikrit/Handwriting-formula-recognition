@@ -1,0 +1,1 @@
+1 - x \leq s l a n t f ( x ) \leq s l a n t \frac { 1 } { 1 + x } \Leftrightarrow 1 - x \leq s l a n t \frac { 1 + x } { \mathrm { e } ^ { 2 x } } \leq s l a n t \frac { 1 } { 1 + x } \Leftrightarrow \frac { 1 - x } { 1 + x } \leq s l a n t \frac { 1 } { \mathrm { e } ^ { 2 x } } \leq s l a n t \frac { 1 } { ( 1 + x ) ^ { 2 } } .

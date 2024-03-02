@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 与 } g ( x ) \text { 的 图 象 在 } [ 0 , 2 \pi ] \text { 上 可 能 有 } 3 \text { 个 交 点 }

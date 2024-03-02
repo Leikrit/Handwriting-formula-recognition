@@ -1,0 +1,1 @@
+\text { “ } \boldsymbol { a } / / \boldsymbol { b } " \Rightarrow \text { “ } \frac { x _ { 1 } } { y _ { 1 } } = \frac { x _ { 2 } } { y _ { 2 } } \text { 或 } x _ { 1 } \neq 0 , \quad y _ { 1 } = 0 , \quad x _ { 2 } \neq 0 , \quad y _ { 2 } = 0 \text { ， }

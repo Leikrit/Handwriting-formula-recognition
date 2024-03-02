@@ -1,0 +1,1 @@
+\boldsymbol { d } = 4 \boldsymbol { e } _ { 1 } + 6 \boldsymbol { e } _ { 2 } + 8 \boldsymbol { e } _ { 3 }

@@ -1,0 +1,1 @@
+\overrightarrow { A B } \cdot \overrightarrow { O B } = 0

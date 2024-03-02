@@ -1,0 +1,1 @@
+\text { 且 } ( \boldsymbol { a } - \lambda \boldsymbol { b } ) \perp \boldsymbol { c }

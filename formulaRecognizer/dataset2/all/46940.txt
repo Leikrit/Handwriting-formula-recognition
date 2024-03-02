@@ -1,0 +1,1 @@
+\leq s l a n t \sqrt { a ^ { 2 } + b ^ { 2 } } ( | \sin ( x + \varphi ) | + | \cos ( x + \varphi ) | ) + 1

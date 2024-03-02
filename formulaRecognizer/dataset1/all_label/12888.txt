@@ -1,0 +1,1 @@
+y = \sqrt { x + 5 } \log _ { 2 } \left( 3 6 - x ^ { 2 } \right)

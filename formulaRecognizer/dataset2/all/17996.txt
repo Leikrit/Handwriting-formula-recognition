@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 \sin x + \sin 2 x \text { , 则 } f ( x ) \text { 的 最 小 值 是 }

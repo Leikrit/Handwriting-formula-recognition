@@ -1,0 +1,1 @@
+m x - y - 2 m - 1 = 0 ( m \in \mathbf { R } )

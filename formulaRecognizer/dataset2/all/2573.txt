@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \leq s l a n t f \left( \frac { \pi } { 4 } \right) \text { 对 任 意 的 实 数 } x \text { 都 成 立 }

@@ -1,0 +1,1 @@
+\text { 内 药 物 含 量 } x \text { ( 单 位 : } \mathrm { m g } \text { ) 与 给 药 时 间 } t \text { ( 单 位 : } \mathrm { h } \text { ) 近 似 满 足 }

@@ -1,0 +1,1 @@
+\overrightarrow { D E } = \lambda _ { 1 } \overrightarrow { A B } + \lambda _ { 2 } \overrightarrow { A C } \left( \lambda _ { 1 } , \lambda _ { 2 } \right.

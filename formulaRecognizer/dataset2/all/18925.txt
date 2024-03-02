@@ -1,0 +1,1 @@
+\text { 且 } \frac { | \boldsymbol { a } | } { | \boldsymbol { b } | } = \cos \theta

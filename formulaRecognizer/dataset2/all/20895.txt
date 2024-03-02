@@ -1,0 +1,1 @@
+k _ { 1 } = \left. \frac { 1 } { x } \right| _ { x = \frac { x _ { 1 } + x _ { 2 } } { 2 } } = \frac { 2 } { x _ { 1 } + x _ { 2 } }

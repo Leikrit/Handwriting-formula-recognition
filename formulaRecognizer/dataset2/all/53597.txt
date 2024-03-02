@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \ln x \text { 与 函 数 } g ( x ) = \mathrm { e } ^ { x } - m \text { 存 在 经 过 点 } ( 1 , 0 )

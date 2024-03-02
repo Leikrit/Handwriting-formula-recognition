@@ -1,0 +1,1 @@
+\text { 求 } \left( | x | + \frac { 1 } { | x | } - 2 \right) ^ { 3 } \text { 的 展 开 式 中 的 常 数 项 }

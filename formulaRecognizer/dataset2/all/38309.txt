@@ -1,0 +1,1 @@
+\text { 若 } m / / \alpha , m \subset \beta , \alpha \cap \beta = n \text { , 则 } m / / n

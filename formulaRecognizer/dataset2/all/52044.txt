@@ -1,0 +1,1 @@
+\text { 若 点 } M \text { 满 足 } \overrightarrow { O M } = \frac { 1 } { 2 } ( \overrightarrow { O P } + \overrightarrow { O F } )

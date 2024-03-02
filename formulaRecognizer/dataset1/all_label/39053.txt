@@ -1,0 +1,1 @@
+g ( x ) = 2 \sin x - x \cos x - ( a + 1 ) x

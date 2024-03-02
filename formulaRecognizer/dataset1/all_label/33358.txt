@@ -1,0 +1,1 @@
+f ( x ) - k x + 2 k - \mathrm { e } + 1 = 0

@@ -1,0 +1,1 @@
+| \boldsymbol { m } + \boldsymbol { n } | = \frac { 8 \sqrt { 2 } } { 5 }

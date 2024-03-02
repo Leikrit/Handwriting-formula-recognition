@@ -1,0 +1,1 @@
+n ^ { 2 } \left( n \geqslant 2 , n \in \mathbf { N } ^ { * } \right)

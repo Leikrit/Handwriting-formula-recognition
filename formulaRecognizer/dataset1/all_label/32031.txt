@@ -1,0 +1,1 @@
+\tan \ a n g l e A P F _ { 2 } = \tan \left( \ a n g l e P F _ { 2 } x - \ a n g l e P A F _ { 2 } \right) = \frac { \sqrt { 3 } - \frac { \sqrt { 3 } } { 6 } } { 1 + \sqrt { 3 } \cdot \frac { \sqrt { 3 } } { 6 } } = \frac { 5 } { 3 \sqrt { 3 } } .

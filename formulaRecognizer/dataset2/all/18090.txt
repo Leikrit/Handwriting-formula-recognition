@@ -1,0 +1,1 @@
+\text { 假 设 对 任 意 } n \geqslant 1 \text { 有 } a _ { n } > a _ { n - 1 }

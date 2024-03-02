@@ -1,0 +1,1 @@
+a \in \mathbf { R } \text { , 且 } a \neq 0

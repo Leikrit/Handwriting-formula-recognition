@@ -1,0 +1,1 @@
+\frac { 1 } { m n } + ( y + 1 ) ^ { 2 } = 0 \Rightarrow y = 1 \text { 或 } y = - 3

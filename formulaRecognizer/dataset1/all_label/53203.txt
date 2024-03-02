@@ -1,0 +1,1 @@
+a _ { 1 } = 1 , a _ { n + 1 } = \ln \left( a _ { n } + 1 \right)

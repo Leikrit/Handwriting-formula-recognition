@@ -1,0 +1,1 @@
+A = \{ x \mid x ( x - 1 ) \leq s l a n t 0 \}

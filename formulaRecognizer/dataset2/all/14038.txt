@@ -1,0 +1,1 @@
+\text { 证 明 : } \o p e r a t o r n a m e { t g } 2 2 ^ { \circ } 3 0 ^ { \prime } = \sqrt { 2 } - 1

@@ -1,0 +1,1 @@
+\forall A , B , C \in S _ { n }

@@ -1,0 +1,1 @@
+B ( \sin \theta , 1 )

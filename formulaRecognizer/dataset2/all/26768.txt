@@ -1,0 +1,1 @@
+\text { “ } x = \frac { \pi } { 6 } \text { ” 是 “ } \sin x = \frac { 1 } { 2 } \text { ” 的 必 要 不 充 分 条 件 }

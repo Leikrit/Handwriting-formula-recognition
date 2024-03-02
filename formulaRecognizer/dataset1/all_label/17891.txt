@@ -1,0 +1,1 @@
+( - \infty , - \sqrt { 3 } ) \cup ( \sqrt { 3 } , + \infty )

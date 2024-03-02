@@ -1,0 +1,1 @@
+\overrightarrow { A M } = \lambda \overrightarrow { A B } , \overrightarrow { A N } = \mu \overrightarrow { A C } ( \lambda > 0 , \mu > 0 )

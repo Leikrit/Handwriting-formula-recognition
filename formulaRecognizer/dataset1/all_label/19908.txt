@@ -1,0 +1,1 @@
+f ( x ) = \sin \frac { x + \varphi } { 3 } ( \varphi \in [ 0 , 2 \pi ] )

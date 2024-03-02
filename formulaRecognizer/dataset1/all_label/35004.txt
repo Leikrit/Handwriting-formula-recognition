@@ -1,0 +1,1 @@
+\sqrt { 2 } \sin \frac { x _ { n } } { y _ { n } }

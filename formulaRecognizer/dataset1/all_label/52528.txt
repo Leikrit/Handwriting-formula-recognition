@@ -1,0 +1,1 @@
+f ( x ) > 0 \Leftrightarrow f ( x ) _ { \min } > 0

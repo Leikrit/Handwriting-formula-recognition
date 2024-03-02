@@ -1,0 +1,1 @@
+\l g \frac { a + b } { 2 } < \frac { \l g a + \l g b } { 2 }

@@ -1,0 +1,1 @@
+y = \sin ^ { 2 } x + 2 \sin x \cos x + 3 \cos ^ { 2 } x

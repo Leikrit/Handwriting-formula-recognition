@@ -1,0 +1,1 @@
+f ( x ) = x \ln x + p x ^ { 2 } - p x \leq s l a n t 0

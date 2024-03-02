@@ -1,0 +1,1 @@
+f ( x ) = a x + b \ln \left( \sqrt { 1 + 4 x ^ { 2 } } + 2 x \right) + c ( a , b , c

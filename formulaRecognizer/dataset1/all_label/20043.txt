@@ -1,0 +1,1 @@
+k \boldsymbol { a } - \boldsymbol { b }

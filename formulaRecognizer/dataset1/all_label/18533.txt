@@ -1,0 +1,1 @@
+\sqrt { 2 5 - 1 0 x } = \sqrt { 3 } \cdot \sqrt { x ^ { 4 } ( 2 5 - 1 0 x ) } = \sqrt { 3 } \cdot \sqrt { x \cdot x \cdot x \cdot x \cdot \frac { 5 } { 2 } ( 1 0 - 4 x ) } \leq s l a n t 4 \sqrt { 1 5 }

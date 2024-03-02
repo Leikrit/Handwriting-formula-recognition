@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \text { 在 } x = x _ { 1 } , x _ { 2 } \left( x _ { 1 } \neq x _ { 2 } \right) \text { 处 导 数 相 等 }

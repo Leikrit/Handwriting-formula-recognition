@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin ( \omega x + \varphi ) \text { 图 象 的 两 个 对 称 中 心 为 } \left( \frac { \pi } { 6 } , 0 \right) , \left( \frac { \pi } { 2 } , 0 \right)

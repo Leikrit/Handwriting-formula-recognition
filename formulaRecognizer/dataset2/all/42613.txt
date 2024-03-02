@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } b c \sin \frac { 2 \pi } { 3 } = \frac { 1 } { 2 } c \cdot A E \cdot \sin \frac { \pi } { 3 } + \frac { 1 } { 2 } b \cdot A E \cdot \sin \frac { \pi } { 3 }

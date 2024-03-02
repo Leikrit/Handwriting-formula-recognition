@@ -1,0 +1,1 @@
+\text { 则 } H G = C H - C G = 4 \sin \theta - 3 \cos \theta

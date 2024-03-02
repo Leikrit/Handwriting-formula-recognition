@@ -1,0 +1,1 @@
+\text { 不 等 式 } f ( x ) \geqslant ( 2 a + 1 ) x - x \ln ( x + 1 )

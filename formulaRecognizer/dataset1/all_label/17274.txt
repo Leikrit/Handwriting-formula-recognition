@@ -1,0 +1,1 @@
+N \left( \frac { x _ { 1 } + y _ { 1 } } { 2 } , \frac { x _ { 1 } + y _ { 1 } } { 2 } \right)

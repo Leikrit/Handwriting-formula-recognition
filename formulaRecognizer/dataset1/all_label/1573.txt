@@ -1,0 +1,1 @@
+f ( x ) = \frac { \cos ^ { 2 } x } { \cos x \sin x - \sin ^ { 2 } x }

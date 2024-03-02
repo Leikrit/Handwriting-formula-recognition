@@ -1,0 +1,1 @@
+\text { 已 知 曲 线 } C : \frac { x ^ { 2 } } { 4 + m } + \frac { y ^ { 2 } } { 1 + m } = 1 ( m \neq - 1 \text { , 且 } m \neq - 4 )

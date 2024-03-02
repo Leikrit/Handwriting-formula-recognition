@@ -1,0 +1,1 @@
+\left\{ x \mid x = \frac { k } { 4 } \times 1 8 0 ^ { \circ } + 4 5 ^ { \circ } , k \in \mathbf { Z } \right\}

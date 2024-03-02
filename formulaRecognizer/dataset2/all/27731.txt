@@ -1,0 +1,1 @@
+\text { 过 抛 物 线 } y ^ { 2 } = 2 p x ( p > 0 ) \text { 上 一 定 点 } P \left( x _ { 0 } , y _ { 0 } \right)

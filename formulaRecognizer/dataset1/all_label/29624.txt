@@ -1,0 +1,1 @@
+\text { 若 } A _ { 1 } \text { 恰 是 双 曲 线 的 一 个 顶 点 , 求 } \left| A _ { 2 } B _ { 2 } \right| \text { 的 值 }

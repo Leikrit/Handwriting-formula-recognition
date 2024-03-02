@@ -1,0 +1,1 @@
+\text { 点 } Q \text { 满 足 } \overrightarrow { D Q } = \frac { 1 } { 2 } \overrightarrow { C P }

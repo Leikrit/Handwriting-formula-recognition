@@ -1,0 +1,1 @@
+\text { 则 } \frac { b \cdot c } { | b | \cdot | c | } \text { 的 最 小 值 是 }

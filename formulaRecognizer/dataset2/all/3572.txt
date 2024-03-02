@@ -1,0 +1,1 @@
+\text { 已 知 } 1 - \cos ( \pi - \alpha ) = 2 \sin \alpha

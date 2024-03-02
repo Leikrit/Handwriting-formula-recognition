@@ -1,0 +1,1 @@
+\text { 二 项 式 } \left( \frac { 1 } { x ^ { 2 } } - x \right) ^ { 6 } \text { 的 展 开 式 中 }

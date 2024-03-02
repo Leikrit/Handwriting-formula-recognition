@@ -1,0 +1,1 @@
+\text { 对 任 意 正 数 } a , b \text { 满 足 } a + b = m

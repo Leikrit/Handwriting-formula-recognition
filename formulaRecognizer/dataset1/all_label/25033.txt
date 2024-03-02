@@ -1,0 +1,1 @@
+f ( x ) \geqslant \log _ { 2 } ( x + 1 )

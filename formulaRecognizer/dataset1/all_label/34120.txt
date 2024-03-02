@@ -1,0 +1,1 @@
+\frac { 9 } { 5 } \left[ 1 - \left( \frac { 4 } { 9 } \right) ^ { n } \right]

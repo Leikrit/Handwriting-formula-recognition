@@ -1,0 +1,1 @@
+\overrightarrow { C E } = \frac { 1 } { 3 } \overrightarrow { A B } + \mu \overrightarrow { A C }

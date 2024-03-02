@@ -1,0 +1,1 @@
+\frac { \cot \theta - 1 } { 2 \cot \theta + 1 } = 1

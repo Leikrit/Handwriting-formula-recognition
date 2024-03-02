@@ -1,0 +1,1 @@
+f ( x ) = \l g \frac { 1 + 2 ^ { x } + \cdots + ( n - 1 ) ^ { x } + n ^ { x } a } { n }

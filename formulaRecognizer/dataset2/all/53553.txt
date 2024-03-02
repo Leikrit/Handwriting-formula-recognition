@@ -1,0 +1,1 @@
+\ln \left( \sqrt { x ^ { 2 } + a } + x \right) \text { 是 偶 函 数 }

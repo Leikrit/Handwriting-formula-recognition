@@ -1,0 +1,1 @@
+| \overrightarrow { P A } - \overrightarrow { P B } | = | \overrightarrow { P A } + \overrightarrow { P B } - 2 \overrightarrow { P C } |

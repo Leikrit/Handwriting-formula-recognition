@@ -1,0 +1,1 @@
+g ( x ) \text { 与 } g ^ { \prime } ( x ) \text { 在 } ( - \infty , + \infty ) \text { 上 的 变 化 情 况 如 下 }

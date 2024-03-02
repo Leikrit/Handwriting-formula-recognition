@@ -1,0 +1,1 @@
+\rho \sin \left( \theta - \frac { \pi } { 6 } \right) = \frac { \sqrt { 3 } } { 2 }

@@ -1,0 +1,1 @@
+\text { 已 知 } ( 2 x + y ) + ( 2 y - x ) \mathrm { i } = \left( x + \frac { 1 } { 2 } \right) + \left( y - \frac { 1 } { 2 } \right) \mathrm { i } ( \mathrm { i } \text { 为 虚 数 单 位 } )

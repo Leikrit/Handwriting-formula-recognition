@@ -1,0 +1,1 @@
+\sin ( x + \varphi ) = \frac { 2 y + 1 } { \sqrt { 1 + y ^ { 2 } } }

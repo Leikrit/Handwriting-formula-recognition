@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 \sin x + \frac { \cos 2 x } { \sin x + \cos x }

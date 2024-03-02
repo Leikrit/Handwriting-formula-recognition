@@ -1,0 +1,1 @@
+\text { 则 称 新 数 列 } a _ { i _ { 1 } } , a _ { i _ { 2 } } , \cdots , a _ { i _ { m } } \text { 为 } \left\{ a _ { n } \right\} \text { 的 长 度 为 } m \text { 的 递 增 子 列 }

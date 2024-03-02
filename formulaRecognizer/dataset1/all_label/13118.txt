@@ -1,0 +1,1 @@
+\tan ( \pi + 2 \alpha ) = - \frac { 4 } { 3 }

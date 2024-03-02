@@ -1,0 +1,1 @@
+\text { 集 合 } B = \left\{ x \mid x ^ { 2 } + 2 < 2 x - \right.

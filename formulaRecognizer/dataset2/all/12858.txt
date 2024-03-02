@@ -1,0 +1,1 @@
+d = \sqrt { a ^ { 2 } + b ^ { 2 } } \leq s l a n t | O A | + r = \sqrt { 2 } + \sqrt { 3 }

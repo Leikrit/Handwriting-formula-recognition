@@ -1,0 +1,1 @@
+3 | P A | + 5 \left| P F _ { 1 } \right| \text { 的 最 小 值 }

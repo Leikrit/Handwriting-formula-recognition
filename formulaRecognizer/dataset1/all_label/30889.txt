@@ -1,0 +1,1 @@
+f ( x ) = \frac { a } { x } + x + ( a - 1 ) \ln x + 1 5 a

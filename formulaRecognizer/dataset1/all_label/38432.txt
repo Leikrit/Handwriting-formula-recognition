@@ -1,0 +1,1 @@
+z \bar { z } - 3 \mathrm { i } \bar { z } = 1 + 3 \mathrm { i }

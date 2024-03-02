@@ -1,0 +1,1 @@
+h ( x ) _ { \min } = h ( - \ln k ) = - \ln ^ { 2 } k + 2 \ln k \geqslant 0 \Rightarrow 1 \leq s l a n t k \leq s l a n t

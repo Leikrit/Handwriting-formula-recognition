@@ -1,0 +1,1 @@
+\overrightarrow { O A } + 2 \overrightarrow { O B } + 3 \overrightarrow { O C } = \mathbf { 0 }

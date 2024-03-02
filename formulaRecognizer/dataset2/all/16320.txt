@@ -1,0 +1,1 @@
+( \overrightarrow { A D } \cdot \overrightarrow { A F } ) \overrightarrow { E F } = \overrightarrow { A D } ( \overrightarrow { A F } \cdot \overrightarrow { E F } )

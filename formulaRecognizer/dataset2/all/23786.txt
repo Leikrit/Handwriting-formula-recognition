@@ -1,0 +1,1 @@
+\text { 设 } A , B \text { 是 椭 圆 } C : \frac { x ^ { 2 } } { 3 } + \frac { y ^ { 2 } } { m } = 1 \text { 长 轴 的 两 个 端 点 }

@@ -1,0 +1,1 @@
+\frac { 5 \pi } { 4 } \text { 是 函 数 } f ( x ) = \sin ( \omega x + \varphi ) \text { 图 象 的 两 条 相 邻 的 对 称 轴 }

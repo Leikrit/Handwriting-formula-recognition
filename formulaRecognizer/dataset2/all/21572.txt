@@ -1,0 +1,1 @@
+= - 2 + \sqrt { 2 } + 0 + \overrightarrow { B E } \cdot \overrightarrow { A F } = - 2 + \sqrt { 2 } + \overrightarrow { B E } \cdot ( \overrightarrow { A B } + \overrightarrow { B C } + \overrightarrow { C F } )

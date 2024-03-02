@@ -1,0 +1,1 @@
+f ( x ) = \left| x ^ { 3 } + a x + b \right| ( a , b \in \mathbf { R } )

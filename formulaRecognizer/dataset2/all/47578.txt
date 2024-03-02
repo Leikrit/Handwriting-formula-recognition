@@ -1,0 +1,1 @@
+\text { 当 } a \leq s l a n t 0 \text { 时 , } g ( x ) \text { 在 } \mathbf { R } \text { 上 单 调 递 增 }

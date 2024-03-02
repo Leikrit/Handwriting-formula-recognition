@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( \tan \theta , - 1 ) , \boldsymbol { b } = ( 1 , - 2 )

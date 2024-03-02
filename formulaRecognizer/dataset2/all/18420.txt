@@ -1,0 +1,1 @@
+\frac { 3 } { 2 } [ \cos ( 2 \omega x ) - 1 ] \text { 在 区 间 } \left[ - \frac { \pi } { 4 } , \frac { \pi } { 6 } \right] \text { 上 的 最 小 值 为 } - 3

@@ -1,0 +1,1 @@
+a _ { n } < \frac { 2 b } { 2 + b \left( \log _ { 2 } n \right) } , n = 3 , 4 , 5 , \cdots

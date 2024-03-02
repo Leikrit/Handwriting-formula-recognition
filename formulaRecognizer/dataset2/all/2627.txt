@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = a \left( \frac { 1 } { x } - 1 \right) - \ln x

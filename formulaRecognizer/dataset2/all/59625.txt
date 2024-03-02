@@ -1,0 +1,1 @@
+\frac { \left| \frac { 3 } { 2 } m - 4 m \right| } { \sqrt { 1 + m ^ { 2 } } } = \frac { 3 } { 2 }

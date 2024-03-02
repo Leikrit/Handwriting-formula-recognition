@@ -1,0 +1,1 @@
+( \overrightarrow { A B } + \overrightarrow { B E } ) \cdot ( \overrightarrow { A D } + \overrightarrow { D F } ) = \left( \overrightarrow { A B } + \frac { 1 } { 3 } \overrightarrow { B C } \right) \cdot \left( \overrightarrow { B C } + \frac { 1 } { \lambda } \overrightarrow { A B } \right) = 1

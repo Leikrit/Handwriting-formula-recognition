@@ -1,0 +1,1 @@
+\alpha \bigcap \beta = m

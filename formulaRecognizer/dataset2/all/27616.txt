@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) \text { 在 区 间 } ( 0 , + \infty ) \text { 内 的 最 小 值 为 } 1

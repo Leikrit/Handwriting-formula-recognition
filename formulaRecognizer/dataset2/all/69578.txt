@@ -1,0 +1,1 @@
+\frac { \cos 2 \alpha } { \sin \left( \alpha - \frac { \pi } { 4 } \right) } = - \frac { \sqrt { 2 } } { 2 }

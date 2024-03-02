@@ -1,0 +1,1 @@
+\text { 设 向 量 } \boldsymbol { a } = ( m + 1 , - 4 )

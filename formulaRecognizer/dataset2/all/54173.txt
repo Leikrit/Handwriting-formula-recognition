@@ -1,0 +1,1 @@
+y = \cos \left( 2 x + \frac { 2 \pi } { 3 } \right)

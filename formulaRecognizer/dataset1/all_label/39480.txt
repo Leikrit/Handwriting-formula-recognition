@@ -1,0 +1,1 @@
+y = c \cdot \mathrm { e } ^ { d x }

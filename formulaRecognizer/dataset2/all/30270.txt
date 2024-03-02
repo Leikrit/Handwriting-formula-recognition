@@ -1,0 +1,1 @@
+\text { 当 } \tan A = 4 , \tan B = 2 + \sqrt { 2 } , \tan C = 2 - \sqrt { 2 } \text { 时 可 以 取 得 等 号 }

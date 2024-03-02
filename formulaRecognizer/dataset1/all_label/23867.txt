@@ -1,0 +1,1 @@
+g ( x ) = \mathrm { e } ^ { x } - \sqrt { \mathrm { e } } x - a ( a \in \mathbf { R } , \mathrm { e }

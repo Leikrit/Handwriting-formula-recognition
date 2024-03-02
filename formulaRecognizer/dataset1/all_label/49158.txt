@@ -1,0 +1,1 @@
+\left\{ \ln a _ { 2 n - 1 } \right\}

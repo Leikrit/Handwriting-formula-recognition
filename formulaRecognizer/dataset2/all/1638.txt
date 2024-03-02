@@ -1,0 +1,1 @@
+\cos x ( x \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \left( \frac { 2 b } { c } + 1 \right) - \frac { 1 } { 2 } \geqslant \sqrt { 2 } - \frac { 1 } { 2 }

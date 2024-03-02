@@ -1,0 +1,1 @@
+\text { 所 以 } g ( x ) \text { 在 } \left[ 0 , \frac { \pi } { 2 } \right] \text { 有 } 2 \text { 个 零 点 }

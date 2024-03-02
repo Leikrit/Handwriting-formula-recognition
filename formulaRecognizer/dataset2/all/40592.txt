@@ -1,0 +1,1 @@
+\text { 函 数 } y = x \cos x - \sin x \text { 在 下 面 哪 个 区 间 内 是 }

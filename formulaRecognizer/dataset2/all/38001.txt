@@ -1,0 +1,1 @@
+\sqrt { a _ { 3 } - a _ { 2 } } + \cdots + \sqrt { a _ { n + 1 } - a _ { n } } = 2 n + \lambda ( \lambda \text { 是 常 数 } )

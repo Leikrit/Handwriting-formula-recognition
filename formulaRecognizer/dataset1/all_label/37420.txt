@@ -1,0 +1,1 @@
+\ a n g l e A _ { 1 } P B = \frac { 2 \pi } { 3 }

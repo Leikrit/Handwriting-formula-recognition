@@ -1,0 +1,1 @@
+\left( - \infty , - \frac { 1 } { 2 } \right) \cup \left[ \frac { 1 } { 2 } , + \infty \right)

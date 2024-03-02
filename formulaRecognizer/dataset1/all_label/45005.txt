@@ -1,0 +1,1 @@
+\left( \frac { 4 - \sqrt { 7 } } { 3 } , \frac { 4 + \sqrt { 7 } } { 3 } \right)

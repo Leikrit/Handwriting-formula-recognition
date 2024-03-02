@@ -1,0 +1,1 @@
+| x - y | + \frac { 1 } { x } + y ^ { 2 } \geqslant x - y + \frac { 1 } { x } + y ^ { 2 }

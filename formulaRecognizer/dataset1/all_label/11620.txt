@@ -1,0 +1,1 @@
+f ( x ) = \log _ { 2 } x - 3 \sin \left( \frac { \pi } { 2 } x \right)

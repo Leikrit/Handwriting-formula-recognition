@@ -1,0 +1,1 @@
+f ( x ) = A \sin ^ { 2 } ( \omega x + \varphi ) ( A > 0 , \omega >

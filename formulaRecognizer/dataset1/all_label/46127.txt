@@ -1,0 +1,1 @@
+f ( x ) = \cos \left( 3 x + \frac { \pi } { 6 } \right)

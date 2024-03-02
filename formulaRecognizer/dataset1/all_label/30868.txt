@@ -1,0 +1,1 @@
+R _ { 0 } = 1 + \lambda T _ { g } + \rho ( 1 - \rho ) \left( \lambda T _ { g } \right) ^ { 2 }

@@ -1,0 +1,1 @@
+\text { 从 而 } A T = \frac { ( b + c ) ^ { 2 } - 1 6 } { b + c } = t - \frac { 1 6 } { t } \text { 在 } \left( 4 , \frac { 8 \sqrt { 3 } } { 3 } \right) \text { 上 }

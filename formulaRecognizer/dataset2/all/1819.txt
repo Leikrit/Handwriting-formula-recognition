@@ -1,0 +1,1 @@
+\text { 若 } E \left( X _ { 1 } \right) = E \left( X _ { 2 } \right)

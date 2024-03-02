@@ -1,0 +1,1 @@
+\text { 二 是 考 虑 将 } a _ { n } \text { 直 接 代 换 为 } S _ { n } - S _ { n - 1 } ( n \geqslant 2 )

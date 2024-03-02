@@ -1,0 +1,1 @@
+y = \frac { | ( \cos \alpha + \sqrt { 2 } \sin \alpha ) x - \sqrt { 2 } | } { \sqrt { x ^ { 2 } - 2 \sqrt { 2 } x \cos \alpha + 2 } }

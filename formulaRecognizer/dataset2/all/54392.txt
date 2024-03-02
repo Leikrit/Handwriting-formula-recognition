@@ -1,0 +1,1 @@
+\text { 若 函 数 } g ( x ) = \mathrm { e } ^ { 2 } f ( x ) - 2 a ^ { 2 } \text { 有 且 仅 有 } 3 \text { 个 零 点 }

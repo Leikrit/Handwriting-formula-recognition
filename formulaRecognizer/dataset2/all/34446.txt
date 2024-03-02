@@ -1,0 +1,1 @@
+\text { 位 : 人 , } a \in \mathbf { N } ^ { * } \text { ) 时 }

@@ -1,0 +1,1 @@
+f ( x ) \text { 的 对 称 中 心 的 坐 标 是 } \left( \frac { k \pi } { 2 } - \frac { \pi } { 6 } , 0 \right) ( k \in \mathbf { Z } )

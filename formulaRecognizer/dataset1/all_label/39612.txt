@@ -1,0 +1,1 @@
+\left. \mathrm { e } ^ { x } + x \right) = \mathrm { e }

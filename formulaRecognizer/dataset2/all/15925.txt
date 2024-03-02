@@ -1,0 +1,1 @@
+P _ { i } < P _ { i + 1 } ( 2 \leq s l a n t i \leq s l a n t n + 1 )

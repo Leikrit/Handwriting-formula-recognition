@@ -1,0 +1,1 @@
+\int _ { - \frac { \pi } { 2 } } ^ { \frac { \pi } { 2 } } ( 1 + \cos x ) \mathrm { d } x

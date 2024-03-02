@@ -1,0 +1,1 @@
+\overrightarrow { G A } + \overrightarrow { G B } + \overrightarrow { G C } = \mathbf { 0 }

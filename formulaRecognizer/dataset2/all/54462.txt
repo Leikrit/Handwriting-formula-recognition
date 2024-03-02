@@ -1,0 +1,1 @@
+\frac { | P Q | } { | Q M | } = \frac { a } { c } \text { 为 定 值 }

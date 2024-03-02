@@ -1,0 +1,1 @@
+\text { 集 合 } S = \{ a + b \mathrm { i } \mid a , b \text { 为 整 数 , } \mathrm { i } \text { 为 虚 数 单 位 } \}

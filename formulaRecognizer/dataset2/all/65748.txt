@@ -1,0 +1,1 @@
+\text { 图 像 } C \text { 可 由 函 数 } g ( x ) = \sin 2 x \text { 的 图 像 向 左 平 移 } \frac { 2 \pi } { 3 }

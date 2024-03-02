@@ -1,0 +1,1 @@
+1 \leftarrow 6 \rightarrow 1 2 1 2 1

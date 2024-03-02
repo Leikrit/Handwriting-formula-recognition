@@ -1,0 +1,1 @@
+\frac { 8 } { 3 } c ^ { 2 } + \frac { 2 } { 3 } = \frac { 8 } { 3 } \left( a ^ { 2 } + \frac { 1 } { 1 6 a ^ { 2 } } - \frac { 1 } { 2 } \right) + \frac { 2 } { 3 } = 2

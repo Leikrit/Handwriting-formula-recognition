@@ -1,0 +1,1 @@
+\text { 下 列 } n \text { 的 取 值 中 , 使 } \mathrm { i } ^ { n } = 1 \text { ( } \mathrm { i } \text { 是 虚 数 单 位 ) 的 是 }

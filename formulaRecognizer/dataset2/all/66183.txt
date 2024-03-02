@@ -1,0 +1,1 @@
+\text { 函 数 } y = \left| x ^ { 2 } - 2 x - t \right| \text { 在 区 间 }

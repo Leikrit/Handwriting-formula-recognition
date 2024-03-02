@@ -1,0 +1,1 @@
+g ( x ) = \frac { 1 } { 2 } x ^ { 2 } \ln x + \frac { x + m + 1 } { \mathrm { e } ^ { x - 1 } } - \frac { 1 } { 4 } x ^ { 2 } + x

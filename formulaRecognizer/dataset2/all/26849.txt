@@ -1,0 +1,1 @@
+\text { 直 线 } y = x - 1 \text { 与 其 相 交 于 } M , N \text { 两 点 }

@@ -1,0 +1,1 @@
+p \left( x _ { i } \right) > 0 ( i = 1 , 2 , \cdots , n )

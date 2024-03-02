@@ -1,0 +1,1 @@
+h ( x ) \text { 取 最 大 值 } h ( \sqrt { \mathrm { e } } ) = \frac { \mathrm { e } } { 2 }

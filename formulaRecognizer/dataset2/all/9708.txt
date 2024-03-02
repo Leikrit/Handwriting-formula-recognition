@@ -1,0 +1,1 @@
+\text { 则 } \frac { 2 \sin \alpha + \cos \alpha } { 2 \cos \alpha - 3 \sin \alpha } \text { 的 值 是 }

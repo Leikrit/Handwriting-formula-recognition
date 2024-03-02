@@ -1,0 +1,1 @@
+z = ( 1 + \mathrm { i } ) ^ { 2 } ( a - 2 \mathrm { i } ) ( a \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\boldsymbol { e } _ { 2 } = \left( \frac { 1 } { 2 } , - \frac { 3 } { 4 } \right) \text { 不 能 作 为 平 面 内 所 }

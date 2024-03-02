@@ -1,0 +1,1 @@
+\text { 当 } \frac { m x ^ { 2 } } { \mathrm { e } ^ { x } } \geqslant f ( x ) + \frac { 1 - \mathrm { e } } { \mathrm { e } } x ( m < 0 ) \text { 恒 成 立 时 }

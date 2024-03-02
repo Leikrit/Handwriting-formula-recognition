@@ -1,0 +1,1 @@
+\text { 平 面 上 的 点 } N \text { 满 足 } \overrightarrow { M N } = \overrightarrow { M F _ { 1 } } + \overrightarrow { M F _ { 2 } }

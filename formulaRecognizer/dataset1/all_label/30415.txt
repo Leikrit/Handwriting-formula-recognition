@@ -1,0 +1,1 @@
+\cos ( \alpha + \beta ) = - \frac { \sqrt { 5 } } { 5 }

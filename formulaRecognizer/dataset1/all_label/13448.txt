@@ -1,0 +1,1 @@
+\frac { 1 } { x _ { 1 } ^ { 2 } } + \frac { 1 } { x _ { 2 } ^ { 2 } } + \cdots + \frac { 1 } { x _ { n } ^ { 2 } } < \frac { 4 } { \pi ^ { 2 } } + \frac { 1 } { \pi ^ { 2 } } \left[ 1 + \frac { 1 } { 4 } + \frac { 1 } { 9 } + \cdots + \frac { 1 } { ( n - 1 ) ^ { 2 } } \right]

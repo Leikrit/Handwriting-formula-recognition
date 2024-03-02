@@ -1,0 +1,1 @@
+\overrightarrow { A D } = \frac { 1 } { 4 } \overrightarrow { A C } + \lambda \overrightarrow { A B } ( \lambda \in \mathbf { R } )

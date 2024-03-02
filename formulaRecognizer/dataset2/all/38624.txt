@@ -1,0 +1,1 @@
+\text { 于 是 } g ( x ) _ { \min } > g ( 0 ) = 1 - 1 = 0 \geqslant 0

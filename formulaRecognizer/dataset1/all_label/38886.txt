@@ -1,0 +1,1 @@
+f ( \l g 2 ) + f \left( \l g \frac { 1 } { 2 } \right) =

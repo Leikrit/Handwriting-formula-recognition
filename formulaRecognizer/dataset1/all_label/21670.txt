@@ -1,0 +1,1 @@
+b _ { i } \leq s l a n t a _ { i } < b _ { i + 1 }

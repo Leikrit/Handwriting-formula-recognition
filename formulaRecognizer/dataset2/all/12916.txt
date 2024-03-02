@@ -1,0 +1,1 @@
+\frac { y _ { 0 } - b } { x _ { 0 } - a } = \frac { B } { A } ( A \neq 0 )

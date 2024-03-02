@@ -1,0 +1,1 @@
+= \frac { 4 } { \left| x _ { E } \right| } \frac { 2 \left| x _ { E } \right| } { x _ { E } ^ { 2 } - 4 y _ { E } ^ { 2 } } = 2 \text { . }

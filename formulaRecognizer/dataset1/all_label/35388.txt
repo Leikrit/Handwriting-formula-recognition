@@ -1,0 +1,1 @@
+\lambda _ { 1 } + \lambda _ { 2 } = \frac { 2 c m t } { - b ^ { 2 } } - 2 = \frac { 2 c ^ { 2 } } { - b ^ { 2 } } - 2 = - \frac { 2 a ^ { 2 } } { b ^ { 2 } }

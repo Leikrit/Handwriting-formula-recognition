@@ -1,0 +1,1 @@
+f ( x ) = \frac { \sqrt { 3 - a x } } { a - 1 } ( a \neq 1 )

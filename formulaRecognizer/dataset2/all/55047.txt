@@ -1,0 +1,1 @@
+\text { 恒 有 } x ^ { 2 } < c \mathrm { e } ^ { x }

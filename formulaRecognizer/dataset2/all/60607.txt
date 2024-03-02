@@ -1,0 +1,1 @@
+\text { 点 } P \left( - \frac { 2 \sqrt { 6 } } { 3 } , \frac { \sqrt { 3 } } { 3 } \right) \text { 满 足 } \left| P F _ { 1 } \right| + \left| P F _ { 2 } \right| = 2 a

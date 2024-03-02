@@ -1,0 +1,1 @@
+\text { 求 } \omega ^ { 2 } + \omega + 1 \text { 的 值 }

@@ -1,0 +1,1 @@
+M \left( t , \mathrm { e } ^ { - t } \right)

@@ -1,0 +1,1 @@
+a _ { n } = f \left( b _ { n } \right) = g \left( b _ { n + 1 } \right) \left( n \in \mathbf { N } ^ { * } \right)

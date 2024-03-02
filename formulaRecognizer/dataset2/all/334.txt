@@ -1,0 +1,1 @@
+A , C \text { 两 点 的 球 面 距 离 为 } \frac { \sqrt { 3 } } { 3 } \pi

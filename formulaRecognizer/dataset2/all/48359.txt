@@ -1,0 +1,1 @@
+\text { 曲 线 } C \text { 的 方 程 为 } \rho + 4 \cos \left( \frac { \pi } { 2 } - \theta \right) = 0

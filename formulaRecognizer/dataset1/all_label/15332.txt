@@ -1,0 +1,1 @@
+y = \ln \cos x \left( - \frac { \pi } { 2 } < x < \frac { \pi } { 2 } \right)

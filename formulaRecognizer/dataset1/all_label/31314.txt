@@ -1,0 +1,1 @@
+\left| \log _ { 4 } ( - x ) \right|

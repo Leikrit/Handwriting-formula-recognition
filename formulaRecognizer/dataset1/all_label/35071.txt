@@ -1,0 +1,1 @@
+\left( \frac { \ln 4 } { 3 } , + \infty \right)

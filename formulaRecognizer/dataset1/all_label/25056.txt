@@ -1,0 +1,1 @@
+B = \{ x \mid 0 < x \leq s l a n t 4 \}

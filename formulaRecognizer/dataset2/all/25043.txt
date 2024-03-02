@@ -1,0 +1,1 @@
+\text { 则 称 } A \text { 对 运 算 } \oplus \text { 封 闭 }

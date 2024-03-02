@@ -1,0 +1,1 @@
+\Omega \left( \sum _ { i = 1 } ^ { 2 n + 1 } b _ { i } \right)

@@ -1,0 +1,1 @@
+y _ { M } \in \left( 0 , \frac { 2 } { x _ { 0 } } \right)

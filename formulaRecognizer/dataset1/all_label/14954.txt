@@ -1,0 +1,1 @@
+\frac { \sin 2 x + 2 \sin ^ { 2 } x } { 1 - \tan x } =

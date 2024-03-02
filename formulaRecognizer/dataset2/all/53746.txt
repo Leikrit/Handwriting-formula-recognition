@@ -1,0 +1,1 @@
+\text { 若 } \lim _ { x \rightarrow 1 } \frac { f ( x - 1 ) } { x - 1 } = 1

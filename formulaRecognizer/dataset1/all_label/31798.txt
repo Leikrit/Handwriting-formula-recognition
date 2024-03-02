@@ -1,0 +1,1 @@
+A = \left\{ x \mid y = \left( - 2 x ^ { 2 } + 3 x + 2 \right) ^ { - \frac { 1 } { 2 } } \right\} , B = \{ y \mid y \geqslant 1 \}

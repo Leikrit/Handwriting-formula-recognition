@@ -1,0 +1,1 @@
+\text { 可 得 } \ln x _ { 1 } + \ln x _ { 2 } = k \left( x _ { 1 } + x _ { 2 } \right)

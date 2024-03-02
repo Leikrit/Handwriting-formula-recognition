@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } M = \{ ( x , y ) \mid \l g ( x - y ) = \l g ( 2 x ) \}

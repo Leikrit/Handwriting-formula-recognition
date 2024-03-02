@@ -1,0 +1,1 @@
+\ne g p : \forall x \in \mathbf { R } , x ^ { 2 } -

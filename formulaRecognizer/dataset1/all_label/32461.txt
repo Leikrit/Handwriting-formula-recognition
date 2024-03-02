@@ -1,0 +1,1 @@
+\tan \frac { \theta } { 2 } = \tan \ a n g l e O P M = \frac { O M } { P M } = \frac { \sqrt { 2 } } { \sqrt { 1 0 - 2 } } = \frac { 1 } { 2 }

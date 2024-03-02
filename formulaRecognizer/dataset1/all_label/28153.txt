@@ -1,0 +1,1 @@
+y = \frac { 4 } { \mathrm { e } ^ { x } + 1 }

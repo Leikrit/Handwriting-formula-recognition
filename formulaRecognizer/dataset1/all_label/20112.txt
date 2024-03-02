@@ -1,0 +1,1 @@
+f ( 2 a - 1 ) \geqslant f ( 1 )

@@ -1,0 +1,1 @@
+\text { 设 集 合 } U = \{ ( x , y ) \mid x \in \mathbf { R } , y \in \mathbf { R } \}

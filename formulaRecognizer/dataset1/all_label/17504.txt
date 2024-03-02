@@ -1,0 +1,1 @@
+y = x \tan \left( - 3 0 ^ { \circ } \right)

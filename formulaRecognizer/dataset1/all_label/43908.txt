@@ -1,0 +1,1 @@
+= \frac { \sin A } { \cos A } - \frac { 1 } { 2 \sin A \cos A } = \frac { 2 \sin ^ { 2 } A - 1 } { 2 \sin A \cos A }

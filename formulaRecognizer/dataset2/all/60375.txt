@@ -1,0 +1,1 @@
+\text { 函 数 } y = 2 \sin \left( \frac { \pi } { 3 } - x \right) - \cos \left( \frac { \pi } { 6 } + x \right) ( x \in \mathbf { R } ) \text { 的 最 小 }

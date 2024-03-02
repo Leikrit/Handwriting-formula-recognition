@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 的 通 项 公 式 为 } a _ { n } = 2 6 - 2 n

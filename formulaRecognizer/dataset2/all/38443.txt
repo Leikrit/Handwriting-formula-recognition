@@ -1,0 +1,1 @@
+\text { 并 且 } S _ { 1 } , S _ { 2 } , \cdots , S _ { n } , \cdots \text { 是 一 个 等 比 }

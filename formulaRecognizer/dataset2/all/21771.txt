@@ -1,0 +1,1 @@
+\frac { S } { 4 } \sqrt { \frac { S } { \pi } }

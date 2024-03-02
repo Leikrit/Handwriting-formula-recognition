@@ -1,0 +1,1 @@
+\rho = \frac { 8 \sin \theta } { \cos ^ { 2 } \theta }

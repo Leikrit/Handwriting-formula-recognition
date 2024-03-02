@@ -1,0 +1,1 @@
+\text { 集 合 } B = \left\{ x \mid 1 \leq s l a n t 2 ^ { x } \leq s l a n t 8 \right\}

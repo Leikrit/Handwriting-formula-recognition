@@ -1,0 +1,1 @@
+\text { 已 知 } \sin \alpha = \sin \left( \alpha + \frac { \pi } { 3 } \right) + \frac { 1 } { 3 }

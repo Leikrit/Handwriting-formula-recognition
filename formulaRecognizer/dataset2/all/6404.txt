@@ -1,0 +1,1 @@
+\frac { \left| a _ { n } \right| } { 2 ^ { n } } - \frac { \left| a _ { n + 1 } \right| } { 2 ^ { n + 1 } } \leq s l a n t \frac { 1 } { 2 ^ { n } }

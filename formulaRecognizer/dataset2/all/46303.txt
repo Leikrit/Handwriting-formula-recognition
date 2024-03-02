@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } f ( x ) \leq s l a n t k x - \left| x + a ^ { 2 } \right| - | x - 2 | \text { 的 解 集 为 } M

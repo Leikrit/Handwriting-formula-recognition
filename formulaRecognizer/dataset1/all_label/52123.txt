@@ -1,0 +1,1 @@
+= \sqrt { 2 ^ { 2 } + 1 } \cdot \left| t _ { 1 } \right| \cdot \sqrt { 2 ^ { 2 } + 1 } \cdot \left| t _ { 2 } \right| - \sqrt { 2 ^ { 2 } + ( - 1 ) ^ { 2 } } \cdot \left| t _ { 3 } \right| \cdot \sqrt { 2 ^ { 2 } + ( - 1 ) ^ { 2 } } \cdot \left| t _ { 4 } \right| = 0

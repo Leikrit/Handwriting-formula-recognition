@@ -1,0 +1,1 @@
+\tan \theta \in \left( \frac { \sqrt { 3 } } { 3 } , 2 + \sqrt { 3 } \right)

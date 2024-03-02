@@ -1,0 +1,1 @@
+P \left( \frac { 4 m } { m ^ { 2 } + 2 } , \frac { m ^ { 2 } - 2 } { m ^ { 2 } + 2 } \right)

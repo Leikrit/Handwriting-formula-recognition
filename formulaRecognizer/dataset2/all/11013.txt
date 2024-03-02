@@ -1,0 +1,1 @@
+\text { 最 小 二 乘 法 的 原 理 是 使 得 } \sum \left[ y _ { i } - ( a + \right.

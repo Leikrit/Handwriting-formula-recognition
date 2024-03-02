@@ -1,0 +1,1 @@
+\sin \alpha = \frac { 3 } { 5 } \left( \frac { \pi } { 2 } < \alpha < \pi \right)

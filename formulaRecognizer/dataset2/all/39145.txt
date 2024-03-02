@@ -1,0 +1,1 @@
+\sin B \sin C = \cos ^ { 2 } \frac { A } { 2 }

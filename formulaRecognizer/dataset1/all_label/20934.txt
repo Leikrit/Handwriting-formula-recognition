@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { n } \left( y _ { i } - b x _ { i } - a \right) ^ { 2 }

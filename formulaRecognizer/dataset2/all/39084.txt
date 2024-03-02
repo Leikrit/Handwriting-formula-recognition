@@ -1,0 +1,1 @@
+\text { 设 } B _ { n } = b _ { 1 } b _ { 2 } \cdots b _ { n } ( n \in \mathbf { N } )

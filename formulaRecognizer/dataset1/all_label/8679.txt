@@ -1,0 +1,1 @@
+p : a \neq 0 , q : a b \neq 0

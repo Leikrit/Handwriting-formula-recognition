@@ -1,0 +1,1 @@
+\text { 已 知 曲 线 } y = x ^ { 3 } + a x \text { 在 } x = 1 \text { 处 的 切 线 与 直 线 } y = 4 x + 3 \text { 平 行 }

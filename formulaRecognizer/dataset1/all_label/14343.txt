@@ -1,0 +1,1 @@
+( 2 b - c ) ( \cos B - \sin B \tan C ) + a = 0

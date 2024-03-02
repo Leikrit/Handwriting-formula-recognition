@@ -1,0 +1,1 @@
+B \left( \frac { \left( 4 t ^ { 2 } + 2 \right) ^ { 2 } } { 4 t ^ { 2 } } , - \left( 4 t + \frac { 2 } { t } \right) \right)

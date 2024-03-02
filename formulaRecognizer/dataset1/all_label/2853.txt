@@ -1,0 +1,1 @@
+\sin A + \sin B = 2 \sqrt { 6 } \sin A \sin B

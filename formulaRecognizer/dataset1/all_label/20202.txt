@@ -1,0 +1,1 @@
+\ t h e r e f o r e f ( x ) = - f ( - x ) = x ( 1 - x )

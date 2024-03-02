@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = f ( x ) - k ( x - \ln x ) \text { 在 区 间 } \left( \frac { 1 } { 2 } , 1 \right) \text { 上 没 有 }

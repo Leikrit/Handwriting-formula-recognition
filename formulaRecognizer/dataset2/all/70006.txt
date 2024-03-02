@@ -1,0 +1,1 @@
+\text { 都 有 } \frac { \ln x _ { 1 } } { x _ { 1 } } - \frac { \ln x _ { 2 } } { x _ { 2 } } < \left| \frac { 2 } { x _ { 2 } } - \frac { 2 } { x _ { 1 } } \right|

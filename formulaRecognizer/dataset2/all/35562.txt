@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } < \frac { c } { a } < \frac { \sqrt { 5 } - 1 } { 2 }

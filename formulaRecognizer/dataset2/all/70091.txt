@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { \l g n } { n } = 0 , n \in \mathbf { N }

@@ -1,0 +1,1 @@
+\frac { | \overrightarrow { B M } | } { | \overrightarrow { B C } | } = \frac { | \overrightarrow { C N } | } { | \overrightarrow { C D } | }

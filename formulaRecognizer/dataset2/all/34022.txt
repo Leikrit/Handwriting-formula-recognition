@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin ^ { 2 } x + 2 \sqrt { 3 } \sin x \cos x - \cos ^ { 2 } x

@@ -1,0 +1,1 @@
+\text { 若 } \alpha \perp \gamma , \beta \perp \gamma \text { , 则 } \alpha / / \beta

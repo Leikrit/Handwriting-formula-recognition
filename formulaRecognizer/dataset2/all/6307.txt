@@ -1,0 +1,1 @@
+\hat { \alpha } = \bar { v } - \hat { \beta } \bar { u }

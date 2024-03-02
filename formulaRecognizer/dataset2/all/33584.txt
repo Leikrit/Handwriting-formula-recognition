@@ -1,0 +1,1 @@
+\text { 已 知 幂 函 数 } y = \left( m ^ { 2 } - 2 m - 2 \right) x ^ { m ^ { 2 } + 4 m } \text { 的 图 象 关 于 原 点 对 称 且 与 } x \text { 轴 }

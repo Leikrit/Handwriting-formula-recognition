@@ -1,0 +1,1 @@
+\text { 记 } \varphi = \arctan \frac { 1 } { a } \text { , 则 }

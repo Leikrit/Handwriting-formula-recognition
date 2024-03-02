@@ -1,0 +1,1 @@
+2 \Delta x + ( \Delta x ) ^ { 2 }

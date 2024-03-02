@@ -1,0 +1,1 @@
+x ^ { 2 } + \left( y \pm \frac { \sqrt { 3 } } { 3 } \right) ^ { 2 } = \frac { 4 } { 3 }

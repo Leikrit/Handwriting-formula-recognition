@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ \l g \frac { 1 0 a _ { 1 } } { a _ { n } } \right\} \text { 的 前 } n \text { 项 和 }

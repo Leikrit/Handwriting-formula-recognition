@@ -1,0 +1,1 @@
+\text { 函 数 } y = \ln \frac { x + 1 } { x - 1 }

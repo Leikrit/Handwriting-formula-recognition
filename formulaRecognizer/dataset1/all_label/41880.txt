@@ -1,0 +1,1 @@
+y = \tan \omega x \text { 在 } \left( - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right)

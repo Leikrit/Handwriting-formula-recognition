@@ -1,0 +1,1 @@
+\text { 若 } B F \perp A C \text { 且 } 2 | A F | = | C F |

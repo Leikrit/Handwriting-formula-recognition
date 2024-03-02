@@ -1,0 +1,1 @@
+P \left( 8 a ^ { 2 } , 8 a \right) , E \left( 8 b ^ { 2 } , 8 b \right) , Q ( 8 , c )

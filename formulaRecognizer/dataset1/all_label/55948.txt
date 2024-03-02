@@ -1,0 +1,1 @@
+y = 2 \sin \left( 2 x + \frac { \pi } { 3 } \right)

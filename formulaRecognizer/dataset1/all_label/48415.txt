@@ -1,0 +1,1 @@
+a _ { n } \leq s l a n t \frac { 1 4 } { ( 5 n + 2 ) ( 5 n - 3 ) } = \frac { 1 4 } { 5 } \left( \frac { 1 } { 5 n - 3 } - \frac { 1 } { 5 n + 2 } \right)

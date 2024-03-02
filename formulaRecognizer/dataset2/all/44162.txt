@@ -1,0 +1,1 @@
+T _ { n } \text { 是 } \left\{ c _ { n } \right\} \text { 的 前 } n \text { 项 和 }

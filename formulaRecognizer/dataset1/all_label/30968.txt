@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { \left( y _ { n } + 2 \right) } { \left( x _ { n } - 1 \right) } = \frac { 1 } { 2 }

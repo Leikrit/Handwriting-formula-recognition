@@ -1,0 +1,1 @@
+\text { 直 线 } y = k x ( k \neq 0 ) \text { 与 } C \text { 交 于 } A , B \text { 两 点 }

@@ -1,0 +1,1 @@
+f ( x ) = x \mathrm { e } ^ { \sqrt { x } } - \sqrt { x } - \ln x

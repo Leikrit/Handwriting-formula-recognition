@@ -1,0 +1,1 @@
+\triangle A B C \text { 的 外 接 圆 面 积 为 }

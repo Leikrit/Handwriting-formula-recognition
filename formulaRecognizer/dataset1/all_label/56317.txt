@@ -1,0 +1,1 @@
+A = \left\{ x \mid \left( x ^ { 2 } - \right. \right.

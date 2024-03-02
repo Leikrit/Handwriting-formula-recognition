@@ -1,0 +1,1 @@
+a _ { i _ { 2 } } - a _ { i _ { 1 } } \leq s l a n t a _ { i _ { 2 } } - a _ { i _ { 2 } - 1 } \leq s l a n t 1

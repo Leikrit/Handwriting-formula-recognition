@@ -1,0 +1,1 @@
+\text { 回 归 方 程 } \hat { y } = \hat { b } x + \hat { a } \text { 中 , } \hat { b } = \frac { \sum _ { i = 1 } ^ { n } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) } { \sum _ { i = 1 } ^ { n } \left( x _ { i } - \bar { x } \right) ^ { 2 } }

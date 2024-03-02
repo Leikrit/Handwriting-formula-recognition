@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 a \sin \omega x \cos \omega x - 2 \cos ^ { 2 } \omega x + 1 ( \omega > 0

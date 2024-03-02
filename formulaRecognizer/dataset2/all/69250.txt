@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 x ^ { 3 } - m x ^ { 2 } - 2 n x + 2 \left( m , n \in \mathbf { R } _ { + } \right) \text { 在 } x = 1 \text { 处 有 极 值 }

@@ -1,0 +1,1 @@
+\min \{ | \boldsymbol { a } + \boldsymbol { b } | , | \boldsymbol { a } - \boldsymbol { b } | \} \geqslant \min \{ | \boldsymbol { a } | , | \boldsymbol { b } | \}

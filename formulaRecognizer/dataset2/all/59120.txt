@@ -1,0 +1,1 @@
+\text { 证 明 : } \int _ { 0 } ^ { 1 } f ( x ) d x \int _ { 0 } ^ { 1 } \frac { d x } { f ( x ) } \geq 1

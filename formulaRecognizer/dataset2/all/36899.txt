@@ -1,0 +1,1 @@
+\text { 若 数 列 } \left\{ c _ { n } \right\} \text { 满 足 } c _ { n } = a _ { n } b _ { n }

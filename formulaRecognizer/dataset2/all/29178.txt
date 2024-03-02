@@ -1,0 +1,1 @@
+2 \cdot \sqrt { 1 + m ^ { 2 } } \cdot \frac { 6 m a } { 3 m ^ { 2 } + a ^ { 2 } } = \sqrt { 1 + \frac { 1 } { m ^ { 2 } } } \cdot \frac { 6 m a } { 3 + m ^ { 2 } a ^ { 2 } }

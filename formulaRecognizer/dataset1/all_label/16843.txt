@@ -1,0 +1,1 @@
+A = \left\{ x \in \mathbf { N } \mid x ^ { 2 } < 4 \right\}

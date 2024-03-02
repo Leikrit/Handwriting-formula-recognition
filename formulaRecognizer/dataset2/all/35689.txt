@@ -1,0 +1,1 @@
+k \in \mathbf { N } ^ { * } \text { 有 } a _ { 2 k } > a _ { 2 k - 1 }

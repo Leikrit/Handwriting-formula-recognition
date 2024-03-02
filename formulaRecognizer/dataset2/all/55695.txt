@@ -1,0 +1,1 @@
+\log _ { a } ( b c ) = \log _ { a } b \cdot \log _ { a } c

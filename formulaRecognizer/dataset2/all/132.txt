@@ -1,0 +1,1 @@
+\text { 若 } h ( t ) < - 2 t + m \text { 对 } t \in ( 0 , 2 ) \text { 恒 成 立 }

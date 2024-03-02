@@ -1,0 +1,1 @@
+\text { 方 程 } \sin 4 x \cos 5 x = - \cos 4 x \sin 5 x \text { 的 一 个 解 是 }

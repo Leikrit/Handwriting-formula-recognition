@@ -1,0 +1,1 @@
+\text { 已 知 随 机 变 量 } \xi \text { 服 从 二 项 分 布 } \xi \sim B \left( 4 , \frac { 1 } { 3 } \right)

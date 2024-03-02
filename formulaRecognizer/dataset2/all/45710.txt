@@ -1,0 +1,1 @@
+\text { 求 当 } P ( X < n ) \leq s l a n t 0 . 5

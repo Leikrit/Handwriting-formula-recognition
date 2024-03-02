@@ -1,0 +1,1 @@
+\boldsymbol { a } = \left( \frac { 1 } { 3 } , \tan \alpha \right)

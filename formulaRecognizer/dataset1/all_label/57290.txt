@@ -1,0 +1,1 @@
+f ^ { \prime \prime } ( 0 ) = 2 - \pi < 0

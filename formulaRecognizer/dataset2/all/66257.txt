@@ -1,0 +1,1 @@
+a , m \in \mathbf { R } \text { 且 为 常 数 }

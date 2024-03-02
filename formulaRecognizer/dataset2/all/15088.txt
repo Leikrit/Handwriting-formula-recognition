@@ -1,0 +1,1 @@
+= \frac { \frac { 1 } { 4 } \left( 2 m ^ { 2 } - 2 \right) - \frac { 1 } { 2 } \left( m - \sqrt { 2 - m ^ { 2 } } \right) } { \left( 2 m ^ { 2 } - 2 \right) - 2 \left( m - \sqrt { 2 - m ^ { 2 } } \right) } = \frac { 1 } { 4 }

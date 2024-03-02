@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } ( - \pi , + \infty ) \text { 上 均 存 在 零 点 }

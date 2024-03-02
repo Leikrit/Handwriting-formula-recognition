@@ -1,0 +1,1 @@
+\b e c a u s e y = \ln ( x - 1 )

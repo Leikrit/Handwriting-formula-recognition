@@ -1,0 +1,1 @@
+\text { 方 差 } D \left( \xi _ { 1 } \right) , D \left( \xi _ { 2 } \right) , D \left( \xi _ { 3 } \right) , D \left( \xi _ { 4 } \right)

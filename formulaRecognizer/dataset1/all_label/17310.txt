@@ -1,0 +1,1 @@
+\left\{ x \mid \frac { 5 } { 2 } < x < \frac { 4 1 } { 1 6 } \right\}

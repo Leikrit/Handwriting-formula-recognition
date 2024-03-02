@@ -1,0 +1,1 @@
+\text { 生 站 剩 余 的 } 4 \text { 个 位 置 , 有 } \mathrm { A } _ { 4 } ^ { 4 } \text { 种 站 法 , 此 时 共 有 } 4 \times \mathrm { A } _ { 4 } ^ { 2 } \times \mathrm { A } _ { 4 } ^ { 4 } = 1 1 5 2 \text { 种 不 同 站 法 , }

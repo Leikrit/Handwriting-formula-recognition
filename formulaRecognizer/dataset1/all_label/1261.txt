@@ -1,0 +1,1 @@
+y = \left| \sin \frac { x } { 2 } \right|

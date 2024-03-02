@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } - 2 x - 3 \leq s l a n t 0 \right\}

@@ -1,0 +1,1 @@
+\text { 直 线 } y = k x ( k > 0 ) \text { 与 } A B \text { 相 交 于 点 } D

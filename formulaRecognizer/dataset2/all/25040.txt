@@ -1,0 +1,1 @@
+A \text { 是 } \mathbf { R } \text { 的 非 空 子 集 }

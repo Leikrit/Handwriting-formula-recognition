@@ -1,0 +1,1 @@
+\varphi \in \left[ - \frac { \pi } { 4 } , \frac { \pi } { 4 } \right]

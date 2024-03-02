@@ -1,0 +1,1 @@
+f ( x ) = \left( \frac { 1 } { 4 } \right) ^ { x } - \left( \frac { 1 } { 2 } \right) ^ { x - 1 } + 2 ( x \in [ - 2 , 1 ] )

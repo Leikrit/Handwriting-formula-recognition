@@ -1,0 +1,1 @@
+\text { 故 } f ^ { \prime } ( x ) \geqslant x - 2 a x = ( 1 - 2 a ) x

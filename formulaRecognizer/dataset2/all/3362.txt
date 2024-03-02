@@ -1,0 +1,1 @@
+a \geqslant \sqrt { 2 } \cdot \max \left\{ g \left( \frac { \pi } { 4 } \right) , g \left( \frac { 5 \pi } { 4 } \right) \right\} = \sqrt { 2 } \cdot g \left( \frac { \pi } { 4 } \right) = \frac { \sqrt { 2 } \pi } { 4 } \cdot \mathrm { e } ^ { - \frac { \pi } { 4 } }

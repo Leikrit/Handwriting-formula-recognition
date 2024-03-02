@@ -1,0 +1,1 @@
+f ( x ) _ { \min } = \min \left\{ f \left( \frac { 1 } { \sqrt { a } } \right) \cdot f ( - 1 ) \right\}

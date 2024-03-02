@@ -1,0 +1,1 @@
+S _ { n } = n ^ { 2 } \left( n \in \mathbf { N } ^ { * } \right) , \left\{ b _ { n } \right\}

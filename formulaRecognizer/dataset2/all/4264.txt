@@ -1,0 +1,1 @@
+S _ { A } \geqslant a _ { p } = 3 ^ { p - 1 } > 2 \cdot \frac { 1 } { 2 } \left( 3 ^ { p - 1 } - 1 \right) \geqslant 2 \cdot \frac { 1 } { 2 } \left( 3 ^ { q } - 1 \right) \geqslant 2 S _ { B }

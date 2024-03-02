@@ -1,0 +1,1 @@
+f ( x ) = \min \left\{ 2 ^ { x } , x + 2 , 1 0 - x \right\} ( x \geqslant 0 )

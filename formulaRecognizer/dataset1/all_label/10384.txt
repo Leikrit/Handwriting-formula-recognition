@@ -1,0 +1,1 @@
+\frac { A D } { \sin B } = \frac { A B } { \sin \ a n g l e A D B }

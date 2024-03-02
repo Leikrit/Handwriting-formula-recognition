@@ -1,0 +1,1 @@
+\text { 计 算 } a _ { 2 } , a _ { 3 } \text { , 猜 想 } \left\{ a _ { n } \right\} \text { 的 通 项 公 式 并 加 以 }

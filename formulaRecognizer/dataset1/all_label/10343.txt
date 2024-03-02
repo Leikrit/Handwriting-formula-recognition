@@ -1,0 +1,1 @@
+\sqrt { \left( x _ { 1 } - x _ { 2 } \right) ^ { 2 } + \left( y _ { 1 } - y _ { 2 } \right) ^ { 2 } - 2 \left( x _ { 1 } - x _ { 2 } \right) \left( y _ { 1 } - y _ { 2 } \right) \cos \theta }

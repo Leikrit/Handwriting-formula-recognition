@@ -1,0 +1,1 @@
+\text { 求 } S _ { 7 } = 1 \text { 且 } 0 \leq s l a n t S _ { i } \leq s l a n t 2 \left( 1 \leq s l a n t i \leq s l a n t 4 , i \in \mathbf { N } ^ { * } \right) \text { 的 概 率 }

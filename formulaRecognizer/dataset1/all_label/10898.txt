@@ -1,0 +1,1 @@
+g ( x ) = k x ( k \in \mathbf { R } )

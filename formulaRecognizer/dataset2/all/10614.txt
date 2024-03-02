@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin ( 2 x + \varphi ) + \cos ( 2 x + \varphi ) \left( \varphi \in \left( 0 , \frac { \pi } { 2 } \right] \right)

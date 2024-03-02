@@ -1,0 +1,1 @@
+\text { 满 足 } | a | > | b | \text { 且 } a \text { 与 } b \text { 同 向 }

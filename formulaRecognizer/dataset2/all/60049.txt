@@ -1,0 +1,1 @@
+\sin x + \frac { 1 } { \sin x } \in ( - \infty , - 2 ] \cup [ 2 , + \infty )

@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \mathrm { e } ^ { x } ( x - 1 ) ( a x - 1 )

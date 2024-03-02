@@ -1,0 +1,1 @@
+\sqrt { 3 } b \cos A + a \sin B = \sqrt { 3 } b

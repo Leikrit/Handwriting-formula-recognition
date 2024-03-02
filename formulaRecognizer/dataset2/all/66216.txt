@@ -1,0 +1,1 @@
+\text { 所 以 } f ( x ) + f \left( x - \frac { 1 } { 2 } \right) \text { 也 是 增 函 数 }

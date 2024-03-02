@@ -1,0 +1,1 @@
+\left\{ x \mid x = k \pi + ( - 1 ) ^ { k } \cdot \frac { \pi } { 3 } , k \in \mathbf { Z } \right\}

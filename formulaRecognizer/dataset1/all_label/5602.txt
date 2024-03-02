@@ -1,0 +1,1 @@
+\frac { \cos B } { b } + \frac { \cos C } { c } = \frac { 2 \sqrt { 3 } \sin A } { 3 \sin C } , \cos B + \sqrt { 3 } \sin B = 2

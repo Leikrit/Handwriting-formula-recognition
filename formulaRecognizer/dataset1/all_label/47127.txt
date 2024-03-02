@@ -1,0 +1,1 @@
+\overrightarrow { C D } = \frac { 2 } { 3 } \boldsymbol { a } + \frac { 1 } { 3 } \boldsymbol { b }

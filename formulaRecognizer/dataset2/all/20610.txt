@@ -1,0 +1,1 @@
+\text { 结 合 } h \left( \frac { 1 } { 5 } \right) = 5 \mathrm { e } ^ { \frac { 1 } { 5 } } > \frac { 1 } { 2 } \mathrm { e } ^ { 2 }

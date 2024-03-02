@@ -1,0 +1,1 @@
+\cos \ a n g l e A ^ { \prime } D B = \frac { \overrightarrow { D A ^ { \prime } } \cdot \overrightarrow { D B } } { \left| \overrightarrow { D A ^ { \prime } } \right| \cdot | \overrightarrow { D B } | }

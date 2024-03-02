@@ -1,0 +1,1 @@
+\text { 所 以 } f ^ { \prime } \left( x _ { 2 } \right) = 0 \Rightarrow x _ { 2 } ^ { 2 } + 2 b x _ { 2 } + c = 0 \Rightarrow x _ { 2 } ^ { 2 } = - 2 b x _ { 2 } - c

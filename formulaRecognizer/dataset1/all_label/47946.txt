@@ -1,0 +1,1 @@
+\frac { \tan B + \tan C } { 1 - \tan B \tan C } = \tan ( B + C ) = \tan ( \pi - A )

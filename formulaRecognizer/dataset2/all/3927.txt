@@ -1,0 +1,1 @@
+\text { 在 } \triangle A B C \text { 中 , 角 } A , B , C \text { 的 对 边 分 别 为 } a , b , c , B C \text { 边 上 的 高 为 } \frac { a } { 2 }

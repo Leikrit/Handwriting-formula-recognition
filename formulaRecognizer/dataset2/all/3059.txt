@@ -1,0 +1,1 @@
+\text { 证 明 : 当 } x > 0 \text { 时 , } f ( x ) < x \mathrm { e } ^ { x } + \frac { 1 } { \mathrm { e } }

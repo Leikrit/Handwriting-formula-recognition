@@ -1,0 +1,1 @@
+g ( x ) = \frac { \ln x } { x }

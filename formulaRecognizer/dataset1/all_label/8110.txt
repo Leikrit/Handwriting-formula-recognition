@@ -1,0 +1,1 @@
+\l g \frac { \sqrt { 2 } } { 2 } + \l g \frac { \sqrt { 5 } } { 5 } =

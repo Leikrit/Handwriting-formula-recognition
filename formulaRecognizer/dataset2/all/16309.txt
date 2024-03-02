@@ -1,0 +1,1 @@
+\text { 且 } f \left( x _ { 0 } + \Delta x \right) - f \left( x _ { 0 } \right) = a \Delta x - b ( \Delta x ) ^ { 2 } ( a , b \text { 为 常 }

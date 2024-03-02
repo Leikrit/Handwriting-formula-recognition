@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } ( - 1 ) ^ { n } x < 2 + \frac { ( - 1 ) ^ { n - 1 } } { n } \text { 对 任 意 的 } n \in \mathbf { N } ^ { * } \text { 恒 成 立 }

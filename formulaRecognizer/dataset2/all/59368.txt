@@ -1,0 +1,1 @@
+\text { 则 } \overrightarrow { P B } + \overrightarrow { P C } = 2 \overrightarrow { P D }

@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ b _ { n } \right\} \text { 的 前 } n \text { 项 和 } T _ { n } = 2 b _ { n } - b _ { 1 } \text { , 且 } b _ { 6 } = a _ { 1 6 } - 1

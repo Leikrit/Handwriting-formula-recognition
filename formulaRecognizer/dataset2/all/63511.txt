@@ -1,0 +1,1 @@
+\boldsymbol { a } \otimes \boldsymbol { b } = | \boldsymbol { a } | \cdot | \boldsymbol { b } | \sin \theta

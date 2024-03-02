@@ -1,0 +1,1 @@
+\left( 0 , 2 \sqrt { \frac { 1 - a } { a } } \right)

@@ -1,0 +1,1 @@
+\text { 等 比 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { 5 } = a _ { 3 }

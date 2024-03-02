@@ -1,0 +1,1 @@
+f ( x ) = \ln \left( 1 + 3 ^ { x } + 9 ^ { x } a \right)

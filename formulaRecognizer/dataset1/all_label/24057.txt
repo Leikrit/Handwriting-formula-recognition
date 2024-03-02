@@ -1,0 +1,1 @@
+\Delta = 4 ( u - 4 ) ^ { 2 } - 1 6 \left( 4 - u ^ { 2 } \right) \geqslant 0

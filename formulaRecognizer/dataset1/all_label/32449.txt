@@ -1,0 +1,1 @@
+k \pi + \frac { \pi } { 1 2 } < \theta < k \pi + \frac { 5 \pi } { 1 2 }

@@ -1,0 +1,1 @@
+\text { 若 函 数 } F ( x ) = f ( x ) + g ( x ) \text { 在 } x \in [ 1 - m , 1 + m ] \text { 上 的 }

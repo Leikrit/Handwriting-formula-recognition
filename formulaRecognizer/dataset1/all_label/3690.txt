@@ -1,0 +1,1 @@
+\sin \left( \frac { \pi } { 6 } - \alpha \right) = \frac { 1 } { 3 }

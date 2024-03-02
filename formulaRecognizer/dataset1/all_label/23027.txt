@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } \times 2 \pi \times ( 2 + 2 \sqrt { 3 } ) = ( 2 \sqrt { 3 } + 6 ) \pi

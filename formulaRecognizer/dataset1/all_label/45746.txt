@@ -1,0 +1,1 @@
+f ( x ) \geqslant 2 a + a \ln \frac { 2 } { a }

@@ -1,0 +1,1 @@
+\ t h e r e f o r e t _ { 1 } - t _ { 2 } = \left( v _ { 1 } - v _ { 2 } \right) \cdot \left[ 1 - \frac { 6 4 } { \left( v _ { 1 } - 8 \right) \left( v _ { 2 } - 8 \right) } \right] > 0

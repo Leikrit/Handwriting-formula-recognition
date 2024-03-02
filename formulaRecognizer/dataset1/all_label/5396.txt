@@ -1,0 +1,1 @@
+\ e x i s t s k _ { 0 } \in \mathbf { N } ^ { * }

@@ -1,0 +1,1 @@
+\text { 注 意 到 } f \left( - \sqrt { \frac { b } { a } } \right) = \left( - \sqrt { \frac { b } { a } } - 1 \right) \mathrm { e } ^ { - \sqrt { \frac { b } { a } } } < 0

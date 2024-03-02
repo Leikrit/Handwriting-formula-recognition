@@ -1,0 +1,1 @@
+\text { 设 } b _ { n } = \log _ { 2 } \left( a _ { n } + 2 \right) \text { , 求 数 列 } \left\{ b _ { n } \left( a _ { n } + 2 \right) \right\} \text { 的 前 } n \text { 项 和 } T _ { n }

@@ -1,0 +1,1 @@
+\text { 若 } \tan \alpha = \frac { 2 } { \tan \frac { \pi } { 5 } }

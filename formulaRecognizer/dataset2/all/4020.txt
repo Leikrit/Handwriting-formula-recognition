@@ -1,0 +1,1 @@
+\text { 证 明 : } \overrightarrow { F M } \cdot \overrightarrow { F N } < 2 p ^ { 2 }

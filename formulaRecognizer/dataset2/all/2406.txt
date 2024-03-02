@@ -1,0 +1,1 @@
+\text { 若 } n = 2 \text { , 则 } H ( X ) \text { 随 着 } p _ { 1 } \text { 的 增 大 而 增 大 }

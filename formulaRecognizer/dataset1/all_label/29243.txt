@@ -1,0 +1,1 @@
+\frac { c - a } { b - a } > \frac { c } { b }

@@ -1,0 +1,1 @@
+g ( x ) = - \ln x + \mathrm { e } , h ( x ) = \max \{ f ( x ) , g ( x ) \}

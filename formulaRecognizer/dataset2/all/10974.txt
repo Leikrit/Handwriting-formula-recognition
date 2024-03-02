@@ -1,0 +1,1 @@
+\text { 成 绩 的 方 差 为 } \frac { 1 } { 5 } \left( 3 ^ { 2 } \times 1 + 1 ^ { 2 } \times 3 \right) = 2 . 4

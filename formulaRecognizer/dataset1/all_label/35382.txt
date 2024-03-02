@@ -1,0 +1,1 @@
+\overrightarrow { M A } = \lambda _ { 1 } \overrightarrow { A F _ { 1 } } \Rightarrow t - y _ { 1 } = \lambda _ { 1 } y _ { 1 }

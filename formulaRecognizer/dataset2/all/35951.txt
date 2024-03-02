@@ -1,0 +1,1 @@
+\boldsymbol { b } = 2 \boldsymbol { e } _ { 1 }

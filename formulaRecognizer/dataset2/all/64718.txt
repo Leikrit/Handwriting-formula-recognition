@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \frac { 1 } { 4 } x ^ { 4 } - \frac { 2 \mathrm { e } } { 3 } x ^ { 3 } + \frac { 1 } { 2 } a x ^ { 2 } + x - x \ln x \text { 在 区 }

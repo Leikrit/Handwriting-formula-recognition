@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) \cdot f \left( x _ { 2 } \right) = a ^ { 2 } ( 2 a - 3 ) \cdot ( a - 1 ) ^ { 2 } ( 1 + 2 a ) < 0

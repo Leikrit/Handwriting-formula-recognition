@@ -1,0 +1,1 @@
+\text { 对 任 意 的 } n \in \mathbf { N } ^ { * } \text { , 有 } S _ { n } < n + \frac { 3 } { 2 }

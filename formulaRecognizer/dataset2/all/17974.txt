@@ -1,0 +1,1 @@
+\text { 注 意 变 角 } \left( \alpha - \frac { \beta } { 2 } \right) - \left( \frac { \alpha } { 2 } - \beta \right) = \frac { \alpha + \beta } { 2 }

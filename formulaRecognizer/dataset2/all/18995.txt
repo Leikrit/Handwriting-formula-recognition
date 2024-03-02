@@ -1,0 +1,1 @@
+\text { 将 } y = 2 \cos \left( \frac { x } { 3 } + \frac { \pi } { 6 } \right) \text { 的 图 象 按 向 量 } \boldsymbol { a } = \left( - \frac { \pi } { 4 } , - 2 \right)

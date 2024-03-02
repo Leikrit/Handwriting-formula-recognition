@@ -1,0 +1,1 @@
+\text { 即 直 线 } y = x + 1 \text { 为 函 数 } y = \mathrm { e } ^ { x } \text { 与 } y = \ln ( x + 2 ) \text { 的 图 象 的 公 切 线 }

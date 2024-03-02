@@ -1,0 +1,1 @@
+\overrightarrow { O A } \cdot \overrightarrow { A P } = \overrightarrow { O A } \cdot ( \overrightarrow { O P } - \overrightarrow { O A } ) = \overrightarrow { O A } \cdot \overrightarrow { O P } - \overrightarrow { O A } ^ { 2 } = - 2

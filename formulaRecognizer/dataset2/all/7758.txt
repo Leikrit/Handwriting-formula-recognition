@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = 2 \cos \omega x \sin \left( \frac { \pi } { 3 } - \omega x \right) - \frac { \sqrt { 3 } } { 2 } \left( \omega \in \mathbf { N } ^ { * } \right) \text { 的 图 象 的 }

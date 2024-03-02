@@ -1,0 +1,1 @@
+\text { 某 食 品 的 保 鲜 时 间 } y \text { ( 单 位 : 小 时 ) 与 储 藏 温 度 } x \text { ( 单 位 : } { } ^ { \circ } \mathrm { C } \text { ) 满 足 函 数 关 系 }

@@ -1,0 +1,1 @@
+f \left( b ^ { x } \right) \leq s l a n t f \left( c ^ { x } \right)

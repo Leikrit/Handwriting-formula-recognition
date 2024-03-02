@@ -1,0 +1,1 @@
+\overrightarrow { Q A } \cdot \overrightarrow { Q B } = \lambda | \overrightarrow { O Q } | ^ { 2 }

@@ -1,0 +1,1 @@
+P \left( \frac { 1 } { 2 } , \ln \frac { 1 } { 2 } + 2 \right)

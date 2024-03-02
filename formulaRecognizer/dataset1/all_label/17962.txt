@@ -1,0 +1,1 @@
+= \left\{ x \mid y = \ln \left( - x ^ { 2 } + 3 x \right) \right\}

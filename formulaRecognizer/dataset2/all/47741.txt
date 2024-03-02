@@ -1,0 +1,1 @@
+\frac { 5 } { 3 } \overrightarrow { A C } - \frac { 3 } { 2 } \overrightarrow { A B }

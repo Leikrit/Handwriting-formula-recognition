@@ -1,0 +1,1 @@
+\cos \left( \omega \alpha + \frac { \pi } { 4 } \right) = \frac { 3 } { 5 }

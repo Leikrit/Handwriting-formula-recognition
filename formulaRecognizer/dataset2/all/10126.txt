@@ -1,0 +1,1 @@
+\text { 命 题 “ 若 } a b = 0 \text { , 则 } a = 0 \text { 或 } b = 0 \text { ” 的 否 命 题 是 “ 若 } a b \neq 0 \text { , 则 } a \neq 0 \text { 或 } b \neq 0 ”

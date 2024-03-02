@@ -1,0 +1,1 @@
+\frac { 1 - x } { 1 + x } \leq s l a n t \frac { 1 } { \mathrm { e } ^ { 2 x } }

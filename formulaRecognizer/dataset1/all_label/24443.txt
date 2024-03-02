@@ -1,0 +1,1 @@
+U = A \cup B = \left\{ x \in \mathbf { N } ^ { + } \mid \l g x < 1 \right\}

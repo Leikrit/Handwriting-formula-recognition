@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 对 于 任 意 实 数 } x \text { 满 足 条 件 } f ( x + 2 ) = \frac { 1 } { f ( x ) }

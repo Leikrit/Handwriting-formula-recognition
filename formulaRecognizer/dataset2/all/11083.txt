@@ -1,0 +1,1 @@
+\text { 若 点 } P ( \cos \theta , \sin \theta ) \text { 与 点 } Q \left( \cos \left( \theta + \frac { \pi } { 6 } \right) , \sin \left( \theta + \frac { \pi } { 6 } \right) \right) \text { 关 于 } y \text { 轴 对 称 }

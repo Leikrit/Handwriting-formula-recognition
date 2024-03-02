@@ -1,0 +1,1 @@
+A _ { n } = \left\{ \left( a _ { 1 } , a _ { 2 } , \cdots , a _ { n } \right) \mid a _ { j } = 0 \right.

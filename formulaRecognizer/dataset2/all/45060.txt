@@ -1,0 +1,1 @@
+( - \infty , - 2 7 ) \cup [ 5 , + \infty )

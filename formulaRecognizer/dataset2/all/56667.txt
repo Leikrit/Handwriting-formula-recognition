@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } \left[ - \frac { \pi } { 3 } , 0 \right] \text { 上 具 有 单 调 性 }

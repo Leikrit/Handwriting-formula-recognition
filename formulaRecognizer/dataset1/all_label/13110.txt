@@ -1,0 +1,1 @@
+\alpha _ { 1 } , \alpha _ { 2 } \in \mathbf { R }

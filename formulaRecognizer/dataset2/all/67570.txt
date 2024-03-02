@@ -1,0 +1,1 @@
+B = \left\{ x | | x ^ { 2 } + b x + 2 0 1 4 \mid = 2 0 1 3 \right.

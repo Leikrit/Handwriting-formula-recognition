@@ -1,0 +1,1 @@
+\text { 设 直 线 } l : y = \left( m ^ { 2 } + 2 m + 2 \right) x - 3 m ^ { 2 } - 6 m - 1

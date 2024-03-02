@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } S _ { n } = \left\{ X \mid X = \left( x _ { 1 } , x _ { 2 } , \cdots , x _ { n } \right) \right.

@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \cos x } { x } \text { 的 图 象 在 点 } \left( \frac { \pi } { 2 } , f \left( \frac { \pi } { 2 } \right) \right) \text { 处 的 切 线 方 程 }

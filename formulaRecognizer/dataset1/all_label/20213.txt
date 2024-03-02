@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t \left| \frac { 1 } { 3 } x - 1 \right|

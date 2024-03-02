@@ -1,0 +1,1 @@
+S _ { n } \leq s l a n t \frac { 1 4 } { 5 } \times \left( \frac { 1 } { 2 } - \frac { 1 } { 7 } + \frac { 1 } { 7 } - \frac { 1 } { 1 2 } + \cdots + \frac { 1 } { 5 n - 3 } - \frac { 1 } { 5 n + 2 } \right) = \frac { 1 4 } { 5 } \left( \frac { 1 } { 2 } - \frac { 1 } { 5 n + 2 } \right)

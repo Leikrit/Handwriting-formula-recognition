@@ -1,0 +1,1 @@
+\frac { \sin ^ { 2 } \alpha + 1 } { 2 \cos ^ { 2 } \alpha - \sin \alpha \cos \alpha } =

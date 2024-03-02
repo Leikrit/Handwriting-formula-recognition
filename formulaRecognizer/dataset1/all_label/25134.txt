@@ -1,0 +1,1 @@
+\text { 若 } M \left( x _ { 0 } , y _ { 0 } \right) \text { 为 圆 } x ^ { 2 } + y ^ { 2 } = r ^ { 2 } ( r > 0 ) \text { 上 一 点 }

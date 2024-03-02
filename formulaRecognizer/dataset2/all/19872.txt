@@ -1,0 +1,1 @@
+\text { 设 } f ( x ) = ( x - a ) ^ { 2 } ( x + b ) \mathrm { e } ^ { x }

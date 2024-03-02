@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = a \cdot 2 ^ { x } - \frac { b } { x } + 1 ( 0 < a \leq s l a n t 1 , b > 0 ) \text { 在 区 间 } ( 1 , 2 ) \text { 内 有 唯 一 零 点 }

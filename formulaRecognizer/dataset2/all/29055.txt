@@ -1,0 +1,1 @@
+\boldsymbol { n } = ( 1 , x ) \text { ( 其 中 } a , b \text { 为 常 数 }

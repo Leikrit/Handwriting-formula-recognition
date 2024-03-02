@@ -1,0 +1,1 @@
+= \left( 1 + m ^ { 2 } \right) \left| y _ { 1 } y _ { 2 } - y _ { M } \left( y _ { 1 } + y _ { 2 } \right) + y _ { M } ^ { 2 } \right|

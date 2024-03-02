@@ -1,0 +1,1 @@
+\geqslant \left| x _ { 1 } - x _ { 2 } \right| \text { 对 任 意 } a \in [ - 1 , 1 ] \text { 及 } t \in [ - 1 , 1 ] \text { 恒 成 立 }

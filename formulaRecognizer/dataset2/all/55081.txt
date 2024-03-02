@@ -1,0 +1,1 @@
+\text { 过 坐 标 原 点 } O \text { 作 曲 线 } y = f ( x ) \text { 的 切 线 }

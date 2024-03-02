@@ -1,0 +1,1 @@
+y = \left[ \frac { x + 4 } { 1 0 } \right]

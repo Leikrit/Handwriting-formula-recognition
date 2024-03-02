@@ -1,0 +1,1 @@
+m > \frac { - x ^ { 2 } - 4 } { x } = - \left( x + \frac { 4 } { x } \right)

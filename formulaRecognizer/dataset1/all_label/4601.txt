@@ -1,0 +1,1 @@
+F \left( \log _ { 5 } \frac { 1 } { 5 } \right) , b = F \left( \frac { 1 } { \l g 3 } \right) , c = F \left( - 2 ^ { - 2 } \right)

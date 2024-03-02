@@ -1,0 +1,1 @@
+\left( k _ { 1 } + k _ { 2 } \right) \left( k _ { 1 } k _ { 2 } - 1 \right) = 0

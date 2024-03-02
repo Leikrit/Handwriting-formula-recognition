@@ -1,0 +1,1 @@
+P _ { n } \left( x _ { n } , y _ { n } \right)

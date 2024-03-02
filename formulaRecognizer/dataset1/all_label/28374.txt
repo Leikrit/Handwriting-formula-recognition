@@ -1,0 +1,1 @@
+x = \frac { 9 \pi - 4 \varphi } { 4 \omega }

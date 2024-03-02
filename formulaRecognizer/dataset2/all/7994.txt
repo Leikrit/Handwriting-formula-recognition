@@ -1,0 +1,1 @@
+\text { 线 段 } P Q _ { 2 } \text { 长 度 的 取 值 范 围 是 } \left[ \frac { 1 } { 2 } , \frac { \sqrt { 2 } } { 2 } \right)

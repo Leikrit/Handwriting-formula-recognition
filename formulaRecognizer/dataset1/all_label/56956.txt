@@ -1,0 +1,1 @@
+\lambda a _ { n } \geqslant 4 n - 2

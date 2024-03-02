@@ -1,0 +1,1 @@
+\text { 动 直 线 } l _ { 2 } : y = k x \text { 与 椭 圆 } C \text { 交 于 } M , N \text { 两 点 }

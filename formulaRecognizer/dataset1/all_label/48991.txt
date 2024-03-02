@@ -1,0 +1,1 @@
+h ( x ) = \log _ { a } ( x + 1 ) + 1 ( x \geqslant 0 )

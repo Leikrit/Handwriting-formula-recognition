@@ -1,0 +1,1 @@
+S _ { \omega } \cap ( a , a + 1 )

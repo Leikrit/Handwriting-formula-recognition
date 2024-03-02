@@ -1,0 +1,1 @@
+l _ { 3 } : \rho ( \cos \theta + \sin \theta ) - \sqrt { 2 } = 0

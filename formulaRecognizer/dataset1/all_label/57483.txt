@@ -1,0 +1,1 @@
+\frac { \frac { 3 } { 2 } c \sin \theta } { \frac { 3 } { 2 } c \cos \theta - 3 c } = \frac { c } { - 2 c }

@@ -1,0 +1,1 @@
+P = \left\{ y \mid y ^ { 2 } - y - 2 > 0 \right\}

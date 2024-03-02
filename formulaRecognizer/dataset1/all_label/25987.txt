@@ -1,0 +1,1 @@
+f \left( x + \frac { 3 } { 2 } \right) + f ( x ) = 0

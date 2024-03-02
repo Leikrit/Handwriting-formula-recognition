@@ -1,0 +1,1 @@
+\text { 那 么 能 发 出 第 二 个 基 准 音 的 乐 器 的 长 度 为 } a \times \left( 1 - \frac { 1 } { 3 } \right) = \frac { 2 a } { 3 }

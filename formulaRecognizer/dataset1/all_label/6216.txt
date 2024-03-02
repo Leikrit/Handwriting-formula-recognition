@@ -1,0 +1,1 @@
+\left( \sqrt { x } - \frac { 1 } { \sqrt [ 3 ] { x } } \right) ^ { 5 }

@@ -1,0 +1,1 @@
+\b e c a u s e \text { 函 数 } y = \log _ { 2 } \frac { 1 } { x - 1 } ( x \in ( 1 , + \infty ) )

@@ -1,0 +1,1 @@
+\overrightarrow { A F } = x \boldsymbol { a } + y \boldsymbol { b }

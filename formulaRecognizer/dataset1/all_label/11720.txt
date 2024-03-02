@@ -1,0 +1,1 @@
+f \left( \frac { 2 \pi } { 3 } - x \right) = 2 - f ( x )

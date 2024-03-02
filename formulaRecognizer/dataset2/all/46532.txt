@@ -1,0 +1,1 @@
+| \boldsymbol { \alpha } | = 1 , \boldsymbol { \alpha } \perp ( \boldsymbol { \alpha } - 2 \boldsymbol { \beta } ) , ( \boldsymbol { \alpha } - \boldsymbol { \gamma } ) \perp

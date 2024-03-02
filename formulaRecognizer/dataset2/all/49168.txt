@@ -1,0 +1,1 @@
+b _ { i } \geqslant a _ { i } ( i = 1 , 2 , \cdots , n )

@@ -1,0 +1,1 @@
+\text { 整 数 } 1 0 ^ { 4 } \text { 是 否 为 数 列 } \left\{ a _ { n } S _ { n } \right\}

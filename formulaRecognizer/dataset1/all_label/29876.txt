@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 3 } \left( \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } \right) + 6

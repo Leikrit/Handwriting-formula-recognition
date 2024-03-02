@@ -1,0 +1,1 @@
+f ( a - 1 ) + f \left( 2 a ^ { 2 } \right) \leq s l a n t 0

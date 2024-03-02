@@ -1,0 +1,1 @@
+P ( X = 4 ) = \frac { 4 } { 5 } \times \frac { 3 } { 4 } \times \frac { 2 } { 3 } = \frac { 2 } { 5 }

@@ -1,0 +1,1 @@
+f ( \mathrm { e } ) \text { 是 } f ( x ) \text { 的 最 小 值 }

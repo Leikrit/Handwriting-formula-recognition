@@ -1,0 +1,1 @@
+\text { 所 以 } \frac { k ^ { 2 } + 1 6 } { 8 } = \frac { 1 } { 4 } \sqrt { k ^ { 2 } + 1 } \cdot \sqrt { k ^ { 2 } + 1 6 }

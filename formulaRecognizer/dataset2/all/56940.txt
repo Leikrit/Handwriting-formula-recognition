@@ -1,0 +1,1 @@
+\text { 求 } \lim _ { n \rightarrow \infty } \frac { u _ { n } } { u _ { n - 1 } }

@@ -1,0 +1,1 @@
+\lim _ { x \rightarrow 2 } \left( \frac { 4 } { x ^ { 2 } - 4 } - \frac { 1 } { x - 2 } \right) =

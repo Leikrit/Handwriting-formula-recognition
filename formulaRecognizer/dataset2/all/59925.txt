@@ -1,0 +1,1 @@
+\left( \frac { 1 } { 2 } \cos \omega x , \frac { 1 } { 4 } \right) , \omega > 0 , f ( x ) = \boldsymbol { m } \cdot \boldsymbol { n }

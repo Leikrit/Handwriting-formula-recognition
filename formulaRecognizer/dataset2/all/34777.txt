@@ -1,0 +1,1 @@
+\text { 则 } f ( x ) - f ( - 1 ) \mid \text { 在 区 间 } [ m \text { , }

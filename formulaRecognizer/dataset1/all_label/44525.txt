@@ -1,0 +1,1 @@
+b _ { n } = \left| a _ { n } - \sqrt { 3 } \right|

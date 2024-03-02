@@ -1,0 +1,1 @@
+\text { 设 } g ( x ) = f ( x ) + \frac { m } { x - 1 } \text { 是 } [ 2 , + \infty ) \text { 上 的 增 函 数 }

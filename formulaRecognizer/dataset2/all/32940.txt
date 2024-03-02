@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = a ^ { x } - b x + \mathrm { e } ^ { 2 } ( x \in \mathbf { R } )

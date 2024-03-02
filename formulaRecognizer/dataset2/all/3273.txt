@@ -1,0 +1,1 @@
+\text { 已 知 } \triangle A B C \text { 的 内 角 } A , B , C \text { 的 对 边 分 别 为 } a , b , c , \cos ^ { 2 } C - \cos ^ { 2 } B = \sin A [ \sin B - \sin ( B + C )

@@ -1,0 +1,1 @@
+\text { 点 } \left( \frac { 5 \pi } { 1 2 } , 0 \right) \text { 是 函 数 } f ( x ) \text { 图 象 的 一 个 对 称 中 心 }

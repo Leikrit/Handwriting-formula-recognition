@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) > \mathrm { e } + 2 - \frac { 1 } { \mathrm { e } }

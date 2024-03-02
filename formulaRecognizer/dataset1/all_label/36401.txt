@@ -1,0 +1,1 @@
+B E = \frac { B C ^ { 2 } } { B F } = \sqrt { 6 } + \sqrt { 2 }

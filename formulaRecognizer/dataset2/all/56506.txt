@@ -1,0 +1,1 @@
+\text { 求 使 得 } b _ { n } > 2 a _ { n } \text { 的 } n \text { 的 最 小 值 }

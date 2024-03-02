@@ -1,0 +1,1 @@
+\overrightarrow { C F } = \overrightarrow { C A } + \overrightarrow { A F } = ( 2 \sqrt { 3 } , 0 , 0 ) + ( - 2 \sqrt { 3 } \lambda , 0 , 2 \lambda ) = ( 2 \sqrt { 3 } - 2 \sqrt { 3 } \lambda , 0 , 2 \lambda )

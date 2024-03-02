@@ -1,0 +1,1 @@
+\frac { 1 } { f ( 1 ) f ( 2 ) } + \cdots + \frac { 1 } { f ( 9 ) f ( 1 0 ) } \text { 的 值 为 }

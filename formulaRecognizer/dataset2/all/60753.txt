@@ -1,0 +1,1 @@
+y = \frac { \sqrt { 3 } } { 3 } ( x - 1 ) \text { 或 } y = - \frac { \sqrt { 3 } } { 3 } ( x - 1 )

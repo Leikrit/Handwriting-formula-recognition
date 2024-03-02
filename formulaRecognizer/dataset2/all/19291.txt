@@ -1,0 +1,1 @@
+\text { 若 数 列 } \left\{ \frac { S _ { n } } { n } \right\} \text { 为 等 差 数 列 }

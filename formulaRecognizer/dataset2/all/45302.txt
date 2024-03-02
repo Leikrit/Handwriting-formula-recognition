@@ -1,0 +1,1 @@
+\text { 复 数 } z = \cos \frac { 2 \pi } { 3 } + \o p e r a t o r n a m e { i s i n } \frac { 2 \pi } { 3 }

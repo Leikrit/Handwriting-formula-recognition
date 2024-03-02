@@ -1,0 +1,1 @@
+\text { 所 以 } | M N | = \left| y _ { M } - y _ { N } \right| = \frac { k ^ { 2 } } { 4 } + 2 - \frac { k ^ { 2 } } { 8 } = \frac { k ^ { 2 } + 1 6 } { 8 }

@@ -1,0 +1,1 @@
+a \perp b \Rightarrow b / / \alpha

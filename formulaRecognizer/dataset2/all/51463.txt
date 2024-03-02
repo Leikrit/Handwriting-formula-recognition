@@ -1,0 +1,1 @@
+\text { 若 直 线 } l \text { 上 任 一 点 } ( x , y ) \text { 满 足 } \boldsymbol { a } / / \boldsymbol { b }

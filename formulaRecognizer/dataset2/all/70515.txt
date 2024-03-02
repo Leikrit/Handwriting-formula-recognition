@@ -1,0 +1,1 @@
+\text { 不 等 式 } x [ f ( x ) - f ( 2 ) ] \leq s l a n t 0

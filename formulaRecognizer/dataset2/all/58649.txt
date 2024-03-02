@@ -1,0 +1,1 @@
+\text { 很 明 显 } \sin \alpha \cos \beta , \sin \beta \cos \gamma , \sin \gamma \cos \alpha \text { 不 可 能 均 大 于 } \frac { 1 } { 2 }

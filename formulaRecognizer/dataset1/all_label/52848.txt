@@ -1,0 +1,1 @@
+\overrightarrow { B E } = \overrightarrow { A B } + l \overrightarrow { A C } ( l \in \mathbf { R } )

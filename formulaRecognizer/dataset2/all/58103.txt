@@ -1,0 +1,1 @@
+f ( x ) \geqslant m ( x - 1 ) ^ { 2 } \text { 恒 成 立 }

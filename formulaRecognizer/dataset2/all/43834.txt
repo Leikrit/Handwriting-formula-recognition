@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sqrt { } 3 \cos 2 x + \sin 2 y

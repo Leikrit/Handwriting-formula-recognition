@@ -1,0 +1,1 @@
+\sin \left( \frac { \pi } { 6 } - \theta \right) = \frac { 3 } { 5 }

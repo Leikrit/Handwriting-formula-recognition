@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n } \right\} \text { 的 前 } n \text { 项 和 } S _ { n } = 0 . 4 n + 0 . 3 \times 2 ^ { n - 1 } - 0 . 3

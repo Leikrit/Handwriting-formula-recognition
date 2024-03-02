@@ -1,0 +1,1 @@
+\tan \left( 2 \alpha + \frac { 5 \pi } { 7 } \right)

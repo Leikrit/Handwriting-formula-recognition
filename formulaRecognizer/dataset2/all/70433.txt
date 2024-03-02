@@ -1,0 +1,1 @@
+\text { 有 限 集 合 } S \text { 中 元 素 的 个 数 记 做 } \o p e r a t o r n a m e { c a r d } ( S )

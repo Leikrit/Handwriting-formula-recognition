@@ -1,0 +1,1 @@
+\sqrt { 4 - x ^ { 2 } } \text { 关 于 } f ( x ) = 3 x + b \text { 的 }

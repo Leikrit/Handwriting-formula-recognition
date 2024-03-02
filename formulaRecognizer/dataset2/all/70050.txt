@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \ln ( | x | - 1 ) - \log _ { \frac { 1 } { 2 } } \left( x ^ { 2 } + 1 \right)

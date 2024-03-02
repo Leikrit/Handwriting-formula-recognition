@@ -1,0 +1,1 @@
+\frac { | \overrightarrow { M A } | } { | \overrightarrow { M B } | } = \frac { \left| \overrightarrow { A A _ { 1 } } \right| } { \left| \overrightarrow { B B _ { 1 } } \right| } = \frac { | \overrightarrow { A F } | } { | \overrightarrow { B F } | }

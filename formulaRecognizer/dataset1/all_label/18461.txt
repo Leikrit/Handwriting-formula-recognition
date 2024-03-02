@@ -1,0 +1,1 @@
+z = | z | ( \cos \theta + \mathrm { i } \sin \theta ) ( 0 \leq s l a n t \theta < 2 \pi )

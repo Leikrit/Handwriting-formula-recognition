@@ -1,0 +1,1 @@
+\text { 所 以 } V B = V C = \sqrt { A V ^ { 2 } + A B ^ { 2 } } = \sqrt { 2 ^ { 2 } + 2 ^ { 2 } } = 2 \sqrt { 2 }

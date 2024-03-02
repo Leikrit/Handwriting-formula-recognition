@@ -1,0 +1,1 @@
+\text { 线 段 } P Q _ { 1 } \text { 长 度 的 取 值 范 围 是 } \left[ \frac { \sqrt { 5 } } { 5 } , 1 \right)

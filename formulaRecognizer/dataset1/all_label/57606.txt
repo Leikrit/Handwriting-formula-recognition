@@ -1,0 +1,1 @@
+\left[ 0 , \frac { \ln 3 } { 3 } \right]

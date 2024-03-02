@@ -1,0 +1,1 @@
+\text { 对 于 随 机 选 取 的 } a , b \in \{ 1 , 2 , \cdots , n \} \text { ( } a \text { 和 } b

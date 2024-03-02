@@ -1,0 +1,1 @@
+A ^ { \prime } , B ^ { \prime } , A A ^ { \prime } = 3 , B B ^ { \prime } = 2

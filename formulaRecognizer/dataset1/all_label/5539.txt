@@ -1,0 +1,1 @@
+y = \log _ { a } \left( x + \frac { 1 } { 2 } \right)

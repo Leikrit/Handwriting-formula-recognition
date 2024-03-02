@@ -1,0 +1,1 @@
+\overrightarrow { C B } = \lambda \overrightarrow { P A } + \overrightarrow { P B }

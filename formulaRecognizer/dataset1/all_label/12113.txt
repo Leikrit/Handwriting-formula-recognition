@@ -1,0 +1,1 @@
+p : \frac { a } { \sin B } = \frac { b } { \sin C } = \frac { c } { \sin A }

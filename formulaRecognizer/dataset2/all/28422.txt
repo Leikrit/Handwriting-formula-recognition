@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } A = \left\{ a , a b , \log _ { 2 } ( a b ) \right\} \text { 和 集 合 } B = \{ 0 , | a |

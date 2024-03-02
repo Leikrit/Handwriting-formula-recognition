@@ -1,0 +1,1 @@
+= b _ { 1 } \cdot \left( \frac { 1 } { n } - \frac { 1 } { n + 1 } \right) + b _ { 2 } \cdot \left( \frac { 1 } { n } - \frac { 1 } { n + 1 } \right) + \cdots + b _ { n } \cdot \left( \frac { 1 } { n } - \frac { 1 } { n + 1 } \right)

@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } = \frac { \mathrm { e } ^ { 0 } } { 0 + 2 } < h ( a ) = \frac { \mathrm { e } ^ { x _ { a } } } { x _ { a } + 2 } \leq s l a n t \frac { \mathrm { e } ^ { 2 } } { 2 + 2 } = \frac { \mathrm { e } ^ { 2 } } { 4 }

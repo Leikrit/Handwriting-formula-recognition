@@ -1,0 +1,1 @@
+\overrightarrow { B C } + \frac { 1 } { 2 } \overrightarrow { B A }

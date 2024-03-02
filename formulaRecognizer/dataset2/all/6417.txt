@@ -1,0 +1,1 @@
+\left( \frac { 3 } { 4 } \right) ^ { m } > \frac { 1 } { 2 ^ { n _ { 0 } } } \left( \left| a _ { n _ { 0 } } \right| - 2 \right)

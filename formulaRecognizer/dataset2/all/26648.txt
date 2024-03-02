@@ -1,0 +1,1 @@
+\text { 且 } \boldsymbol { e } _ { 3 } = \frac { 1 } { 2 } \boldsymbol { e } _ { 1 } + k \boldsymbol { e } _ { 2 } , k > 0

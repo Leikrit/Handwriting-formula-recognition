@@ -1,0 +1,1 @@
+( 2 a - \sqrt { 3 } c ) \cos B - \sqrt { 3 } b \cos C =

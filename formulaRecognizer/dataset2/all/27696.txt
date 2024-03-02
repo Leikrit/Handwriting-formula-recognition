@@ -1,0 +1,1 @@
+\text { 定 义 : } u \otimes v = u v

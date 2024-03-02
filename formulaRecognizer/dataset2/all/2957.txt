@@ -1,0 +1,1 @@
+\text { 设 } g ( x ) = \frac { x } { \mathrm { e } ^ { x } }

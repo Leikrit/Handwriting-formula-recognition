@@ -1,0 +1,1 @@
+\{ x \mid x \in \mathbf { R } , x \neq 1 \}

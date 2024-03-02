@@ -1,0 +1,1 @@
+\text { 已 知 两 曲 线 } y = x ^ { 3 } + a x \text { 和 } y = x ^ { 2 } + b x + c \text { 都 经 过 点 }

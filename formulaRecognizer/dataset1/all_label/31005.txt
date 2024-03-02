@@ -1,0 +1,1 @@
+\left( \dot { \ c o m p l e m e n t } _ { I } A \right) \cup B = I

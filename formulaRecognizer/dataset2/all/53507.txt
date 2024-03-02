@@ -1,0 +1,1 @@
+a _ { n + 1 } = \sqrt { a _ { n } ^ { 2 } - 2 a _ { n } + 2 } + b \left( n \in \mathbf { N } ^ { * } \right)

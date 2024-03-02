@@ -1,0 +1,1 @@
+\overrightarrow { P A } = m \overrightarrow { P B } + \left( \frac { 3 } { 2 } - m \right) \overrightarrow { P C }

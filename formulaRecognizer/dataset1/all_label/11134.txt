@@ -1,0 +1,1 @@
+\left( x - \frac { 2 } { x } \right) ^ { n }

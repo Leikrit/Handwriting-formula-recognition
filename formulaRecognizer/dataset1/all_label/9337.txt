@@ -1,0 +1,1 @@
+\dot { f } ( x ) = \mid A \sin ( \omega x + \varphi + B ) \left( A > 0 , \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)

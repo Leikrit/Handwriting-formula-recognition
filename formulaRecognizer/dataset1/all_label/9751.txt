@@ -1,0 +1,1 @@
+S _ { \mathrm { I } } + S _ { \mathrm { I V } } = S _ { \mathrm { I I } } + S _ { \mathrm { I I I } }

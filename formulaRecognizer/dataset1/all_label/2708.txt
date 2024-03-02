@@ -1,0 +1,1 @@
+= \frac { \sqrt { 1 + x } + \sqrt { 2 } x - 2 \sqrt { x ( 1 + x ) } } { 2 \sqrt { 2 } x \sqrt { 1 + x } }

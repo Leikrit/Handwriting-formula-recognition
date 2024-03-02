@@ -1,0 +1,1 @@
+\text { 求 } \lim _ { n \rightarrow \infty } \frac { | A B | ^ { 2 } } { | C D | ^ { 2 } }

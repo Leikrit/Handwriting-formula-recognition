@@ -1,0 +1,1 @@
+( \overrightarrow { A B } + \lambda \overrightarrow { B C } ) \cdot ( \overrightarrow { B C } + ( 1 - \lambda ) \overrightarrow { A B } ) = ( 1 - \lambda ) \overrightarrow { A B } ^ { 2 } + \lambda \overrightarrow { B C } ^ { 2 } + \left( \lambda - \lambda ^ { 2 } + 1 \right) \overrightarrow { A B } \cdot \overrightarrow { B C }

@@ -1,0 +1,1 @@
+\text { 且 } \overrightarrow { A B } = \overrightarrow { M B } + \overrightarrow { M C } , \overrightarrow { M B } \cdot \overrightarrow { M C } = - \frac { 1 } { 2 }

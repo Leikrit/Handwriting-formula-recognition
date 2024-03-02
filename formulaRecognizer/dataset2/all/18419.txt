@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 6 \sin ( \omega x ) \sin ^ { 2 } \left( \frac { \omega x } { 2 } + \frac { \pi } { 4 } \right) +

@@ -1,0 +1,1 @@
+\log _ { a } x - 4 \log _ { a } ^ { 2 } x + 1 2 \log _ { a } ^ { 3 } x + \cdots + n ( - 2 ) ^ { n - 1 } \log _ { a ^ { n } } x >

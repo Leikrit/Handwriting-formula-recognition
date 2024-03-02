@@ -1,0 +1,1 @@
+\overrightarrow { P F } \cdot \overrightarrow { O Q } = ( - 1 - m , - n ) \cdot ( - 3 , t ) = 3 + 3 m - n t = 3 + 3 m - 3 - 3 m = 0

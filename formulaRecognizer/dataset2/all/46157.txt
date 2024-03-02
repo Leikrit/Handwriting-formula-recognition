@@ -1,0 +1,1 @@
+\text { 则 满 足 关 系 式 } ( x \oplus x ) \oplus A _ { 2 } = A _ { 0 } \text { 的 } x ( x \in S ) \text { 的 个 }

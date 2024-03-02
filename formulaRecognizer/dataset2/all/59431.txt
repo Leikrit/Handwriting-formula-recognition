@@ -1,0 +1,1 @@
+\text { 设 函 数 } y = \log _ { a } \left( a x ^ { 2 } + x + a \right) \text { 的 定 义 域 是 } \mathbf { R } \text { 时 }

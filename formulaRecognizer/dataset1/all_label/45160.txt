@@ -1,0 +1,1 @@
+B ) = \sum _ { i = 1 } ^ { n } \left| a _ { i } - b _ { i } \right|

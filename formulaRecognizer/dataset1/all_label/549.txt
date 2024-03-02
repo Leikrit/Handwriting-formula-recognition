@@ -1,0 +1,1 @@
+\forall x \in \left( - \frac { \pi } { 2 } , 0 \right) , x < \tan x

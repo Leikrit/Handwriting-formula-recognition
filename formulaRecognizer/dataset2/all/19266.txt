@@ -1,0 +1,1 @@
+A B C D E F \text { 内 的 一 点 }

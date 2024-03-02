@@ -1,0 +1,1 @@
+\left\{ \frac { 1 } { d _ { k } d _ { k + 1 } } \right\}

@@ -1,0 +1,1 @@
+\forall x \in \mathbf { R } , \ e x i s t s n \in \mathbf { N } ^ { * }

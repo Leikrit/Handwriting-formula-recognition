@@ -1,0 +1,1 @@
+1 = 2 \log _ { 2 } \left( b _ { n } + 1 \right)

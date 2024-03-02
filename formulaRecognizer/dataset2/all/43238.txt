@@ -1,0 +1,1 @@
+\text { 向 量 } \boldsymbol { a } \text { 与 向 量 } \boldsymbol { b } \text { 的 向 量 积 仍 是 向 量 }

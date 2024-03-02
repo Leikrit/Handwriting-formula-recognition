@@ -1,0 +1,1 @@
+\text { 有 } \left| f ^ { \prime } ( x ) \right| \leq s l a n t 1 + a

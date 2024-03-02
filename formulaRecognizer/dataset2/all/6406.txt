@@ -1,0 +1,1 @@
+\left. \frac { \left| a _ { n + 2 } \right| } { 2 ^ { n + 2 } } \right) + \cdots + \left( \frac { \left| a _ { m - 1 } \right| } { 2 ^ { m - 1 } } - \frac { \left| a _ { m } \right| } { 2 ^ { m } } \right)

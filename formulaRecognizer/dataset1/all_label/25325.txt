@@ -1,0 +1,1 @@
+| A Q | ^ { 2 } + \left| Q F _ { 2 } \right| ^ { 2 } = \left| A F _ { 2 } \right| ^ { 2 }

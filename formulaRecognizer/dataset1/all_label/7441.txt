@@ -1,0 +1,1 @@
+\theta = \alpha + \frac { \pi } { 2 }

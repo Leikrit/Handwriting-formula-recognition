@@ -1,0 +1,1 @@
+\text { 复 数 } z = \frac { - 1 + \mathrm { i } } { 1 + \mathrm { i } } - 1

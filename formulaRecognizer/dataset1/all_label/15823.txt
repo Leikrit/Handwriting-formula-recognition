@@ -1,0 +1,1 @@
+f ( x ) = \sum _ { n = 1 } ^ { 7 } \frac { \sin [ ( 2 n - 1 ) x ] } { 2 n - 1 } \left( n \in \mathbf { N } ^ { * } \right)

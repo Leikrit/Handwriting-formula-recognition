@@ -1,0 +1,1 @@
+a _ { n } \leq s l a n t T ( n = 1 , 2 , \cdots )

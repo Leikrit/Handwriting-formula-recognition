@@ -1,0 +1,1 @@
+S _ { \omega } = \{ \theta \mid f ( x ) = \cos [ \omega ( x + \theta ) ]

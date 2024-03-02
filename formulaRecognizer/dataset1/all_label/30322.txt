@@ -1,0 +1,1 @@
+M = \left\{ x \mid x = \frac { k } { 2 } + \frac { 1 } { 4 } , k \in \mathbf { Z } \right\}

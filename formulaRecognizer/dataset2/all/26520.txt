@@ -1,0 +1,1 @@
+\left. C , D \in \mathbf { R } , A ^ { 2 } + B ^ { 2 } + C ^ { 2 } \neq 0 \right)

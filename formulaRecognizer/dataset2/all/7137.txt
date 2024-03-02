@@ -1,0 +1,1 @@
+\text { 令 } a = f \left( \sin \frac { 2 \pi } { 7 } \right)

@@ -1,0 +1,1 @@
+\frac { \ln a } { a } = \frac { \ln b } { b }

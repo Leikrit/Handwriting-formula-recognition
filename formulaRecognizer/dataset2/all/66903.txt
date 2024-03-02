@@ -1,0 +1,1 @@
+x _ { 1 } x _ { 2 } x _ { 3 } \text { 的 取 值 范 围 为 } \left( \frac { 5 } { 3 6 } , \frac { 1 } { 2 } \right)

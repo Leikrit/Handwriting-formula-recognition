@@ -1,0 +1,1 @@
+| P M | = | P N | \text { 且 } P M \perp P N

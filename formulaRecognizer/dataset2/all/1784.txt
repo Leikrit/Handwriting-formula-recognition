@@ -1,0 +1,1 @@
+\text { 且 满 足 } S _ { n } + a _ { n } = \frac { 1 } { 2 } \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+S _ { \triangle I P F _ { 1 } } = S _ { \triangle I P F _ { 2 } } + \lambda S _ { \triangle I F _ { 1 } F _ { 2 } }

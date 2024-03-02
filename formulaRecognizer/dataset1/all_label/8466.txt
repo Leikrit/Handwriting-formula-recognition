@@ -1,0 +1,1 @@
+\tan A \tan B \tan C

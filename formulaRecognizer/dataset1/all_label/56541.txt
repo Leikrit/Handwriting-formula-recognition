@@ -1,0 +1,1 @@
+( 2 c - b ) \sin C = 2 ( a \sin A - b \sin B )

@@ -1,0 +1,1 @@
+\text { 已 知 过 点 } \mathrm { P } ( 0 , 3 \sqrt { 2 } ) \text { 且 斜 率 为 } \mathrm { k } \text { 的 直 线 与 圆 心 在 原 点 半 径 为 } 3 \text { 的 圆 相 交 }

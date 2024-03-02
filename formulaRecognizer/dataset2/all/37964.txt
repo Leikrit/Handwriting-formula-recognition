@@ -1,0 +1,1 @@
+t = \left( 1 - a ^ { 2 } \right) y ^ { 2 } - 2 y + a ^ { 2 } + 1 , - 1 \leq s l a n t y \leq s l a n t 1

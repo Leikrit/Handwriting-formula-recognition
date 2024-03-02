@@ -1,0 +1,1 @@
+\text { 若 } \left( \frac { x } { 2 } - \frac { 1 } { \sqrt [ 3 ] { x } } \right) ^ { a } \text { 的 展 开 式 中 只 有 第 } 5 \text { 项 的 二 项 式 系 数 最 }

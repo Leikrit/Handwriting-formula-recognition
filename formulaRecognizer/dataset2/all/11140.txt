@@ -1,0 +1,1 @@
+\ t h e r e f o r e ( \boldsymbol { a } + \boldsymbol { b } ) \cdot \boldsymbol { a } = 2 ( m + 2 ) - 2 = 0

@@ -1,0 +1,1 @@
+x = \log _ { a } \sqrt { 2 } + \log _ { a } \sqrt { 3 }

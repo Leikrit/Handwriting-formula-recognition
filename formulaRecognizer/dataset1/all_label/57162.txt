@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } \left| F _ { 1 } F _ { 2 } \right| \cdot y _ { M } = c \cdot y _ { M } = \sqrt { 3 } y _ { M }

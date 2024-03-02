@@ -1,0 +1,1 @@
+g ( x ) = \sin ( a \pi x ) \cdot \ln \left( a ^ { x } + a ^ { - x } \right)

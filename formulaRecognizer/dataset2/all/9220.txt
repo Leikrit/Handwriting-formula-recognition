@@ -1,0 +1,1 @@
+\text { 使 得 } f ( x ) = a \sin x + g ( x ) + 2

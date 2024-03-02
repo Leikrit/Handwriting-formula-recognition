@@ -1,0 +1,1 @@
+\text { 非 零 向 量 } a , b , c \text { 满 足 } a \cdot b = a \cdot c , a , b \text { 的 夹 角 为 } \frac { \pi } { 6 }

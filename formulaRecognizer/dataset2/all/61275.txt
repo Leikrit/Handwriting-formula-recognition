@@ -1,0 +1,1 @@
+\text { 点 } A \left( 1 , \frac { 1 } { 2 } \right) , B ( 1 , 2 )

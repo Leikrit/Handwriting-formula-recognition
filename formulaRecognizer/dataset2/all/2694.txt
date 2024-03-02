@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { 2 } { x } - x - \frac { \left| \log _ { 2 } x \right| } { x }

@@ -1,0 +1,1 @@
+\left( \frac { 2 p } { \lambda } - x _ { 0 } , y _ { 0 } - \frac { 2 x _ { 0 } } { \lambda } \right)

@@ -1,0 +1,1 @@
+\boldsymbol { a } = \left( \sin \left( 3 x + \frac { \pi } { 3 } \right) , 2 \right) , \boldsymbol { b } = ( 2 , \sin ( 3 x + \pi ) )

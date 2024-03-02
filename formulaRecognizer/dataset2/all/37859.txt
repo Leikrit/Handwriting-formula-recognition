@@ -1,0 +1,1 @@
+\text { 若 函 数 } f \left( 2 ^ { x } \right) \text { 的 定 义 域 为 } [ - 1 , 1 ]

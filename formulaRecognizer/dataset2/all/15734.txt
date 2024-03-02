@@ -1,0 +1,1 @@
+| \overrightarrow { B F } | = \frac { b ^ { 2 } } { a + c \cos \theta } = \frac { 5 } { 8 } c

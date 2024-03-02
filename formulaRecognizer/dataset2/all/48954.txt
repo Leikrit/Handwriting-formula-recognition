@@ -1,0 +1,1 @@
+\left\{ x \in \mathbf { R } \mid \frac { 1 } { x } > - 1 \right\}

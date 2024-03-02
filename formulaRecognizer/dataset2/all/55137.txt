@@ -1,0 +1,1 @@
+P , \overrightarrow { P A } \cdot \overrightarrow { P B } > 0

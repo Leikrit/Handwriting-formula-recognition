@@ -1,0 +1,1 @@
+\text { 求 证 : 函 数 } f ( x ) = ( x - 1 ) \mathrm { e } ^ { x } - x \text { 有 唯 一 }

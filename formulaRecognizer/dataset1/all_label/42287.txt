@@ -1,0 +1,1 @@
+\text { 设 } \mathrm { i } \text { 为 虚 数 单 位 , 则 } ( x + \mathrm { i } ) ^ { 6 } \text { 的 展 开 式 中 含 } x ^ { 4 } \text { 的 项 }

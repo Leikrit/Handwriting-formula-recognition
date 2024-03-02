@@ -1,0 +1,1 @@
+f ( 2 - x ) \geqslant f ( x + 2 m )

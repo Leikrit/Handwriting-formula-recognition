@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = ( x - 1 ) ( x - a ) = 0 \Rightarrow x _ { 1 } = 1 , x _ { 2 } = a

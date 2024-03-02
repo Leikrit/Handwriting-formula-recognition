@@ -1,0 +1,1 @@
+a \sin B = b \cos \left( A + \frac { \pi } { 6 } \right)

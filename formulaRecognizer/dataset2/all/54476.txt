@@ -1,0 +1,1 @@
+\text { 点 } E \text { 满 足 } \overrightarrow { E B } = 4 \overrightarrow { E C }

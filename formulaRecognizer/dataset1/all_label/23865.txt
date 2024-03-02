@@ -1,0 +1,1 @@
+x _ { 0 } \in \left\{ x \mid f ( x ) - \frac { 1 } { 2 } x ^ { 2 } \geqslant f ( 1 - x ) - \frac { 1 } { 2 } ( 1 - x ) ^ { 2 } \right\}

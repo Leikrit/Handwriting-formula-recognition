@@ -1,0 +1,1 @@
+\text { 由 } \frac { a } { \sin A } = \frac { b } { \sin B }

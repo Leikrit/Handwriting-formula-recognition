@@ -1,0 +1,1 @@
+P ( \zeta \leq s l a n t 0 ) = P ( \zeta \geqslant a )

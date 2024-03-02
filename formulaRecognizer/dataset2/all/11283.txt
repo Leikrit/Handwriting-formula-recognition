@@ -1,0 +1,1 @@
+\text { 有 } f ( a + b ) = f ( a ) \cdot f ( b )

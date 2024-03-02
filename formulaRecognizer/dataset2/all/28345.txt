@@ -1,0 +1,1 @@
+\text { 已 知 } D = \{ ( x , y ) | | x | + | y \mid \leq s l a n t 1 \}

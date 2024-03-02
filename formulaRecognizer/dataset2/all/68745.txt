@@ -1,0 +1,1 @@
+f ( x ) = \cos ^ { 4 } x - 2 \sin x \cos x - \sin ^ { 4 } x

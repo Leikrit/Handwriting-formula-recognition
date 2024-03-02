@@ -1,0 +1,1 @@
+h = \sin \theta + 2 \sin \varphi

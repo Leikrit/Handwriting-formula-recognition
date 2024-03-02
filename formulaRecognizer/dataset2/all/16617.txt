@@ -1,0 +1,1 @@
+\ a n g l e D A B = \frac { \pi } { 3 } , \overrightarrow { B M } = \overrightarrow { M C }

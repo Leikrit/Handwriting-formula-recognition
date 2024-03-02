@@ -1,0 +1,1 @@
+\text { 现 取 其 中 } k \left( k \in \mathbf { N } ^ { * } \text { 且 } k \geqslant 2 \right) \text { 份 血 液 样 本 }

@@ -1,0 +1,1 @@
+\overrightarrow { P _ { i } F _ { 1 } } \cdot \overrightarrow { P _ { i } F _ { 2 } } = - \frac { c ^ { 2 } } { 3 }

@@ -1,0 +1,1 @@
+g ( x ) \text { 在 区 间 } \left[ \frac { \pi } { 1 2 } , \frac { 1 3 \pi } { 1 2 } \right] \text { 上 的 图 像 与 直 线 } y = 2 \text { 所 围 成 }

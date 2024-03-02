@@ -1,0 +1,1 @@
+\text { 满 足 } C ( k ) \leq s l a n t \frac { 1 } { 5 } ( k = 1 , 2 , 3 , 4 ) \text { 的 序 }

@@ -1,0 +1,1 @@
+f ( x ) \text { 的 图 像 的 对 称 轴 方 程 为 } x = k \pi + \frac { \pi } { 3 } ( k \in \mathbf { Z } )

@@ -1,0 +1,1 @@
+4 \overrightarrow { D E } \cdot \overrightarrow { D C } = \overrightarrow { E C } \cdot \overrightarrow { D C }

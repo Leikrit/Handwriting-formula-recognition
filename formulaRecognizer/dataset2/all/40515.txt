@@ -1,0 +1,1 @@
+\left| \log _ { ( 1 + a ) } ( 1 - a ) - \log _ { ( 1 - a ) } ( 1 + a ) \right| > \left| \log _ { ( 1 + a ) } ( 1 - a ) \right| -

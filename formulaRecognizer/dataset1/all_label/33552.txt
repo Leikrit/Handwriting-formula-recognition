@@ -1,0 +1,1 @@
+f ( x ) = 2 a - \frac { b } { x } - \ln x ( a \in \mathbf { Z } ) .

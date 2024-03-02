@@ -1,0 +1,1 @@
+\text { 设 } g ( x ) = \left( x ^ { 2 } + 1 \right) f ( x ) - m \mathrm { e } ^ { x }

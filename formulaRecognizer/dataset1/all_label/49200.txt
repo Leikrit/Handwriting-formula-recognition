@@ -1,0 +1,1 @@
+f ( x ) \geqslant f ( 0 ) = 1 > 0

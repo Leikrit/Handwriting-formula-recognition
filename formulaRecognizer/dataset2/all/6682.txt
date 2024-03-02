@@ -1,0 +1,1 @@
+\text { 段 } A B \text { 的 中 点 为 } C \text { 且 } | A B | \text { 最 小 值 为 } 1

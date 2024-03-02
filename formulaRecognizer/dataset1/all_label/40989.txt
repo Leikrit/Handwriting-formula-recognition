@@ -1,0 +1,1 @@
+f ( x ) = n x - x ^ { n } , x \in \mathbf { R }

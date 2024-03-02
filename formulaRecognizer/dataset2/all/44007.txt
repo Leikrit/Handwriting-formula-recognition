@@ -1,0 +1,1 @@
+\text { 设 点 } A , B , C , D \text { 变 化 后 的 对 应 点 分 别 是 } A ^ { \prime } , B ^ { \prime } , C ^ { \prime } , D ^ { \prime }

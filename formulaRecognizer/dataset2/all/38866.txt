@@ -1,0 +1,1 @@
+P \left( X ^ { 2 } \geqslant k \right)

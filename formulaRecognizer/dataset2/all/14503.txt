@@ -1,0 +1,1 @@
+( 2 q - 1 ) x \text { 在 } [ - 1 , 2 ] \text { 上 的 值 域 为 } \left[ - 4 , \frac { 1 7 } { 8 } \right]

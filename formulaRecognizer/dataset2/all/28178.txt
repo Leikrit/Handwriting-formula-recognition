@@ -1,0 +1,1 @@
+\lim _ { x \rightarrow \infty } [ f ( x ) - g ( x ) ] = 0

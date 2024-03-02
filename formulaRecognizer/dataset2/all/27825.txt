@@ -1,0 +1,1 @@
+\text { 前 } n \text { 项 和 , 求 } T _ { 2 n } \text { . }

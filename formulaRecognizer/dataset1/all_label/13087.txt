@@ -1,0 +1,1 @@
+g ( x ) = \cos \left( \frac { 4 } { 3 } x - \frac { \pi } { 6 } \right)

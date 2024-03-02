@@ -1,0 +1,1 @@
+C E ^ { 2 } + E F ^ { 2 } = C F ^ { 2 } \Rightarrow 4 C E ^ { 2 } = 1 2 - a ^ { 2 }

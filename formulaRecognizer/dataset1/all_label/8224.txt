@@ -1,0 +1,1 @@
+| \boldsymbol { a } - x \boldsymbol { b } | ( x \in \mathbf { R } )

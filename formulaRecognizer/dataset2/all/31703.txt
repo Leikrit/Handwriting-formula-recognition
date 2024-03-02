@@ -1,0 +1,1 @@
+\text { 若 } ( 1 + \sqrt { 2 } ) ^ { 5 } = a + b \sqrt { 2 } ( a , b \text { 为 有 理 数 } )

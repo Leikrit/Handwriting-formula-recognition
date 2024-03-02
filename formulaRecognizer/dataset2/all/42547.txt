@@ -1,0 +1,1 @@
+\text { 由 题 意 知 } f ( 1 ) = a + b + c + 1 = 0 \Rightarrow c = - a - b - 1

@@ -1,0 +1,1 @@
+b _ { n } = a _ { n } \cos \frac { 2 n \pi } { 3 }

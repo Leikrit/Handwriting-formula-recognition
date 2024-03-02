@@ -1,0 +1,1 @@
+X _ { 2 } \sim B \left( 2 , \frac { 2 } { 5 } \right)

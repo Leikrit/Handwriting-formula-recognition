@@ -1,0 +1,1 @@
+\cos \frac { x } { 2 } - \sin ^ { 2 } \frac { x } { 2 } \text { 左 右 平 移 得 到 }

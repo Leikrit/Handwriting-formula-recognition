@@ -1,0 +1,1 @@
+| \boldsymbol { c } - \boldsymbol { a } + \lambda ( \boldsymbol { a } - \boldsymbol { b } ) | + \left| \frac { 1 } { 2 } \boldsymbol { a } + ( \lambda - 1 ) ( \boldsymbol { a } - \boldsymbol { b } ) \right| ( \lambda \in \mathbf { R } )

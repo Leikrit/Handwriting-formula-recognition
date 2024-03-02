@@ -1,0 +1,1 @@
+\text { 已 知 向 量 } \boldsymbol { a } \text { 在 向 量 } \boldsymbol { b } \text { 方 向 上 的 投 影 为 } - 1

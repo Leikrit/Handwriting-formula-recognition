@@ -1,0 +1,1 @@
+\overrightarrow { O D } = \lambda \overrightarrow { C E } + \mu \overrightarrow { O P } ( \lambda , \mu \in \mathbf { R } )

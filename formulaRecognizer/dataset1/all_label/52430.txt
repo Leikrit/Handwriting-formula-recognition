@@ -1,0 +1,1 @@
+\rho ( \sin \theta - \sqrt { 3 } \cos \theta ) = 4

@@ -1,0 +1,1 @@
+\text { 且 } ( x \ln x ) f ^ { \prime } ( x ) < f ( x )

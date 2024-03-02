@@ -1,0 +1,1 @@
+D C ^ { 2 } = A D ^ { 2 } + A C ^ { 2 } - 2 A D \cdot A C \cos \frac { \pi } { 6 }

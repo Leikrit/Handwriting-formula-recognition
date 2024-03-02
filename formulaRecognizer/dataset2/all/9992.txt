@@ -1,0 +1,1 @@
+x = \mathrm { i } \text { 是 方 程 } x ^ { 2 } + 1 = 0 \text { 在 复 数 集 } \mathbf { C } \text { 中 的 一 个 解 }

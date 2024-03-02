@@ -1,0 +1,1 @@
+c = \left( \frac { 1 } { 8 } \right) ^ { \frac { 1 } { 3 } }

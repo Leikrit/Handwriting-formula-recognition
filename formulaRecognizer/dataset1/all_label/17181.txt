@@ -1,0 +1,1 @@
+f ( x ) = ( x - m ) ^ { 2 } + \left( a \mathrm { e } ^ { x } - 3 m \right) ^ { 2 }

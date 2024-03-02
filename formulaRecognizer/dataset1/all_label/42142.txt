@@ -1,0 +1,1 @@
+h ^ { \prime \prime } ( t ) = 2 \left( \frac { 1 } { t } - 1 \right)

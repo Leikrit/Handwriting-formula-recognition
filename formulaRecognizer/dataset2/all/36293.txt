@@ -1,0 +1,1 @@
+\text { 由 } \frac { 1 } { 2 } < a \leq s l a n t \frac { \mathrm { e } ^ { 2 } } { 2 } \text { 得 } 0 < \ln ( 2 a ) \leq s l a n t 2

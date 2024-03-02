@@ -1,0 +1,1 @@
+\frac { S _ { \triangle C B D } } { S _ { \triangle C A E } } = \frac { C B \cdot C D } { C A \cdot C E } = \frac { 1 } { 2 } \cdot \frac { x _ { 1 } } { x _ { 2 } } = \frac { 1 } { 7 }

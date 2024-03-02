@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { 2 x - 3 \sqrt { 1 + x } } { 4 x \sqrt { 1 + x } } = \frac { ( 4 x + 3 ) ( x - 3 ) } { 4 x \sqrt { 1 + x } \cdot ( 2 x + 3 \sqrt { 1 + x } ) }

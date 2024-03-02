@@ -1,0 +1,1 @@
+\tan \left( 2 A - \frac { \pi } { 2 } \right) = \tan B

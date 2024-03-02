@@ -1,0 +1,1 @@
+c _ { 1 } = 1 , c _ { n } = a _ { n + 1 } - a _ { n } , c _ { n + 1 } = \frac { b _ { n } } { b _ { n + 2 } } c _ { n } , n \in \mathbf { N } ^ { * }

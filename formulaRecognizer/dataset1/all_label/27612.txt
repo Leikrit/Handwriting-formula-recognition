@@ -1,0 +1,1 @@
+( m x + \sqrt { x } ) ^ { n } \left( n \in \mathbf { N } ^ { * } \right)

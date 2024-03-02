@@ -1,0 +1,1 @@
+a _ { n } , B ( n ) = a _ { 2 } + a _ { 3 } + \cdots + a _ { n + 1 } , C ( n ) = a _ { 3 } + a _ { 4 } + \cdots + a _ { n + 2 } , n = 1 , 2 , \cdots

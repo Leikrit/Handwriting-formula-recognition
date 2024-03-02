@@ -1,0 +1,1 @@
+\cos \omega x - \sqrt { 3 } \sin \omega x

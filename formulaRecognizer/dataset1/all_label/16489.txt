@@ -1,0 +1,1 @@
+| \boldsymbol { a } | = 3 , \quad | \boldsymbol { b } | = 5 , \quad \boldsymbol { a } \cdot \boldsymbol { b } = 1 2

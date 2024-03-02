@@ -1,0 +1,1 @@
+\sqrt { \sum _ { i = 1 } ^ { 7 } \left( y _ { i } - \bar { y } \right) ^ { 2 } } = 0 . 5 5

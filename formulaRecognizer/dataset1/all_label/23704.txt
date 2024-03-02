@@ -1,0 +1,1 @@
+f ( x ) = \left( \mathrm { e } ^ { x } - 1 \right) ( x - 1 ) ^ { k } ( k = 1 , 2 )

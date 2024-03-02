@@ -1,0 +1,1 @@
+g ( x ) \text { 在 区 间 } \left[ 0 , \frac { \pi } { 2 } \right] \text { 上 单 调 递 增 }

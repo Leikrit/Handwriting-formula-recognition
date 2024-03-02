@@ -1,0 +1,1 @@
+\text { 因 为 } \mathrm { e } ^ { x } > 0

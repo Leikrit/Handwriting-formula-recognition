@@ -1,0 +1,1 @@
+\text { 型 : } \ln f = \ln k - \frac { \ln W } { 3 } \text { ( 其 中 } f \text { 是 脉 搏 率 ( 心 跳 次 数 } / \mathrm { m i n } \text { ) , 体 重 为 } W ( g ) , k \text { 为 正 的 待 定 系 数 ) }

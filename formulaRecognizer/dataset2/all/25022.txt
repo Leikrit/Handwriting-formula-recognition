@@ -1,0 +1,1 @@
+v = \frac { a } { b } + \frac { ( a + b ) ^ { 2 } } { 4 a b } - \frac { 1 } { 2 } = \frac { 1 } { 4 } \left( \frac { 5 a } { b } + \frac { b } { a } \right) \geqslant \frac { \sqrt { 5 } } { 2 }

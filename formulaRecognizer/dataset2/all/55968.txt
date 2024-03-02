@@ -1,0 +1,1 @@
+\text { 动 直 线 } l : y = k _ { 1 } x - \frac { \sqrt { 3 } } { 2 } \text { 交 椭 圆 } E \text { 于 } A , B

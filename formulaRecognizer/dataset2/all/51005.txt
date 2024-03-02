@@ -1,0 +1,1 @@
+\sin x _ { 0 } + \ln x _ { 0 } \geqslant x _ { 0 }

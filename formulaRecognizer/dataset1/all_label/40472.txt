@@ -1,0 +1,1 @@
+\frac { | \boldsymbol { a } | } { \sin \frac { \pi } { 4 } } = \frac { | \boldsymbol { b } | } { \sin \frac { \pi } { 3 } }

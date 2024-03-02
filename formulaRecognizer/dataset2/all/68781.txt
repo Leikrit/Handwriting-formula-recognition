@@ -1,0 +1,1 @@
+b = f \left( \frac { 3 } { 2 } \right)

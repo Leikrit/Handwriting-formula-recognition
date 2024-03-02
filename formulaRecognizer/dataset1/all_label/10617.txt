@@ -1,0 +1,1 @@
+= ( 1 - a ) ^ { 2 } \cdot b + ( 1 + a ) ^ { 2 } \cdot \left( \frac { 1 } { 2 } - b \right) + 1 = 1 + \frac { 1 } { 2 } ( 1 + a ) ^ { 2 } - 4 a b

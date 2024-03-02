@@ -1,0 +1,1 @@
+f ( x ) = \frac { \left( \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } \right) \cdot \sin 3 x } { 2 }

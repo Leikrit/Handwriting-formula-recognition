@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \frac { \sin \theta } { 3 } x ^ { 3 } + \frac { \sqrt { 3 } \cos \theta } { 2 } x ^ { 2 } + \tan \theta

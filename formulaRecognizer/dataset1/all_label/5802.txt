@@ -1,0 +1,1 @@
+R \sin ( \omega t + \varphi ) \left( t \geqslant 0 , \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)

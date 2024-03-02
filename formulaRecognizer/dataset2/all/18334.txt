@@ -1,0 +1,1 @@
+\frac { b _ { 1 } b _ { 2 } \cdot \cdots \cdot b _ { n } } { a _ { 1 } a _ { 2 } \cdot \cdots \cdot a _ { n } } = \frac { 2 ^ { 1 } } { 1 ^ { 0 } } \cdot \frac { 3 ^ { 2 } } { 2 ^ { 1 } } \cdot \frac { 4 ^ { 3 } } { 3 ^ { 2 } } \cdot \cdots \cdot \frac { ( n + 1 ) ^ { n } } { n ^ { n - 1 } } = ( n + 1 ) ^ { n }

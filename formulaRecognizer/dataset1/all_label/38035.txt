@@ -1,0 +1,1 @@
+f ( x ) \geqslant b ( x - 1 ) ^ { 2 } + a ( \ln x + 1 )

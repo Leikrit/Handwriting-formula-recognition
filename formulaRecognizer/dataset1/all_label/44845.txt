@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { x } + \frac { x } { m } , g ( x ) = \frac { 1 } { m } x ^ { 2 } + \mathrm { e } x

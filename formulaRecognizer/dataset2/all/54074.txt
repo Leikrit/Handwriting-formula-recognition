@@ -1,0 +1,1 @@
+\text { 通 径 } | A B | = 2 b ^ { 2 } \text { 与 焦 距 } \left| F _ { 1 } F _ { 2 } \right| = 2 c \text { 的 比 为 } 2 : \sqrt { 3 }

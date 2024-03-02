@@ -1,0 +1,1 @@
+\frac { \ln x } { x } \text { 与 } g ( x ) = \frac { k } { x ^ { 2 } } \text { 图 象 的 两 个 不 同 的 交 点 }

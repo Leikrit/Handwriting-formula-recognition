@@ -1,0 +1,1 @@
+\text { 将 函 数 } f ( x ) = \sin ( \omega x + \varphi ) \text { 的 图 像 向 左 平 移 } \frac { \pi } { 2 }

@@ -1,0 +1,1 @@
+d \otimes ( a \oplus c ) = ( \quad ) \text { 。 }

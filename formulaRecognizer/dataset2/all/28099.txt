@@ -1,0 +1,1 @@
+\frac { 1 } { c } + \frac { 1 } { a } = \frac { 3 \cdot \frac { c } { a } } { a - c }

@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { \left| x ^ { 2 } - a \right| } ( a \in \mathbf { R } )

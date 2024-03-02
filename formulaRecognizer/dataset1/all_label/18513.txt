@@ -1,0 +1,1 @@
+2 k \pi - \frac { \pi } { 2 } < x < ( 2 k + 1 ) \pi ( k \in \mathbf { Z } )

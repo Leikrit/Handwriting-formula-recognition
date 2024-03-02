@@ -1,0 +1,1 @@
+\text { 已 知 点 } C ( c , 0 ) , D ( d , 0 ) ( c , d \in \mathbf { R } ) \text { 调 和 分 割 }

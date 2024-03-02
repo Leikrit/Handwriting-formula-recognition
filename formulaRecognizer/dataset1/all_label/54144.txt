@@ -1,0 +1,1 @@
+f ( x ) = x \mathrm { e } ^ { x } - \frac { 2 } { 3 } a x ^ { 3 } - a x ^ { 2 } , a \in \mathbf { R }

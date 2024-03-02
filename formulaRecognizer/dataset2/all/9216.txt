@@ -1,0 +1,1 @@
+\text { 设 二 项 式 } \left( x - \frac { 1 } { 2 } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right) \text { 展 开 式 的 二 }

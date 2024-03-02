@@ -1,0 +1,1 @@
+g ( x ) = f ( x ) \cdot \left( \mathrm { e } ^ { x } - 1 \right)

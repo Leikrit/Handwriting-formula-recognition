@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = 1 0 ^ { | g | x \mid } + x \sin x \text { 的 大 致 图 象 为 }

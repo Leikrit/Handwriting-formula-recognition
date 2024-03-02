@@ -1,0 +1,1 @@
+d = \frac { \left| - r ^ { 2 } \right| } { \sqrt { a ^ { 2 } + b ^ { 2 } } } > r

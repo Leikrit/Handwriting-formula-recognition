@@ -1,0 +1,1 @@
+\frac { 1 } { \left( \mathrm { e } ^ { x } \right) ^ { 2 } } \leq s l a n t

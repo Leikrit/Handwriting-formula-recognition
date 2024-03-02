@@ -1,0 +1,1 @@
+\ne g p : \ e x i s t s x \in \mathbf { R } , \sin x \geqslant 1

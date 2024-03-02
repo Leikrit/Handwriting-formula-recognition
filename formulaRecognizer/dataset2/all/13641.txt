@@ -1,0 +1,1 @@
+\overrightarrow { O P } = 2 \overrightarrow { O M _ { 1 } } + \sqrt { 3 } \overrightarrow { O M _ { 2 } }

@@ -1,0 +1,1 @@
+\text { 已 知 曲 线 } y = \ln x \text { 在 } A \left( x _ { 1 } , y _ { 1 } \right)

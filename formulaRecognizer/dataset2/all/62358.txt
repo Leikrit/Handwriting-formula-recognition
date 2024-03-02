@@ -1,0 +1,1 @@
+\text { 讨 论 } f ( x ) \text { 的 导 函 数 } f ^ { \prime } ( x ) \text { 零 点 的 个 数 }

@@ -1,0 +1,1 @@
+\text { 在 集 合 } A = \{ x \mid - 1 0 \leq s l a n t x \leq s l a n t 1 0 , x \in \mathbf { R } \} \text { 中 随 机 抽 取 一 个 数 值 作 }

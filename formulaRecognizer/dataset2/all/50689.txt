@@ -1,0 +1,1 @@
+\text { 向 量 } \boldsymbol { a } , \boldsymbol { b } \text { 在 边 长 为 } 1 \text { 的 正 方 形 网 格 中 的 位 置 如 图 所 示 }

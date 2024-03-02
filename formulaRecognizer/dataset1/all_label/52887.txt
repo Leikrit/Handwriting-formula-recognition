@@ -1,0 +1,1 @@
+\left| \cos < \boldsymbol { n } , \overrightarrow { \boldsymbol { C } C _ { 1 } } > \right| = \frac { 4 } { \sqrt { \frac { 4 \lambda ^ { 2 } } { ( \sqrt { 3 } - \sqrt { 3 } \lambda ) ^ { 2 } } + 1 + 4 \times 2 } } = \cos 4 5 ^ { \circ } = \frac { \sqrt { 2 } } { 2 }

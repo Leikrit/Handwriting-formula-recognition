@@ -1,0 +1,1 @@
+\text { 当 } k \text { 取 } ( n + 1 ) p \text { 的 整 数 部 分 }

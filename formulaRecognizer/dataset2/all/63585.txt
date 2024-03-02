@@ -1,0 +1,1 @@
+\left( x - \frac { 2 } { \sqrt { x } } \right) ^ { 8 } \text { 的 展 开 式 中 } x ^ { 2 }

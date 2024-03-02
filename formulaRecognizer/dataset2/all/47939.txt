@@ -1,0 +1,1 @@
+\overrightarrow { F A } = ( 2 , 0 , 0 )

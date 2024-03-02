@@ -1,0 +1,1 @@
+f ( x ) \in \left[ - \frac { 1 } { 2 } , 0 \right]

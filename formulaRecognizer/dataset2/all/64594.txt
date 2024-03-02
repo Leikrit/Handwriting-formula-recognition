@@ -1,0 +1,1 @@
+\text { 不 等 式 } \frac { 1 } { 2 ^ { n } } < a _ { k } \leq s l a n t \frac { 1 } { 2 ^ { n - 1 } } \left( n \in \mathbf { N } ^ { * } \right)

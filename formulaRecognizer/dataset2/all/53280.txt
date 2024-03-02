@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \sqrt { 2 x - 4 } ( x \geqslant 4 ) \text { 的 反 函 数 为 }

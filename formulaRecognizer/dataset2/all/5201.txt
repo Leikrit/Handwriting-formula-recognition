@@ -1,0 +1,1 @@
+\ e x i s t s k > 0 \text { , 使 得 } f ( x ) > k x \text { 恒 成 立 }

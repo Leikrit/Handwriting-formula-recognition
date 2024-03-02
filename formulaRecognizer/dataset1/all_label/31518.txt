@@ -1,0 +1,1 @@
+x ^ { 2 } + \frac { \left( y - \frac { 1 } { 2 } \right) ^ { 2 } } { 4 } = \frac { 1 } { 1 6 }

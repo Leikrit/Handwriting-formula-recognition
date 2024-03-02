@@ -1,0 +1,1 @@
+\text { 设 } f ( x ) = \frac { \sqrt { 2 } \sin \left( x + \frac { \pi } { 4 } \right) + 2 x ^ { 2 } + x } { 2 x ^ { 2 } + \cos x } \text { 的 最 大 值 与 最 小 值 分 别 为 } M , N

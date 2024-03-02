@@ -1,0 +1,1 @@
+\left( 2 x + \frac { 1 } { \sqrt { x } } \right) ^ { 7 }

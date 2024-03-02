@@ -1,0 +1,1 @@
+\text { 求 出 数 列 } \left\{ a _ { n } \right\} \text { 的 通 项 公 式 }

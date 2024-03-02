@@ -1,0 +1,1 @@
+P ( X = 3 ) = \frac { \mathrm { C } _ { 3 } ^ { 3 } \mathrm { C } _ { 6 } ^ { 0 } } { \mathrm { C } _ { 9 } ^ { 3 } } = \frac { 1 } { 8 4 }

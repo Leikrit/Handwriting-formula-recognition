@@ -1,0 +1,1 @@
+c _ { n } = \frac { b _ { n + 2 } \cdot 2 ^ { n } } { a _ { n } \cdot a _ { n + 1 } }

@@ -1,0 +1,1 @@
+\text { 这 样 就 证 明 了 } \left| a _ { n } \right| \geqslant 2 ^ { n - 1 } \left( \left| a _ { 1 } \right| - 2 \right) \left( n \in \mathbf { N } ^ { * } \right)

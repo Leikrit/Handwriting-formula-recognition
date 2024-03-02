@@ -1,0 +1,1 @@
+\overrightarrow { C E } = x \overrightarrow { A B } + y \overrightarrow { A C }

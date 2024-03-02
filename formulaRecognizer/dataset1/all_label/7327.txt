@@ -1,0 +1,1 @@
+\tan \left( \alpha - \frac { 7 } { 2 } \pi \right)

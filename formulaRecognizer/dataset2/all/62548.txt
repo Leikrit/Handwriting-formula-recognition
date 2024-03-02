@@ -1,0 +1,1 @@
+\forall n \in \mathbf { N } ^ { * } , a _ { n } < a _ { n + 1 }

@@ -1,0 +1,1 @@
+f ( x ) \geqslant \mathrm { e } ^ { x - 1 } - \ln x - 1

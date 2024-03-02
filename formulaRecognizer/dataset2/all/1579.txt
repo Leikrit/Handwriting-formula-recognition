@@ -1,0 +1,1 @@
+f ( x ) = \log _ { 3 } \left( x + \sqrt { x ^ { 2 } + 1 } \right) - \frac { 2 } { 3 ^ { x } + 1 }

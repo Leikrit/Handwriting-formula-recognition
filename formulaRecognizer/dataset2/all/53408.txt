@@ -1,0 +1,1 @@
+\text { 设 } h ( x ) = \frac { \sqrt { x } - \ln x - a } { x }

@@ -1,0 +1,1 @@
+( | \boldsymbol { b } | \cdot \boldsymbol { a } - | \boldsymbol { a } | \cdot \boldsymbol { b } ) \cdot \boldsymbol { c } = 0

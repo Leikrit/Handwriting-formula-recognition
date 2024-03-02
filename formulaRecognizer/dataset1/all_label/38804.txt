@@ -1,0 +1,1 @@
+B = \left( \lambda _ { 5 } - \lambda _ { 6 } , \lambda _ { 5 } + \lambda _ { 6 } \right)

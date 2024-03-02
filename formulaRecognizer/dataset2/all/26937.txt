@@ -1,0 +1,1 @@
+\text { 设 } g ( x ) = \mathrm { e } ^ { x } - x - 1

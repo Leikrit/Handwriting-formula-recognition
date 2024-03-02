@@ -1,0 +1,1 @@
+\hat { b } = \frac { \sum _ { i = 1 } ^ { n } \left( t _ { i } - \bar { t } \right) \left( y _ { i } - \bar { y } \right) } { \sum _ { i = 1 } ^ { n } \left( t _ { i } - \bar { t } \right) ^ { 2 } }

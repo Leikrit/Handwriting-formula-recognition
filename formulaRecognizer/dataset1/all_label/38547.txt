@@ -1,0 +1,1 @@
+\left( u _ { i } , v _ { i } \right) ( i = 1 , 2 , \cdots , 1 0 )

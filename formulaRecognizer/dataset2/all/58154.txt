@@ -1,0 +1,1 @@
+\text { 将 函 数 } y = \sin ( x - \theta ) \text { 的 图 像 } F \text { 向 右 平 移 } \frac { \pi } { 3 } \text { 个 }

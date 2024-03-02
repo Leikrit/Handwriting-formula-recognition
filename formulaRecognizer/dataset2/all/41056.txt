@@ -1,0 +1,1 @@
+P \left( x _ { 0 } , y _ { 0 } \right) \left( x _ { 0 } \neq 0 \right) \text { 作 斜 率 为 } k _ { 1 } , k _ { 2 } \text { 的 两 条 直 线 }

@@ -1,0 +1,1 @@
+b _ { n } = \frac { S _ { n } } { n } \left( n \in \mathbf { N } ^ { * } \right)

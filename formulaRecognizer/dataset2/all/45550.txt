@@ -1,0 +1,1 @@
+\text { 自 点 } A ( - 3 , 3 ) \text { 发 出 的 光 线 } l \text { 射 到 } x \text { 轴 上 }

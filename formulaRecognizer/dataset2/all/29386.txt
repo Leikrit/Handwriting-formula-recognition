@@ -1,0 +1,1 @@
+\text { 又 } | A B | = \sqrt { 1 + k ^ { 2 } } \left| x _ { 1 } - x _ { 2 } \right| = \sqrt { 1 + k ^ { 2 } } \sqrt { \left( x _ { 1 } + x _ { 2 } \right) ^ { 2 } - 4 x _ { 1 } x _ { 2 } }

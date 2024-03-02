@@ -1,0 +1,1 @@
+\text { 设 平 面 } A D E \text { 的 法 向 量 } \boldsymbol { n } = ( x , y , z )

@@ -1,0 +1,1 @@
+\text { 若 对 任 意 } b > a > 0 , \frac { f ( b ) - f ( a ) } { b - a } < 1 \text { 恒 成 立 }

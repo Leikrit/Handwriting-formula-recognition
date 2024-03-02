@@ -1,0 +1,1 @@
+y = \cos ^ { 2 } x + \sin x \left( | x | \leq s l a n t \frac { \pi } { 4 } \right)

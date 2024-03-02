@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } + \sin x } { 3 + \cos x }

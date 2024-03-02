@@ -1,0 +1,1 @@
+\text { 向 量 } \overrightarrow { A C } = \lambda \overrightarrow { D B } + \mu \overrightarrow { A P }

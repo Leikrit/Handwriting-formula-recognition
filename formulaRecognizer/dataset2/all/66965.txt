@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = A \sin ( \omega x + \varphi ) ( A > 0 , \omega > 0 ) \text { 的 图 象 是 由 }

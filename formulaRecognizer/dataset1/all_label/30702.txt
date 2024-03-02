@@ -1,0 +1,1 @@
+Z \sim N \left( \mu , \sigma ^ { 2 } \right)

@@ -1,0 +1,1 @@
+\text { 下 列 关 于 正 态 分 布 } N \left( \mu , \sigma ^ { 2 } \right) ( \sigma > 0 ) \text { 的 命 题 }

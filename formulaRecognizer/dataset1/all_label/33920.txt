@@ -1,0 +1,1 @@
+\tan 4 5 ^ { \circ } = \frac { 2 \tan 2 2 . 5 ^ { \circ } } { 1 - \tan ^ { 2 } 2 2 . 5 ^ { \circ } } = 1

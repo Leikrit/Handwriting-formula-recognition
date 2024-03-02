@@ -1,0 +1,1 @@
+f \left( x _ { 2 } \right) = \frac { 1 } { 2 } \left[ \pi - x _ { 1 } - \sin \left( 2 \pi - 2 x _ { 1 } \right) \right] = \frac { 1 } { 2 } \left[ \pi - x _ { 1 } + \sin 2 x _ { 1 } \right] = \frac { \pi } { 2 } - f \left( x _ { 1 } \right)

@@ -1,0 +1,1 @@
+\boldsymbol { a } = 3 \boldsymbol { e } _ { 1 } - 2 \boldsymbol { e } _ { 2 }

@@ -1,0 +1,1 @@
+a \equiv f \left( \frac { \pi } { 3 } \right)

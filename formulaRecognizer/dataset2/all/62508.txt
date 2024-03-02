@@ -1,0 +1,1 @@
+\left\{ x \mid x = 2 k \pi \pm \frac { \pi } { 6 } , k \in \mathbf { Z } \right\}

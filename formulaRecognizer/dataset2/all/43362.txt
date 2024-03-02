@@ -1,0 +1,1 @@
+\text { 则 不 等 式 } g ( 2 x + 1 ) \geqslant g ( x - 1 ) \text { 的 解 集 是 } ( - \infty , - 2 ] \cup [ 0 , + \infty )

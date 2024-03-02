@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \ln x - a x ^ { 2 } + \frac { 1 } { a } x ( a > 0 )

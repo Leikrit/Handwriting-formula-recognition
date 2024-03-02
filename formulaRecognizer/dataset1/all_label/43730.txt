@@ -1,0 +1,1 @@
+f ( x ) = \sin ( 2 x + \theta ) + \sqrt { 3 } \cos ( 2 x + \theta )

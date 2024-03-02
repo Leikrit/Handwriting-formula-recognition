@@ -1,0 +1,1 @@
+\text { 则 } G ^ { \prime } ( a ) = \mathrm { e } ^ { \frac { \pi } { 2 } a } - \mathrm { e } ^ { 2 }

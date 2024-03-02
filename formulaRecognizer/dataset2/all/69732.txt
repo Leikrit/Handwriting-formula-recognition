@@ -1,0 +1,1 @@
+\text { 曲 线 } y = x \mathrm { e } ^ { x } + \frac { m } { x + 1 } ( x < - 1 )

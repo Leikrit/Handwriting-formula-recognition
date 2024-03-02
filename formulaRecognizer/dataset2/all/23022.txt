@@ -1,0 +1,1 @@
+R = \l g \left( \frac { a + b } { 2 } \right) \geqslant \l g \frac { 2 \sqrt { a b } } { 2 } = \l g \sqrt { a b } = Q

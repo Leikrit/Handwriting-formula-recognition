@@ -1,0 +1,1 @@
+\frac { b } { \cos B } = \frac { \sqrt { 2 } a - c } { \cos C }

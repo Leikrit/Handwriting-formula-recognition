@@ -1,0 +1,1 @@
+= \left( x _ { 1 } - \frac { k } { 4 } \right) \left( x _ { 2 } - \frac { k } { 4 } \right) + 4 \left( x _ { 1 } ^ { 2 } - \frac { k ^ { 2 } } { 1 6 } \right) \left( x _ { 2 } ^ { 2 } - \frac { k ^ { 2 } } { 1 6 } \right)

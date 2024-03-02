@@ -1,0 +1,1 @@
+S = \frac { \sqrt { 3 } } { 2 } \overrightarrow { A C } \cdot \overrightarrow { A B }

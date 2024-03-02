@@ -1,0 +1,1 @@
+\left. y = 3 ^ { x } \right\}

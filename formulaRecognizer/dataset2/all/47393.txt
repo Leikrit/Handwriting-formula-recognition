@@ -1,0 +1,1 @@
+\left( \log _ { 2 } x \right) ^ { \prime } = \frac { 1 } { x \ln 2 }

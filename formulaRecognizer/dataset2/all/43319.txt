@@ -1,0 +1,1 @@
+\text { 函 数 } y = \log _ { 0 . 5 } \left( 4 + 3 x - x ^ { 2 } \right) \text { 的 单 调 递 增 区 间 是 }

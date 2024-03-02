@@ -1,0 +1,1 @@
+\overrightarrow { A D } + \overrightarrow { B E } + \overrightarrow { C F }

@@ -1,0 +1,1 @@
+\text { 故 所 求 圆 方 程 是 } \left( A b ^ { 2 } + B a ^ { 2 } \right) \left( x ^ { 2 } + y ^ { 2 } \right) - 2 B a x - 2 A b y + A + B - \left( a ^ { 2 } + b ^ { 2 } \right) = 0

@@ -1,0 +1,1 @@
+M N \text { 的 方 程 为 } y - \frac { 2 } { m } = \frac { m } { 1 - m ^ { 2 } } \left( x - \frac { 2 } { m ^ { 2 } } - 2 \right)

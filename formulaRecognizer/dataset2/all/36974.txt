@@ -1,0 +1,1 @@
+f ( x ) = \sin x , x \in \mathbf { R }

@@ -1,0 +1,1 @@
+\text { 证 明 : 当 } n \in \mathbf { N } ^ { * } \text { 时 }

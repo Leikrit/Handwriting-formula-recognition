@@ -1,0 +1,1 @@
+\frac { x _ { 1 } f \left( x _ { 1 } \right) - x _ { 2 } f \left( x _ { 2 } \right) } { x _ { 1 } - x _ { 2 } } < 0

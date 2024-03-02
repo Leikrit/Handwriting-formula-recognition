@@ -1,0 +1,1 @@
+\left| 1 0 \pi - \alpha _ { 1 } - \alpha _ { 2 } \right| = \left| 1 0 + \frac { 1 } { 2 } - 2 k _ { 1 } + \frac { 1 } { 4 } + k _ { 2 } \right| \cdot \pi \geqslant \frac { \pi } { 4 }

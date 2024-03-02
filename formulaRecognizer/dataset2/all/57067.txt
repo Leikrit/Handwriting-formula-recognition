@@ -1,0 +1,1 @@
+\left. + \frac { 9 } { 1 + 2 t } - 2 \right] \geqslant \frac { 1 } { 2 }

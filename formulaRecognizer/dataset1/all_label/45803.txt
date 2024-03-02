@@ -1,0 +1,1 @@
+n \in \mathbf { N } ^ { * } , a _ { n } = n ^ { 2 } + \lambda n

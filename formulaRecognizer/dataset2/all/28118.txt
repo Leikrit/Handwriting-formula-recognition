@@ -1,0 +1,1 @@
+\cos \theta = \frac { 1 - \tan ^ { 2 } \alpha } { 1 + \tan ^ { 2 } \alpha }

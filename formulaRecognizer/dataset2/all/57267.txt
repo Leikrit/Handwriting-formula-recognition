@@ -1,0 +1,1 @@
+\sin x + \sqrt { 3 } \cos x + a = 0

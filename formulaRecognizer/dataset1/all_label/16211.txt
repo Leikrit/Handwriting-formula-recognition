@@ -1,0 +1,1 @@
+\frac { \sqrt { 6 } } { 1 2 } < k < \frac { \sqrt { 3 } } { 3 }

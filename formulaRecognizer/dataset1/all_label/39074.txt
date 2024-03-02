@@ -1,0 +1,1 @@
+0 < \alpha < \beta < \frac { \pi } { 4 }

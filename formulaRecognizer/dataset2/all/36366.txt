@@ -1,0 +1,1 @@
+N = \left( \ c o m p l e m e n t _ { U } B \right) \cup \left( \ c o m p l e m e n t _ { U } A \right) ,

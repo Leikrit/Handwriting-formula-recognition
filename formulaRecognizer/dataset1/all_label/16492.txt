@@ -1,0 +1,1 @@
+\ t h e r e f o r e | \boldsymbol { a } | \cos \langle \boldsymbol { a } , \boldsymbol { b } \rangle = \frac { \boldsymbol { a } \cdot \boldsymbol { b } } { | \boldsymbol { b } | } = \frac { 1 2 } { 5 }

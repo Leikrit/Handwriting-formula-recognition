@@ -1,0 +1,1 @@
+f ( x ) = x ^ { 3 } \ln \frac { \mathrm { e } + \cos x } { \mathrm { e } - \cos x }

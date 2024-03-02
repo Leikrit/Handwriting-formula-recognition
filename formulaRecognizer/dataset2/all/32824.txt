@@ -1,0 +1,1 @@
+\ a n g l e A P B = \ a n g l e A P C = \ a n g l e B P C = \theta

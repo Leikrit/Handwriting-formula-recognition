@@ -1,0 +1,1 @@
+b _ { n } = \left[ \l g a _ { n } \right]

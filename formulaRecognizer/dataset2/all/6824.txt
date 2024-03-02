@@ -1,0 +1,1 @@
+\text { 明 文 } a , b , c , d \text { 对 应 密 文 } a + 2 b

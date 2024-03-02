@@ -1,0 +1,1 @@
+\text { 求 数 列 } \left\{ \frac { b _ { n } } { a _ { n } } \right\} \text { 的 前 } n \text { 项 和 } T \text { , }

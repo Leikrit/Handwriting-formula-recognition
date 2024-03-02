@@ -1,0 +1,1 @@
+\left( \frac { k \pi } { 2 } - \frac { \pi } { 6 } , 0 \right) , k \in \mathbf { Z }

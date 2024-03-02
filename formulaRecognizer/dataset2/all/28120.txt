@@ -1,0 +1,1 @@
+\sin \theta = \frac { 2 \tan \alpha } { 1 + \tan ^ { 2 } \alpha } \neq 0

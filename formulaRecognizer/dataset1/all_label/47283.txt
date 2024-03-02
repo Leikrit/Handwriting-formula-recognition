@@ -1,0 +1,1 @@
+\left| \frac { 1 } { k _ { 1 } } - \frac { 1 } { k _ { 2 } } \right| = 4 \sqrt { y _ { 0 } ^ { 2 } - x _ { 0 } } = 4 \sqrt { - \left( x _ { 0 } - \frac { 5 } { 2 } \right) ^ { 2 } + \frac { 1 3 } { 4 } }

@@ -1,0 +1,1 @@
+\text { 集 合 } B = \{ x \in \mathbf { Z } \mid - 3 < x \leq s l a n t 2 \}

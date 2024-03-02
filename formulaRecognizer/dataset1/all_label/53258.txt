@@ -1,0 +1,1 @@
+\log _ { a b } \left( \frac { 1 } { a } + \frac { 1 } { b } \right) \geqslant \log _ { a b } 2 - 1

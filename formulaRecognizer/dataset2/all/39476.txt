@@ -1,0 +1,1 @@
+\text { 设 非 零 向 量 } a , b \text { 满 足 } a \perp ( a - b )

@@ -1,0 +1,1 @@
+m = \sqrt { \left( \lambda _ { 1 } - \lambda _ { 3 } + \lambda _ { 5 } - \lambda _ { 6 } \right) ^ { 2 } + \left( \lambda _ { 2 } - \lambda _ { 4 } + \lambda _ { 5 } + \lambda _ { 6 } \right) ^ { 2 } }

@@ -1,0 +1,1 @@
+\text { 求 } \left( 2 \sqrt { x } - \frac { 1 } { \sqrt { x } } \right) ^ { 6 } \text { 的 展 开 式 中 } x \text { 的 一 次 幂 的 系 数 }

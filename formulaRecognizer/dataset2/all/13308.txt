@@ -1,0 +1,1 @@
+\text { 则 函 数 } y = \cos 2 x + k ( \cos x - 1 ) \text { 的 最 小 值 }

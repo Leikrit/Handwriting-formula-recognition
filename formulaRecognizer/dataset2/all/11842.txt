@@ -1,0 +1,1 @@
+\left. f \left( a _ { 2 } \right) \cdot f \left( a _ { 3 } \right) \cdot \cdots \cdot f \left( a _ { 1 0 } \right) \right] =

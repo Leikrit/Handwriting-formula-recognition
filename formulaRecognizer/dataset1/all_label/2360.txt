@@ -1,0 +1,1 @@
+c _ { 1 } D _ { 1 } + c _ { 2 } \left( D _ { 2 } - D _ { 1 } \right) + c _ { 3 } \left( D _ { 3 } - D _ { 2 } \right) + \cdots + c _ { n } \left( D _ { n } - D _ { n - 1 } \right)

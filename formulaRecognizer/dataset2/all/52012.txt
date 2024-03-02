@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = ( a - 2 ) \mathrm { e } ^ { x } - x + b ( a > 2 , b \in \mathbf { R } )

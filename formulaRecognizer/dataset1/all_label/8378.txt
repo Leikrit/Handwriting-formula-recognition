@@ -1,0 +1,1 @@
+\mathrm { C } _ { 1 2 } ^ { 9 } \times \left( \frac { 3 } { 8 } \right) ^ { 9 } \times \left( \frac { 5 } { 8 } \right) ^ { 2 } \times \frac { 3 } { 8 }

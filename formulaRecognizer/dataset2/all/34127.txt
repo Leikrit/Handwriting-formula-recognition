@@ -1,0 +1,1 @@
+\text { 故 } x = 1 \text { 是 函 数 } y = g ( x ) \text { 的 极 小 值 点 }

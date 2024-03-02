@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } \left( 1 + \frac { 1 } { n } \right) ^ { n + a } \leq s l a n t f ( x )

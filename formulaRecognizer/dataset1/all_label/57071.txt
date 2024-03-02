@@ -1,0 +1,1 @@
+\frac { V _ { D - B C H E } } { V _ { A B C D - E F G H } } = \frac { 2 } { 3 }

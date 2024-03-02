@@ -1,0 +1,1 @@
+2 \overrightarrow { P A } + 3 \overrightarrow { P B } + 3 \overrightarrow { P C } = \mathbf { 0 }

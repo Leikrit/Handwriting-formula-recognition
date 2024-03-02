@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = | x - a | - | 2 x + 1 | ( a \in \mathbf { R } )

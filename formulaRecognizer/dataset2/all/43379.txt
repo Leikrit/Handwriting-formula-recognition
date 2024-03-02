@@ -1,0 +1,1 @@
+\left( 0 , \frac { 1 } { 4 } \right] \cup \left[ \frac { 5 } { 8 } , 1 \right]

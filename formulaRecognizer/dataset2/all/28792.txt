@@ -1,0 +1,1 @@
+\text { 把 函 数 } f ( x ) = A \sin \left( 2 x - \frac { \pi } { 6 } \right)

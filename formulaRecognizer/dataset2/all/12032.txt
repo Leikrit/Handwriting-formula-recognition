@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \ln x } { x } + k \text { 的 极 大 值 为 } \frac { 1 + \mathrm { e } } { \mathrm { e } }

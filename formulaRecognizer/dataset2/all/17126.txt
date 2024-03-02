@@ -1,0 +1,1 @@
+\text { 点 } A _ { n } \left( x _ { n } , 0 \right) \text { 到 } P _ { n + 1 } \text { 的 距 离 是 } A _ { n } \text { 到 } C _ { n } \text { 上 点 的 }

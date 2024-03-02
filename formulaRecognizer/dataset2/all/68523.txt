@@ -1,0 +1,1 @@
+\text { 圆 } C : ( x - 4 ) ^ { 2 } + \left( y - \frac { a } { 2 } \right) ^ { 2 } = \frac { a ^ { 2 } } { 4 } \text { 相 切 并 与 椭 圆 在 } x \text { 轴 上 方 交 于 点 } P

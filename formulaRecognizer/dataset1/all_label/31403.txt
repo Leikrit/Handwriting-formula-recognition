@@ -1,0 +1,1 @@
+\sqrt { 2 } \rho \cos \left( \alpha + \frac { \pi } { 4 } \right) = - 1

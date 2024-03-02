@@ -1,0 +1,1 @@
+c \in [ - 2 , 0 ] \text { 且 } b , c \text { 不 }

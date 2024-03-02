@@ -1,0 +1,1 @@
+\text { 不 等 式 } 1 ^ { 1 } + 2 ^ { 2 } + 3 ^ { 3 } + \cdots + n ^ { n } \geqslant \frac { n } { 1 2 } \left( 2 n ^ { 2 } + 3 n + 7 \right)

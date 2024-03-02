@@ -1,0 +1,1 @@
+f ( x ) = \ln \left( a x ^ { 2 } - 2 x - \right.

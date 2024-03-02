@@ -1,0 +1,1 @@
+= \left( \frac { 1 } { 2 } \cos \theta - \frac { 7 } { 2 } \right) m + 4 + \cos \theta = 0

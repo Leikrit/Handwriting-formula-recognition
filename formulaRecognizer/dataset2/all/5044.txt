@@ -1,0 +1,1 @@
+g ( x ) \text { 取 最 小 值 } g ( \ln ( a + 1 ) ) = a + 1 - ( a + 1 ) \ln ( a + 1 ) - b \geqslant 0

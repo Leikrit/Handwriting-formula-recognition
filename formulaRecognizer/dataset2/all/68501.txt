@@ -1,0 +1,1 @@
+\theta = \theta _ { 0 } + \left( \theta _ { 1 } - \theta _ { 0 } \right) \mathrm { e } ^ { - 0 . 2 4 t } \text { 求 得 }

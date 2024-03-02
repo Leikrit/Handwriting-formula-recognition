@@ -1,0 +1,1 @@
+\b e c a u s e x ^ { 2 } + 2 x + 1 0 = ( x + 1 ) ^ { 2 } + 9 \geqslant 9

@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z = \left( \mathrm { i } - \frac { 1 } { \mathrm { i } } \right) ^ { 3 }

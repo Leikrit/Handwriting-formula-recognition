@@ -1,0 +1,1 @@
+c = f \left( \log _ { \frac { 1 } { 2 } } \frac { 5 } { 4 } \right)

@@ -1,0 +1,1 @@
+\text { ( 1 ) } S _ { m } = \frac { 3 } { 2 } m ^ { 2 } + \frac { 3 } { 2 } m \text { , ( 2 ) } b _ { m } = 3 m + 2 \left( m \in \mathbf { N } ^ { * } \right)

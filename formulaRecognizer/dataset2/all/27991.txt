@@ -1,0 +1,1 @@
+\text { 当 } x _ { 1 } , x _ { 2 } \in \left[ - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right] \text { 时 }

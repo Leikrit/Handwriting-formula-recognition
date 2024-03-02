@@ -1,0 +1,1 @@
+\text { 命 题 “ } \ e x i s t s x _ { 0 } \in \mathbf { N } , x _ { 0 } ^ { 2 } > 2 ^ { x _ { 0 } } \text { ” 的 否 定 是 “ } \forall x \in \mathbf { N } , x ^ { 2 } \leq s l a n t 2 ^ { x } \text { ” }

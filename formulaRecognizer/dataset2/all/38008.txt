@@ -1,0 +1,1 @@
+\text { 求 数 列 } \left\{ 2 ^ { a ^ { * } } \right\} \text { 的 前 } n \text { 项 和 } S _ { n }

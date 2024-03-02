@@ -1,0 +1,1 @@
+M = [ 1 , + \infty ) , I = \left\{ x \mid x ^ { 2 } + x > 0 \right\}

@@ -1,0 +1,1 @@
+\cos \left( \frac { \pi } { 4 } - \frac { \beta } { 2 } \right) = \frac { \sqrt { 3 } } { 3 }

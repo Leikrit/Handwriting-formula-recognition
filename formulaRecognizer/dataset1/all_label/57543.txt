@@ -1,0 +1,1 @@
+( c - a ) \left( \frac { 4 } { 2 7 } a ^ { 3 } + c - a \right) < 0

@@ -1,0 +1,1 @@
+\frac { | P Q | } { | Q M | } = \frac { y _ { 0 } - y } { y } = \frac { x _ { 0 } - x } { x - m } = \frac { a } { c }

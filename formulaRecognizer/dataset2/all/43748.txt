@@ -1,0 +1,1 @@
+y = \frac { 1 - a x } { 1 + a x } \left( x \in \mathbf { R } \text { , 且 } x \neq - \frac { 1 } { a } \right)

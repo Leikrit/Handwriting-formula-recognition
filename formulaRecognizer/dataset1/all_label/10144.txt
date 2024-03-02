@@ -1,0 +1,1 @@
+\boldsymbol { m } = ( \cos \theta , \sin \theta )

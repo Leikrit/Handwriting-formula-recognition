@@ -1,0 +1,1 @@
+Q \left( \frac { a ^ { 2 } } { c } , \frac { b ^ { 2 } \left( c - x _ { 0 } \right) } { c y _ { 0 } } \right)

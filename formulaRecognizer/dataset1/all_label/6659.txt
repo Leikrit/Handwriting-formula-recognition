@@ -1,0 +1,1 @@
+\boldsymbol { a } = \frac { 1 } { 2 } \overrightarrow { A B }

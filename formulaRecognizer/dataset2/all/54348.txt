@@ -1,0 +1,1 @@
+\text { 其 中 } \frac { S } { N } \text { 叫 做 信 噪 比 }

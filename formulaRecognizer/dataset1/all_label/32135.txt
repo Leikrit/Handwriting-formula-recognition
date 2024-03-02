@@ -1,0 +1,1 @@
+\alpha \perp \beta , \beta \perp \gamma

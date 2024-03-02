@@ -1,0 +1,1 @@
+\text { 过 } Q \text { 点 的 直 线 } l \text { 与 椭 圆 } \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 \text { 相 交 于 不 }

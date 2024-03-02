@@ -1,0 +1,1 @@
+\text { 且 } 0 < \alpha < t < \beta < 1

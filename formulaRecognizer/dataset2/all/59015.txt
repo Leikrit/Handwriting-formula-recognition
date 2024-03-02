@@ -1,0 +1,1 @@
+\sin \left( 2 x + \frac { \pi } { 3 } \right) \text { 的 图 象 向 左 平 移 } \frac { \pi } { 2 } \text { 个 单 位 长 度 后 与 } y = \cos ( 2 x + \varphi ) \text { 的 图 象 重 合 }

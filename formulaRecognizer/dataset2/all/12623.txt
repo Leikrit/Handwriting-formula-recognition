@@ -1,0 +1,1 @@
+\text { 已 知 } f ( x ) = \log _ { a } \left( a x ^ { 2 } - x \right) ( a > 0 \text { 且 } a \neq 1 ) \text { 在 } \left( \frac { 1 } { 4 } , \frac { 1 } { 2 } \right) \text { 上 是 增 函 数 }

@@ -1,0 +1,1 @@
+x ^ { 2 } + m x + 1 \leq s l a n t x ^ { 2 } + 1 0 + \left| x ^ { 2 } - 4 \right|

@@ -1,0 +1,1 @@
+\left( k \pi - \frac { \pi } { 4 } , k \pi \right) , k \in \mathbf { Z }

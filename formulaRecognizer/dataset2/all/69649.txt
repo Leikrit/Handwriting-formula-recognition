@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z = \frac { a + 2 \mathrm { i } } { 2 - \mathrm { i } } \text { 是 纯 虚 数 ( 其 中 } \mathrm { i } \text { 是 虚 数 单 位 ) }

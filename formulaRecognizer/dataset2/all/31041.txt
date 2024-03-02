@@ -1,0 +1,1 @@
+\text { 所 以 可 设 } \overrightarrow { O P } = \lambda _ { 1 } \overrightarrow { O B } + \lambda _ { 2 } \overrightarrow { A B }

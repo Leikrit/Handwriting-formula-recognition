@@ -1,0 +1,1 @@
+\text { 设 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { n } = 2 ^ { a _ { n } } + ( - 1 ) ^ { n } a _ { n }

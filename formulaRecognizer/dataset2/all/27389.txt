@@ -1,0 +1,1 @@
+\cos \left( 2 7 ^ { \circ } + x \right) \cos \left( x - 1 8 ^ { \circ } \right) + \sin \left( 2 7 ^ { \circ } + x \right) \sin \left( x - 1 8 ^ { \circ } \right) =

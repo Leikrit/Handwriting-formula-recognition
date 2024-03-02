@@ -1,0 +1,1 @@
+\frac { b } { \sin \ a n g l e A R C } = \frac { c } { \sin \ a n g l e A C R } = 2 R

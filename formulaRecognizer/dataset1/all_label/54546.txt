@@ -1,0 +1,1 @@
+g ( a ) = - a ^ { 2 } + a + \frac { 4 } { a } = \frac { a ^ { 2 } + a + 2 } { a } \cdot ( 2 - a )

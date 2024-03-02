@@ -1,0 +1,1 @@
+\text { 已 知 } 3 \sin \left( \theta + \frac { \pi } { 2 } \right) + \sin ( \theta + \pi ) = 0

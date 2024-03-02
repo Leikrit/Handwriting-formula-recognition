@@ -1,0 +1,1 @@
+y = \frac { 1 } { x } \ln \left[ \sqrt { x ^ { 2 } - 3 x + 2 } + \sqrt { - x ^ { 2 } - 3 x + 4 } \right]

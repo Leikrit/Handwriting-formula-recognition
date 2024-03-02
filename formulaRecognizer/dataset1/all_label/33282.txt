@@ -1,0 +1,1 @@
+\ t h e r e f o r e 2 x + y = ( 2 x + y ) \left( \frac { 4 } { y } + \frac { 2 } { x } \right) = 8 + \frac { 8 x } { y } + \frac { 2 y } { x } \geqslant 8 + 2 \sqrt { \frac { 8 x } { y } \times \frac { 2 y } { x } } = 1 6

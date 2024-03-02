@@ -1,0 +1,1 @@
+g ( x ) = \sqrt { 2 } \sin \left( \frac { 1 } { 2 } x + \frac { 3 \pi } { 8 } \right)

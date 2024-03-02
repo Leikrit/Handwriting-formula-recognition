@@ -1,0 +1,1 @@
+\boldsymbol { c } = 2 \boldsymbol { a } -

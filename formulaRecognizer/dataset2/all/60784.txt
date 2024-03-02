@@ -1,0 +1,1 @@
+| f ( x ) | \text { 在 } \left[ 0 , \frac { \pi } { 4 } \right] \text { 上 的 最 大 值 为 } M

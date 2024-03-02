@@ -1,0 +1,1 @@
+\text { 体 积 } V \text { 的 近 似 公 式 } V \approx \frac { 1 } { 3 6 } L ^ { 2 } h

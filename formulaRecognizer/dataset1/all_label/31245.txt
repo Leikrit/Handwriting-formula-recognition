@@ -1,0 +1,1 @@
+g ( x ) = k \sin \frac { \pi x } { 6 } - 2 k + 2 ( k > 0 )

@@ -1,0 +1,1 @@
+t = \frac { x } { y } = \tan \theta > 1

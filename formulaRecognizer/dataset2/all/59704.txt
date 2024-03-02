@@ -1,0 +1,1 @@
+\left\{ a _ { 3 k - 1 } \right\} \left( 1 \leq s l a n t k \leq s l a n t 6 7 3 , k \in \mathbf { N } ^ { * } \right) \text { 的 所 有 项 的 和 为 } 6 7 3

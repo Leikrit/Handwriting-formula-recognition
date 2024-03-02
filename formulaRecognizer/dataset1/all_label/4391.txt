@@ -1,0 +1,1 @@
+f \left( x + \frac { 1 } { x } \right) > \mathrm { e } ^ { 2 } + 2

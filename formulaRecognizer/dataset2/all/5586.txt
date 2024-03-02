@@ -1,0 +1,1 @@
+\text { 在 区 间 } \left( 0 , \frac { - ( 2 - k ) + \sqrt { ( 2 - k ) ^ { 2 } + 8 ( k - 1 ) } } { 4 } \right) \text { 上 有 } h _ { 2 } ^ { \prime } ( x ) < 0

@@ -1,0 +1,1 @@
+\text { 所 以 } h ^ { \prime } ( x ) = x \mathrm { e } ^ { x } - \frac { \mathrm { e } } { x } = \frac { x ^ { 2 } \mathrm { e } ^ { x } - \mathrm { e } } { x }

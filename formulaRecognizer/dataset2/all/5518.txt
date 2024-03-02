@@ -1,0 +1,1 @@
+\text { 命 题 “ 关 于 } x \text { 的 方 程 } \sin x + \cos x = 1 \text { 有 无 数 多 个 解 ” 是 真 命 题 }

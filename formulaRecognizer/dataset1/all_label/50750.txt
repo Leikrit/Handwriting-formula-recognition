@@ -1,0 +1,1 @@
+\cos \left( \alpha - \frac { \pi } { 2 } \right) = \frac { 3 } { 5 }

@@ -1,0 +1,1 @@
+f ( x ) = 4 \mathrm { e } ( \ln x ) ^ { 2 } - ( 2 \mathrm { e } m + 4 ) x | \ln x | + 2 m x ^ { 2 }

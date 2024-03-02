@@ -1,0 +1,1 @@
+\text { 且 } a \sin ( A + B - C ) = c \sin ( B + C )

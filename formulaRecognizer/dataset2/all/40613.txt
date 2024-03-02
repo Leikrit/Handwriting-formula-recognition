@@ -1,0 +1,1 @@
+\text { 如 果 存 在 实 数 } x _ { 0 } \text { , 使 } f \left( x _ { 0 } \right) = x _ { 0 }

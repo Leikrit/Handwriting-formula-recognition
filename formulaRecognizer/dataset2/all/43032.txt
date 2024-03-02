@@ -1,0 +1,1 @@
+\text { 由 } f ^ { \prime } ( x ) = 0 \text { 可 解 得 } x = 3 \pm \frac { \sqrt { 3 } } { 3 }

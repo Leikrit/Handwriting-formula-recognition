@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ b _ { n } \right\} \text { 的 前 } n \text { 项 和 为 } S _ { n }

@@ -1,0 +1,1 @@
+f ( x ) = \sin \left( \omega x + \frac { \pi } { 6 } \right)

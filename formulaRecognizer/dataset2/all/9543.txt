@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { 1 } { 4 } - \frac { 1 } { x } - \frac { a } { x ^ { 2 } }

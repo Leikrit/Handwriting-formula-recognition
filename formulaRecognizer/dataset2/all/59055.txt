@@ -1,0 +1,1 @@
+\text { 已 知 } \left( x + \frac { 1 } { x } \right) ( a x - 1 ) ^ { 5 } \text { 的 }

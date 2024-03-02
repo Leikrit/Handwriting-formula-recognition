@@ -1,0 +1,1 @@
+\text { 可 得 } \frac { \sqrt { 3 } } { 2 } \cos \alpha - \frac { 1 } { 2 } \sin \alpha + 3 \sin \alpha = \frac { \sqrt { 3 } } { 2 } \cos \alpha + \frac { 5 } { 2 } \sin \alpha = 0

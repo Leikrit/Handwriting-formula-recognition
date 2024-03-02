@@ -1,0 +1,1 @@
+y = x \cos x - \sin x

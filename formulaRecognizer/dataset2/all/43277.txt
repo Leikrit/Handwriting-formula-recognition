@@ -1,0 +1,1 @@
+c ( a \cos B - b \cos A ) = b ^ { 2 }

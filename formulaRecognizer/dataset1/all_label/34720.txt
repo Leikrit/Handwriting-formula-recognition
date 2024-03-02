@@ -1,0 +1,1 @@
+\frac { b _ { k + 1 } } { b _ { k } } = \frac { k - n } { a _ { k + 1 } } ( k = 1 , 2 , \cdots , n - 1 )

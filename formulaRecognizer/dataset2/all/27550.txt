@@ -1,0 +1,1 @@
+\text { 利 用 上 面 得 到 的 界 ( 当 } 2 \leq s l a n t n \leq s l a n t k _ { 0 } + 1 \text { 时 , } 2 < a _ { n } < 3 \text { ) 重 新 估 计 }

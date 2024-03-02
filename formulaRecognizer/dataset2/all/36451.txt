@@ -1,0 +1,1 @@
+\text { 故 } F ( x ) \text { 在 } [ - 2 , + \infty ) \text { 上 的 最 小 值 为 } F ( - \ln k )

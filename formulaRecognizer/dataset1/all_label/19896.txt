@@ -1,0 +1,1 @@
+\ t h e r e f o r e | \boldsymbol { c } - ( 1 - \lambda ) \boldsymbol { a } - \lambda \boldsymbol { b } | + \left| \frac { 1 } { n } \boldsymbol { a } + \boldsymbol { b } - ( 1 - \lambda ) \boldsymbol { a } - \lambda \boldsymbol { b } \right|

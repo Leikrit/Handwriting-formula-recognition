@@ -1,0 +1,1 @@
+g ( x ) \text { 在 } \mathbf { R } \text { 上 恰 有 两 个 不 同 的 零 点 }

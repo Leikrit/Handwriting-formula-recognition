@@ -1,0 +1,1 @@
+\text { 且 } | P T | = | P O | \text { ( } O \text { 为 坐 标 原 点 ) }

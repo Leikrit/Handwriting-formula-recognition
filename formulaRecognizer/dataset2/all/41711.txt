@@ -1,0 +1,1 @@
+\lambda _ { 2 } \overrightarrow { O B } + \lambda _ { 3 } \overrightarrow { O C } = \mathbf { 0 }

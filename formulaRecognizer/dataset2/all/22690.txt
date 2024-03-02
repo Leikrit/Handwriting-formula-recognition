@@ -1,0 +1,1 @@
+\text { 向 量 } \lambda \boldsymbol { a } + \boldsymbol { b } \text { 与 } \boldsymbol { a } + 2 \boldsymbol { b } \text { 平 行 }

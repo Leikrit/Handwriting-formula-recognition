@@ -1,0 +1,1 @@
+\text { 解 不 等 式 } \l g \left( x - \frac { 1 } { x } \right) < 0

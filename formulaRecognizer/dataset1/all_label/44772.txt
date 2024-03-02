@@ -1,0 +1,1 @@
+x h ( x ) > \mathrm { e } ^ { 2 } \ln x

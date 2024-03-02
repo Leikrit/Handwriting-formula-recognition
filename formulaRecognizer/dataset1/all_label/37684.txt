@@ -1,0 +1,1 @@
+( x + y ) \left( \frac { 1 } { x } + \frac { 1 } { y } \right) \geqslant 4

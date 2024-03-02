@@ -1,0 +1,1 @@
+\text { 则 } \sin \left( \alpha + \frac { 2 \pi } { 3 } \right) + \cos \left( \alpha + \frac { \pi } { 6 } \right) =

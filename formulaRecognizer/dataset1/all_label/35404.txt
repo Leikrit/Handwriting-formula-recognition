@@ -1,0 +1,1 @@
+\left( n ^ { 2 } + n - 1 \right) S _ { n } - \left( n ^ { 2 } + n \right) = 0

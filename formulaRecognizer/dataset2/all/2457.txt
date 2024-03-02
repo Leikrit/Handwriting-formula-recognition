@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } \left( \frac { 1 } { 2 } \right) ^ { x ^ { 2 } - 2 a x } < 2 ^ { 3 x + a ^ { 2 } } \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+S _ { n } = ( n - 1 ) \cdot 3 ^ { n + 1 } + 3 , n \in \mathbf { N } ^ { * }

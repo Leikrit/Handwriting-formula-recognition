@@ -1,0 +1,1 @@
+\text { 已 知 有 穷 数 列 } \left\{ a _ { n } \right\} \text { 共 有 } 2 k \text { 项 ( 整 数 } k \geqslant 2 \text { ) }

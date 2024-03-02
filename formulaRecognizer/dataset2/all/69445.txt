@@ -1,0 +1,1 @@
+\text { 为 } \frac { x ^ { 2 } } { 4 } + \frac { y ^ { 2 } } { 4 } + z ^ { 2 } = 1 ( z \geqslant 0 )

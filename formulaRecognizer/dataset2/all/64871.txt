@@ -1,0 +1,1 @@
+( c \cos A + a \cos C ) + b = 0

@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t f ( 2 x - 1 )

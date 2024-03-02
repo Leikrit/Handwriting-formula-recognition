@@ -1,0 +1,1 @@
+A ( 2 , 0 ) , B \left( \sqrt { 2 } , \frac { \pi } { 4 } \right) , C \left( \sqrt { 2 } , \frac { 3 \pi } { 4 } \right) , D ( 2 , \pi )

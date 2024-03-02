@@ -1,0 +1,1 @@
+\frac { 2 } { 3 } \tan ( 3 \pi + \alpha ) + \frac { \sin ( \pi - \alpha ) + 3 \cos ( 2 \pi - \alpha ) } { 2 \sin \left( \frac { \pi } { 2 } + \alpha \right) + \sin \left( \frac { \pi } { 2 } - \alpha \right) } =

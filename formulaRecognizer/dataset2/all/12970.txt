@@ -1,0 +1,1 @@
+\text { 且 } \left\{ a _ { 2 n - 1 } \right\} \text { 是 递 增 数 列 }

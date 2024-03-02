@@ -1,0 +1,1 @@
+g ( x ) = \sqrt { 2 } \sin \left( \frac { 1 } { 2 } x + \frac { 5 \pi } { 1 6 } \right)

@@ -1,0 +1,1 @@
+f ( \lambda ) = \overrightarrow { B N } \cdot \overrightarrow { C M }

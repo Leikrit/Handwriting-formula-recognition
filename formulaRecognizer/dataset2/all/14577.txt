@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { a _ { 1 } + a _ { 2 } + a _ { 3 } + \cdots + a _ { n } } { a _ { 6 } + a _ { 7 } + a _ { 8 } + \cdots + a _ { n } }

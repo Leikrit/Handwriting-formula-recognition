@@ -1,0 +1,1 @@
+\frac { 2 \sin \alpha } { 3 \sin \alpha + \cos \alpha } =

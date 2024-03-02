@@ -1,0 +1,1 @@
+f ( x ) \text { 的 解 析 式 可 以 表 示 为 } f ( x ) = 2 \cos \left( 2 x - \frac { \pi } { 6 } \right)

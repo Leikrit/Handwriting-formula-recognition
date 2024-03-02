@@ -1,0 +1,1 @@
+b ^ { a } > a ^ { b } > \log _ { \frac { 1 } { a } } b > \log _ { b } a

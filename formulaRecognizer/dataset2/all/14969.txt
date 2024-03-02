@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \mathrm { e } ^ { a x } \sin x ( x \in [ 0

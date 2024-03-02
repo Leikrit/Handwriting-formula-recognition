@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = x + \sin x - x \cos x \text { 的 定 义 域 为 } [ - 2 \pi , 2 \pi )

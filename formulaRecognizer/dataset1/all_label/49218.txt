@@ -1,0 +1,1 @@
+f ^ { \prime } ( 0 ) \geqslant 0

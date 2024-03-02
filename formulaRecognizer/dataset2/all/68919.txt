@@ -1,0 +1,1 @@
+\text { 则 点 } A ( m \cos \theta , m \sin \theta ) B ( n \sin \theta , n \cos \theta )

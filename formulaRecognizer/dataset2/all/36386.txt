@@ -1,0 +1,1 @@
+\text { 设 平 面 } \alpha \text { 与 向 量 } \boldsymbol { a } = ( - 1 , 2 , - 4 ) \text { 垂 直 }

@@ -1,0 +1,1 @@
+\text { 若 } 2 ^ { - 5 0 } = a \times 1 0 ^ { m } ( 1 \leq s l a n t a < 1 0 , m \in \mathbf { Z } )

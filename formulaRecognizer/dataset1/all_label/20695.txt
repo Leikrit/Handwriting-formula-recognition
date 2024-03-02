@@ -1,0 +1,1 @@
+\left( a + \frac { 1 } { b } \right) \left( b + \frac { 1 } { a } \right) \geqslant 4

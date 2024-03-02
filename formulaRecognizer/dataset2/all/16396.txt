@@ -1,0 +1,1 @@
+\text { 故 直 线 } M N \text { 的 方 程 为 } y - y _ { 1 } = - \frac { x _ { E } } { 4 y _ { E } } \left( x - x _ { 1 } \right)

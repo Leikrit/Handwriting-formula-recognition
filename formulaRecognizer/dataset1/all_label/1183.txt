@@ -1,0 +1,1 @@
+h ( x ) = g ( x ) - \lambda f ( x ) + 1

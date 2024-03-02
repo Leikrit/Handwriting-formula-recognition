@@ -1,0 +1,1 @@
+T = \left\{ x \mid x = a _ { j } - a _ { i } , 1 \leq s l a n t i < j \leq s l a n t N \right\}

@@ -1,0 +1,1 @@
+\ t h e r e f o r e \mathrm { C } _ { n } ^ { 1 } \left( a _ { n } - 1 \right) + 2 \mathrm { C } _ { n } ^ { 2 } \left( a _ { n } - 1 \right) ^ { 2 } + \ldots + k \mathrm { C } _ { n } ^ { k } \left( a _ { n } - 1 \right) ^ { k } + \ldots + n \mathrm { C } _ { n } ^ { n } \left( a _ { n } - 1 \right) ^ { n } \leq s l a n t 0

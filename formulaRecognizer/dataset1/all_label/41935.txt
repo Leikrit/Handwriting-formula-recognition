@@ -1,0 +1,1 @@
+a = f \left( \log _ { 0 . 5 } 3 \right)

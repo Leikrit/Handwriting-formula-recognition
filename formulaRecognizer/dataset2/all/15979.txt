@@ -1,0 +1,1 @@
+\text { 函 数 } y = \frac { 1 - 2 x } { 1 + 2 x } \left( x \in \mathbf { R } \text { , 且 } x \neq - \frac { 1 } { 2 } \right)

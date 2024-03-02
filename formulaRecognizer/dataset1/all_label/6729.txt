@@ -1,0 +1,1 @@
+\ t h e r e f o r e \left( \left| P F _ { 2 } \right| - 2 a \right) ^ { 2 } = \left| P F _ { 2 } \right| ^ { 2 } + 4 c ^ { 2 } - 2 \left| P F _ { 2 } \right| \cdot 2 c \cdot \frac { b } { c }

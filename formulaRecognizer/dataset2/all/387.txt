@@ -1,0 +1,1 @@
+\text { 不 等 式 } \frac { x + 5 } { ( x - 1 ) ^ { 2 } } \geqslant 2 \text { 的 解 集 是 }

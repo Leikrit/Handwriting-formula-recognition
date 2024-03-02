@@ -1,0 +1,1 @@
+\left. \lambda \left( x - \frac { a + b } { 2 } \right) ^ { 2 } , \lambda \in \mathbf { R } \right\}

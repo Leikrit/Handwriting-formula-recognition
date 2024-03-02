@@ -1,0 +1,1 @@
+k = \frac { \sqrt { x } - \ln x - a } { x }

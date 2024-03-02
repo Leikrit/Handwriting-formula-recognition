@@ -1,0 +1,1 @@
+f \left( A - \frac { \pi } { 3 } \right) = \sqrt { 3 }

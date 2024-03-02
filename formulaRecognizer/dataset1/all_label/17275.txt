@@ -1,0 +1,1 @@
+\left( 3 x - 3 y - \frac { 1 } { m } \right) \left( 3 x + 3 y - \frac { 1 } { m } \right) = 2

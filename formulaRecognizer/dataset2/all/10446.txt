@@ -1,0 +1,1 @@
+\text { 其 面 积 比 } \frac { S ^ { \prime } } { S } = k ^ { 2 }

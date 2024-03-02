@@ -1,0 +1,1 @@
+\text { 面 积 } S = \frac { \sqrt { 3 } } { 2 } \overrightarrow { A B } \cdot \overrightarrow { A C }

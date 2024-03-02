@@ -1,0 +1,1 @@
+\text { 点 } G \text { 为 } \triangle A B C \text { 重 心 的 充 要 条 件 是 } \overrightarrow { G A } +

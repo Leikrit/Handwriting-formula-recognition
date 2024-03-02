@@ -1,0 +1,1 @@
+\text { 可 以 用 指 数 模 型 : } I ( t ) = \mathrm { e } ^ { r t }

@@ -1,0 +1,1 @@
+h _ { \text { 甲 } } \geqslant h _ { 0 }

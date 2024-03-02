@@ -1,0 +1,1 @@
+\text { 即 } ( x - 1 ) \left[ p _ { 3 } x ^ { 2 } + \left( p _ { 2 } + p _ { 3 } \right) x - p _ { 0 } \right] = 0

@@ -1,0 +1,1 @@
+x _ { 0 } ^ { 2 } + \left[ f \left( x _ { 0 } \right) \right] ^ { 2 } < m ^ { 2 }

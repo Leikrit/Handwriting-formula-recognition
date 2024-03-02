@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } b c \sin \ a n g l e B A C = \frac { 1 } { 2 } c \cdot A E \cdot \sin \ a n g l e B A E + \frac { 1 } { 2 } b \cdot A E \cdot \sin \ a n g l e C A E

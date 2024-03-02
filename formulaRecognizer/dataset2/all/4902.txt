@@ -1,0 +1,1 @@
+\text { 直 线 } l : y = k x + m \text { 与 椭 圆 } C : \frac { x ^ { 2 } } { 4 } + \frac { y ^ { 2 } } { 3 } = 1 \text { 交 于 } A , B \text { 两 点 }

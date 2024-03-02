@@ -1,0 +1,1 @@
+\sin x _ { 0 } \in \mathbf { Z }

@@ -1,0 +1,1 @@
+D ( \cos \theta , \sin \theta ) ( 0 \leq s l a n t \theta < 2 \pi )

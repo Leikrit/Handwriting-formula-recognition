@@ -1,0 +1,1 @@
+\left( \frac { 1 + \mathrm { i } } { 1 - \mathrm { i } } \right) ^ { 2 0 0 5 } =

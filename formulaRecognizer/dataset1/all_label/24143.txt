@@ -1,0 +1,1 @@
+\left( 2 a ^ { 2 } - 7 a + 3 \right) x + \left( a ^ { 2 } - 9 \right) y + 3 a ^ { 2 } = 0

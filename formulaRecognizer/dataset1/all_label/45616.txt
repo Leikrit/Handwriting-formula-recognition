@@ -1,0 +1,1 @@
+y = 3 \sin \theta + 3 \cos \theta + 4

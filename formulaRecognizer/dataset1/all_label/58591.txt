@@ -1,0 +1,1 @@
+\left( \frac { 1 } { e } , \frac { e } { 2 } \right)

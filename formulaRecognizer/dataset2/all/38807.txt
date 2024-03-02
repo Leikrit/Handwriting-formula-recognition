@@ -1,0 +1,1 @@
+\text { 使 函 数 } h ( x ) \text { 在 区 间 } [ a , b ] \text { 上 的 值 域 为 } [ a \text { , }

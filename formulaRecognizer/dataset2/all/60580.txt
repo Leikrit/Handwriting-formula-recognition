@@ -1,0 +1,1 @@
+\triangle A B C \text { 三 个 内 角 } A , B , C \text { 所 对 的 边 分 别 是 } a , b , c \text { , 若 } ( a - c ) ( \sin A + \sin C ) =

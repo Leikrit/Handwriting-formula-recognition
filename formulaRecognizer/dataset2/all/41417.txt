@@ -1,0 +1,1 @@
+\text { 求 证 : } f ( x ) \geqslant x ^ { 2 } - 2 x

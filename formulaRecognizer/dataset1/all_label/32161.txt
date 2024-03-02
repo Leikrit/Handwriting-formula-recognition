@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } - 9 x < 0 , x \in \mathbf { N } ^ { * } \right\}

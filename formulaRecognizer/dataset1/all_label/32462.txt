@@ -1,0 +1,1 @@
+\tan \theta = \frac { 2 \tan \frac { \theta } { 2 } } { 1 - \tan ^ { 2 } \frac { \theta } { 2 } } = \frac { 4 } { 3 } .

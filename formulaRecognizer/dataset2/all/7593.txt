@@ -1,0 +1,1 @@
+\text { 将 } \left\{ a _ { n } \right\} \text { 和 } \left\{ b _ { n } \right\} \text { 的 共 同 项 按 从 小 到 大 的 顺 序 排 列 构 成 公 差 为 } 6 \text { 的 等 差 数 列 }

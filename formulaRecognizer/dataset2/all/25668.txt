@@ -1,0 +1,1 @@
+\text { 所 以 } x - \frac { \pi } { 1 2 } \in \left[ - \frac { \pi } { 3 } , \frac { 2 \pi } { 3 } \right]

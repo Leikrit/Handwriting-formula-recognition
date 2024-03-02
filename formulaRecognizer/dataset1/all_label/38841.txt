@@ -1,0 +1,1 @@
+\left( - \infty , e + \frac { 1 } { e } \right]

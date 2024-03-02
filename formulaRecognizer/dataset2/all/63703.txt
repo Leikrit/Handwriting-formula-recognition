@@ -1,0 +1,1 @@
+\left( a x - \frac { 3 } { 4 x } + \frac { 2 } { 3 } \right) \left( x - \frac { 3 } { x } \right) ^ { 6 } \text { 的 展 开 式 中 }

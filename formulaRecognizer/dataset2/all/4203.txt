@@ -1,0 +1,1 @@
+f ( x ) + f ^ { \prime } ( x ) \text { 是 奇 函 数 }

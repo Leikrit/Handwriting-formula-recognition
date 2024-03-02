@@ -1,0 +1,1 @@
+\log _ { a } x , \quad x \geqslant 1

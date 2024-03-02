@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } A = \left\{ x \mid x = 3 ^ { n - 1 } , n \in \mathbf { N } ^ { * } \right\}

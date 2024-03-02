@@ -1,0 +1,1 @@
+f ( x ) = t x + 1 ( t \neq 0 , t \neq 2 )

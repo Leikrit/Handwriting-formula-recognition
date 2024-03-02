@@ -1,0 +1,1 @@
+S _ { \triangle A D C } = \frac { 1 } { 2 } \times 2 \cdot D C \cdot \sin 6 0 ^ { \circ } = 3 - \sqrt { 3 }

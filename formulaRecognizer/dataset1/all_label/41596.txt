@@ -1,0 +1,1 @@
+\frac { \ln \mathrm { e } } { \mathrm { e } } > \frac { \ln 3 } { 3 } > \frac { \ln \pi } { \pi }

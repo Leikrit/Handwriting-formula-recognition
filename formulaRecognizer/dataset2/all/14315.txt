@@ -1,0 +1,1 @@
+\left( - \infty , - \frac { \sqrt { 6 } } { 4 } \right] \cup \left[ \frac { \sqrt { 6 } } { 4 } , + \infty \right)

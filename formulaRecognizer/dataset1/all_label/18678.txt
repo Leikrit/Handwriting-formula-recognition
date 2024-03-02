@@ -1,0 +1,1 @@
+, B = \left\{ x \mid x ^ { 2 } - 4 x - 1 2 \geqslant 0 \right\}

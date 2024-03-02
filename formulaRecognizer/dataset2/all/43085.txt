@@ -1,0 +1,1 @@
+\text { 即 } Q \left( 1 + a + \frac { 2 } { a } , \frac { 1 } { a } \right)

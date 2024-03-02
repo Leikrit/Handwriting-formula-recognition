@@ -1,0 +1,1 @@
+\cos ( \pi + x ) = \frac { 3 } { 5 } , x \in ( \pi , 2 \pi )

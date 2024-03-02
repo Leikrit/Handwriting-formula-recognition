@@ -1,0 +1,1 @@
+\text { 试 求 函 数 } y = 3 \sin ( \omega x + \varphi ) \text { 的 解 析 式 }

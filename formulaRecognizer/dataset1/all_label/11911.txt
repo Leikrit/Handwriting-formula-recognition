@@ -1,0 +1,1 @@
+\text { 则 } A \cap B \text { 中 元 素 的 个 数 }

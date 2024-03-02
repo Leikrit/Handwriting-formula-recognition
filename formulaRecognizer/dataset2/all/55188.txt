@@ -1,0 +1,1 @@
+\text { 直 线 } y = \frac { \sqrt { 3 } } { 3 } ( x + a ) \text { 与 } C \text { 的 右 支 交 于 点 } P

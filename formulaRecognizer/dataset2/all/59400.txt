@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 1 - \ln x + a ^ { 2 } x ^ { 2 } - a x ( a \in \mathbf { R } )

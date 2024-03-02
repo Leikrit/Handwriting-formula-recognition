@@ -1,0 +1,1 @@
+a \oplus b = \sin a \cdot \cos b

@@ -1,0 +1,1 @@
+\tan \left( A + \frac { \pi } { 4 } \right) = 2

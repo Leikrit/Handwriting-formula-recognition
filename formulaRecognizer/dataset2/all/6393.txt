@@ -1,0 +1,1 @@
+2 ^ { 2 } \left( \left| a _ { n - 2 } \right| - 2 \right) \geqslant \cdots \geqslant 2 ^ { n - 1 } \left( \left| a _ { 1 } \right| - 2 \right)

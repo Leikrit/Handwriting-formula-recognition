@@ -1,0 +1,1 @@
+g ( x ) = \log _ { \frac { 1 } { 4 } } x - \left( \frac { 1 } { 4 } \right) ^ { x }

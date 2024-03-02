@@ -1,0 +1,1 @@
+\text { 有 } \overrightarrow { O N } = \overrightarrow { O A } + \overrightarrow { O B } = 2 \overrightarrow { O M }

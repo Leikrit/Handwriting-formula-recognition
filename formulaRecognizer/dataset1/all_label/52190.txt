@@ -1,0 +1,1 @@
+\frac { \pi } { 6 } , | \boldsymbol { a } - \boldsymbol { b } | = | \boldsymbol { b } | = 1 ,

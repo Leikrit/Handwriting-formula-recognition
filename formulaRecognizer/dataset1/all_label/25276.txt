@@ -1,0 +1,1 @@
+\left( \ c o m p l e m e n t _ { \mathbf { R } } A \right) \cap B = \{ x \mid - 2 \leq s l a n t x \leq s l a n t 2 \}

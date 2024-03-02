@@ -1,0 +1,1 @@
+\text { 设 } c _ { n } = a _ { n } b _ { n } \text { , 求 } c _ { 1 } + c _ { 2 } + \cdots + c _ { 2 0 }

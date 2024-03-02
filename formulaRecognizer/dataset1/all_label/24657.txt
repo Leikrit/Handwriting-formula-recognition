@@ -1,0 +1,1 @@
+\tan \left( \arctan \frac { 1 } { 5 } + \arctan 3 \right)

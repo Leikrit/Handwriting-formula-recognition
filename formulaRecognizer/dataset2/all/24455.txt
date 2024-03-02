@@ -1,0 +1,1 @@
+\text { 值 域 是 } \{ y \mid y \in \mathbf { R } \text { , 且 } y \neq 0

@@ -1,0 +1,1 @@
+\text { 于 是 } A T = \frac { c a } { b + c } \cdot \frac { b } { a } = \frac { b c } { b + c }

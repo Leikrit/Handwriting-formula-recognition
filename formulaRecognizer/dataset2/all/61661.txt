@@ -1,0 +1,1 @@
+\text { 已 知 集 合 } A = \left\{ x \mid 2 ^ { x } < 1 \right\} , B = \{ x \mid ( x - 3 ) ( x + 1 ) < 0 \}

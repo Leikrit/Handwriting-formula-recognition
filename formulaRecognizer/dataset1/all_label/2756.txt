@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = x \mathrm { e } ^ { x } - \frac { a } { x } = \frac { x ^ { 2 } \mathrm { e } ^ { x } - a } { x } ;

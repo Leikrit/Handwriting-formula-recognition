@@ -1,0 +1,1 @@
+| f ( u ) - f ( v ) | \leq s l a n t 1

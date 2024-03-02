@@ -1,0 +1,1 @@
+\frac { \cos C } { a c } + \frac { \cos B } { a b } = \frac { 2 \cos B } { b c }

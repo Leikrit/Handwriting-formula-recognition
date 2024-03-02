@@ -1,0 +1,1 @@
+\text { 同 理 可 求 得 } \sin \alpha + \frac { 1 } { \tan \alpha } = \frac { 6 \sqrt { 5 } - \sqrt { 6 } } { 6 } \text { . }

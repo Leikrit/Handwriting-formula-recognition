@@ -1,0 +1,1 @@
+y = \left( m ^ { 2 } - 3 m - 3 \right) x ^ { \frac { m } { 3 } }

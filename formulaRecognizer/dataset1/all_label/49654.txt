@@ -1,0 +1,1 @@
+y = \ln | x | - \frac { 1 } { 2 } \mathrm { e } ^ { - x }

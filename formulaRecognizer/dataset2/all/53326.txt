@@ -1,0 +1,1 @@
+2 \sin A \cos C + \cos A \sin C

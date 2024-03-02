@@ -1,0 +1,1 @@
+\text { 设 直 线 系 } M : x \cos \theta + ( y - 2 ) \sin \theta = 1 ( 0 \leq s l a n t \theta \leq s l a n t 2 \pi )

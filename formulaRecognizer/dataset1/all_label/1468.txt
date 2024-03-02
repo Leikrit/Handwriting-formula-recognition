@@ -1,0 +1,1 @@
+\overrightarrow { D A ^ { \prime } } = \boldsymbol { a } + \boldsymbol { x } , \overrightarrow { D B } = \boldsymbol { b } - \boldsymbol { x }

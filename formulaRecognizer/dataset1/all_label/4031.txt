@@ -1,0 +1,1 @@
+\frac { \left| P ^ { \prime } A ^ { \prime } \right| \cdot \left| P ^ { \prime } B ^ { \prime } \right| } { | P A | \cdot | P B | } = \frac { 1 + 2 \cdot \left( \frac { 1 } { 2 } \right) ^ { 2 } } { 1 + \left( \frac { 1 } { 2 } \right) ^ { 2 } } = \frac { 6 } { 5 }

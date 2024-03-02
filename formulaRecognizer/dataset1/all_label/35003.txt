@@ -1,0 +1,1 @@
+x _ { 1 } \cdot x _ { 3 } \cdot x _ { 5 } \cdot \cdots \cdot x _ { 2 n - 1 } < \sqrt { \frac { 1 - x _ { n } } { 1 + x _ { n } } } <

@@ -1,0 +1,1 @@
+z = \cos x + \mathrm { i } \sin x

@@ -1,0 +1,1 @@
+\text { 反 函 数 } y = f ^ { - 1 } ( x ) \text { 的 图 象 与 } y \text { 轴 交 于 } B \text { 点 }

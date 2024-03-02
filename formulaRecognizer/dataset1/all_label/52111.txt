@@ -1,0 +1,1 @@
+\left| M ^ { \prime } A ^ { \prime } \right| \cdot \left| M ^ { \prime } B ^ { \prime } \right| = \left| M ^ { \prime } C ^ { \prime } \right| \cdot \left| M ^ { \prime } D ^ { \prime } \right|

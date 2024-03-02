@@ -1,0 +1,1 @@
+\text { 令 } t = \sin \theta - \cos \theta = \sqrt { 2 } \sin \left( \theta - \frac { \pi } { 4 } \right) \in ( - 1 , \sqrt { 2 } ]

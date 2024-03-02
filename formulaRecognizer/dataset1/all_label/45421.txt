@@ -1,0 +1,1 @@
+y = \l g \left( 1 - \frac { 1 } { x } \right)

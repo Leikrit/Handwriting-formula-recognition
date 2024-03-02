@@ -1,0 +1,1 @@
+\text { 圆 心 } C \text { 到 直 线 } l \text { 的 最 大 距 离 为 } | P C | = \frac { \sqrt { 2 } } { 2 }

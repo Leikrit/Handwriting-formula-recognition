@@ -1,0 +1,1 @@
+- \frac { \pi } { 2 } < \alpha < \beta < \frac { \pi } { 6 }

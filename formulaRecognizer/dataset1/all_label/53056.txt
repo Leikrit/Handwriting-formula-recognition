@@ -1,0 +1,1 @@
+a _ { i } = a _ { n + 1 - i } \left( i \in \mathbf { N } _ { + } \right.

@@ -1,0 +1,1 @@
+\text { 即 } \frac { x + 2 } { x - 2 } = \frac { t + 2 } { 2 - t } \Rightarrow x = \frac { 4 } { t } \text { , }

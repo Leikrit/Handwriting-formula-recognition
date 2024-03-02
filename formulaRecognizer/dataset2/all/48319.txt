@@ -1,0 +1,1 @@
+\min \left\{ \frac { a _ { i } } { b _ { i } } , \frac { b _ { i } } { a _ { i } } \right\} \neq \min \left\{ \frac { a _ { j } } { b _ { j } } , \frac { b _ { j } } { a _ { j } } \right\} ( \min \{ x , y \} \text { 表 示 两 个 数 }

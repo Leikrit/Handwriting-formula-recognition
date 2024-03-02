@@ -1,0 +1,1 @@
+\boldsymbol { c } = ( 0 , a ) , \boldsymbol { i } = ( 1 , 0 )

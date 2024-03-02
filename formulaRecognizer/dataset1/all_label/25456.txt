@@ -1,0 +1,1 @@
+c _ { 1 } + c _ { 2 } + \cdots + c _ { n } < \frac { \sqrt { 2 } } { 4 } n

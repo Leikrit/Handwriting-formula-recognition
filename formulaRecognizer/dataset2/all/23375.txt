@@ -1,0 +1,1 @@
+\sin x \cos x - \sqrt { 3 } \text { 图 象 向 右 平 移 } \frac { \pi } { 6 } \text { 个 单 位 长 度 得 到 的 }

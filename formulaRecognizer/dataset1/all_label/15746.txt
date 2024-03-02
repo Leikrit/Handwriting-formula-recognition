@@ -1,0 +1,1 @@
+= \boldsymbol { e } _ { 2 } \cdot \boldsymbol { e } _ { 3 } = \boldsymbol { e } _ { 3 } \cdot \boldsymbol { e } _ { 1 } = \frac { 1 } { 2 } \text { , 向 量 } \boldsymbol { b } = 2 t \boldsymbol { e } _ { 1 } + ( 1 - t ) \boldsymbol { e } _ { 2 }

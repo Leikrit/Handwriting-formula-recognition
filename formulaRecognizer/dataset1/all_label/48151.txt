@@ -1,0 +1,1 @@
+k + \frac { 1 } { k } \in \left[ 2 , \frac { 1 0 } { 3 } \right]

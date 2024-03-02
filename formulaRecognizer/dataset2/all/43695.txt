@@ -1,0 +1,1 @@
+g \left( \frac { 2 \pi } { 3 } \right) = \sin \left( \frac { 1 } { 2 } \times \frac { 2 \pi } { 3 } + \frac { \pi } { 6 } \right) = \sin \frac { \pi } { 2 } = 1 \neq 0

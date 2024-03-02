@@ -1,0 +1,1 @@
+M = \left\{ x \mid y = \sqrt { 6 - x - x ^ { 2 } } \right\}

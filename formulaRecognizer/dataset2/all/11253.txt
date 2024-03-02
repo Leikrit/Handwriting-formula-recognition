@@ -1,0 +1,1 @@
+\text { 故 } f ( x ) \text { 在 } \left( - \infty , \ln \left( - \frac { a } { 2 } \right) \right) \text { 上 单 调 递 减 }

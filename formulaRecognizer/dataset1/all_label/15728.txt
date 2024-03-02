@@ -1,0 +1,1 @@
+f \left( 2 ^ { | a - 1 | } \right) > f ( - \sqrt { 2 } )

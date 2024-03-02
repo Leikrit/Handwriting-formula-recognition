@@ -1,0 +1,1 @@
+\text { 若 } | O N | = \frac { \left| F _ { 1 } F _ { 2 } \right| } { 4 }

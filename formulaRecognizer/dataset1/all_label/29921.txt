@@ -1,0 +1,1 @@
+\boldsymbol { a } ^ { 2 } + 4 \boldsymbol { a } \cdot \boldsymbol { b } + 4 \boldsymbol { b } ^ { 2 } = 4 + 4 \times ( - 2 ) + 4 \times 9 = 3 2

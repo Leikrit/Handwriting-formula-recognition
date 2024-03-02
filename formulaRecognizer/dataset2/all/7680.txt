@@ -1,0 +1,1 @@
+\text { 已 知 } a , b \text { 是 关 于 } x \text { 的 方 程 } x ^ { 2 } + x + c = 0 \text { 的 两 个 实 数 }

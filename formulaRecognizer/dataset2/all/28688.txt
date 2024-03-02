@@ -1,0 +1,1 @@
+\frac { \pi \left( 1 - \frac { 1 } { 2 } h \right) ^ { 2 } \cdot h } { \frac { 2 } { 3 } \pi } \leq s l a n t \frac { 4 } { 9 }

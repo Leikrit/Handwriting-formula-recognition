@@ -1,0 +1,1 @@
+\text { 若 数 列 } \left\{ a _ { n } \right\} \text { 的 前 } k \text { 项 和 为 } 3 6 4

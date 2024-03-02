@@ -1,0 +1,1 @@
+R \sin A + b \cos A = c

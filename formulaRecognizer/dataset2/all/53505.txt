@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \cos 2 x + 6 \cos \left( \frac { \pi } { 2 } - x \right) \left( x \in \left[ 0 , \frac { \pi } { 2 } \right] \right) \text { 的 最 大 }

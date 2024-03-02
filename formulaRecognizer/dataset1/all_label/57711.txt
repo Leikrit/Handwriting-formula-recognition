@@ -1,0 +1,1 @@
+f ( x + t ) \geqslant 2 f ( x )

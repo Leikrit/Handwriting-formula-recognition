@@ -1,0 +1,1 @@
+\overrightarrow { D A } \cdot \overrightarrow { D B } = \overrightarrow { D B } \cdot \overrightarrow { D C } = \overrightarrow { D C } \cdot \overrightarrow { D A } = - 2

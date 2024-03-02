@@ -1,0 +1,1 @@
+\text { 设 圆 } O : x ^ { 2 } + y ^ { 2 } = \frac { 8 } { 3 } \text { 上 任 意 一 点 } P \text { 处 的 切 线 } l _ { 1 } \text { 交 椭 圆 } C \text { 于 点 } M , N

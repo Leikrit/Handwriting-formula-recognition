@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = - 2 x ^ { 3 } + b x ^ { 2 } + c x + d \text { 的 图 象 与 } x \text { 轴 }

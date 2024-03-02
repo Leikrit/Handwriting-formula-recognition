@@ -1,0 +1,1 @@
+\text { 生 体 重 } y \text { ( 单 位 : } \mathrm { k g } \text { ) 与 身 高 } x \text { ( 单 位 : } \mathrm { c m } \text { ) 具 有 线 性 相 关 }

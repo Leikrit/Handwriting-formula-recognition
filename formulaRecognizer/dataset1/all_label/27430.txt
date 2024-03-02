@@ -1,0 +1,1 @@
+( \overrightarrow { A B } - 2 \overrightarrow { B C } ) \cdot ( 3 \overrightarrow { B C } + 4 \overrightarrow { C A } ) =

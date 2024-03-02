@@ -1,0 +1,1 @@
+\frac { 2 } { x _ { n } } - \frac { 1 } { x _ { n + 1 } } \leq s l a n t \frac { 1 } { 2 } ,

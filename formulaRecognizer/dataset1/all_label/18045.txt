@@ -1,0 +1,1 @@
+\left[ \frac { 1 } { 3 } , \frac { 3 } { 4 } \right] \cup \left[ \frac { 4 } { 3 } , \frac { 7 } { 4 } \right]

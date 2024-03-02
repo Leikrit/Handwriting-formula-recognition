@@ -1,0 +1,1 @@
+a _ { 2 0 0 4 } x ^ { 2 0 0 4 } ( x \in \mathbf { R } ) \text { , 则 } \left( a _ { 0 } + a _ { 1 } \right) + \left( a _ { 0 } + a _ { 2 } \right) +

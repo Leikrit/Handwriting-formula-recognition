@@ -1,0 +1,1 @@
+\ t h e r e f o r e n a _ { n } = ( n + 1 ) a _ { n + 1 }

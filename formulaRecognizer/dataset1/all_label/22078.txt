@@ -1,0 +1,1 @@
+\left( 2 - \frac { x + 1 } { \sqrt { x } } \right) ^ { 4 }

@@ -1,0 +1,1 @@
+\text { 排 列 } i _ { 1 } i _ { 2 } \cdots i _ { n } \text { 的 一 个 逆 序 }

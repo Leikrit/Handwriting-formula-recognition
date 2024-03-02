@@ -1,0 +1,1 @@
+\log _ { a } ( x - a k ) = \log _ { a } 2 \left( x ^ { 2 } - a ^ { 2 } \right)

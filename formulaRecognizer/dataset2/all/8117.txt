@@ -1,0 +1,1 @@
+y = \frac { \sin x } { 2 - \cos x } = \frac { \sin x - 0 } { - \cos x - ( - 2 ) } \text { 可 以 看 作 点 }

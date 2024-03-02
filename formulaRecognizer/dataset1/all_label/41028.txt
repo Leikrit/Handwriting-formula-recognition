@@ -1,0 +1,1 @@
+\left| x _ { 1 } - x _ { 2 } \right| < x _ { 4 } - x _ { 3 } = \left( \frac { a } { n - n ^ { 2 } } + n ^ { \frac { 1 } { n - 1 } } \right) - \frac { a } { n } = \frac { a } { 1 - n } + n ^ { \frac { 1 } { n - 1 } }

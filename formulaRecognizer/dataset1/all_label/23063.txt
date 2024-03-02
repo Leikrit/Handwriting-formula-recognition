@@ -1,0 +1,1 @@
+\frac { 2 \sin \alpha \cos \alpha } { 1 - 2 \sin ^ { 2 } \alpha } = \frac { \cos \alpha } { 2 - \sin \alpha }

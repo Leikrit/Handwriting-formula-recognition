@@ -1,0 +1,1 @@
+\left( 2 x - \frac { 1 } { \sqrt [ 3 ] { 4 x } } \right) ^ { 6 }

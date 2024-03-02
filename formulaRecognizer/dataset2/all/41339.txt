@@ -1,0 +1,1 @@
+\text { 即 } \mathrm { e } ^ { x } = \mathrm { e } x ^ { \mathrm { e } - 1 }

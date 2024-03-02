@@ -1,0 +1,1 @@
+\text { 多 项 式 } \left( x ^ { 2 } + 1 \right) ( x + 1 ) ( x + 2 ) ( x + 3 ) \text { 展 开 式 中 } x ^ { 3 } \text { 的 系 } ( x + 1

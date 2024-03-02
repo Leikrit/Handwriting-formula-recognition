@@ -1,0 +1,1 @@
+\text { 求 } \overrightarrow { A B } \cdot \overrightarrow { A C }

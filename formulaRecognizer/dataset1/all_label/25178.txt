@@ -1,0 +1,1 @@
+4 \left[ \left( \frac { x _ { 1 } + x _ { 2 } } { 6 } \right) ^ { 2 } + \left( \frac { y _ { 1 } + y _ { 2 } } { 6 } \right) ^ { 2 } \right] < \frac { \left( x _ { 1 } - x _ { 2 } \right) ^ { 2 } } { 9 } + \frac { \left( y _ { 1 } - y _ { 2 } \right) ^ { 2 } } { 9 }

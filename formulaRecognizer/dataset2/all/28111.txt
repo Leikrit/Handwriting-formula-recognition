@@ -1,0 +1,1 @@
+\overrightarrow { H M } \cdot \overrightarrow { A B } = \left( m , \frac { \sqrt { 3 } ( m - 2 ) \sin \theta } { 2 \cos \theta - 2 } - \frac { 2 \cos \theta - 1 } { \sqrt { 3 } \sin \theta } \right) \cdot ( 2 \cos \theta - 2 , \sqrt { 3 } \sin \theta )

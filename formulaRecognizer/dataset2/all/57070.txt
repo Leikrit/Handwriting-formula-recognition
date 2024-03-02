@@ -1,0 +1,1 @@
+2 \sqrt { n x y } = 2 \sqrt { n \lambda x \cdot \frac { 1 } { \lambda } y } \leq s l a n t n \lambda x + \frac { 1 } { \lambda } y

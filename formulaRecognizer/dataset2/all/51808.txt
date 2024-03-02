@@ -1,0 +1,1 @@
+Q ( \cos \beta , 3 \sin \beta )

@@ -1,0 +1,1 @@
+= \log _ { 2 } \left( 2 ^ { x } + t \right)

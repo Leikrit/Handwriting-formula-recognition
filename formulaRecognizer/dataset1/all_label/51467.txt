@@ -1,0 +1,1 @@
+f ( x ) = \sin x + \frac { 1 } { 2 } \sin 2 x + \frac { 1 } { 3 } \sin 3 x

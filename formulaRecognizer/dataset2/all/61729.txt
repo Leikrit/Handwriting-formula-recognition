@@ -1,0 +1,1 @@
+\text { 表 中 } t _ { i } = \left( x _ { i } - 1 1 \right) ^ { 2 }

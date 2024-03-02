@@ -1,0 +1,1 @@
+\text { 得 } \ln \left( \frac { n + 1 } { n } \right) > \frac { 1 } { n + 1 } > \frac { n - 1 } { n ^ { 2 } }

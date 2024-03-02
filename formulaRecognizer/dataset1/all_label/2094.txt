@@ -1,0 +1,1 @@
+\text { 若 } \sin \theta + \cos \theta = \frac { 1 } { 5 } \text { , 则 } \sin 2 \theta \text { 的 值 是 }

@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = 2 \sin ( 2 x + \varphi ) \text { 的 图 象 向 右 平 移 } \frac { \pi } { 6 } \text { 个 单 位 长 度 后 的 图 象 关 于 } y \text { 轴 对 称 }

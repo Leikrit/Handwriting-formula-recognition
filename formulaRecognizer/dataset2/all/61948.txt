@@ -1,0 +1,1 @@
+\text { 角 } A , B , C \text { 所 对 的 边 分 别 为 } a , b , c \text { , 且 } f ( x ) = \sin x \cos x + \sqrt { 3 } \cos ^ { 2 } x

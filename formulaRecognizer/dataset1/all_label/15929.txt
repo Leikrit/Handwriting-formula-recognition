@@ -1,0 +1,1 @@
+\overrightarrow { A C } = \boldsymbol { b } , A B = 2 , B C = 3 \sqrt { 2 } , \ a n g l e A B C = \frac { \pi } { 4 } , A D

@@ -1,0 +1,1 @@
+\text { 求 证 : } \frac { \ln s - \ln r } { s - r } \geqslant \frac { 2 s } { s ^ { 2 } + r ^ { 2 } }

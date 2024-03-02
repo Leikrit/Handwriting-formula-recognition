@@ -1,0 +1,1 @@
+\frac { x } { \mathrm { e } ^ { x - 1 } } \text { 成 立 } ( \mathrm { e } = 2 . 7 1 8 \cdots \text { 为 自 然 对 数 的 底 数 } )

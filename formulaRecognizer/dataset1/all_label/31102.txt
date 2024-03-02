@@ -1,0 +1,1 @@
+h ( x ) = \frac { 1 } { \mathrm { e } ^ { 2 x } } - \frac { 1 - x } { 1 + x } ( 0 \leq s l a n t x \leq s l a n t 1 )

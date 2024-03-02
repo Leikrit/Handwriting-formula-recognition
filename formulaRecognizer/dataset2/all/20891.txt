@@ -1,0 +1,1 @@
+\text { 对 于 } C _ { 1 } : f ^ { \prime } ( x ) = \frac { 1 } { x } , C _ { 2 } : g ^ { \prime } ( x ) = a x + b ( a \neq 0 )

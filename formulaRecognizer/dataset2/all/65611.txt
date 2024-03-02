@@ -1,0 +1,1 @@
+\left( x - \frac { 1 } { x } + 1 \right) ^ { 5 } \text { 展 开 式 中 的 常 数 项 为 }

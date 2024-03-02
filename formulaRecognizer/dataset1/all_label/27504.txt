@@ -1,0 +1,1 @@
+\left( x _ { 1 } - x _ { 2 } \right) \left[ f \left( x _ { 1 } \right) - f \left( x _ { 2 } \right) \right] > 0

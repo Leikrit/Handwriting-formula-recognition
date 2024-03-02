@@ -1,0 +1,1 @@
+\text { 所 以 } f ( t ) _ { \text { m i n } } = f ( 3 ) = 3 + \frac { 1 } { 3 } = \frac { 1 0 } { 3 }

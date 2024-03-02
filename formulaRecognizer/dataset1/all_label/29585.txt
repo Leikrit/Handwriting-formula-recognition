@@ -1,0 +1,1 @@
+\boldsymbol { b } = ( \sin \alpha , \cos \alpha )

@@ -1,0 +1,1 @@
+\text { 且 } \frac { \left| B F _ { 2 } \right| } { \left| A F _ { 2 } \right| } = \lambda

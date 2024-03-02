@@ -1,0 +1,1 @@
+\cos \left[ 2 \left( x - \frac { \pi } { 2 } \right) + \varphi \right] = \cos ( 2 x - \pi + \varphi ) = \sin \left[ \frac { \pi } { 2 } + ( 2 x - \pi + \varphi ) \right] = \sin \left( 2 x - \frac { \pi } { 2 } + \varphi \right) \text { 的 }

@@ -1,0 +1,1 @@
+f ( x ) = \sin ( \omega x + \varphi ) + m \left( \omega > 0 , - \frac { \pi } { 2 } < \varphi < 0 \right)

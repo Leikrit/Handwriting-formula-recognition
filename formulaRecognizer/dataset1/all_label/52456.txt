@@ -1,0 +1,1 @@
+g ( x ) = 1 - 2 \sqrt { 3 } \sin x \cos x - 2 \sin ^ { 2 } x

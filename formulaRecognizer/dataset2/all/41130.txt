@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = \sin ( a \pi x ) \cdot \ln \left( a ^ { x } + a ^ { - x } \right) \text { 的 图 象 大 致 为 }

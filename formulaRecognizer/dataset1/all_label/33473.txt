@@ -1,0 +1,1 @@
+\left\{ \frac { 1 } { \log _ { 2 } a _ { n } \log _ { 2 } a _ { n + 2 } } \right\}

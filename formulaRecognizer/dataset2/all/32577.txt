@@ -1,0 +1,1 @@
+\left\{ a _ { n } \right\} \text { 的 前 } n \text { 项 和 } S _ { n } \text { 满 足 } 2 S _ { n } - n a _ { n } = 3 n \left( n \in \mathbf { N } ^ { * } \right)

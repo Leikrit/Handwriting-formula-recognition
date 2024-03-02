@@ -1,0 +1,1 @@
+\tan B + \tan C = 2 \tan B \tan C

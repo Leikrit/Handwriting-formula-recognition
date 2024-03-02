@@ -1,0 +1,1 @@
+p \times q \left( p \leq s l a n t q \text { 且 } p , q \in \mathbf { N } ^ { * } \right)

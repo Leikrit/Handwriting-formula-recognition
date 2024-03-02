@@ -1,0 +1,1 @@
+\text { 以 } S _ { n } \text { 表 示 } \left\{ a _ { n } \right\} \text { 的 前 } n \text { 项 和 }

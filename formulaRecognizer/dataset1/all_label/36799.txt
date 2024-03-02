@@ -1,0 +1,1 @@
+P = 1 0 0 0 ( x + t - 8 ) ( x \geqslant 8 , t \geqslant 0 )

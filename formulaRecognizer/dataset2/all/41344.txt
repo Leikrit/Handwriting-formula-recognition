@@ -1,0 +1,1 @@
+\text { 故 } f ^ { \prime } ( x ) = \mathrm { e } ^ { x } - \mathrm { e } x ^ { \mathrm { e } - 1 } < 0

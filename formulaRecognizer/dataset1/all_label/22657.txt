@@ -1,0 +1,1 @@
+\cos \langle \overrightarrow { A B } , \overrightarrow { A C } \rangle = \frac { \overrightarrow { A B } \cdot \overrightarrow { A C } } { | \overrightarrow { A B } | \cdot | \overrightarrow { A C } | } = \frac { 1 } { 2 }

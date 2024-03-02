@@ -1,0 +1,1 @@
+\left( - \frac { 1 } { 2 } , 0 \right) \text { 内 单 调 递 增 }

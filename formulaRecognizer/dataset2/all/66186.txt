@@ -1,0 +1,1 @@
+\text { 因 此 点 } P \text { 的 坐 标 为 } \left( \frac { - a ^ { 2 } k } { \sqrt { a ^ { 2 } k ^ { 2 } + b ^ { 2 } } } , \frac { b ^ { 2 } } { \sqrt { a ^ { 2 } k ^ { 2 } + b ^ { 2 } } } \right)

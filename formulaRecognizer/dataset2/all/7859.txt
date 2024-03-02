@@ -1,0 +1,1 @@
+y = \mathrm { e } ^ { k x + b } ( \mathrm { e } = 2 . 7 1 8 \cdots \text { 为 自 然 对 数 的 底 数 , } k , b \text { 为 常 数 } )

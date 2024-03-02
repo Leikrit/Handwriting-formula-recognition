@@ -1,0 +1,1 @@
+h ( x ) = \l g \left( 1 0 ^ { x } + 1 \right) - \frac { x } { 2 }

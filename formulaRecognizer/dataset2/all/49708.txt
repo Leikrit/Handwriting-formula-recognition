@@ -1,0 +1,1 @@
+\text { 设 集 合 } A = \left\{ ( x , y ) \mid x + a ^ { 2 } y + 6 = 0 \right\}

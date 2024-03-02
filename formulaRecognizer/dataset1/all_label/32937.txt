@@ -1,0 +1,1 @@
+\overrightarrow { O A } = \frac { m } { 6 } \overrightarrow { A B } + \frac { 2 n } { 3 } \overrightarrow { A C }

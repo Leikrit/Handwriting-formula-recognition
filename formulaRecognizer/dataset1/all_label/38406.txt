@@ -1,0 +1,1 @@
+\frac { c a } { c + 2 a } \geqslant \frac { 1 } { 5 }

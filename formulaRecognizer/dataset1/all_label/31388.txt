@@ -1,0 +1,1 @@
+y = \sqrt { 3 } \cos x + \sin x \quad ( x \in \mathbf { R } )

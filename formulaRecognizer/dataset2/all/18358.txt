@@ -1,0 +1,1 @@
+\text { 那 么 就 称 数 列 } \left\{ a _ { n } \right\} \text { 为 周 期 数 列 }

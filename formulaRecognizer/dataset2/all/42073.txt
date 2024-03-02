@@ -1,0 +1,1 @@
+\text { 命 题 } \ e x i s t s x \in \boldsymbol { R }

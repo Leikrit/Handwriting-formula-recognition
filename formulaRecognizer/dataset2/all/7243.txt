@@ -1,0 +1,1 @@
+2 f ( \sqrt { \mathrm { e } } ) > f ( \mathrm { e } )

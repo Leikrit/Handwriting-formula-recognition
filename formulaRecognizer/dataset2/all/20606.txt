@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = \frac { \mathrm { e } ^ { x } ( x - 1 ) } { x ^ { 2 } }

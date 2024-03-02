@@ -1,0 +1,1 @@
+\left( 2 a ^ { 2 } - a - 6 \right) x + \left( a ^ { 2 } - 4 \right) y + 2 a = 0

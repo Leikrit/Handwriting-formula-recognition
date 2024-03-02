@@ -1,0 +1,1 @@
+\left\{ a _ { n } \right\} \text { 的 } m \text { 阶 } \omega \text { 系 数 }

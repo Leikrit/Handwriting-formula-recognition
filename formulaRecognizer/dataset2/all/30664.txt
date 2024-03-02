@@ -1,0 +1,1 @@
+\frac { 4 x ^ { 2 } } { y - 1 } + \frac { y ^ { 2 } } { 2 x - 1 } \geqslant m

@@ -1,0 +1,1 @@
+\text { 且 } | \boldsymbol { a } - \boldsymbol { b } | = 4 , | \boldsymbol { c } - \boldsymbol { b } | = \sqrt { 1 4 }

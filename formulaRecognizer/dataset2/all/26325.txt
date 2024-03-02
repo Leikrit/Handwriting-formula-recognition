@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t f ( 0 ) \text { 恒 成 立 }

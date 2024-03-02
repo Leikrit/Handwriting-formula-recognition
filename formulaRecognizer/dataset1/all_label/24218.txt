@@ -1,0 +1,1 @@
+\sin \ a n g l e P O M = \frac { 2 \tan \ a n g l e P O T } { 1 + \tan ^ { 2 } \ a n g l e P O T } = \frac { 4 } { 5 }

@@ -1,0 +1,1 @@
+a \cdot \frac { 8 } { a ^ { 3 } } - 3 \cdot \frac { 4 } { a ^ { 2 } } + 1 > 0

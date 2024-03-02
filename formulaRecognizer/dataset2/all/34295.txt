@@ -1,0 +1,1 @@
+x - \ln x + \frac { 2 x - 1 } { x ^ { 2 } } - \frac { \left( x ^ { 2 } - 2 \right) ( x - 1 ) } { x ^ { 3 } } - \frac { 3 } { 2 } \geqslant \frac { 2 x - 1 } { x ^ { 2 } } - \frac { \left( x ^ { 2 } - 2 \right) ( x - 1 ) } { x ^ { 3 } } - \frac { 1 } { 2 } = \frac { \left( 3 x ^ { 2 } - 2 \right) ( 2 - x ) } { 2 x ^ { 3 } }

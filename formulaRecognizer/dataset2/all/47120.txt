@@ -1,0 +1,1 @@
+\text { 已 知 直 线 } l : y = x - 2 \text { 与 } x \text { 轴 的 交 点 为 抛 物 线 } C : y ^ { 2 } = 2 p x \text { 的 焦 点 }

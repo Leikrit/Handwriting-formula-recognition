@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \mathrm { e } ^ { x } \left( x ^ { - 2 } - 2 x ^ { - 3 } \right) - k \left( - 2 x ^ { - 2 } + x ^ { - 1 } \right) = \frac { \left( \mathrm { e } ^ { x } - k x \right) \cdot ( x - 2 ) } { x ^ { 3 } }

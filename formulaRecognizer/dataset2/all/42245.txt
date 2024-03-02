@@ -1,0 +1,1 @@
+\overrightarrow { C D } = 3 \boldsymbol { e } _ { 1 } - 2 k \boldsymbol { e } _ { 2 }

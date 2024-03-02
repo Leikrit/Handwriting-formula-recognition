@@ -1,0 +1,1 @@
+\left( x + \frac { 2 } { x } \right) \left( y + \frac { 2 } { y } \right) \geqslant \frac { a } { x } + \frac { a } { y }

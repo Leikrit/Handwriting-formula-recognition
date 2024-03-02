@@ -1,0 +1,1 @@
+\left\{ y \mid \frac { 4 } { y } \in \mathbf { N } ^ { * } , y \in \mathbf { N } ^ { * } \right\}

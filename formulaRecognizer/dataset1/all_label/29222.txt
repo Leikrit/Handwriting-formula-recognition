@@ -1,0 +1,1 @@
+b \mathrm { e } ^ { 4 } = 4 \mathrm { e } ^ { b } , \quad c < 3

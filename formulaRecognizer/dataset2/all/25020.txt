@@ -1,0 +1,1 @@
+\text { 已 知 式 可 化 为 } u = \left( \frac { a } { b } + \frac { 1 } { a b } - \frac { 1 } { 2 } \right) c + \frac { \sqrt { 5 } } { c - 2 }

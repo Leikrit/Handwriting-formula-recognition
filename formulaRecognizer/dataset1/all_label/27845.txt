@@ -1,0 +1,1 @@
+\overrightarrow { A D } \cdot \overrightarrow { A E } = \left( \frac { 1 } { 3 } \overrightarrow { A B } + \frac { 2 } { 3 } \overrightarrow { A C } \right) \cdot ( \lambda \overrightarrow { A C } - \overrightarrow { A B } )

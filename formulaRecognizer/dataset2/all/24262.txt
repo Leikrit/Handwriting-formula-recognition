@@ -1,0 +1,1 @@
+\text { 则 } S _ { n } \geqslant \frac { 3 ( 3 n + 1 ) } { 4 }

@@ -1,0 +1,1 @@
+\sin 1 0 ^ { \circ } = \sin 2 0 ^ { \circ } \cos 1 0 ^ { \circ } + \cos 2 0 ^ { \circ } \sin 1 0 ^ { \circ } = \sin \left( 2 0 ^ { \circ } + \right.

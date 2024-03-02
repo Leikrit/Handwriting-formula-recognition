@@ -1,0 +1,1 @@
+\text { 形 } A _ { n } B _ { n } C _ { n } D _ { n } \text { 的 周 长 为 } a _ { n }

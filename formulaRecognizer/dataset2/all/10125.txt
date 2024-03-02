@@ -1,0 +1,1 @@
+\text { 命 题 “ 若 } a ^ { 2 } + b ^ { 2 } = 0 \text { , 则 } a = 0 \text { 且 } b = 0 \text { ” 的 否 定 是 “ 若 } a ^ { 2 } + b ^ { 2 } = 0 \text { , 则 } a b \neq 0 \text { ” }

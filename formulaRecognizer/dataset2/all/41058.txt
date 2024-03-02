@@ -1,0 +1,1 @@
+\text { 且 满 足 } k _ { 2 } + \lambda k _ { 1 } = 0 ( \lambda \neq 0 \text { 且 } \lambda \neq - 1 )

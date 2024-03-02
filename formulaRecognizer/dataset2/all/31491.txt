@@ -1,0 +1,1 @@
+\text { 使 } \left| A _ { 1 } B _ { 1 } \right| = \left| A _ { 2 } B _ { 2 } \right|

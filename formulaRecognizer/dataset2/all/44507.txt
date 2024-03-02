@@ -1,0 +1,1 @@
+\text { 已 知 两 个 非 零 向 量 } \boldsymbol { a } \text { 和 } \boldsymbol { b } \text { 不 共 线 }

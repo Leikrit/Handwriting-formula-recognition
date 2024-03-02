@@ -1,0 +1,1 @@
+s = \frac { 1 } { i } \left( s _ { 2 } - \frac { 1 } { i } s _ { 1 } ^ { 2 } \right)

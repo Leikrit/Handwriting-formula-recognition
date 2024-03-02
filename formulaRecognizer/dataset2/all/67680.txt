@@ -1,0 +1,1 @@
+\text { 因 此 函 数 } y = - \frac { x ^ { 2 } } { 2 - 2 x } ( x < 1 ) \text { 和 函 数 } y = \frac { x } { \ln x } ( x > 1 ) \text { 的 图 象 如 图 }

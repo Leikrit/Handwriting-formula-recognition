@@ -1,0 +1,1 @@
+\text { 由 已 知 条 件 得 } \mathrm { e } ^ { x } - ( a + 1 ) x - b \geqslant 0

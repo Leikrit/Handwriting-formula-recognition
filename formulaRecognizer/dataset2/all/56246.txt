@@ -1,0 +1,1 @@
+\text { 求 函 数 } y = \sin ^ { 4 } x + 2 \sqrt { 3 } \sin x \cos x - \cos ^ { 4 } x \text { 的 最 小 正 周 }

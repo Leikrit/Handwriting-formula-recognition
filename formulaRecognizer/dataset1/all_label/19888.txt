@@ -1,0 +1,1 @@
+= | \boldsymbol { c } - [ ( 1 - \lambda ) \boldsymbol { a } + \lambda \boldsymbol { b } ] | + \left| \frac { 1 } { 2 } \boldsymbol { a } + \boldsymbol { b } - [ ( 1 - \lambda ) \boldsymbol { a } + \lambda \boldsymbol { b } ] \right| ,

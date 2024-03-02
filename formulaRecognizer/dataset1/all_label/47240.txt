@@ -1,0 +1,1 @@
+\frac { \overrightarrow { C E } \cdot \overrightarrow { A E } } { x - y }

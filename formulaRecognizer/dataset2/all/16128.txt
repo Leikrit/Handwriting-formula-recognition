@@ -1,0 +1,1 @@
+b \cos A + a \cos B = 2

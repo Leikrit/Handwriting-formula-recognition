@@ -1,0 +1,1 @@
+\frac { a } { c } > \frac { b } { d } ( a > b > 0 , d > c > 0 )

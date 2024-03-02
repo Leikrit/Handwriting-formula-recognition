@@ -1,0 +1,1 @@
+\frac { | \overrightarrow { M A } | } { | \overrightarrow { M B } | } = - \frac { \lambda _ { 1 } | \overrightarrow { A F } | } { \lambda _ { 2 } | \overrightarrow { B F } | }

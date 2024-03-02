@@ -1,0 +1,1 @@
+S _ { 1 } , S _ { 2 } , \cdots , S _ { k } \text { 都 是 } M \text { 的 }

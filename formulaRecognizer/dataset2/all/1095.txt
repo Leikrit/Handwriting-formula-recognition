@@ -1,0 +1,1 @@
+h ( x ) \geqslant h ( 2 ) = 0

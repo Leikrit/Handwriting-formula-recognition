@@ -1,0 +1,1 @@
+\text { 己 知 数 列 } \left\{ a _ { n } \right\} \text { 满 足 : 对 任 意 } m , n \in \mathbf { N } ^ { * }

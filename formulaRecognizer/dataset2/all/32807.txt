@@ -1,0 +1,1 @@
+\text { 设 } a = \sin 3 3 ^ { \circ } , b = \cos 5 5 ^ { \circ } , c = \tan 3 5 ^ { \circ }

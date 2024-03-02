@@ -1,0 +1,1 @@
+\text { 设 函 数 } F ( x ) = k g ( x ) - f ( x ) = 2 k \mathrm { e } ^ { x } ( x + 1 ) - x ^ { 2 } - 4 x - 2 ( x \geqslant - 2 )

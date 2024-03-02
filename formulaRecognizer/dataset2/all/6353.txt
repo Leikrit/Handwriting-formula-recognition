@@ -1,0 +1,1 @@
+\text { 函 数 } y = \frac { \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } } { \mathrm { e } ^ { x } - \mathrm { e } ^ { - x } } \text { 的 图 象 大 致 为 }

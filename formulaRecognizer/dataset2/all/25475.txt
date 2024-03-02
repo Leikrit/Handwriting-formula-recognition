@@ -1,0 +1,1 @@
+\text { 点 } ( \mathrm { e } , - \mathrm { e } ) \text { 作 该 曲 线 的 切 线 } l

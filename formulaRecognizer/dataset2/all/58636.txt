@@ -1,0 +1,1 @@
+f \left( x - \frac { \pi } { 1 2 } \right) \text { 为 奇 函 数 }

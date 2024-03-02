@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { 0 } \times \frac { 1 } { 2 } + \frac { 1 } { 2 } \mathrm { C } _ { n } ^ { 1 } \times

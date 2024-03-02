@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 在 } \left( 1 , \sqrt { \frac { 1 } { 2 a } } \right) \text { 上 单 调 递 减 }

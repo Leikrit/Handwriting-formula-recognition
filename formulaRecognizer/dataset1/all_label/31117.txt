@@ -1,0 +1,1 @@
+F ^ { \prime } ( x ) = - \frac { 2 x + 1 } { \mathrm { e } ^ { 2 x } } - a -

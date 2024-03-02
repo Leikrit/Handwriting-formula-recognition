@@ -1,0 +1,1 @@
+\left( \frac { 1 6 } { 8 1 } \right) ^ { - \frac { 3 } { 4 } } + \log _ { 3 } \frac { 5 } { 4 } + \log _ { 3 } \frac { 4 } { 5 } =

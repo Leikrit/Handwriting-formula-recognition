@@ -1,0 +1,1 @@
+\text { 设 } A \left( 4 a ^ { 2 } , 4 a \right) , B \left( 4 b ^ { 2 } , 4 b \right) , C \left( 4 c ^ { 2 } , 4 c \right)

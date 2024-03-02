@@ -1,0 +1,1 @@
+P \left( x _ { 0 } , 2 \sqrt { 3 } \right) \left( x _ { 0 } > \frac { p } { 2 } \right)

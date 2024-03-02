@@ -1,0 +1,1 @@
+\text { 公 差 不 为 } 0 \text { 的 等 差 数 列 } \left\{ a _ { n } \right\}

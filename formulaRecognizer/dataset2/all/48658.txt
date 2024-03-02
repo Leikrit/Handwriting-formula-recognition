@@ -1,0 +1,1 @@
+3 6 \text { 名 工 人 中 年 龄 在 } \bar { x } - s \text { 和 } \bar { x } + s \text { 之 间 有 多 少 }

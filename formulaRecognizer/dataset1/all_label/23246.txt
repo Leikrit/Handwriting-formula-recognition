@@ -1,0 +1,1 @@
+C \left( \frac { 4 } { m } , \frac { 4 - m ^ { 2 } } { m t } \right)

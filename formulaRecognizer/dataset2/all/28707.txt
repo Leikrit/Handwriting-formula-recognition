@@ -1,0 +1,1 @@
+\text { 且 满 足 } \overrightarrow { A M } = 2 \overrightarrow { A P } , \overrightarrow { N P } \cdot \overrightarrow { A M } = 0

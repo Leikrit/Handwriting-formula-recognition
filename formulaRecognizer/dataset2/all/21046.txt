@@ -1,0 +1,1 @@
+\left. a _ { 2 } , a _ { 3 } \right) \text { 的 排 列 所 得 的 } N \left( a _ { 1 } , a _ { 2 } , a _ { 3 } \right) \text { 的 平 均 值 为 }

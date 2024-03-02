@@ -1,0 +1,1 @@
+\text { 值 域 为 } [ - 5 , 1 ] \text { , 求 } a \text { 和 } b \text { 的 值 }

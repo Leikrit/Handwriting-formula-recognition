@@ -1,0 +1,1 @@
+\text { 满 足 关 系 式 } \frac { \cos B } { b } + \frac { \cos C } { c } = \frac { \sin A \sin B } { 3 \sin C }

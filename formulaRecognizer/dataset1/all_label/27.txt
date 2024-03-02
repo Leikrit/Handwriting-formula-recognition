@@ -1,0 +1,1 @@
+\text { 已 知 } \sqrt { 2 + \frac { 2 } { 3 } } = 2 \sqrt { \frac { 2 } { 3 } } , \sqrt { 3 + \frac { 3 } { 8 } } = 3 \sqrt { \frac { 3 } { 8 } } , \sqrt { 4 + \frac { 4 } { 1 5 } } =

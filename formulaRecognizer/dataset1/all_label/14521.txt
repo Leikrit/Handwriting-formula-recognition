@@ -1,0 +1,1 @@
+| \overrightarrow { M A } | | \overrightarrow { M B } | = \left( \sqrt { 1 + m ^ { 2 } } \right) ^ { 2 } \left| y _ { 1 } - y _ { M } \right| \left| y _ { 2 } - y _ { M } \right|

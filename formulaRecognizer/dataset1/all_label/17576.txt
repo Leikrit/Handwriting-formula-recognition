@@ -1,0 +1,1 @@
+\frac { a } { \sin A } = \frac { c } { \sin C }

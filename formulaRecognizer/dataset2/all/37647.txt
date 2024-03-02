@@ -1,0 +1,1 @@
+\text { 且 } P ( n ) \text { 与 时 刻 } t \text { 无 关 }

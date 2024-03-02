@@ -1,0 +1,1 @@
+\text { 若 不 等 式 } x f ( x ) \geqslant 0 \text { 在 } \left[ - \frac { \pi } { 2 } , + \infty \right) \text { 上 恒 成 立 }

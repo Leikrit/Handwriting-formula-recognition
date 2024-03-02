@@ -1,0 +1,1 @@
+f _ { 1 } : V \rightarrow \mathbf { R } , f _ { 1 } ( \boldsymbol { m } ) = x - y , \boldsymbol { m } = ( x , y ) \in V

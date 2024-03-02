@@ -1,0 +1,1 @@
+q _ { 4 } : p _ { 1 } \wedge \left( \ne g p _ { 2 } \right)

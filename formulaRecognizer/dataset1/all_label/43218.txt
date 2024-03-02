@@ -1,0 +1,1 @@
+P ( \mu - \sigma < Z < N < \mu + \sigma ) = 0 . 6 8 2 6 , P ( \mu - 2 \sigma < Z < \mu + 2 \sigma ) = 0 . 9 5 4 4

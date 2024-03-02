@@ -1,0 +1,1 @@
+\text { 若 } l \perp \alpha , \alpha / / \beta \text { , 则 } l \perp \beta

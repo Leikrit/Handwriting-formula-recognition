@@ -1,0 +1,1 @@
+\text { 动 点 } M \text { 到 圆 } C \text { 的 切 线 长 与 } | M Q | \text { 的 比 等 于 常 数 }

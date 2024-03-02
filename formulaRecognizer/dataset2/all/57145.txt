@@ -1,0 +1,1 @@
+\text { 均 有 } g \left( 1 + \mathrm { e } ^ { - | t | } \right) \geqslant 0

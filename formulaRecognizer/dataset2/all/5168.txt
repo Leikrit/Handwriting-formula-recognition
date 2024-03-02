@@ -1,0 +1,1 @@
+\overrightarrow { A C } = 6 \overrightarrow { A O } \cdot \overrightarrow { E C }

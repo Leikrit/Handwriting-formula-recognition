@@ -1,0 +1,1 @@
+f ( x ) _ { \min } = f ( 1 ) = - \mathrm { e }

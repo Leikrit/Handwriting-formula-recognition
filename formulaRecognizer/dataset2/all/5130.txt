@@ -1,0 +1,1 @@
+\sin x + \cos x - \frac { 1 } { 3 } \text { 在 } [ 0 , 2 \pi ) \text { 内 的 两 个 零 点 }

@@ -1,0 +1,1 @@
+\text { 已 知 } | \boldsymbol { a } | = 3 , \boldsymbol { b } = ( 2 \sqrt { 3 } , 2 )

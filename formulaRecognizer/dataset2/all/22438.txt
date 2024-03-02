@@ -1,0 +1,1 @@
+x = \frac { \pi } { 4 } \text { 为 } y = f ( x ) \text { 图 象 的 对 称 轴 }

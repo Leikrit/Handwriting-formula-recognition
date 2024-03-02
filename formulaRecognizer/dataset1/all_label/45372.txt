@@ -1,0 +1,1 @@
+2 a + b \geqslant 2 \sqrt { 2 a b } \Rightarrow 0 < \sqrt { a b } \leq s l a n t \frac { \sqrt { 2 } } { 4 }

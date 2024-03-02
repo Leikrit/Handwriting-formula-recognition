@@ -1,0 +1,1 @@
+\text { ( 3 ) } b \sin A = \sqrt { 3 } a \sin \frac { A + C } { 2 } \text { 这 三 个 }

@@ -1,0 +1,1 @@
+\text { 已 知 导 函 数 } f ^ { \prime } ( x ) \text { 在 区 间 } ( 1 , \mathrm { e } ) \text { 上 存 在 零 点 }

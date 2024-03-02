@@ -1,0 +1,1 @@
+\text { 所 以 } f ( x ) = \frac { \sqrt { 3 } } { 2 } \sin \omega x - \frac { 1 } { 2 } \cos \omega x - \cos \omega x

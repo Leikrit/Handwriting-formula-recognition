@@ -1,0 +1,1 @@
+\text { 且 } \frac { B E } { B C } = \frac { C F } { C D } = \frac { D G } { D A }

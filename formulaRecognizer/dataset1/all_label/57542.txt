@@ -1,0 +1,1 @@
+f ( 0 ) \cdot f \left( - \frac { 2 a } { 3 } \right) < 0

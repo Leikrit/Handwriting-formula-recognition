@@ -1,0 +1,1 @@
+A B \in ( \sqrt { 6 } - \sqrt { 2 } , \sqrt { 6 } + \sqrt { 2 } )

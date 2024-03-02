@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \overrightarrow { A B _ { 1 } } + \overrightarrow { A B _ { 2 } }

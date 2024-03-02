@@ -1,0 +1,1 @@
+\text { 设 } m \text { 为 正 整 数 , 若 存 在 “ } M \text { - 数 列 ” } \left\{ c _ { n } \right\} \left( n \in \mathbf { N } ^ { * } \right) \text { , 对 任 意 正 整 数 } k \text { , 当 } k \leq s l a n t m \text { 时 , 都 有 } c _ { k } \leq s l a n t b _ { k } \leq s l a n t c _ { k + 1 }

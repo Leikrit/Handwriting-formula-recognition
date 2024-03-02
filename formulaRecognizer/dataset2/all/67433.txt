@@ -1,0 +1,1 @@
+\left[ \frac { \sqrt { \mathrm { e } } } { 4 \mathrm { e } } , \mathrm { e } \right]

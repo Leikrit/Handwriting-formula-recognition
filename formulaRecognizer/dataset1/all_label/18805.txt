@@ -1,0 +1,1 @@
+A = \{ ( x , y ) | | x | + | y \mid \leq s l a n t 1 \} , B = \left\{ ( x , y ) \mid x ^ { 2 } + \right.

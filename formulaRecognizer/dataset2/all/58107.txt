@@ -1,0 +1,1 @@
+\text { 若 } a \in \mathbf { R } , b \in \mathbf { R } \text { 且 } a b \neq

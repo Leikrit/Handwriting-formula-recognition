@@ -1,0 +1,1 @@
+\text { 因 为 } \left[ \left( \frac { 1 } { 2 } \right) ^ { \frac { 1 } { 2 } } \right] ^ { 1 0 } = \left( \frac { 1 } { 2 } \right) ^ { 5 } = \frac { 1 } { 3 2 }

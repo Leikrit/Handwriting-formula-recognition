@@ -1,0 +1,1 @@
+2 ( \overrightarrow { P D } \cdot \overrightarrow { P A } ) _ { \min } = - 2 \times \frac { 3 } { 4 } = - \frac { 3 } { 2 }

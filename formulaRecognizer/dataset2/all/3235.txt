@@ -1,0 +1,1 @@
+\text { 若 } \boldsymbol { a } ^ { 2 } = \boldsymbol { b } ^ { 2 }

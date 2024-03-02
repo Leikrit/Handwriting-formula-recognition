@@ -1,0 +1,1 @@
+\frac { 1 } { \sqrt { x _ { 1 } } } + \frac { 1 } { \sqrt { x _ { 2 } } } = \frac { 1 } { 2 }

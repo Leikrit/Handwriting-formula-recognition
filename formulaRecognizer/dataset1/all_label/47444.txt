@@ -1,0 +1,1 @@
+\sin \left( \frac { 5 \pi } { 2 } + \alpha \right) = \frac { 1 } { 5 }

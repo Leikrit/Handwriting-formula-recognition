@@ -1,0 +1,1 @@
+\text { 求 不 等 式 } f ( x ) \geqslant 3 x + 2 \text { 的 }

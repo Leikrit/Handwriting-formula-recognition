@@ -1,0 +1,1 @@
+\| A B \| = \left| x _ { 2 } - x _ { 1 } \right| + \left| y _ { 2 } - y _ { 1 } \right|

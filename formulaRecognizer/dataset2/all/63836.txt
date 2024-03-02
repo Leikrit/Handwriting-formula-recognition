@@ -1,0 +1,1 @@
+( a , b , N \text { 都 是 正 数 , } a \neq 1 , b \neq 1 )

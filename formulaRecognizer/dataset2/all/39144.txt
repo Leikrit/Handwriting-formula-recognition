@@ -1,0 +1,1 @@
+\tan \frac { A + B } { 2 } + \tan \frac { C } { 2 } = 4

@@ -1,0 +1,1 @@
+A = \{ x | \sin x \geqslant | \cos x \mid \}

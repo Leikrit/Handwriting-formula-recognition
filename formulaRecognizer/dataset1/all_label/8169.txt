@@ -1,0 +1,1 @@
+\frac { \sin \alpha \cos 2 \alpha } { \sin \alpha - \cos \alpha } = - \frac { 2 } { 5 } , \alpha \in \left( 0 , \frac { \pi } { 2 } \right)

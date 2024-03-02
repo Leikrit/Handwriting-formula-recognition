@@ -1,0 +1,1 @@
+\lambda = \frac { 1 } { k _ { 0 } } \left( k _ { 0 } \in \mathbf { N } ^ { * } , k _ { 0 } \geqslant 2 \right) , \mu = - 1

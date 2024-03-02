@@ -1,0 +1,1 @@
+\boldsymbol { c } = - \frac { 1 } { 2 } \boldsymbol { a } + t \boldsymbol { b } ( t \in \mathbf { R } )

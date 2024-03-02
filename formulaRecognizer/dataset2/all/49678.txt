@@ -1,0 +1,1 @@
+\text { 当 } f ( x ) = \quad ( x > 0 ) \text { 时 , } M _ { f } ( a , b ) \text { 为 } a , b \text { 的 几 何 平 均 数 }

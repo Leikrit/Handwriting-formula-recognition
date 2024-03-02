@@ -1,0 +1,1 @@
+\ t h e r e f o r e a = 1 \text { 是 复 数 } z = a ^ { 2 } - a + ( a + 1 ) \mathrm { i } ( a \in \mathbf { R } ) \text { 为 纯 虚 数 的 充 分 不 必 要 条 件 }

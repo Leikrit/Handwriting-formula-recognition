@@ -1,0 +1,1 @@
+\sin \alpha \cos \beta - 2 \cos \alpha \sin \beta = 0

@@ -1,0 +1,1 @@
+\text { 求 过 } A , M , N \text { 三 点 的 平 面 与 点 } O \text { 的 距 离 } d

@@ -1,0 +1,1 @@
+\overrightarrow { A B } + \frac { 1 } { 2 } \overrightarrow { A D } - \overrightarrow { A A _ { 1 } }

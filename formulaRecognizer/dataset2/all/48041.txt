@@ -1,0 +1,1 @@
+\text { 若 } \frac { \sin \alpha - \cos \alpha } { 2 \sin \alpha } = 1

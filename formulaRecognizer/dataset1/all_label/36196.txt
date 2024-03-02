@@ -1,0 +1,1 @@
+M \cos ( \omega x + \varphi )

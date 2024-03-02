@@ -1,0 +1,1 @@
+\left( z _ { 1 } + z _ { 2 } \right) * z _ { 3 } = \left( z _ { 1 } * z _ { 3 } \right) + \left( z _ { 2 } * z _ { 3 } \right)

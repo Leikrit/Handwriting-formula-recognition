@@ -1,0 +1,1 @@
+\text { 运 算 “ } \oplus \text { ” 为 : } ( a , b ) \oplus ( c , d ) = ( a + c \text { , }

@@ -1,0 +1,1 @@
+\text { 并 比 较 } \left( 1 + \frac { 1 } { n } \right) ^ { n } \text { 与 } \mathrm { e } \text { 的 大 小 }

@@ -1,0 +1,1 @@
+N = \left\{ x \mid \frac { 1 } { 2 } < 2 ^ { x + 1 } < 4 , x \in \mathbf { Z } \right\}

@@ -1,0 +1,1 @@
+y = \cos ( \omega x + \varphi ) ( \omega > 0 ,

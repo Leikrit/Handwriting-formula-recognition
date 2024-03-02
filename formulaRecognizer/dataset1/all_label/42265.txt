@@ -1,0 +1,1 @@
+\overrightarrow { B M } = 3 \overrightarrow { M C } , \overrightarrow { D N } = 2 \overrightarrow { N C }

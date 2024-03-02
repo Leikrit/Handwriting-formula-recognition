@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { 1 } = a _ { 1 }

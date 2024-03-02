@@ -1,0 +1,1 @@
+A = \left\{ a _ { 1 } , a _ { 2 } , \cdots , a _ { k } \right\} ( k \geqslant 2 )

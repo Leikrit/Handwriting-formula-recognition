@@ -1,0 +1,1 @@
+\text { 已 知 } \left( \sqrt { x } + \frac { 1 } { 2 \sqrt [ 4 ] { x } } \right) ^ { n } \text { 的 展 开 式 前 三 项 中 的 } x \text { 的 }

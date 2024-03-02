@@ -1,0 +1,1 @@
+\text { 第 } i _ { m } \text { 项 } \left( i _ { 1 } < i _ { 2 } < \cdots < i _ { m } \right)

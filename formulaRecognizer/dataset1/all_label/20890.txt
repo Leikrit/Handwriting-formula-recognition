@@ -1,0 +1,1 @@
+\forall x \in \mathbf { R } , f \left( x _ { 0 } \right) - g \left( x _ { 0 } \right) \leq s l a n t f ( x ) - g ( x )

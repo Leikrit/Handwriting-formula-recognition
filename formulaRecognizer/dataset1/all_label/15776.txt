@@ -1,0 +1,1 @@
+A = \{ x \mid 2 x + 1 \geqslant 0 , x \in \mathbf { Z } \}

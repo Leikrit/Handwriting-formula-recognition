@@ -1,0 +1,1 @@
+S _ { \triangle O D G } = S _ { \triangle O E G } = \frac { \sqrt { 6 } } { 2 }

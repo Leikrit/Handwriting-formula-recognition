@@ -1,0 +1,1 @@
+x ) = - f \left( \frac { \pi } { 6 } - x \right) , f \left( \frac { \pi } { 2 } + x \right) = f \left( \frac { \pi } { 2 } - x \right)

@@ -1,0 +1,1 @@
+\sqrt { 3 } \sin A \sin C - \cos A \sin C - 2 \sin C = 0

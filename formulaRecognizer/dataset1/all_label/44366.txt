@@ -1,0 +1,1 @@
+f ^ { \prime \prime } ( x ) = 0

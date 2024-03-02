@@ -1,0 +1,1 @@
+\text { 已 知 等 比 数 列 } \left\{ a _ { n } \right\} \text { 首 项 } a _ { 1 } > 1 \text { , 公 比 为 } q \text { , 前 } n \text { 项 和 为 } S _ { n }

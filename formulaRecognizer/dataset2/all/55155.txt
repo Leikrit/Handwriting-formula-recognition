@@ -1,0 +1,1 @@
+\text { 样 本 } \left( x _ { i } , y _ { i } \right) ( i = 1 , 2 , \cdots , n ) \text { 的 相 关 系 数 } r =

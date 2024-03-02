@@ -1,0 +1,1 @@
+g ( x ) = \log _ { a } \left( a ^ { 2 x } + t \right) ( a > 0 \text { , 且 } a \neq 1 ) \text { 是 定 义 域 为 } \mathbf { R } \text { 的 }

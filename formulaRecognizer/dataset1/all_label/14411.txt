@@ -1,0 +1,1 @@
+f ( x ) = \frac { x ^ { 2 } \left( x ^ { 2 } + 1 \right) } { \left( 3 x ^ { 2 } + 1 \right) ^ { 2 } }

@@ -1,0 +1,1 @@
+\text { 设 曲 线 } y = \ln x + 2 \text { 和 曲 线 } y = \ln ( x + 1 ) \text { 上 的 切 点 横 坐 标 分 别 为 } m , n

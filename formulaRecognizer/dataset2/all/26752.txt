@@ -1,0 +1,1 @@
+\cos h ( x + 6 \pi ) = \cos \left[ ( x + 6 \pi ) + \sin \frac { x + 6 \pi } { 3 } \right]

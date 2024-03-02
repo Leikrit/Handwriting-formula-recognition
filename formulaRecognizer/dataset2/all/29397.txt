@@ -1,0 +1,1 @@
+\text { 所 以 } N \text { 点 的 坐 标 为 } \left( \frac { k } { 4 } , \frac { k ^ { 2 } } { 8 } \right)

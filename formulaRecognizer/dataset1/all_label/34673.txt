@@ -1,0 +1,1 @@
+n ^ { i } \mathrm { ~ A } _ { m } ^ { i } < m ^ { i } \mathrm { ~ A } _ { n } ^ { i }

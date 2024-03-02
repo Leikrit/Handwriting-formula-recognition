@@ -1,0 +1,1 @@
+\left( 1 + x + x ^ { 2 } \right) \left( 1 + \frac { a } { x } \right) ^ { 4 } \text { 的 常 数 项 为 } 1

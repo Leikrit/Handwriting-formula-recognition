@@ -1,0 +1,1 @@
+( \hat { \mu } - 3 \hat { \sigma } , \hat { \mu } + 3 \hat { \sigma } )

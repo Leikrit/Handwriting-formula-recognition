@@ -1,0 +1,1 @@
+\text { 过 点 } A \left( - 1 , - \frac { 1 } { 2 } \right) \text { 作 曲 线 } C : y = f ( x ) \text { 的 切 线 ( 斜 率 存 在 ) }

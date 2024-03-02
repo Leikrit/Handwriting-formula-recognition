@@ -1,0 +1,1 @@
+f ( x ) = m \sin \omega x +

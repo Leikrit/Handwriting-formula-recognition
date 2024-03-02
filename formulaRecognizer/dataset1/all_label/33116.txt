@@ -1,0 +1,1 @@
+\left| A F _ { 1 } \right| = \left| F _ { 1 } F _ { 2 } \right| , \left| B F _ { 2 } \right| = 2 \left| A F _ { 2 } \right|

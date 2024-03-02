@@ -1,0 +1,1 @@
+a x - 1 - b \ln x ( a , b \in \mathbf { R } , a b \neq 0 )

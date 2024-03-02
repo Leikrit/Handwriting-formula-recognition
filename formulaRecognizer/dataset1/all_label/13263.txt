@@ -1,0 +1,1 @@
+\left( \sin \frac { \theta } { 2 } - \cos \frac { \theta } { 2 } \right) ^ { 2 }

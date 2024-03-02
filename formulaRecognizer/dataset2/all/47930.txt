@@ -1,0 +1,1 @@
+\overrightarrow { E B } = ( 2 , 0 , 0 )

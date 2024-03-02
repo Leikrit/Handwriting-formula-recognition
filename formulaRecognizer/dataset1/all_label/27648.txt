@@ -1,0 +1,1 @@
+f ( x ) = \frac { a \ln x } { x + 1 } + \frac { b } { x }

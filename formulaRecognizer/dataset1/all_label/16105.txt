@@ -1,0 +1,1 @@
+k _ { C B } - k _ { N C } = \frac { b ^ { 2 } \left( y _ { 1 } + y _ { 2 } \right) + 2 c m y _ { 1 } y _ { 2 } } { m } = \frac { b ^ { 2 } \frac { 2 m c b ^ { 2 } } { b ^ { 2 } m ^ { 2 } + a ^ { 2 } } - 2 c m \frac { b ^ { 4 } } { b ^ { 2 } m ^ { 2 } + a ^ { 2 } } } { m } = 0

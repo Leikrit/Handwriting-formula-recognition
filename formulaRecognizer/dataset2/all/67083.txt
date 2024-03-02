@@ -1,0 +1,1 @@
+( 0 , - \sqrt { 2 } ) \text { 且 倾 斜 角 为 } \alpha \text { 的 直 线 } l \text { 与 } \odot O \text { 交 于 } A , B \text { 两 点 }

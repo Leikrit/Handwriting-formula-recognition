@@ -1,0 +1,1 @@
+\text { 若 } \left( 3 x - \frac { 1 } { \sqrt [ 3 ] { x } } \right) ^ { n } \text { 的 展 开 式 }

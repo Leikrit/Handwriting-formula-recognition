@@ -1,0 +1,1 @@
+\mathrm { i } + \mathrm { i } ^ { 2 } + \mathrm { i } ^ { 3 } + \cdots + \mathrm { i } ^ { 2 0 2 0 }

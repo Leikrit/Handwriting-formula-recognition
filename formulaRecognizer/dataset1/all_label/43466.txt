@@ -1,0 +1,1 @@
+C = \{ P \mid \overrightarrow { O P } = \boldsymbol { a } \cos \theta + \boldsymbol { b } \sin \theta , 0 \leq s l a n t \theta < 2 \pi \}

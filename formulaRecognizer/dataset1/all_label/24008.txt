@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ b _ { n } \right\} \left( n \in \mathbf { N } ^ { * } \right) \text { 满 足 : } b _ { 1 } = 1 , \frac { 1 } { S _ { n } } = \frac { 2 } { b _ { n } } - \frac { 2 } { b _ { n + 1 } } \text { , 其 中 } S _ { n } \text { 为 数 列 } \left\{ b _ { n } \right\} \text { 的 前 } n \text { 项 和 }

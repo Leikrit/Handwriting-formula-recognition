@@ -1,0 +1,1 @@
+\cos \left( \alpha - \frac { 5 \pi } { 1 2 } \right)

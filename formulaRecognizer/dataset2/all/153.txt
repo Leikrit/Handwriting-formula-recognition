@@ -1,0 +1,1 @@
+y = \arcsin \frac { x } { 3 }

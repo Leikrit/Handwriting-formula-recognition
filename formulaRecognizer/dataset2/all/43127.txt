@@ -1,0 +1,1 @@
+\text { 求 } T = \frac { 1 } { \left| M P _ { 1 } \right| ^ { 2 } } - 2 \left| M P _ { 2 } \right| \text { 的 取 值 范 围 }

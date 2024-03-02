@@ -1,0 +1,1 @@
+\left| \overrightarrow { a _ { 1 } } - \overrightarrow { a _ { 2 } } \right| = 1

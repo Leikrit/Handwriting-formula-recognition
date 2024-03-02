@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 + \sin \alpha } { 1 - \sin \alpha } } - \sqrt { \frac { 1 - \sin \alpha } { 1 + \sin \alpha } } =

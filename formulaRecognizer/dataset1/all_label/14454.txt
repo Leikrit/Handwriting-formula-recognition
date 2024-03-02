@@ -1,0 +1,1 @@
+m \mathrm { e } ^ { n } + n < n \mathrm { e } ^ { m } + m

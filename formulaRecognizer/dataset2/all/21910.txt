@@ -1,0 +1,1 @@
+\text { 若 函 数 } y = \frac { 3 \sin x + a } { 4 } \text { 具 有 性 质 } M

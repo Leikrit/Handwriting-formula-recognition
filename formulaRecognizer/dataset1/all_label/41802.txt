@@ -1,0 +1,1 @@
+N \left( \mu , \sigma ^ { 2 } \right) , P ( \mu - \sigma < \xi \leq s l a n t \mu + \sigma ) \approx 0 . 6 8 2 7 , P ( \mu - 2 \sigma < \xi \leq s l a n t \mu + 2 \sigma ) \approx

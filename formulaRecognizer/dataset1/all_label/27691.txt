@@ -1,0 +1,1 @@
+\left( x - \frac { x ^ { 2 } } { y } \right) ( x + 2 y ) ^ { 5 }

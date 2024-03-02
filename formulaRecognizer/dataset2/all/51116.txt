@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { A M } = \frac { 1 } { 2 } \overrightarrow { A B } + \frac { 1 } { 2 } \overrightarrow { A C }

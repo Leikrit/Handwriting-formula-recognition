@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = a \mathrm { e } ^ { x } ( \cos x - \sin x ) = \sqrt { 2 } a \mathrm { e } ^ { x } \sin \left( x + \frac { 3 \pi } { 4 } \right)

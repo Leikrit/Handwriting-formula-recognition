@@ -1,0 +1,1 @@
+B = \left\{ x \in \mathbf { R } \mid x ^ { 2 } - 4 < 0 \right\}

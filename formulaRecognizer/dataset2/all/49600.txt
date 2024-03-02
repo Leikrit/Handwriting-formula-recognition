@@ -1,0 +1,1 @@
+\text { 当 且 仅 当 } 2 k \pi + \pi < x < 2 k \pi + \frac { 3 \pi } { 2 } ( k \in \mathbf { Z } ) \text { 时 }

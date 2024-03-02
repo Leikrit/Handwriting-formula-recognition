@@ -1,0 +1,1 @@
+f \left( x _ { n } \right) = \mathrm { e } ^ { a ( n \pi - \varphi ) } \sin ( n \pi - \varphi )

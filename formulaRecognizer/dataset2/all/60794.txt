@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } \left[ 0 , \frac { \pi } { 2 } \right]

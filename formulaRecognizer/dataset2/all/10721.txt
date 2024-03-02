@@ -1,0 +1,1 @@
+\text { 若 二 项 式 } \left( x - \frac { 2 } { \sqrt { x } } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right) \text { 的 展 开 式 中 存 在 常 数 项 }

@@ -1,0 +1,1 @@
+\left| \left( t y _ { 1 } + 4 \right) \left( t y _ { 2 } + 4 \right) \right| = \left| 1 6 - \frac { 2 0 t ^ { 2 } } { t ^ { 2 } + 2 } \right| = 4

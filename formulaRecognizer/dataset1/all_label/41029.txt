@@ -1,0 +1,1 @@
+n ^ { \frac { 1 } { n - 1 } } \leq s l a n t 2

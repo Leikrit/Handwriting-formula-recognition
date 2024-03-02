@@ -1,0 +1,1 @@
+A = \{ x | | x \mid \leq s l a n t 1 , x \in \mathbf { R } \}

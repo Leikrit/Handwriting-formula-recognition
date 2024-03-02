@@ -1,0 +1,1 @@
+\overrightarrow { A Q } = a \overrightarrow { A B } + b \overrightarrow { A C }

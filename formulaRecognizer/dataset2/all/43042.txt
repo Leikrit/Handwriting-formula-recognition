@@ -1,0 +1,1 @@
+\text { 使 直 线 } y = k x + a \text { 与 曲 线 } y = f ( x ) \text { 有 三 个 公 共 }

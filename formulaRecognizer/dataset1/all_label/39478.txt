@@ -1,0 +1,1 @@
+a _ { n } = n \cos \frac { n \pi } { 2 } + 1

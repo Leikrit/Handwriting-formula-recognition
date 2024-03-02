@@ -1,0 +1,1 @@
+\text { 已 知 复 数 满 足 } z ( \sqrt { 3 } - \mathrm { i } ) = 2

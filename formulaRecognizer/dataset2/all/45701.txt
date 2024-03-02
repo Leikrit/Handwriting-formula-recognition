@@ -1,0 +1,1 @@
+\text { 则 目 标 函 数 } \mathrm { z } = \mathrm { y } - 2 \mathrm { x } \text { 的 最 大 值 为 }

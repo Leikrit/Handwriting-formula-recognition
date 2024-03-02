@@ -1,0 +1,1 @@
+\text { 若 数 列 } A \text { 满 足 } a _ { n } - a _ { n - 1 } \leq s l a n t 1 ( n = 2 , 3 , \cdots , N )

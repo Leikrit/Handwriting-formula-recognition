@@ -1,0 +1,1 @@
+\left( 0 - \frac { 8 } { 5 } , 1 - \frac { 3 } { 5 } \right) \cdot \left( m - \frac { 8 } { 5 } , 0 - \frac { 3 } { 5 } \right) = 0

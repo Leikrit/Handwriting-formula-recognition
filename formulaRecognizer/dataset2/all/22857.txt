@@ -1,0 +1,1 @@
+\text { 令 } f ( x ) = \frac { 1 } { 3 } x ^ { 3 } - x ^ { 2 } + a x - a \text { 有 一 个 根 } \Leftrightarrow f ^ { \prime } ( x ) = 0 \text { 的 } \Delta \leq s l a n t 0 \text { 或 } f \left( x _ { 1 } \right) \cdot f \left( x _ { 2 } \right) > 0

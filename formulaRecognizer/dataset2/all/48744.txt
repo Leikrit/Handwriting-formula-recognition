@@ -1,0 +1,1 @@
+\text { 是 否 有 显 著 提 高 ( 如 果 } \bar { y } - \bar { x } \geqslant 2 \sqrt { \frac { s _ { 1 } ^ { 2 } + s _ { 2 } ^ { 2 } } { 1 0 } }

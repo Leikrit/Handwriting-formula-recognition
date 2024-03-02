@@ -1,0 +1,1 @@
+- \frac { \pi } { 3 } + 2 k \pi < 2 x - \frac { \pi } { 6 } < \frac { \pi } { 3 } + 2 k \pi

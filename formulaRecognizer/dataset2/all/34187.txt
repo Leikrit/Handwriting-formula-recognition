@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \mathrm { e } ^ { x } \cdot \left( x ^ { 2 } - 2 \mathrm { ~ d } x - 2 a \right) + \mathrm { e } ( \mathrm { e } \text { 为 自 然 对 数 的 底 数 , } a \text { 为 常 数 且 } a \in \mathbf { R } )

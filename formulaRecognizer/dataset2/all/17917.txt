@@ -1,0 +1,1 @@
+= \frac { m \left( 3 t ^ { 2 } - 1 2 \right) + ( t + 2 ) \left[ - 6 m t - \left( 4 + 3 m ^ { 2 } \right) y _ { 1 } \right] } { m \left( 3 t ^ { 2 } - 1 2 \right) + ( t - 2 ) \left( 4 + 3 m ^ { 2 } \right) y _ { 1 } }

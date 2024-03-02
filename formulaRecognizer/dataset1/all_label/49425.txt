@@ -1,0 +1,1 @@
+f ( x ) = - f \left( x - \frac { 3 } { 2 } \right)

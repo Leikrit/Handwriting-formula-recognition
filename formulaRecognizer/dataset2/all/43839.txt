@@ -1,0 +1,1 @@
+\left( x ^ { 2 } + 1 \right) \left( 2 x - \frac { 1 } { x } \right) ^ { 6 } \text { 展 开 式 中 的 常 数 项 是 }

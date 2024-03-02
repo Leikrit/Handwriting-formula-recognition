@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n + 1 } - a _ { n } \right\} \text { 是 等 比 数 列 }

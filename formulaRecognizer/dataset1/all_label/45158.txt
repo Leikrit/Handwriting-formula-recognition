@@ -1,0 +1,1 @@
+\left. \left| a _ { 2 } - b _ { 2 } \right| , \cdots , \left| a _ { n } - b _ { n } \right| \right)

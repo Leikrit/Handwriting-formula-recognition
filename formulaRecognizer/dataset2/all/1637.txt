@@ -1,0 +1,1 @@
+\text { 化 简 : 函 数 } f ( x ) = \sin x \cos x - \sqrt { 3 } \cos ( \pi + x ) \text { } \cdot \text { }

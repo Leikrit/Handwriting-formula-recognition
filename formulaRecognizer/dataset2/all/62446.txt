@@ -1,0 +1,1 @@
+\sin A \cos B = \sin B ( 2 - \cos A )

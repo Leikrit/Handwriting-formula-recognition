@@ -1,0 +1,1 @@
+\left( \ c o m p l e m e n t _ { I } A \right) \cap \left( \ c o m p l e m e n t _ { I } B \right) = \ c o m p l e m e n t _ { I } B

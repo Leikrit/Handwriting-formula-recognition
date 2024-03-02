@@ -1,0 +1,1 @@
+\boldsymbol { a } \cdot \boldsymbol { b } = 0 , ( \boldsymbol { a } -

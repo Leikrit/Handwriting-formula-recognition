@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) \text { 存 在 两 个 极 值 点 } \mathrm { x } _ { 1 } , \mathrm { x } _ { 2 } \left( \mathrm { x } _ { 1 } < \mathrm { x } _ { 2 } \right)

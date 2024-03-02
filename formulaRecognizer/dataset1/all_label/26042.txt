@@ -1,0 +1,1 @@
+x \cdot f ( x ) \geqslant 0

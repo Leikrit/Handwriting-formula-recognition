@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \frac { x } { 4 } + \frac { a } { x } - \ln x - \frac { 3 } { 2 }

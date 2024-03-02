@@ -1,0 +1,1 @@
+\text { 点 } M \text { 满 足 } \overrightarrow { M D } = 2 \overrightarrow { P M }

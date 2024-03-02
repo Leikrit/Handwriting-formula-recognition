@@ -1,0 +1,1 @@
+3 n \left( \sin \frac { 3 0 ^ { \circ } } { n } + \tan \frac { 3 0 ^ { \circ } } { n } \right)

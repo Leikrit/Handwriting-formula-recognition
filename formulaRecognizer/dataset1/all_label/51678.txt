@@ -1,0 +1,1 @@
+\sin \left( \frac { \pi } { 3 } - B \right) + \sin ^ { 2 } B

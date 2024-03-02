@@ -1,0 +1,1 @@
+\hat { \beta } = \frac { \sum _ { i = 1 } ^ { n } \left( u _ { i } - \bar { u } \right) \left( v _ { i } - \bar { v } \right) } { \sum _ { i = 1 } ^ { n } \left( u _ { i } - \bar { u } \right) ^ { 2 } } , \hat { \alpha } = \bar { v } - \hat { \beta } \bar { u }

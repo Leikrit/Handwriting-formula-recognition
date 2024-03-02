@@ -1,0 +1,1 @@
+\text { 综 上 所 述 , } \boldsymbol { a } \cdot \boldsymbol { b } \text { 的 最 大 值 为 } \frac { 1 } { 2 }

@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) + f ( x + 5 ) \geqslant m \text { 对 一 切 实 数 } x \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+\left( \frac { x } { \ln x } \right) ^ { \prime } = \frac { \ln x - 1 } { \ln ^ { 2 } x }

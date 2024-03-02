@@ -1,0 +1,1 @@
+\text { 则 当 } \min \{ \boldsymbol { c } \cdot \boldsymbol { a } , \boldsymbol { c } \cdot \boldsymbol { b } \} \text { 取 得 最 大 值 时 }

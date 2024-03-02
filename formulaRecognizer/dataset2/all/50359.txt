@@ -1,0 +1,1 @@
+\left. a _ { i _ { 2 } } , \cdots , a _ { i _ { k } } \right\}

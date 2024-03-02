@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { 1 } { x } - \frac { \mathrm { e } } { x ^ { 2 } } = \frac { x - \mathrm { e } } { x ^ { 2 } }

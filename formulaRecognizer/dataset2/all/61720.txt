@@ -1,0 +1,1 @@
+\text { 偶 函 数 } f ( x ) \text { 在 区 间 } [ 0 , + \infty ) \text { 内 单 调 递 增 }

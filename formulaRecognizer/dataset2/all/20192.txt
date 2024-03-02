@@ -1,0 +1,1 @@
+\text { 令 } t = b + c \in \left( 4 , \frac { 8 \sqrt { 3 } } { 3 } \right)

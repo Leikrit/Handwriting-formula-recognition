@@ -1,0 +1,1 @@
+\left( \frac { \pi } { 6 } , \frac { \pi } { 3 } \right] \cup \left( \frac { 2 \pi } { 3 } , + \infty \right)

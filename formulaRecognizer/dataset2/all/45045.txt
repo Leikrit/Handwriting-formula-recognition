@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) = \frac { \mathrm { e } ^ { x } } { ( a - 1 ) x + 1 }

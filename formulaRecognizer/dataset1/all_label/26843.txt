@@ -1,0 +1,1 @@
+f ( x ) = \overrightarrow { O P } \cdot \overrightarrow { Q P }

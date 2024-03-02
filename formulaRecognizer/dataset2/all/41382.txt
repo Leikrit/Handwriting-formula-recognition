@@ -1,0 +1,1 @@
+\text { 若 命 题 “ } \ e x i s t s x _ { 0 } \in \mathbf { R } , x _ { 0 } ^ { 2 } + x _ { 0 } + m < 0 \text { ” 是 假 命 题 }

@@ -1,0 +1,1 @@
+\text { 有 } \overrightarrow { M P } = \left( - \frac { x } { 2 } , \frac { x } { 2 } , 1 \right)

@@ -1,0 +1,1 @@
+r _ { n } ( x ) = 1 + \frac { x } { 1 ! } + \frac { x ^ { 2 } } { 2 ! } + \frac { x ^ { 3 } } { 3 ! } + \cdots + \frac { x ^ { n } } { n ! } ( n \in \mathbf { N } )

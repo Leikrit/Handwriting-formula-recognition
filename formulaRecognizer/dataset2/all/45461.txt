@@ -1,0 +1,1 @@
+\text { 则 由 正 弦 定 理 知 } \frac { | \boldsymbol { b } | } { \sin 6 0 ^ { \circ } } = \frac { | \boldsymbol { a } | } { \sin \beta } \left( 0 < \beta < \frac { 2 } { 3 } \pi \right) \Rightarrow | \boldsymbol { a } | = \frac { 2 } { \sqrt { 3 } } \sin \beta \in \left( 0 , \frac { 2 \sqrt { 3 } } { 3 } \right]

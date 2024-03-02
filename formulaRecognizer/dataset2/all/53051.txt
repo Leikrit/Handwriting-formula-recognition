@@ -1,0 +1,1 @@
+\text { 有 } f ( x ) - g ( a ) - 4 \leq s l a n t 0 \text { 恒 成 立 }

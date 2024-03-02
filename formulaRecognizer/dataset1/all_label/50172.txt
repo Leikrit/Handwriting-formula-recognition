@@ -1,0 +1,1 @@
+T ( \alpha , \beta ) = \left\{ t | t = | x _ { i } - y _ { i } \mid , i = 1 , 2 , \cdots , n \right\} .

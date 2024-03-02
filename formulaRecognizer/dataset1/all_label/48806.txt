@@ -1,0 +1,1 @@
+n \times n \text { 的 正 方 形 盘 中 有 } \left( n ^ { 2 } - 1 \right) \text { 个 小 滑 块 }

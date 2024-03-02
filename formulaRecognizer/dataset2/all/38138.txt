@@ -1,0 +1,1 @@
+\frac { A E } { E B } \cdot \frac { B C } { C D } \cdot \frac { D O } { O A } = 1 \Rightarrow D O = O A

@@ -1,0 +1,1 @@
+\text { 消 去 } y \text { 得 } \frac { x ^ { 2 } } { 4 } + \left( \frac { 1 } { 2 } x + m \right) ^ { 2 } = 1

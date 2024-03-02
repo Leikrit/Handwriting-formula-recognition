@@ -1,0 +1,1 @@
+s - t = \left( a _ { 1 } - b _ { 1 } \right) + \left( a _ { 2 } - b _ { 2 } \right) q + \cdots + \left( a _ { n } - b _ { n } \right) q ^ { n - 1 }

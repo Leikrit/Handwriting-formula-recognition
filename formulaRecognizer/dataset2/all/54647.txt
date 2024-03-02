@@ -1,0 +1,1 @@
+F ( x ) = \mathrm { e } ^ { x } - a x ^ { 2 } + C

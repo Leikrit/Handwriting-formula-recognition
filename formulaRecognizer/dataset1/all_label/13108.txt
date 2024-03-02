@@ -1,0 +1,1 @@
+\frac { 1 } { T _ { 1 } } + \frac { 1 } { T _ { 2 } } + \cdots + \frac { 1 } { T _ { n } }

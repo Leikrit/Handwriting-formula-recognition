@@ -1,0 +1,1 @@
+A \left( a , \mathrm { e } ^ { a } \right) , B ( b , \ln b ) , a b < 0

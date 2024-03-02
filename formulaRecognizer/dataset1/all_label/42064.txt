@@ -1,0 +1,1 @@
+f ( x ) = \ln x - a x + \frac { 1 - a } { x } - 1

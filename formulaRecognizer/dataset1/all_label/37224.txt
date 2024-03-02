@@ -1,0 +1,1 @@
+c \sin \left( B - \frac { \pi } { 3 } \right) , a + c = 1 3 , b = 9

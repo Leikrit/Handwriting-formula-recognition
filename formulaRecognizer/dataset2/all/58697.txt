@@ -1,0 +1,1 @@
+\text { 若 “ } \ e x i s t s x _ { 0 } \in \mathbf { R } , \ln \left( x _ { 0 } ^ { 2 } + 1 \right) - a = 0 \text { ” 是 真 命 题 }

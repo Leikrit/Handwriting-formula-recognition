@@ -1,0 +1,1 @@
+\text { 化 简 : 函 数 } f ( x ) = \frac { ( \sin x - \cos x ) \sin 2 x } { \sin x }

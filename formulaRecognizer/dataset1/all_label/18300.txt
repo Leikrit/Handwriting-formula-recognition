@@ -1,0 +1,1 @@
+\boldsymbol { c } _ { i } = \lambda _ { i } \boldsymbol { a } + 3 \lambda _ { i } \boldsymbol { b }

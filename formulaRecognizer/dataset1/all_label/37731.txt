@@ -1,0 +1,1 @@
+P ( B \mid A ) = \frac { P ( A B ) } { P ( A ) } = \frac { \frac { 7 } { 3 0 } } { \frac { 3 } { 1 0 } } = \frac { 7 } { 9 }

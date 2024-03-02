@@ -1,0 +1,1 @@
+\text { 度 后 得 到 的 点 是 函 数 } y = \cos ( 2 x + \varphi ) \text { 图 象 的 最 高 点 }

@@ -1,0 +1,1 @@
+y = \cos ( 2 x + \varphi ) ( - \pi \leq s l a n t \varphi \leq s l a n t \pi )

@@ -1,0 +1,1 @@
+\text { 若 } p _ { i } = \frac { 1 } { n } ( i = 1 , 2 , \cdots , n )

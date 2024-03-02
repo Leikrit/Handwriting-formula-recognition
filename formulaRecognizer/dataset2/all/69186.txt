@@ -1,0 +1,1 @@
+y = \sqrt { \frac { x - 1 } { 2 x } } - \log _ { 2 } \left( 4 - x ^ { 2 } \right)

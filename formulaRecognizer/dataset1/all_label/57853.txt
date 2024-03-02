@@ -1,0 +1,1 @@
+a \cos B = b ( 1 + \cos A ) , B = \frac { 2 \pi } { 9 }

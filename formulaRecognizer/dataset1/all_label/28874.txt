@@ -1,0 +1,1 @@
+\left( x ^ { 2 } - \frac { \mathrm { i } } { \sqrt { x } } \right) ^ { n }

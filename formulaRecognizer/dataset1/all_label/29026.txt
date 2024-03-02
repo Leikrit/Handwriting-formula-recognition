@@ -1,0 +1,1 @@
+1 \leq s l a n t a _ { 1 } \leq s l a n t a _ { 2 } \leq s l a n t \cdots \leq s l a n t a _ { k } \leq s l a n t n

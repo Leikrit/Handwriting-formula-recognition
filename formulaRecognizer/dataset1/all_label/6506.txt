@@ -1,0 +1,1 @@
+A = \{ x \in \mathbf { N } \mid - 3 \leq s l a n t 2 x - 1 < 3 \}

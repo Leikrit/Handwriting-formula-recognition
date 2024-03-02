@@ -1,0 +1,1 @@
+\sin x = \cos y \Rightarrow x + y = \frac { \pi } { 2 }

@@ -1,0 +1,1 @@
+A = \left\{ x \mid \log _ { 2 } x \leq s l a n t 1 \right\} , B = \{ - 1 , 0 , 1 , 2 , 3 \}

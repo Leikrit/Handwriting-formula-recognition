@@ -1,0 +1,1 @@
+\text { 数 } g ( x ) = f ( x ) - m x ^ { 2 } ( m \in \mathbf { R } ) \text { 恰 有 三 个 零 点 } x _ { 1 } , x _ { 2 } , x _ { 3 }

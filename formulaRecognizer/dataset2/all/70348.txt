@@ -1,0 +1,1 @@
+\text { 都 有 } \frac { 1 } { a _ { 1 } a _ { 2 } } + \frac { 1 } { a _ { 2 } a _ { 3 } } + \cdots + \frac { 1 } { a _ { n } a _ { n + 1 } } = \frac { n } { a _ { 1 } a _ { n + 1 } }

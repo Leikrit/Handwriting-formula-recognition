@@ -1,0 +1,1 @@
+\boldsymbol { b } = \left( \cos \alpha , \frac { 1 } { 4 } \right)

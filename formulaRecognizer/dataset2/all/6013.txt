@@ -1,0 +1,1 @@
+\text { 因 此 函 数 } \varphi ( t ) \text { 在 } t > 1 \text { 时 }

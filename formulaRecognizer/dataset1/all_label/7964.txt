@@ -1,0 +1,1 @@
+\overrightarrow { O B } \cdot \boldsymbol { e } = 0 , | \overrightarrow { A B } | = | \overrightarrow { A O } |

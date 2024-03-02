@@ -1,0 +1,1 @@
+\left[ \left( \frac { 1 } { 2 } \right) ^ { \frac { 1 } { 2 } } \right] ^ { 6 } = \left( \frac { 1 } { 2 } \right) ^ { 3 } = \frac { 1 } { 8 }

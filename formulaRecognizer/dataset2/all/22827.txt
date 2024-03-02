@@ -1,0 +1,1 @@
+\left( \frac { \pi } { 1 2 } , 0 \right) \text { 为 } f ( x ) \text { 的 一 个 对 称 中 心 }

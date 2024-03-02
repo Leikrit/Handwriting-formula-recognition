@@ -1,0 +1,1 @@
+\left( \mathrm { e } ^ { a x } + 1 \right) \ln \mathrm { e } ^ { a x } \geqslant \left( x ^ { 2 } + 1 \right) \ln x ^ { 2 }

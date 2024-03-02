@@ -1,0 +1,1 @@
+b _ { k + 1 } - b _ { k } \leq s l a n t \left( a _ { k + 1 } + 1 \right) - \left( a _ { k } - 1 \right) = 2 + d \leq s l a n t 0

@@ -1,0 +1,1 @@
+\text { 都 有 } f ( x ) \geqslant t ^ { 2 } - 4 t \text { 恒 成 立 }

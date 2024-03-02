@@ -1,0 +1,1 @@
+f ( x ) = a \sin 2 x - b \cos 2 x ( a , b \text { 为 常 数 , } a \neq 0 , x \in \mathbf { R } ) \text { 在 }

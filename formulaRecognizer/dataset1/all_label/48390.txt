@@ -1,0 +1,1 @@
+A = \left\{ x \mid \frac { x - 1 } { x } < 0 \right\}

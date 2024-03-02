@@ -1,0 +1,1 @@
+m \cdot ( \sqrt { 2 } ) ^ { 2 } + n \cdot ( \sqrt { 2 } ) ^ { 2 } = 1

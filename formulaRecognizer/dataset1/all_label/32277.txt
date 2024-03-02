@@ -1,0 +1,1 @@
+\lambda _ { 1 } , \lambda _ { 2 } , \lambda _ { 1 } \boldsymbol { a } + \lambda _ { 2 } \boldsymbol { b } = \mathbf { 0 }

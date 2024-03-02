@@ -1,0 +1,1 @@
+\text { 则 点 集 } \{ P | \overrightarrow { O P } = \lambda \overrightarrow { O A } + \mu \overrightarrow { O B } , | \lambda | + | \mu \mid \leq s l a n t 1 , \lambda , \mu \in \mathbf { R } \} \text { 所 表 示 的 }

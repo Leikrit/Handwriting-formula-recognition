@@ -1,0 +1,1 @@
+\alpha \cap \beta = l , A \in \alpha , B \in \beta , A B = 5 ,

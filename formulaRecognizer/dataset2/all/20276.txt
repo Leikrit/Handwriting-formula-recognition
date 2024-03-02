@@ -1,0 +1,1 @@
+\text { 在 线 性 回 归 方 程 } \hat { y } = \hat { b } x + \hat { a } \text { 中 }

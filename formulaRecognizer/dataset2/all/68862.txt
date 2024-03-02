@@ -1,0 +1,1 @@
+\text { 曲 线 } y = 5 \mathrm { e } ^ { x } - 6 x + 2 \text { 的 一 条 切 线 与 直 线 } l : x - y + 6 = 0 \text { 互 相 垂 直 }

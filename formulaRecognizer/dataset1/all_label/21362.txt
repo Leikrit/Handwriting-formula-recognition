@@ -1,0 +1,1 @@
+M = \left\{ x \mid x ^ { 2 } - \right.

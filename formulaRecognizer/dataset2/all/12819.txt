@@ -1,0 +1,1 @@
+\mu \text { 都 有 } f ( \lambda \boldsymbol { a } + \boldsymbol { \mu } \boldsymbol { b } ) = \lambda f ( \boldsymbol { a } ) +

@@ -1,0 +1,1 @@
+\frac { x + y } { x + 2 \sqrt { 2 x y } } \geqslant \frac { x + y } { x + ( x + 2 y ) } = \frac { 1 } { 2 }

@@ -1,0 +1,1 @@
+\text { 规 定 ： 数 列 } \left\{ a _ { n } \right\} \text { 的 任 意 一 项 都 是 } \left\{ a _ { n } \right\}

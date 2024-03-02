@@ -1,0 +1,1 @@
+2 \overrightarrow { A E } \cdot \overrightarrow { D C } + \overrightarrow { A E } \cdot \overrightarrow { A F } =

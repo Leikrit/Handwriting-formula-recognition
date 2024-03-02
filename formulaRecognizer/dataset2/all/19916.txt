@@ -1,0 +1,1 @@
+\left| Q F _ { 1 } \right| + | Q P | \text { 的 最 大 值 为 } 4 + \frac { \sqrt { 6 } } { 2 }

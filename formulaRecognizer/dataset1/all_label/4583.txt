@@ -1,0 +1,1 @@
+p \left( x _ { 1 } \right) > p \left( x _ { 2 } \right) > 0

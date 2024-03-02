@@ -1,0 +1,1 @@
+f ( x ) = \frac { 3 x ^ { 2 } } { \sqrt { 1 - x } } - \frac { 2 } { \sqrt { 3 x + 1 } }

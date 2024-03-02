@@ -1,0 +1,1 @@
+\text { 求 证 : } \frac { x ^ { 2 } } { y } + \frac { y ^ { 2 } } { z } + \frac { z ^ { 2 } } { x } > 3

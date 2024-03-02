@@ -1,0 +1,1 @@
+\text { 则 } \frac { | P A | } { | P B | } = \frac { | F A | } { | F B | }

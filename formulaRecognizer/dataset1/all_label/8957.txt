@@ -1,0 +1,1 @@
+\text { 动 点 } D \text { 满 足 } | \overrightarrow { C D } | = 1

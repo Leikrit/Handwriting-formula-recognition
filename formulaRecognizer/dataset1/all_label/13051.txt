@@ -1,0 +1,1 @@
+f ( P ) = \{ y \mid y = f ( x ) , x \in P \} , f ( M ) = \{ y \mid y =

@@ -1,0 +1,1 @@
+f ( \alpha - \beta ) \text { 的 值 }

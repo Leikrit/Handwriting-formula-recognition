@@ -1,0 +1,1 @@
+= \sqrt { ( \sqrt { 3 } + \sin \alpha ) ^ { 2 } + ( \sqrt { 3 } - \cos \alpha ) ^ { 2 } }

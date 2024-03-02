@@ -1,0 +1,1 @@
+B = \{ z | z = | x - y \mid , x \in A , y \in A \}

@@ -1,0 +1,1 @@
+\text { 均 有 } f ( k ) \geqslant k ^ { 2 } \text { 成 立 }

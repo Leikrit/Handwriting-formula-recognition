@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = 1 + \cos x - a \cos x + a x \sin x

@@ -1,0 +1,1 @@
+= A \sin ( \omega x + \varphi ) \left( \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right) \text { 在 某 一 个 周 期 内 的 图 象 }

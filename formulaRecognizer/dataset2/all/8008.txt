@@ -1,0 +1,1 @@
+\text { 非 零 向 量 } \boldsymbol { a } = \left( x _ { 1 } , y _ { 1 } \right) , \quad \boldsymbol { b } = \left( x _ { 2 } , y _ { 2 } \right) \text { , }

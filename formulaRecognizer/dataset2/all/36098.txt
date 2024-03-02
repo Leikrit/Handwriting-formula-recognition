@@ -1,0 +1,1 @@
+\text { 向 量 共 线 定 理 有 } \overrightarrow { A H } = \lambda \overrightarrow { A D } + \mu \overrightarrow { A B }

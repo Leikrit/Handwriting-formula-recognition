@@ -1,0 +1,1 @@
+\left( - c ^ { 2 } x _ { 0 } + a ^ { 2 } c \right) x = a ^ { 2 } \left( b ^ { 2 } + c ^ { 2 } \right) - a ^ { 2 } c x _ { 0 }

@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 2 \ln x + x ^ { 2 } - 2 a x \quad ( a > 0 )

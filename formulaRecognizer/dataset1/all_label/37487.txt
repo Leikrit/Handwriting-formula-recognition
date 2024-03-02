@@ -1,0 +1,1 @@
+\frac { 3 } { \sin \frac { \pi } { 3 } } = \frac { b } { \sin B } = \frac { c } { \sin C } =

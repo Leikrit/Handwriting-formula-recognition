@@ -1,0 +1,1 @@
+f \left( 2 ^ { 0 . 2 } \right) + f \left( \log _ { 2 } 1 . 2 \right) =

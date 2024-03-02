@@ -1,0 +1,1 @@
+3 ^ { a _ { 2 } } \cdot \cdots \cdot 3 ^ { a _ { n } } = \left( \frac { 1 } { 3 } \right) ^ { \frac { 3 - n } { 2 } } \quad \left( n \in \mathbf { N } ^ { * } \right)

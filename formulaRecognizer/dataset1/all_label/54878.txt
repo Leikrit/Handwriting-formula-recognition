@@ -1,0 +1,1 @@
+\boldsymbol { a } ^ { 2 } + 2 \boldsymbol { a } \cdot \boldsymbol { b } + \boldsymbol { b } ^ { 2 } = \boldsymbol { b } ^ { 2 }

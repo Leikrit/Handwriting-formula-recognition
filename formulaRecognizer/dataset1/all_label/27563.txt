@@ -1,0 +1,1 @@
+f ( x ) = \ln x + m x ^ { 2 } ( m \in \mathbf { R } )

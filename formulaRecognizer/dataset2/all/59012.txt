@@ -1,0 +1,1 @@
+\text { 题 意 将 函 数 } y = \cos ( 2 x + \varphi ) ( - \pi \leq s l a n t \varphi < \pi ) \text { 的 图 象 向 右 平 移 } \frac { \pi } { 2 } \text { 个 单 位 长 度 后 与 函 数 } y =

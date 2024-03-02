@@ -1,0 +1,1 @@
+\text { 数 } y = k + A \sin ( \omega t + \varphi ) \text { 的 图 象 }

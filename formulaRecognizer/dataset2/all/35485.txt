@@ -1,0 +1,1 @@
+\text { 并 求 得 } y \text { 与 } x \text { 的 回 归 方 程 为 } \hat { y } = 0 . 0 1 1 x + a

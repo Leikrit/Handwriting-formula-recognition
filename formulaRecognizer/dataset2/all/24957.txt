@@ -1,0 +1,1 @@
+\ t h e r e f o r e \cos \ a n g l e C _ { 1 } B M = \frac { B M ^ { 2 } + B C _ { 1 } ^ { 2 } - C _ { 1 } M ^ { 2 } } { 2 B M \cdot B C _ { 1 } } = \frac { \frac { 1 7 } { 4 } + 5 - \frac { 3 3 } { 4 } } { 2 \times \frac { \sqrt { 1 7 } } { 2 } \times \sqrt { 5 } } = \frac { \sqrt { 8 5 } } { 8 5 }

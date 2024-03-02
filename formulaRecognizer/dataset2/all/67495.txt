@@ -1,0 +1,1 @@
+\text { 即 } \left( \frac { 3 } { 4 } \right) ^ { m } \geqslant \left( \frac { 2 } { 3 } \right) ^ { n } \left( \left| a _ { n } \right| - 2 \right)

@@ -1,0 +1,1 @@
+\overrightarrow { A C } = n \overrightarrow { A N } ( m , n \in \mathbf { R } )

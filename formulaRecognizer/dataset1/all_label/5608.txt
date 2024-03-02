@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } } { x + a }

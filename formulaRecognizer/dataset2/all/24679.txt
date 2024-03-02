@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } u ( x ) = \frac { a } { x } - \ln x ( a \in \mathbf { R } )

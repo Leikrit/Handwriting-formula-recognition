@@ -1,0 +1,1 @@
+\text { 有 } \sum _ { i = 1 } ^ { n } \frac { 3 ^ { i } } { \left( 3 ^ { i } - 1 \right) ^ { 2 } } < 1

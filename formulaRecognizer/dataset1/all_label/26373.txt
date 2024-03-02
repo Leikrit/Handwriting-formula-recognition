@@ -1,0 +1,1 @@
+\mathrm { C } _ { n } ^ { 2 } = \mathrm { C } _ { n } ^ { 4 }

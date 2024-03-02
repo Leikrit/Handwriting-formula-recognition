@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \ln \frac { x ^ { e } + x ^ { - e } } { | x | ^ { e } } \text { 在 } x \text { 轴 正 半 轴 的 图 象 大 致 为 }

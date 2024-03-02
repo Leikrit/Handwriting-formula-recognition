@@ -1,0 +1,1 @@
+( a + 2 b ) ^ { 2 } \leq s l a n t \left( 1 ^ { 2 } + 2 ^ { 2 } \right) \left( a ^ { 2 } + b ^ { 2 } \right)

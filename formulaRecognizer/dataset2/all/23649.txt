@@ -1,0 +1,1 @@
+f ( x ) = \ln ( 1 + x ) - x + \frac { k } { 2 } x ^ { 2 } ( k \geqslant 0 )

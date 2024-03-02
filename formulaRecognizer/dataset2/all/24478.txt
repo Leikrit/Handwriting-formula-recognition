@@ -1,0 +1,1 @@
+f ^ { \prime \prime } ( x ) = m ^ { 2 } \mathrm { e } ^ { m x } + 2

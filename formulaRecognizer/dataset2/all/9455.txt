@@ -1,0 +1,1 @@
+\text { 内 角 } A , B , C \text { 所 对 的 边 分 别 是 } a , b , c , b = 2 , c \cos B + 2 \cos C = 2 \sqrt { 2 } \cos \left( \frac { 3 \pi } { 2 } + A \right) \text { . }

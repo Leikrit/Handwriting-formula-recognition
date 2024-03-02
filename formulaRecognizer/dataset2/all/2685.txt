@@ -1,0 +1,1 @@
+\text { 若 幂 函 数 } f ( x ) = x ^ { \alpha } \text { 的 图 象 过 点 } P ( 2 , \sqrt { 2 } )

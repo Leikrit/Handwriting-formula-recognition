@@ -1,0 +1,1 @@
+\text { 在 } \left( x ^ { 3 } - 1 \right) \left( \frac { 1 } { x } - \sqrt { x } \right) ^ { 8 } \text { 的 展 开 式 中 }

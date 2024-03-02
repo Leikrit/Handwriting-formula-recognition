@@ -1,0 +1,1 @@
+\text { 若 } \left( \ c o m p l e m e n t _ { U } A \right) \cap B \text { 恰 有 } 3 \text { 个 元 素 }

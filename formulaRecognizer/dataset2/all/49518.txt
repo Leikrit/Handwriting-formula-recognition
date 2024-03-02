@@ -1,0 +1,1 @@
+\text { 比 较 } \frac { \left| P F _ { 1 } \right| } { \left| P F _ { 2 } \right| } \text { 与 } \frac { \left| Q F _ { 1 } \right| } { \left| Q F _ { 2 } \right| } \mid \text { 的 大 小 }

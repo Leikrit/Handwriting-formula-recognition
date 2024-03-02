@@ -1,0 +1,1 @@
+\text { 在 } ( - \infty , 0 ) \text { 和 } ( 0 , + \infty ) \text { 上 单 调 递 减 }

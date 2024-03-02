@@ -1,0 +1,1 @@
+\text { 分 别 求 出 } \left\{ a _ { n } \right\} \text { 及 } \left\{ b _ { n } \right\} \text { 的 前 } 1 0 \text { 项 的 和 }

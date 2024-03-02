@@ -1,0 +1,1 @@
+f ^ { \prime } ( \alpha ) = f ^ { \prime } ( 2 ) = f ^ { \prime } ( \beta ) = 0

@@ -1,0 +1,1 @@
+( \sqrt { 2 } \cos \alpha , \sqrt { 2 } \sin \alpha ) \cdot ( - 3 - \sqrt { 2 } \cos \alpha , m - \sqrt { 2 } \sin \alpha ) = 1

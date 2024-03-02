@@ -1,0 +1,1 @@
+\text { 所 以 } P _ { n } = \frac { 3 } { 5 } \left[ 1 - \left( - \frac { 2 } { 3 } \right) ^ { n } \right] \left( n \in \mathbf { N } ^ { * } \right)

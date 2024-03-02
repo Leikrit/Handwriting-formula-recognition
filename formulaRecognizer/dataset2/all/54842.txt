@@ -1,0 +1,1 @@
+\sin ^ { 2 } A + \sin ^ { 2 } C + \sqrt { 2 } \sin A \sin C = \sin ^ { 2 } B

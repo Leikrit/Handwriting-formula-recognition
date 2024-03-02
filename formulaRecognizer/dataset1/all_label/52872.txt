@@ -1,0 +1,1 @@
+\overrightarrow { A F } = \lambda \overrightarrow { A C _ { 1 } } = \lambda ( - 2 \sqrt { 3 } , 0 , 2 ) = ( - 2 \sqrt { 3 } \lambda , 0 , 2 \lambda ) , \quad ( 0 \leq s l a n t \lambda \leq s l a n t 1 )

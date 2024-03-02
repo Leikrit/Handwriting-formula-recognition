@@ -1,0 +1,1 @@
+\text { 则 } \frac { 1 } { m } + \frac { 2 } { n } \geqslant 8 \text { 恒 成 立 }

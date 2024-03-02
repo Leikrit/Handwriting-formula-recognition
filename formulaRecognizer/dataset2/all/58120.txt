@@ -1,0 +1,1 @@
+\left( - \infty , x _ { 0 } \right) \text { 单 调 递 减 }

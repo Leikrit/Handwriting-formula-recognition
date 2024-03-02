@@ -1,0 +1,1 @@
+\text { 画 出 } f ( x ) = x \sin x \text { 的 大 致 图 像 }

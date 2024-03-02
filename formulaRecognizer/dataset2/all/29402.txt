@@ -1,0 +1,1 @@
+\text { 由 ( 1 ) 知 } \overrightarrow { N A } = \left( x _ { 1 } - \frac { k } { 4 } , 2 x _ { 1 } ^ { 2 } - \frac { k ^ { 2 } } { 8 } \right)

@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 的 表 达 式 可 改 写 为 } f ( x ) = 4 \cos \left( 2 x - \frac { \pi } { 6 } \right) ( x \in \mathbf { R } ) \text { ; }

@@ -1,0 +1,1 @@
+f ( x ) = \left( 2 ^ { x } - 2 ^ { - x } \right) \sin 2 x

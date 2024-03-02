@@ -1,0 +1,1 @@
+\frac { \sin A - \sin B } { \sin B + \sin C } = \frac { c - b } { a } .

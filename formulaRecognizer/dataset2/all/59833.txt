@@ -1,0 +1,1 @@
+\text { 判 断 } F ( x ) = f ( x ) - g ( x ) \text { 在 } x \in [ 0 , + \infty ) \text { 上 }

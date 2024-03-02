@@ -1,0 +1,1 @@
+b _ { n } \leq s l a n t \frac { ( \sqrt { 3 } - 1 ) ^ { n } } { 2 ^ { n - 1 } }

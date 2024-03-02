@@ -1,0 +1,1 @@
+\boldsymbol { m } = ( \sin A , \cos A ) , \boldsymbol { n } = ( \sqrt { 3 } , - 1 ) , \boldsymbol { m } \cdot \boldsymbol { n } = 1

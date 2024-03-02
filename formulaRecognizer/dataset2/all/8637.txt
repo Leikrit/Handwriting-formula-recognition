@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 的 长 度 为 } p \text { 的 递 增 子 列 的 末 项 的 最 小 值 为 } a _ { m _ { 0 } }

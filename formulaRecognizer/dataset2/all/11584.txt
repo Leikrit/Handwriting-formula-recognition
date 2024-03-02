@@ -1,0 +1,1 @@
+f _ { 2 } ( x ) = 2 \cdot 3 ^ { \left| x - p _ { 2 } \right| } ( x \in \mathbf { R }

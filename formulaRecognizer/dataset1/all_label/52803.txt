@@ -1,0 +1,1 @@
+g ( x ) _ { \max } = g \left( \frac { 1 } { 2 } \right) = \ln \frac { 1 } { 2 } + \frac { 1 } { 2 } = \frac { 1 } { 2 } - \ln 2 < 0

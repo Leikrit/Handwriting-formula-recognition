@@ -1,0 +1,1 @@
+\text { 幂 函 数 } f ( x ) = \left( m ^ { 2 } - 4 m + 4 \right) x ^ { m ^ { 2 } - 6 m + 8 } \text { 在 } ( 0 , + \infty ) \text { 上 为 增 函 数 }

@@ -1,0 +1,1 @@
+0 < \beta < \alpha < \frac { \pi } { 2 }

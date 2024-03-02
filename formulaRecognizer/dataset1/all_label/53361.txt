@@ -1,0 +1,1 @@
+n a _ { n } = \left( 4 - \frac { n + 2 } { 2 ^ { n - 1 } } \right) - \left( 4 - \frac { n + 1 } { 2 ^ { n - 2 } } \right) = \frac { n } { 2 ^ { n - 1 } }

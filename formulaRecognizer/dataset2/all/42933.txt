@@ -1,0 +1,1 @@
+\text { 点 } A ( 0 , \sqrt { 3 } ) , B \left( \frac { \pi } { 3 } , 0 \right)

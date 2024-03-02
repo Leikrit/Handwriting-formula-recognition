@@ -1,0 +1,1 @@
+\overrightarrow { E C } = ( 0 , - 1 , 2 )

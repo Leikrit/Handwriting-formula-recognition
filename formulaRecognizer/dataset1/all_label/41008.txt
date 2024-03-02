@@ -1,0 +1,1 @@
+g ( x ) = \left( n - n ^ { 2 } \right) \left( x - n ^ { \frac { 1 } { n - 1 } } \right)

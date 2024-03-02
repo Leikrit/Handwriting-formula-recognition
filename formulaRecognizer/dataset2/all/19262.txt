@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) \leq s l a n t f ( x ) \leq s l a n t f \left( x _ { 2 } \right)

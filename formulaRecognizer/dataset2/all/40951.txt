@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 1 - 2 \sin ^ { 2 } \left( x + \frac { \pi } { 8 } \right) +

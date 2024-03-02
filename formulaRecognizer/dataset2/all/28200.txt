@@ -1,0 +1,1 @@
+F _ { n - 1 } \cdot F _ { n + 1 } - F _ { n } ^ { 2 } = 1 ( n \geqslant 2 )

@@ -1,0 +1,1 @@
+\ln \left( \frac { 2 } { k + 2 } + 1 \right) < a _ { k + 1 } \leq s l a n t \ln \left( \frac { 3 } { k + 2 } + 1 \right)

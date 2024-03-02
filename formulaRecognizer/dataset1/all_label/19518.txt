@@ -1,0 +1,1 @@
+\overrightarrow { F A } \cdot \overrightarrow { F B } + \lambda ( \overrightarrow { F P } ) ^ { 2 } = 0

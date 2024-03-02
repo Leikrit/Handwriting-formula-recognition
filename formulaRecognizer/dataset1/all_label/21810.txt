@@ -1,0 +1,1 @@
+\frac { 2 d q \left( 1 - q ^ { 2 n } \right) } { 1 - q ^ { 2 } } , n \in \mathbf { N } ^ { * }

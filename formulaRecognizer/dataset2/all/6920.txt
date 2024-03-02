@@ -1,0 +1,1 @@
+g ( x ) \text { 在 } \left[ - \frac { \pi } { 2 } , 0 \right] \text { 上 的 值 域 为 } \left[ - 1 , \frac { \sqrt { 3 } } { 2 } \right]

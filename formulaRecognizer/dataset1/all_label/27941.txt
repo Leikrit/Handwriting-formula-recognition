@@ -1,0 +1,1 @@
+a _ { 1 } = 0 , a _ { 2 } = 2 \cdot a _ { n + 2 } = \left( 1 + \cos ^ { 2 } \frac { n \pi } { 2 } \right) a _ { n } +

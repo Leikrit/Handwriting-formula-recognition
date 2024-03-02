@@ -1,0 +1,1 @@
+\text { 而 } \cos C = \frac { a ^ { 2 } + b ^ { 2 } - c ^ { 2 } } { 2 a b } = \frac { a ^ { 2 } + \left( 3 c ^ { 2 } - 3 a ^ { 2 } \right) - c ^ { 2 } } { 2 a b } = \frac { 2 c ^ { 2 } - 2 a ^ { 2 } } { 2 a b } > 0

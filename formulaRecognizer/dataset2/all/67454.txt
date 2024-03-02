@@ -1,0 +1,1 @@
+C _ { 1 } ^ { \prime } \text { 与 } C _ { 2 } ^ { \prime } \text { 公 共 点 的 个 数 和 }

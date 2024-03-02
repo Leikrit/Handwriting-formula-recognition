@@ -1,0 +1,1 @@
+\text { 它 的 模 是 } | \boldsymbol { a } \times \boldsymbol { b } | = | \boldsymbol { a } | | \boldsymbol { b } | \sin \langle \boldsymbol { a } , \boldsymbol { b } \rangle

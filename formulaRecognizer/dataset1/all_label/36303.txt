@@ -1,0 +1,1 @@
+\overrightarrow { A B } = 2 \boldsymbol { i } + 2 \boldsymbol { j }

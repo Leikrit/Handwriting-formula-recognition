@@ -1,0 +1,1 @@
+a \overrightarrow { A I } + b \overrightarrow { B I } + c \overrightarrow { C I } = \mathbf { 0 }

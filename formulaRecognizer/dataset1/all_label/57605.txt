@@ -1,0 +1,1 @@
+\left[ \frac { \ln 3 } { 3 } , \frac { 1 } { \mathrm { e } } \right]

@@ -1,0 +1,1 @@
+1 + n \lambda = \frac { 1 } { \lambda }

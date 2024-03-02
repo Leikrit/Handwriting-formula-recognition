@@ -1,0 +1,1 @@
+\frac { \sin \ a n g l e P F _ { 1 } F _ { 2 } } { \sin \ a n g l e P F _ { 2 } F _ { 1 } } = \frac { a } { c }

@@ -1,0 +1,1 @@
+\text { 即 } | a | \geqslant | | x | - 2 | x - 1 | | - | x - b | \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+f ( x ) = \l g \left[ \left( m ^ { 2 } - 3 m + 2 \right) x ^ { 2 } + 2 ( m - 1 ) x + 5 \right] , m \in \mathbf { R }

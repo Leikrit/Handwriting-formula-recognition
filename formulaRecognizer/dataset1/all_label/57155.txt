@@ -1,0 +1,1 @@
+\frac { 2 \mathrm { i } } { 2 - \mathrm { i } } = \frac { 2 \mathrm { i } ( 2 + \mathrm { i } ) } { ( 2 - \mathrm { i } ) ( 2 + \mathrm { i } ) } = \frac { - 2 + 4 \mathrm { i } } { 5 }

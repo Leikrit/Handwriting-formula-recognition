@@ -1,0 +1,1 @@
+y = f ( x ) \text { 和 函 数 } y = \lambda \left( x - \frac { a + b } { 2 } \right) ^ { 2 }

@@ -1,0 +1,1 @@
+( x + y ) ^ { 2 } - a ( x + y ) + 1 \geqslant 0

@@ -1,0 +1,1 @@
+y = \cos 2 x \quad ( x \in \mathbf { R } )

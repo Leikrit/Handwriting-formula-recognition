@@ -1,0 +1,1 @@
+\ t h e r e f o r e 4 a ^ { 2 } = 3 6 + 4 b ^ { 2 } - 2 \times 6 \times 2 b \times \frac { 1 } { 2 } , \quad \ t h e r e f o r e a ^ { 2 } = 9 + b ^ { 2 } - 3 b

@@ -1,0 +1,1 @@
+\text { 项 数 为 } m + 1 ( m \geqslant 2 ) \text { 的 数 列 }

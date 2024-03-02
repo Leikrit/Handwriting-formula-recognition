@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \mathrm { e } ^ { x } - a x + a \text { 有 两 个 零 点 } x _ { 1 }

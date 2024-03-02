@@ -1,0 +1,1 @@
+\ t h e r e f o r e \boldsymbol { c } - [ ( 1 - \lambda ) \boldsymbol { a } + \lambda \boldsymbol { b } ] \mid \text { 表 }

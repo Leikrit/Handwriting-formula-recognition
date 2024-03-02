@@ -1,0 +1,1 @@
+S _ { n } = \log _ { 2 } \left( F _ { n } - 1 \right) - 1

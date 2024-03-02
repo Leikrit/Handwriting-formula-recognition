@@ -1,0 +1,1 @@
+\sin 1 6 3 ^ { \circ } \sin 2 2 3 ^ { \circ } + \sin 2 5 3 ^ { \circ } \sin 3 1 3 ^ { \circ } =

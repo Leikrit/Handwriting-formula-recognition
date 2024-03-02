@@ -1,0 +1,1 @@
+\left( x ^ { \prime } - \sqrt { 2 } \right) ^ { 2 } +

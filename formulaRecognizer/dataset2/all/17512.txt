@@ -1,0 +1,1 @@
+\text { 若 向 量 } \boldsymbol { a } = ( x - 1 , 2 )

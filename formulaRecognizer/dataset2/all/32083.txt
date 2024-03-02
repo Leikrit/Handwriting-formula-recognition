@@ -1,0 +1,1 @@
+\text { 当 } x \neq 0 \text { 时 , } y = \frac { x } { x ^ { 2 } + 1 } = \frac { 1 } { x + \frac { 1 } { x } }

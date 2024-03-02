@@ -1,0 +1,1 @@
+( x ) = a - \sin x - \cos x = a - \sqrt { } 2 \sin \left( x + \frac { \pi } { 4 } \right) \in [ a - \sqrt { } 2 , a + 1 ] .

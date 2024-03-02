@@ -1,0 +1,1 @@
+\frac { S _ { 1 } } { S _ { 2 } } = \left| \frac { 8 c ^ { 2 } - \left( 4 a ^ { 2 } + 4 a c \right) } { 8 c ^ { 2 } + 1 2 a c + 2 \left( 4 a ^ { 2 } + 4 a c \right) } \cdot \frac { a } { c } \right|

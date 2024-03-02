@@ -1,0 +1,1 @@
+\text { 若 } - \frac { \pi } { 3 } , \frac { \pi } { 3 } \text { 分 别 是 函 数 } f ( x ) = \sin ( \omega x + \varphi ) ( \omega > 0 , 0 < \varphi < \pi ) \text { 的 零 点 和 极 值 点 }

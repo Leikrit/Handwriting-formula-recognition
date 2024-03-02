@@ -1,0 +1,1 @@
+\bar { y } ( \bar { x } \neq \bar { y } )

@@ -1,0 +1,1 @@
+\overrightarrow { A P } = m \overrightarrow { P B } , \overrightarrow { A Q } = n \overrightarrow { Q C } , m > 0 , n > 0

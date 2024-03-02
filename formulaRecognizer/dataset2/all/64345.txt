@@ -1,0 +1,1 @@
+\text { 当 } \alpha = 0 \text { 时 函 数 } y = x ^ { \alpha } \text { 的 图 象 是 一 条 直 线 }

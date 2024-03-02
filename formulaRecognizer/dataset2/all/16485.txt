@@ -1,0 +1,1 @@
+\text { 证 明 : } 2 ^ { n } \left| \mathrm { e } ^ { x _ { n } } - 1 \right| < 1

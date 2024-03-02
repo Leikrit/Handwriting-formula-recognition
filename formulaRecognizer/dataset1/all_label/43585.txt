@@ -1,0 +1,1 @@
+P \left( \xi _ { 1 } = 3 \right) = \frac { \mathrm { A } _ { 4 } ^ { 4 } \mathrm { ~ A } _ { 3 } ^ { 3 } } { \mathrm { ~ A } _ { 6 } ^ { 6 } } = \frac { 1 } { 5 }

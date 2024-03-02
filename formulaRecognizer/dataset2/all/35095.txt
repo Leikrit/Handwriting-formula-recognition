@@ -1,0 +1,1 @@
+\text { 则 递 推 式 可 化 为 } a _ { n + 1 } - \alpha = p \left( a _ { n } - \alpha \right)

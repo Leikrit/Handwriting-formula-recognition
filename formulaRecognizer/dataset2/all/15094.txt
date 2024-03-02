@@ -1,0 +1,1 @@
+\text { 则 } S = | 1 - \sqrt { 2 } \cos \theta | ( 1 + \sqrt { 2 } \sin \theta )

@@ -1,0 +1,1 @@
+| \overrightarrow { C D } | ^ { 2 } = \frac { ( \overrightarrow { A C } \cdot \overrightarrow { A B } ) \times ( \overrightarrow { B A } \cdot \overrightarrow { B C } ) } { | \overrightarrow { A B } | ^ { 2 } }

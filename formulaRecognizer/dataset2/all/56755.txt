@@ -1,0 +1,1 @@
+\overrightarrow { F _ { 1 } Q } = 2 \overrightarrow { Q F _ { 2 } }

@@ -1,0 +1,1 @@
+( 4 . 8 - 3 . 7 ) ^ { 2 } - \sqrt [ 3 ] { - 2 7 } \times ( 5 - 1 \d i v 5 ) \times \left( - \frac { 5 } { 8 } \right)

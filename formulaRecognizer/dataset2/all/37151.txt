@@ -1,0 +1,1 @@
+\tan \frac { \theta } { 2 } < \cot \frac { \theta } { 2 }

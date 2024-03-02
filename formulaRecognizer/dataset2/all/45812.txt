@@ -1,0 +1,1 @@
+\text { 则 “ } \left( \frac { 1 } { 2 } \right) ^ { x } > 1 \text { ” 是 “ } - 2 < x < - 1 \text { ” 的 }

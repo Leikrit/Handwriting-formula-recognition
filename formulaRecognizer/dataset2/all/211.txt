@@ -1,0 +1,1 @@
+\text { 不 等 式 } 2 x ^ { 2 } - a x y + y ^ { 2 } \geqslant 0 \text { 对 任 意 } x \in [ 1 , 2 ] \text { 及 } y \in [ 1 , 3 ] \text { 恒 成 立 }

@@ -1,0 +1,1 @@
+p _ { 3 } \text { : 若 直 线 } l \text { 与 平 面 } \alpha \text { 相 交 }

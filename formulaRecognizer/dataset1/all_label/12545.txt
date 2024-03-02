@@ -1,0 +1,1 @@
+\left\{ x \mid - \frac { 5 } { 3 } < x < \frac { 1 } { 3 } \right\}

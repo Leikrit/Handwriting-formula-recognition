@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x _ { 2 } } - \mathrm { e } ^ { x _ { 1 } } < \ln x _ { 2 } - \ln x _ { 1 }

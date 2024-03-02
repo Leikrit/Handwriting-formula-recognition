@@ -1,0 +1,1 @@
+\left[ \frac { 2 k \pi } { 3 } - \frac { \pi } { 1 8 } , \frac { 2 k \pi } { 3 } + \frac { 5 \pi } { 1 8 } \right] ( k \in \mathbf { Z } )

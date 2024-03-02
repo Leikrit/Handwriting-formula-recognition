@@ -1,0 +1,1 @@
+\text { 复 数 } \frac { \mathrm { e } ^ { x \mathrm { i } } } { \sqrt { 3 } + \mathrm { i } } \text { 的 模 为 } \frac { 1 } { 2 }

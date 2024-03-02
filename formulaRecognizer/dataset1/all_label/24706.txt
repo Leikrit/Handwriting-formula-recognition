@@ -1,0 +1,1 @@
+\mathrm { S } _ { \mathrm { n } } \geqslant \mathrm { S } _ { 1 0 }

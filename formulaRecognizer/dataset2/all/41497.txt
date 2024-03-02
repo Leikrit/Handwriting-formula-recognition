@@ -1,0 +1,1 @@
+\text { 且 } \boldsymbol { c } = 2 \boldsymbol { a } + \boldsymbol { b }

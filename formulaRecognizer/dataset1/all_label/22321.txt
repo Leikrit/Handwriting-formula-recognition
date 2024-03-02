@@ -1,0 +1,1 @@
+e = \frac { \left| F _ { 1 } F _ { 2 } \right| } { \left| P F _ { 1 } \right| + \left| P F _ { 2 } \right| } = \frac { 2 } { \sqrt { 3 } + 1 } = \sqrt { 3 } - 1

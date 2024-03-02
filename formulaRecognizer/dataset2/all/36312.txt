@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z = ( 2 + \mathrm { i } ) \left( a + 2 \mathrm { i } ^ { 3 } \right) \text { 在 复 平 面 内 对 应 的 点 在 }

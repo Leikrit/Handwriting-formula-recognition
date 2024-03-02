@@ -1,0 +1,1 @@
+= \frac { t + 2 } { t - 2 } \cdot \frac { - 3 m ( t + 2 ) - \left( 4 + 3 m ^ { 2 } \right) y _ { 1 } } { 3 m ( t + 2 ) + \left( 4 + 3 m ^ { 2 } \right) y _ { 1 } }

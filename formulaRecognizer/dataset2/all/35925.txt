@@ -1,0 +1,1 @@
+\text { 若 点 } N \text { 的 横 坐 标 大 于 } \frac { 2 \sqrt { 6 } } { 3 }

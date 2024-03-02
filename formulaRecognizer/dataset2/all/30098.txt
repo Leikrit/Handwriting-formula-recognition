@@ -1,0 +1,1 @@
+\text { 证 明 } f ( x + 2 k \pi ) - f ( x ) = 2 k \pi \sin x

@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = - x ^ { 2 } + 2 a x \text { 与 } g ( x ) = \frac { a } { x + 1 } \text { 在 区 间 }

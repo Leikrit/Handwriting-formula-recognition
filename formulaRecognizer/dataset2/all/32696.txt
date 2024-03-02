@@ -1,0 +1,1 @@
+\overrightarrow { G _ { n } D } = a _ { n + 1 } \cdot \overrightarrow { G _ { n } A } - 2 \left( 2 a _ { n } + 3 \right) \cdot \overrightarrow { G _ { n } E }

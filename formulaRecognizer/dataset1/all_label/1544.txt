@@ -1,0 +1,1 @@
+p : \forall m \in [ - 1 , 1 ] , a ^ { 2 } - 5 a - 3 \geqslant \sqrt { m ^ { 2 } + 8 }

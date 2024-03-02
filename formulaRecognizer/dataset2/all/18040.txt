@@ -1,0 +1,1 @@
+\text { 定 时 间 } t \text { 后 的 温 度 } T \text { 满 足 } T - T _ { a } = \left( \frac { 1 } { 2 } \right) ^ { \frac { t } { h } } \cdot \left( T _ { 0 } - T _ { a } \right)

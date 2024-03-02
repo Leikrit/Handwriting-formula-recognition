@@ -1,0 +1,1 @@
+\triangle A B C \text { 的 三 边 长 分 别 为 } a , b , c

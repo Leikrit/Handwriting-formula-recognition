@@ -1,0 +1,1 @@
+I _ { 3 } = \overrightarrow { O C } \cdot \overrightarrow { O A }

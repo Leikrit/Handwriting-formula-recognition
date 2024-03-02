@@ -1,0 +1,1 @@
+\text { 相 减 得 } a _ { n + 1 } - a _ { n - 1 } = 2 \times 3 ^ { n - 1 } ( n \geqslant 2 )

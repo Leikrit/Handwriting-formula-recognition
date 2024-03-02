@@ -1,0 +1,1 @@
+\text { 若 } a > b , c > d \text { , 则 } a c > b d

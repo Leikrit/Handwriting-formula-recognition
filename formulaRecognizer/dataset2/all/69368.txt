@@ -1,0 +1,1 @@
+\text { 若 函 数 } y = f ( x ) - a \text { 至 多 有 } 2 \text { 个 零 }

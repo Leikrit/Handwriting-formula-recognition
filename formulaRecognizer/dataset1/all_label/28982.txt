@@ -1,0 +1,1 @@
+\overrightarrow { M A } = \left( \frac { y _ { 0 } } { k } , y _ { 0 } \right)

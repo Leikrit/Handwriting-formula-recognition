@@ -1,0 +1,1 @@
+S = \frac { 1 } { 2 } \left| \left( 4 a ^ { 2 } - x _ { 0 } \right) ( 2 a - 2 b ) - \left( 4 b ^ { 2 } - x _ { 0 } \right) ( 2 b - 2 a ) \right|

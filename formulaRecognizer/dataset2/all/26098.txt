@@ -1,0 +1,1 @@
+\tan \theta = \frac { \tan \alpha - \frac { 1 } { 2 } \tan \alpha } { 1 + \tan \alpha \cdot \frac { 1 } { 2 } \tan \alpha } = \frac { 1 } { \frac { 2 } { \tan \alpha } + \tan \alpha }

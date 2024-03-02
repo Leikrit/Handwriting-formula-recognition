@@ -1,0 +1,1 @@
+\boldsymbol { a } + k \boldsymbol { c } = ( 3 , 2 ) + k ( 4 , 1 ) = ( 3 + 4 k , 2 + k )

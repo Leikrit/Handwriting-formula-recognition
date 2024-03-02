@@ -1,0 +1,1 @@
+x _ { n } \leq s l a n t \frac { 1 } { 2 ^ { n - 2 } + \frac { 1 } { 2 } } \leq s l a n t \frac { 1 } { 2 ^ { n - 2 } } ,

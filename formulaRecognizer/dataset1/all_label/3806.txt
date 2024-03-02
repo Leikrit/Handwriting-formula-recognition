@@ -1,0 +1,1 @@
+\left\{ \frac { 2 } { b _ { n } } \right\}

@@ -1,0 +1,1 @@
+\frac { n ( a d - b c ) ^ { 2 } } { ( a + b ) ( c + d ) ( a + c ) ( b + d ) } \text { 算 出 } \chi ^ { 2 } \text { 的 观 测 值 } x _ { \alpha }

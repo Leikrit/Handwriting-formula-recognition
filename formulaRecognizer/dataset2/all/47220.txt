@@ -1,0 +1,1 @@
+( m , n ) \text { 与 向 量 } \boldsymbol { b } = ( 1 , - 1 ) \text { 的 夹 角 为 } \theta

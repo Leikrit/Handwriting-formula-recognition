@@ -1,0 +1,1 @@
+\theta = \frac { 2 \pi } { 3 } ( \rho \in \mathbf { R } )

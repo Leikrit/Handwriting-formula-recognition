@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = 3 ^ { | x - a | } ( a \in \mathbf { R } ) \text { 满 足 } f ( x ) = f ( 4 - x )

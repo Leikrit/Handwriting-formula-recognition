@@ -1,0 +1,1 @@
+\text { 由 ( 2 ) 知 平 面 } B C E \text { 的 法 向 量 为 } \boldsymbol { m } = ( 0 , 2 , 1 )

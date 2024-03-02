@@ -1,0 +1,1 @@
+a = \log _ { 3 } \sqrt { 2 } , b = \ln 2 , c = \left( \frac { 1 } { 5 } \right) ^ { \log _ { 5 } 2 }

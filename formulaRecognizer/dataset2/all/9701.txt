@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = x ^ { 2 } - m x + 5 \text { 在 } ( 2 , + \infty ) \text { 上 单 调 递 增 }

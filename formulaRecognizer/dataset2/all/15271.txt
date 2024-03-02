@@ -1,0 +1,1 @@
+\text { 每 秒 转 } \frac { \pi } { 6 } \text { 弧 度 }

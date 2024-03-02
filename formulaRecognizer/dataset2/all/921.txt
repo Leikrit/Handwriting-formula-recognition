@@ -1,0 +1,1 @@
+\frac { S _ { \triangle P A ^ { \prime } B ^ { \prime } } } { S _ { \triangle P A B } } = \frac { P A ^ { \prime } \cdot P B ^ { \prime } } { P A \cdot P B }

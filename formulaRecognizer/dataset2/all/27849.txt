@@ -1,0 +1,1 @@
+f ( x ) = f ( - x ) = \mathrm { e } \cdot x ^ { 2 } + \mathrm { e } ^ { - x }

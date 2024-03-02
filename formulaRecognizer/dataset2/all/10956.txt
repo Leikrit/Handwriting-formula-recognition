@@ -1,0 +1,1 @@
+\text { 则 } \frac { f ( 1 ) } { f ^ { \prime } ( 0 ) } \text { 的 最 小 值 为 }

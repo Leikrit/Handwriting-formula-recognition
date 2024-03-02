@@ -1,0 +1,1 @@
+g ( x ) \Leftrightarrow F ( x ) \geqslant 0

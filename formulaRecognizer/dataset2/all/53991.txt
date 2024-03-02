@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \frac { 1 } { 3 } x ^ { 3 } - \left( 1 + \frac { b } { 2 } \right) x ^ { 2 } + 2 b x \text { 在 区 间 } [ - 3

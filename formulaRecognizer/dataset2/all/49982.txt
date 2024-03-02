@@ -1,0 +1,1 @@
+g ( x ) = \frac { 1 } { 2 } m x ^ { 2 } + x ( m \in \mathbf { R } )

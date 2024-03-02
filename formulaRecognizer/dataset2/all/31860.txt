@@ -1,0 +1,1 @@
+\text { 且 边 } B C \text { 上 有 一 点 } M \text { 满 足 } 2 S _ { \triangle A B M } = 3 S _ { \triangle A M C }

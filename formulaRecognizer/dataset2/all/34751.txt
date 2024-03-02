@@ -1,0 +1,1 @@
+\sin ( A - B + C ) = \sin ( C - A - B ) + \frac { 1 } { 2 }

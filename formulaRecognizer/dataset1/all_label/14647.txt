@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 9 } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) = 3 8 3

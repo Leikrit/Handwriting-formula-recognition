@@ -1,0 +1,1 @@
+\overrightarrow { E F _ { 1 } } = \lambda _ { 1 } \overrightarrow { F _ { 1 } S } , \overrightarrow { E F _ { 2 } }

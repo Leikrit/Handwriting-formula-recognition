@@ -1,0 +1,1 @@
+\Phi \left( x _ { 0 } \right) = P \left( x < x _ { 0 } \right)

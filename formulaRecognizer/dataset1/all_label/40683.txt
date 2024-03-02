@@ -1,0 +1,1 @@
+\left( \sqrt { 3 } x + \frac { 1 } { \sqrt [ 3 ] { x } } \right) ^ { n } \left( n \in \mathbf { N } ^ { * } \right)

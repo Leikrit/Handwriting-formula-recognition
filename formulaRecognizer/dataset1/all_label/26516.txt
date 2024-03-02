@@ -1,0 +1,1 @@
+\left. S _ { n } \right) \cdot a _ { n } = 4 S _ { n } , n \in \mathbf { N } ^ { * }

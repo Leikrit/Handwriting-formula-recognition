@@ -1,0 +1,1 @@
+\text { 用 样 本 平 均 数 } \bar { x } \text { 作 为 } \mu \text { 的 近 似 值 }

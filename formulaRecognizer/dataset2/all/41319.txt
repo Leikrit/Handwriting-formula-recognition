@@ -1,0 +1,1 @@
+f ( x ) \text { 在 } ( 1 , \mathrm { e } ) \text { 上 单 调 递 增 }

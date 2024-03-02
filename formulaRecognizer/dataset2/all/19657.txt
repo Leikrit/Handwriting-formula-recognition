@@ -1,0 +1,1 @@
+\text { 做 尝 试 得 到 } a ^ { 2 } + \frac { 1 } { a b } + \frac { 1 } { a ( a - b ) } = a ^ { 2 } + \frac { 1 } { b ( a - b ) }

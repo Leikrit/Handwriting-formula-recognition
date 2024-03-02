@@ -1,0 +1,1 @@
+\text { 即 } A T = \frac { B T \sin B } { \sin \frac { A } { 2 } } = \frac { c a } { b + c } \cdot \frac { \sin B } { \sin \frac { A } { 2 } }

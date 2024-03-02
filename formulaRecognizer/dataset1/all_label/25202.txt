@@ -1,0 +1,1 @@
+g ( x ) = \frac { x \mathrm { e } ^ { 2 x } - x } { \mathrm { e } ^ { x } } - ( 3 x - 1 ) \left( \mathrm { e } ^ { 3 x - 1 } - \right.

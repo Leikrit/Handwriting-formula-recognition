@@ -1,0 +1,1 @@
+f ( x ) = a \sin \left( 2 x + \varphi _ { 1 } \right) + b \cos \left( 2 x + \varphi _ { 2 } \right) \text { ( 其 中 } a \text { , }

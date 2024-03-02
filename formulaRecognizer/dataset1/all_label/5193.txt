@@ -1,0 +1,1 @@
+f ( x ) = ( \cos x - x ) ( \pi + 2 x ) - \frac { 8 } { 3 } ( \sin x + 1 )

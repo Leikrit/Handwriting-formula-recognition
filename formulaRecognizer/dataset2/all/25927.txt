@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \sin \left( 2 x + \frac { \pi } { 3 } \right) \text { 的 最 小 正 周 期 } T =

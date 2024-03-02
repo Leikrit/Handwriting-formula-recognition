@@ -1,0 +1,1 @@
+f ( x ) \leq s l a n t k g ( x ) \Leftrightarrow 2 k \mathrm { e } ^ { x } ( x + 1 ) - x ^ { 2 } - 4 x - 2 \geqslant 0

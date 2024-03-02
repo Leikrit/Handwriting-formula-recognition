@@ -1,0 +1,1 @@
+\left( x ^ { 2 } - x \right) \ln x + x + \frac { 1 } { 2 } x \cos x - \frac { 3 } { 2 } \sin x > 0

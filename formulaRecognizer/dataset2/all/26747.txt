@@ -1,0 +1,1 @@
+u _ { 0 } \text { 为 方 程 } \cos f ( x ) = 1 \text { 在 } [ 0 , T ] \text { 上 的 解 }

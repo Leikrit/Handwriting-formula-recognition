@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = a \sin \left( x + \varphi _ { 1 } \right) + b \sin \left( x + \varphi _ { 2 } \right)

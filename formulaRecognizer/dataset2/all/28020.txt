@@ -1,0 +1,1 @@
+\text { 若 曲 线 } y = x ^ { - \frac { 1 } { 2 } } \text { 在 点 } \left( a , a ^ { - \frac { 1 } { 2 } } \right) \text { 处 的 切 线 与 两 个 坐 标 轴 }

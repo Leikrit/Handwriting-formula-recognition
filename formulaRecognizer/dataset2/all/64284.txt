@@ -1,0 +1,1 @@
+\text { 若 } \left( \frac { 1 } { \sqrt { x } } + a x ^ { 2 } + 1 \right) ^ { 5 } \text { 的 展 开 式 中 的 常 数 项 为 } 1 1

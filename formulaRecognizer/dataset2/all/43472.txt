@@ -1,0 +1,1 @@
+A = \left\{ x \mid y = \l g \left( 2 + x - x ^ { 2 } \right) \right\}

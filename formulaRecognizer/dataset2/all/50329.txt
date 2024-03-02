@@ -1,0 +1,1 @@
+\text { 求 证 : } a _ { n } > \frac { ( n + 1 ) ^ { 2 } } { 4 } \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+A = \{ x \mid \wedge 2 < x < 3 \}

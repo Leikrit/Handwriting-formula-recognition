@@ -1,0 +1,1 @@
+\frac { \tan A - \tan B } { \tan A + \tan B } = \frac { c - b } { c }

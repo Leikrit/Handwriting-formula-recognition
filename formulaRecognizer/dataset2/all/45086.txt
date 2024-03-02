@@ -1,0 +1,1 @@
+x f ( x ) \text { 在 区 间 } ( 0 , + \infty ) \text { 内 有 极 小 值 } \frac { 1 } { 2 }

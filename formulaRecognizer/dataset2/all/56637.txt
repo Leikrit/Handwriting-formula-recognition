@@ -1,0 +1,1 @@
+\left( k \pi - \frac { \pi } { 8 } , k \pi + \frac { \pi } { 8 } \right] ( k \in \mathbf { Z } )

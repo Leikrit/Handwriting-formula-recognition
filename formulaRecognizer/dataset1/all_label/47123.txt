@@ -1,0 +1,1 @@
+\frac { | A C | } { | B C | } = \frac { | A D | } { | B D | } = \frac { | \boldsymbol { b } | } { | \boldsymbol { a } | } = \frac { 2 } { 1 }

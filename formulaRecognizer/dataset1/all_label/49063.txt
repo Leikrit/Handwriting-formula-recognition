@@ -1,0 +1,1 @@
+y _ { 0 } = 8 m - 4 a = 4 \cdot \left( a + b + \frac { a - b } { 2 } \right) - 4 a = 2 a + 2 b \text { , }

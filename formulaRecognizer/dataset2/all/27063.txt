@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \sin ^ { 2 } x + \sqrt { 3 } \cos x - \frac { 3 } { 4 } \left( x \in \left[ 0 , \frac { \pi } { 2 } \right] \right) \text { 的 最 大 值 是 }

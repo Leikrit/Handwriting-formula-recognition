@@ -1,0 +1,1 @@
+\tan ^ { 2 } \frac { B + C } { 2 } + \sin ^ { 2 } \frac { A } { 2 }

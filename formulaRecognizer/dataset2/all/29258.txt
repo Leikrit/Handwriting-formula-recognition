@@ -1,0 +1,1 @@
+\overrightarrow { O A } \cdot \left( \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { \overrightarrow { C A } } { | \overrightarrow { C A } | } \right) = \overrightarrow { O B }

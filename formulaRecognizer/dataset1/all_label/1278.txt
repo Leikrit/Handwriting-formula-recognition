@@ -1,0 +1,1 @@
+\o p e r a t o r n a m e { a n } \alpha = - \frac { 1 } { 3 } , \cos \beta = \frac { \sqrt { 5 } } { 5 } , \alpha , \beta \in ( 0 , \pi )

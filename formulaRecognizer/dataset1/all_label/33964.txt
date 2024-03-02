@@ -1,0 +1,1 @@
+\tan \left( \frac { \pi } { 4 } + \alpha \right) = 2

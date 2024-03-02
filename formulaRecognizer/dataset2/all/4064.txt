@@ -1,0 +1,1 @@
+\text { 若 存 在 常 数 } k \left( k \in \mathbf { N } ^ { * } , k \geqslant 2 \right) , q , d

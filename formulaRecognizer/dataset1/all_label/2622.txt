@@ -1,0 +1,1 @@
+\frac { \sin ^ { 2 } \theta - 4 \cos ^ { 2 } \theta } { 5 \sin ^ { 2 } \theta + \cos ^ { 2 } \theta }

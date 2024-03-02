@@ -1,0 +1,1 @@
+z = ( 1 + 2 \mathrm { i } ) ( 1 - \mathrm { i } )

@@ -1,0 +1,1 @@
+\overrightarrow { B E } = - \frac { 1 } { 2 } \overrightarrow { A B } + \frac { 1 } { 2 } \overrightarrow { B C }

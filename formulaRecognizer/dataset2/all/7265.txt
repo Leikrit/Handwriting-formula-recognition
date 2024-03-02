@@ -1,0 +1,1 @@
+\text { 已 知 曲 线 } C \text { 的 方 程 为 } \frac { x ^ { 2 } } { m + 1 } + \frac { y ^ { 2 } } { 3 - m } = 1 ( m \in \mathbf { R } )

@@ -1,0 +1,1 @@
+A = \mathbf { Z } , B = \mathbf { Q } , f : A \text { 中 的 数 的 倒 数 }

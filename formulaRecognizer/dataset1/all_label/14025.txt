@@ -1,0 +1,1 @@
+A = \left\{ x \mid 2 ^ { x - 1 } > 1 \right\}

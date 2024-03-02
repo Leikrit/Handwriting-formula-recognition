@@ -1,0 +1,1 @@
+| \boldsymbol { a } | \cos \langle \boldsymbol { a } , \boldsymbol { b } \rangle

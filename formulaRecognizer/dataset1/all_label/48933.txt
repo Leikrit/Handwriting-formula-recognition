@@ -1,0 +1,1 @@
+\text { 又 原 点 } O \text { 到 直 线 } A B \text { 的 距 离 } d = \frac { | 2 m | } { \sqrt { 1 + 2 ^ { 2 } } } = \frac { | 2 m | } { \sqrt { 5 } }

@@ -1,0 +1,1 @@
+\text { 故 分 组 方 法 数 有 } \mathrm { C } _ { 6 } ^ { 1 } \mathrm { C } _ { 5 } ^ { 2 } \mathrm { C } _ { 3 } ^ { 3 } + \frac { \mathrm { C } _ { 6 } ^ { 2 } \mathrm { C } _ { 4 } ^ { 2 } \mathrm { C } _ { 2 } ^ { 2 } } { \mathrm { ~ A } _ { 3 } ^ { 3 } }

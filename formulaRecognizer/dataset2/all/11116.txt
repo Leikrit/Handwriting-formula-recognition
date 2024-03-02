@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } y = f ( x ) ( x \in \mathbf { R } )

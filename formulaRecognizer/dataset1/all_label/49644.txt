@@ -1,0 +1,1 @@
+p _ { t } = \left( 1 + \frac { t } { 2 7 3 } \right) p _ { 0 }

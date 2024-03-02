@@ -1,0 +1,1 @@
+B = \{ x \mid \sqrt { x } \leq s l a n t

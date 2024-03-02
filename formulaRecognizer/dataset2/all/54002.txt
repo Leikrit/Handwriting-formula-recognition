@@ -1,0 +1,1 @@
+\text { 若 函 数 } y = f ( x ) \text { 的 图 象 按 向 量 } \boldsymbol { a } \text { 平 移 后 }

@@ -1,0 +1,1 @@
+g \left( \frac { 1 } { 2 0 2 1 } \right) + g \left( \frac { 2 } { 2 0 2 1 } \right) + \cdots + g \left( \frac { 2 0 2 0 } { 2 0 2 1 } \right) = 2 0 2 0 .

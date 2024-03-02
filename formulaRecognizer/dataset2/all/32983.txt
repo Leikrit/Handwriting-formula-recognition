@@ -1,0 +1,1 @@
+\triangle A B C \text { 的 面 积 } S = \frac { 1 } { 2 } h \cdot a = \frac { 1 } { 2 } b c \sin A

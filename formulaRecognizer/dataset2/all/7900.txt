@@ -1,0 +1,1 @@
+\ln a _ { n } - \ln 2 = \ln a _ { n - 1 } \left( n \geqslant 2 , n \in \mathbf { N } ^ { * } \right)

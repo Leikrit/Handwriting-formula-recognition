@@ -1,0 +1,1 @@
+\text { 已 知 } y = \log _ { a } ( 2 - a x ) \text { 在 } [ 0 , 1 ] \text { 上 是 } x \text { 的 减 函 数 }

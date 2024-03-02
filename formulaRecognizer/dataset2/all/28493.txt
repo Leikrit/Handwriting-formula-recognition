@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { A D } = \lambda \overrightarrow { A B } + ( 1 - \lambda ) \overrightarrow { A C }

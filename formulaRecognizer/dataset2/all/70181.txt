@@ -1,0 +1,1 @@
+\ t h e r e f o r e \frac { a } { x _ { 1 } } = b \mathrm { e } ^ { x _ { 2 } } = k

@@ -1,0 +1,1 @@
+\text { 命 题 “ } \ e x i s t s x \in \mathbf { R } \text { 使 得 } f ( x ) = x \text { ” 的 否 定 是 }

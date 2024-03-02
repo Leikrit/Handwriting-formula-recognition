@@ -1,0 +1,1 @@
+B = \left\{ x \in \mathbf { Z } \mid 2 ^ { x } \leq s l a n t 4 \right\}

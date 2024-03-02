@@ -1,0 +1,1 @@
+\boldsymbol { m } = ( 4 \sin x , 4 \sqrt { 3 } )

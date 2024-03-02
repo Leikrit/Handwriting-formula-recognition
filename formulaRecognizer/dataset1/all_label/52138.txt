@@ -1,0 +1,1 @@
+\lambda \prod _ { i = 1 } ^ { n } a _ { i } > 1 , \lambda \in \mathbf { N } ^ { * }

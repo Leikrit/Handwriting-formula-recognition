@@ -1,0 +1,1 @@
+f ^ { \prime } ( 0 ) g ^ { \prime } ( 0 ) = a b < 0

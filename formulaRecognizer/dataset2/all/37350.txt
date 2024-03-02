@@ -1,0 +1,1 @@
+\text { 方 程 } \left( \frac { x ^ { 3 } + x } { 2 } \right) ^ { 3 } + \frac { x ^ { 3 } + x } { 2 } = 2 x

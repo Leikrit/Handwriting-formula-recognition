@@ -1,0 +1,1 @@
+f ( 1 - x ) \leq s l a n t f ( x + m )

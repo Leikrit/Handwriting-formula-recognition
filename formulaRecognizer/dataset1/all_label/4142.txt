@@ -1,0 +1,1 @@
+\left( 3 \sqrt [ 3 ] { a ^ { 2 } } \cdot \sqrt { b } \right) \cdot ( - 6 \sqrt { a } \cdot \sqrt [ 3 ] { b } ) \d i v \left( - 2 \sqrt [ 6 ] { a } \cdot \sqrt [ 6 ] { b ^ { 5 } } \right)

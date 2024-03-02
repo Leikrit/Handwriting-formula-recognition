@@ -1,0 +1,1 @@
+\text { 可 得 } 1 + 2 \sin \alpha \cos \alpha = \frac { 1 } { 9 }

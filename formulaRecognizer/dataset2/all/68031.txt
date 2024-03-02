@@ -1,0 +1,1 @@
+\text { 已 知 } \sqrt { 3 } \sin x - \cos x = \frac { 6 } { 5 } \left( x \in \left( 0 , \frac { \pi } { 2 } \right) \right)

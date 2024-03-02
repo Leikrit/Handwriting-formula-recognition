@@ -1,0 +1,1 @@
+\overrightarrow { B _ { 1 } B _ { 2 } } = 2 \overrightarrow { B _ { 2 } C _ { 1 } }

@@ -1,0 +1,1 @@
+\leq s l a n t \frac { S _ { n } } { n } \leq s l a n t \frac { 1 } { 2 ( n + 1 ) }

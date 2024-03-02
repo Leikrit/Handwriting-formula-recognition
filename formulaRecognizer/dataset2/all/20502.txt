@@ -1,0 +1,1 @@
+\text { 过 原 点 作 曲 线 } y = \mathrm { e } ^ { x } \text { 的 切 线 }

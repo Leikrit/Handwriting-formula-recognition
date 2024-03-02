@@ -1,0 +1,1 @@
+\text { 已 知 离 心 率 为 } \frac { \sqrt { 2 } } { 2 } \text { 的 椭 圆 } \frac { x } { a ^ { 2 } } + \frac { y } { b ^ { 2 } } = 1

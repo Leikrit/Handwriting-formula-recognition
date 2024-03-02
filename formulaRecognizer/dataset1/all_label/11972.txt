@@ -1,0 +1,1 @@
+F _ { 1 } , F _ { 2 } , P \left( x _ { P } , \frac { b ^ { 2 } } { a } \right)

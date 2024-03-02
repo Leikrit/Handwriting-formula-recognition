@@ -1,0 +1,1 @@
+\text { 证 明 } \frac { \left| A F _ { 2 } \right| } { \left| B F _ { 2 } \right| } \text { 为 定 值 }

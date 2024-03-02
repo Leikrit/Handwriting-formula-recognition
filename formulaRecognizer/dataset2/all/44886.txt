@@ -1,0 +1,1 @@
+f \left( \frac { \sqrt { 2 } } { 2 } \right) < f ( \sqrt { \pi } ) < f ( \sqrt { 3 } )

@@ -1,0 +1,1 @@
+\tan \left( \alpha - \frac { \pi } { 4 } \right) = \frac { 1 } { 3 }

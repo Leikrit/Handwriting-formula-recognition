@@ -1,0 +1,1 @@
+\text { 于 是 } \left( \frac { 2 } { a } - a \right) \left( \frac { 2 } { a } - a + \frac { 2 } { m } - m \right) = 0

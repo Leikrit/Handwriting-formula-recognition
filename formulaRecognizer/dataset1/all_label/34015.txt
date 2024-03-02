@@ -1,0 +1,1 @@
+\cos \left( \frac { \pi } { 3 } + \alpha \right) = - \frac { 3 } { 5 }

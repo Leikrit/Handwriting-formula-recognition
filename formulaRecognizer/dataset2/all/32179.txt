@@ -1,0 +1,1 @@
+\text { 令 } n ( x ) = x ^ { 2 } \mathrm { e } ^ { x } - \mathrm { e } , \quad ( x > 0 )

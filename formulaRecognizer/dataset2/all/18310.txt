@@ -1,0 +1,1 @@
+b _ { n } = n \left( 1 + \frac { 1 } { n } \right) ^ { n } a _ { n } \left( n \in \mathbf { N } ^ { * } \right)

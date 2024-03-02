@@ -1,0 +1,1 @@
+\text { 设 } f _ { 0 } ( x ) = \sin x , f _ { 1 } ( x ) = f _ { 0 } ^ { \prime } ( x ) , f _ { 2 } ( x ) = f _ { 1 } ^ { \prime } ( x ) , \cdots \text { , }

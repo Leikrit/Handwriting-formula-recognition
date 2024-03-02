@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { x } - \ln ( x + a ) , ( x \in ( 0 , + \infty ) )

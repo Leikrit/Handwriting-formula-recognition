@@ -1,0 +1,1 @@
+\text { 所 以 由 } f _ { \text { m i n } } ( x ) \geqslant g _ { \text { m i n } } ( x )

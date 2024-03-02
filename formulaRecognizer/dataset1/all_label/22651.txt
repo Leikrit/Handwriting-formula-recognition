@@ -1,0 +1,1 @@
+S _ { \triangle A D C } = \frac { 1 } { 2 } \times \sqrt { 3 } \times C D = 3 - \sqrt { 3 }

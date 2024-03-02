@@ -1,0 +1,1 @@
+\text { 已 知 角 } \theta \text { 终 边 上 有 一 点 } P \left( \tan \frac { 4 } { 3 } \pi , 2 \sin \left( - \frac { 1 7 } { 6 } \pi \right) \right)

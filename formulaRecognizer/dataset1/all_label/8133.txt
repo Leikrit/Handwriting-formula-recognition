@@ -1,0 +1,1 @@
+\left[ \left( 1 + \sin ^ { 2 } \theta \right) ^ { 2 } - \cos ^ { 4 } \theta \right] \left[ \left( 1 + \cos ^ { 2 } \theta \right) ^ { 2 } - \sin ^ { 4 } \theta \right]

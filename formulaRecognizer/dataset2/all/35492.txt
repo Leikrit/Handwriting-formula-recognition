@@ -1,0 +1,1 @@
+A \odot B = \{ z \mid z = x y ( x + y )

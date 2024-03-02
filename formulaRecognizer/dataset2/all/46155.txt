@@ -1,0 +1,1 @@
+\text { 其 中 } k \text { 为 } i + j \text { 被 } 4 \text { 除 的 余 数 }

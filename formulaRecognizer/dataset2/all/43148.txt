@@ -1,0 +1,1 @@
+\left( 1 - k ^ { 2 } \right) x ^ { 2 } - 2 m k x - \left( m ^ { 2 } + 1 \right) = 0

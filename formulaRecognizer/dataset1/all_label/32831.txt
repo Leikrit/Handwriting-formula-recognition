@@ -1,0 +1,1 @@
+A = \left\{ x \mid \log _ { 2 } ( x + 1 ) < 2 , x \in \mathbf { Z } \right\}

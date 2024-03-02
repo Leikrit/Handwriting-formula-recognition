@@ -1,0 +1,1 @@
+B = \left\{ x \in \mathbf { N } \mid \log _ { 2 } ( x + 1 ) \leq s l a n t 1 \right\}

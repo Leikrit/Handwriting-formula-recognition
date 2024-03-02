@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 在 } \left[ 0 , \frac { \pi } { 2 } \right] \text { 上 是 增 函 数 }

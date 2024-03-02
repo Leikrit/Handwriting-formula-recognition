@@ -1,0 +1,1 @@
+\text { 弧 } \o v e r p a r e n { A B } \text { 的 中 点 时 }

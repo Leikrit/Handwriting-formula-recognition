@@ -1,0 +1,1 @@
+f \left( 5 \alpha + \frac { 5 \pi } { 3 } \right) = - \frac { 6 } { 5 }

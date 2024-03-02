@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z = \sqrt { 2 } + \sqrt { 6 } \mathrm { i }

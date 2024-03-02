@@ -1,0 +1,1 @@
+x _ { n } < \left| f \left( x _ { n } \right) \right| \Leftrightarrow n \pi - \varphi < \left| \mathrm { e } ^ { a ( n \pi - \varphi ) } \sin ( n \pi - \varphi ) \right|

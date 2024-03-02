@@ -1,0 +1,1 @@
+\left( \frac { t } { 2 } y _ { 1 } + 1 - \frac { t ^ { 2 } } { 2 } \right) \left( \frac { t } { 2 } y _ { 2 } + 1 - \frac { t ^ { 2 } } { 2 } \right) + y _ { 1 } y _ { 2 } = 0

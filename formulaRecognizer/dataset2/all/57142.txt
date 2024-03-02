@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = x ^ { 3 } - 9 x ^ { 2 } \cos \alpha + 4 8 x \cos \beta + 1 8 \sin ^ { 2 } \alpha

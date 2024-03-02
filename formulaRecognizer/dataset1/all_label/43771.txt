@@ -1,0 +1,1 @@
+\overrightarrow { A D } = \frac { 3 } { 2 } \overrightarrow { A B } - \frac { 1 } { 2 } \overrightarrow { A C }

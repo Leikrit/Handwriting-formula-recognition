@@ -1,0 +1,1 @@
+f ( x ) = ( x + 1 ) \mathrm { e } ^ { x } - a , g ( x ) = \mathrm { e } ^ { 2 - x } - a \ln ( 3 -

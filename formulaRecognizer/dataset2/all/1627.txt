@@ -1,0 +1,1 @@
+r = \frac { \sum _ { i = 1 } ^ { n } x _ { i } y _ { i } - n \bar { x } \cdot \bar { y } } { \sqrt { \left( \sum _ { i = 1 } ^ { n } x _ { i } ^ { 2 } - n \bar { x } ^ { 2 } \right) \left( \sum _ { i = 1 } ^ { n } y _ { i } ^ { 2 } - n \bar { y } ^ { 2 } \right) } }

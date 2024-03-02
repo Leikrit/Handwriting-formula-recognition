@@ -1,0 +1,1 @@
+S = \{ a + b \sqrt { 3 } \mid a , b

@@ -1,0 +1,1 @@
+\sqrt { 4 S _ { n } - 1 } \text { 是 } 2 n + 1 \text { 与 } a _ { n } \text { 的 等 }

@@ -1,0 +1,1 @@
+\text { “ } a = 1 \text { ” 是 “ 函 数 } f ( x ) = | x - a | \text { 在 区 间 } [ 1 , + \infty ) \text { 上 为 增 }

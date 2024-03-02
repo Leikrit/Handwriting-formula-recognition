@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sin x \cos \left( x + \frac { \pi } { 4 } \right) + \cos x \sin \left( x + \frac { \pi } { 4 } \right)

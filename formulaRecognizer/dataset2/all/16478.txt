@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \frac { a \left( \mathrm { e } ^ { x } - x - 1 \right) } { x ^ { 2 } }

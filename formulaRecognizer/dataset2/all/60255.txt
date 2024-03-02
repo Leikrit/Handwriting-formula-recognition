@@ -1,0 +1,1 @@
+| z | = \sqrt { \left( \frac { 3 } { 5 } \right) ^ { 2 } + \left( \frac { 4 } { 5 } \right) ^ { 2 } } = 1

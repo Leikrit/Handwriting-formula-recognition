@@ -1,0 +1,1 @@
+\text { 命 题 “ } \forall x \in \mathbf { R } , \sin x + \cos x \leq s l a n t \sqrt { 2 } \text { ” 的 否 定 是 “ } \ e x i s t s x _ { 0 } \in \mathbf { R } , \sin x _ { 0 } + \cos x _ { 0 } > \sqrt { 2 } \text { ” }

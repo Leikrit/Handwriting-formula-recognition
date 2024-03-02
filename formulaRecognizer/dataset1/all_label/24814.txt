@@ -1,0 +1,1 @@
+\left( g ^ { \prime } ( x ) = \frac { 1 } { x \ln 3 } < 1 = f ^ { \prime } ( x ) , x \in ( 2 , 3 ) \right)

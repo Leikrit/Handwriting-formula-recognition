@@ -1,0 +1,1 @@
+( - \infty , - \sqrt { 2 } ) \cup ( \sqrt { 2 } , + \infty )

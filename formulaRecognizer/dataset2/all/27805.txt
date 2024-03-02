@@ -1,0 +1,1 @@
+\text { 动 点 } \mathrm { P } ( \mathrm { x } , \mathrm { y } ) \text { 到 两 个 定 点 } \mathrm { A } ( - 3 , 0 ) \text { 和 } \mathrm { B } ( 3 , 0 ) \text { 的 距 离 的 比 等 于 } 2

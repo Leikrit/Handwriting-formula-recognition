@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin \left( \omega x + \frac { 5 \pi } { 6 } \right)

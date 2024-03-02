@@ -1,0 +1,1 @@
+\text { 写 出 一 个 包 含 有 } \mathrm { e } ^ { x } \text { 的 偶 函 数 } f ( x )

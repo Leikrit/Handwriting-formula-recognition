@@ -1,0 +1,1 @@
+\text { 差 数 列 } \left\{ a _ { n } \right\} \text { 和 } \left\{ b _ { n } \right\} \text { 的 前 } n \text { 项 和 分 别 为 } A _ { n } \text { 和 } B _ { n }

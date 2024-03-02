@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) \text { 在 } \left[ - \frac { 2 \pi } { 3 } , - \frac { \pi } { 6 } \right] \text { 上 单 调 递 减 }

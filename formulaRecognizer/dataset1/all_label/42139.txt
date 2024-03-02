@@ -1,0 +1,1 @@
+\ln ( n + 1 ) < \frac { n } { \sqrt { n + 1 } }

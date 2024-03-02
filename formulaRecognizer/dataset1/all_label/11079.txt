@@ -1,0 +1,1 @@
+A = \left\{ x \in \mathbf { Z } \mid y = \sqrt { \frac { x + 2 } { 2 - x } } \right\}

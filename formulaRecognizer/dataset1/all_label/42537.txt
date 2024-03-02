@@ -1,0 +1,1 @@
+\left( \log _ { a } b \right) ^ { 2 } , l = \log _ { a } b ^ { 2 }

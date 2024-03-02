@@ -1,0 +1,1 @@
+g ( x ) \leq s l a n t \mathrm { e } ^ { x }

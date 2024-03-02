@@ -1,0 +1,1 @@
+y = \sqrt { \sin x - \cos x }

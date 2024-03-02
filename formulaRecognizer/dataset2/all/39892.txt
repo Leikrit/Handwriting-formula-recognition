@@ -1,0 +1,1 @@
+\forall x \in ( - \infty , 2 ) , x ^ { 2 } - 2 x > 0

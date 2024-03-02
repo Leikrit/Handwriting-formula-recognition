@@ -1,0 +1,1 @@
+P ( \tan \alpha , \sin \alpha )

@@ -1,0 +1,1 @@
+f \left( \frac { \pi } { 8 } \right) = \sqrt { 2 } , f \left( \frac { \pi } { 2 } \right) = 0

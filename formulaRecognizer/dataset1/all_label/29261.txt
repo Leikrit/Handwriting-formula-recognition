@@ -1,0 +1,1 @@
+y - y _ { 0 } = \left( 3 - x _ { 0 } \right) \left( x _ { 0 } ^ { 2 } - 1 \right) \left( x - x _ { 0 } \right)

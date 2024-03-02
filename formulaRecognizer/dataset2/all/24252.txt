@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 的 各 项 都 是 正 数 且 满 足 } 2 a _ { n } ^ { 2 } - 3 a _ { n } = a _ { n - 1 } \left( n \in \mathbf { N } ^ { * } , n \geqslant 2 \right)

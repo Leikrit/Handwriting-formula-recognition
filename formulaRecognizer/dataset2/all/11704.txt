@@ -1,0 +1,1 @@
+\left\{ a _ { n } \right\} \text { 的 首 项 } a _ { 1 } = 1

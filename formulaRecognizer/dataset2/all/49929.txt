@@ -1,0 +1,1 @@
+\text { 若 } \left( a ^ { 2 } + b ^ { 2 } \right) c ^ { 2 } < 2 a ^ { 2 } b ^ { 2 } \text { , 则 } C < \frac { \pi } { 3 }

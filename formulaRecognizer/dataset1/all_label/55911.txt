@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sin ^ { 2 } x + \cos x \text { 的 最 大 值 为 }

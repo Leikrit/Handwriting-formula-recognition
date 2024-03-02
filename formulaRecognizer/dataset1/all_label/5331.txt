@@ -1,0 +1,1 @@
+\mathrm { y } _ { \mathrm { Q } } + \mathrm { y } _ { \mathrm { Q } ^ { \prime } } = 0

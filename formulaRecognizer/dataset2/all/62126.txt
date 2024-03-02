@@ -1,0 +1,1 @@
+F = \{ ( t , u , v , w ) \mid 0 \leq s l a n t t < u \leq s l a n t 4 , 0 \leq s l a n t v < w \leq s l a n t 4 \text { 且 } t , u , v , w \in \mathbf { N } \}

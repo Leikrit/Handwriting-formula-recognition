@@ -1,0 +1,1 @@
+x ^ { n } = a _ { 0 } ( x - 3 ) ^ { n } + a _ { 1 } ( x - 3 ) ^ { n - 1 } + a _ { 2 } ( x - 3 ) ^ { n - 2 } + \cdots + a _ { n } \left( n \in \mathbf { N } ^ { * } \right)

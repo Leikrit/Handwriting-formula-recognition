@@ -1,0 +1,1 @@
+\text { 已 知 命 题 } p \text { : “ } \varphi = \frac { \pi } { 2 } \text { ” 是 “ 函 数 } y = \sin ( x + \varphi ) \text { 为 偶 函 数 ” 的 }

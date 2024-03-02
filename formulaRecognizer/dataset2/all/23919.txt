@@ -1,0 +1,1 @@
+2 x + \frac { 8 } { x } \geqslant 4

@@ -1,0 +1,1 @@
+\text { 曲 线 } y = \mathrm { e } ^ { \frac { 1 } { 2 } x } \text { 在 点 } \left( 4 , \mathrm { e } ^ { 2 } \right) \text { 处 的 切 线 与 坐 标 轴 所 围 三 角 }

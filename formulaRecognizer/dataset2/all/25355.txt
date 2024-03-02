@@ -1,0 +1,1 @@
+\text { 计 算 } \log _ { 3 } \frac { 1 } { 2 7 } + \log _ { \frac { 1 } { 2 } } 8 + \log _ { 2 } 8 + \log _ { 4 } 6 4 = \text { ? }

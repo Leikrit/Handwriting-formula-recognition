@@ -1,0 +1,1 @@
+f ( x ) = \log _ { a } x ( a > 0 , a \neq

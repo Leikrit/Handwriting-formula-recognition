@@ -1,0 +1,1 @@
+\text { 已 知 } \left( \sqrt { x } - \frac { 2 } { x } \right) ^ { n } \text { 的 展 开 式 中 第 } 4 \text { 项 与 第 } 5 \text { 项 的 二 项 }

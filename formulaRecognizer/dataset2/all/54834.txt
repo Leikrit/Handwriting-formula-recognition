@@ -1,0 +1,1 @@
+\left( m - x _ { 0 } \right) - f ( m )

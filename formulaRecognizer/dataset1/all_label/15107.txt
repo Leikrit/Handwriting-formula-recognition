@@ -1,0 +1,1 @@
+A _ { i } \oplus A _ { j } = A _ { k }

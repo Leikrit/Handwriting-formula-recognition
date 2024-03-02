@@ -1,0 +1,1 @@
+\text { 裂 项 得 } a _ { n + 1 } \leq s l a n t \frac { 1 } { \sqrt { 2 ( n + 1 ) } } = \frac { \sqrt { 2 } } { \sqrt { n + 1 } + \sqrt { n + 1 } } <

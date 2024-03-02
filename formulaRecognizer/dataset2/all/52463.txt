@@ -1,0 +1,1 @@
+\left( \cos \frac { \pi } { 1 2 } - \sin \frac { \pi } { 1 2 } \right) \left( \cos \frac { \pi } { 1 2 } + \sin \frac { \pi } { 1 2 } \right) =

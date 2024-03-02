@@ -1,0 +1,1 @@
+\ e x i s t s x \in \mathbf { R } , | \sin x | > a \text { 有 解 }

@@ -1,0 +1,1 @@
+\overrightarrow { F _ { 1 } B _ { 1 } } \cdot \overrightarrow { F _ { 1 } F _ { 2 } } = 6

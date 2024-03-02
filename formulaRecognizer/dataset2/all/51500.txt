@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \left( x ^ { 2 } - a \right) ^ { 2 } - 3 \left| x ^ { 2 } - 1 \right| - b

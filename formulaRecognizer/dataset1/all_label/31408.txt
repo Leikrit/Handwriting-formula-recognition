@@ -1,0 +1,1 @@
+a \sin A - b \sin B = 4 c \sin C

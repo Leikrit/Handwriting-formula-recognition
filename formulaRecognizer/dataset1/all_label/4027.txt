@@ -1,0 +1,1 @@
+x ^ { \prime 2 } + y ^ { \prime 2 } = 6

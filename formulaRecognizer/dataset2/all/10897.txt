@@ -1,0 +1,1 @@
+2 m ^ { 2 } + 3 n ^ { 2 } > m ^ { 2 } + 2 n ^ { 2 } + 2 m n \cos \theta > n ^ { 2 } + 4 m n \cos \theta

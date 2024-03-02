@@ -1,0 +1,1 @@
+f ( a ) < f ( 2 b ) \Rightarrow a < 2 b

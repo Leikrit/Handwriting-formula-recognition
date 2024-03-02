@@ -1,0 +1,1 @@
+f ( x ) = \alpha \cos 2 x + ( \alpha - 1 ) \cdot

@@ -1,0 +1,1 @@
+\text { 从 而 } \overrightarrow { A O } = \frac { 1 } { 2 } \overrightarrow { A B } + \frac { 1 } { 2 } \overrightarrow { A C }

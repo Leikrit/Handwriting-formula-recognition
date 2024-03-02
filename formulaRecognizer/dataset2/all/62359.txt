@@ -1,0 +1,1 @@
+\text { 当 } a > 0 \text { 时 , } f ( x ) \geqslant 2 a + a \ln \frac { 2 } { a }

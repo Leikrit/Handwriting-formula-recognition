@@ -1,0 +1,1 @@
+b ( a - b ) \leq s l a n t \left( \frac { b + a - b } { 2 } \right) ^ { 2 }

@@ -1,0 +1,1 @@
+\text { 则 } \sin \left( \frac { 5 \pi } { 6 } - x \right) \cdot \cos ( 2 x +

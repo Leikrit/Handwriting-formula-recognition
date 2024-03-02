@@ -1,0 +1,1 @@
+p _ { i + 1 } - p _ { i } = 4 \left( p _ { i } - p _ { i - 1 } \right)

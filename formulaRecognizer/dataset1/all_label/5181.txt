@@ -1,0 +1,1 @@
+c \sin 2 B - b \sin ( A + B ) = 0

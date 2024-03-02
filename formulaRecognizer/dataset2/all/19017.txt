@@ -1,0 +1,1 @@
+\text { 若 曲 线 } y = f ( x ) \text { 与 曲 线 } y = g ( x ) \text { 在 } x = 1 \text { 处 的 切 线 重 合 }

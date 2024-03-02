@@ -1,0 +1,1 @@
+\text { 若 } a = f \left( \log _ { 4 } 2 \right)

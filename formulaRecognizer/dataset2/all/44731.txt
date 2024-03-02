@@ -1,0 +1,1 @@
+0 + 1 \cdot ( m - 1 ) \leq s l a n t \sum _ { i = 1 } ^ { m } \sum _ { j = 1 } ^ { n } x _ { i j } = \sum _ { j = 1 } ^ { n } \sum _ { i = 1 } ^ { m } x _ { i j } \leq s l a n t n

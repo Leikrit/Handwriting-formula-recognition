@@ -1,0 +1,1 @@
+f \left( a _ { 1 } \right) + f \left( a _ { 2 } \right) + \cdots + f \left( a _ { 7 } \right) = 1 4

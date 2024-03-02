@@ -1,0 +1,1 @@
+\text { 都 有 } \left( 1 + \frac { 1 } { 2 } \right) \left( 1 + \frac { 1 } { 2 ^ { 2 } } \right) \cdots \left( 1 + \frac { 1 } { 2 ^ { n } } \right) < \mathrm { e } \text { ( 其 中 } \mathrm { e } \text { 为 自 然 对 数 的 底 数 ) }

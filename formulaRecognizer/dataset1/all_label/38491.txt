@@ -1,0 +1,1 @@
+x \ln x > x \mathrm { e } ^ { - x } - \frac { 2 } { \mathrm { e } } \text { 或 } \mathrm { e } ^ { x } \left( \ln x + \frac { 1 } { \mathrm { e } x } \right) + \frac { 1 } { x } \left( \mathrm { e } ^ { x - 1 } - x \right) > 0

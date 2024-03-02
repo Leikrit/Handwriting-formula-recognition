@@ -1,0 +1,1 @@
+\text { 已 知 全 集 } U = \{ x \in \mathbf { N } \mid x \leq s l a n t 1 1 \}

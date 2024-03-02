@@ -1,0 +1,1 @@
+\text { 若 } \forall x _ { 1 } , x _ { 2 } \in I

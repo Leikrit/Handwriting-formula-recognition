@@ -1,0 +1,1 @@
+\text { 次 数 不 超 过 } n \left( n \in \mathbf { N } ^ { * } \right) \text { 次 }

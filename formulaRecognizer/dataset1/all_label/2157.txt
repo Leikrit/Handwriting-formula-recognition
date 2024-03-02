@@ -1,0 +1,1 @@
+\sin \theta + \cos \theta = \frac { 3 } { 4 }

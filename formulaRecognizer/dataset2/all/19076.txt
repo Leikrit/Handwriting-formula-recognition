@@ -1,0 +1,1 @@
+\text { 当 函 数 } f ( x ) \text { 与 } g ( x ) \text { 在 } [ m , n ] \text { 上 均 单 调 递 增 时 }

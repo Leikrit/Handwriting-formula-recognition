@@ -1,0 +1,1 @@
+q : \ e x i s t s x \in [ 1 , 2 ] , \log _ { 0 . 5 } \left( x ^ { 2 } - m x + 1 \right) <

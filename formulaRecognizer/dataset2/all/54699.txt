@@ -1,0 +1,1 @@
+\left( t y _ { 1 } - t y \right) \left( t y _ { 2 } - t y \right) = t ^ { 2 } y ^ { 2 } + \left( \frac { 4 t ^ { 3 } } { t ^ { 2 } + 2 } \right) y - \frac { 4 t ^ { 2 } } { t ^ { 2 } + 2 }

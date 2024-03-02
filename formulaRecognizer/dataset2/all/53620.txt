@@ -1,0 +1,1 @@
+\text { 使 } \triangle A _ { k } B _ { k } A _ { k + 1 } \text { 都 是 等 边 三 角 形 }

@@ -1,0 +1,1 @@
+\text { 求 } | ( A - S ) \cup ( S - A ) | + | ( B - S ) \cup ( S - B ) | +

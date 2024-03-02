@@ -1,0 +1,1 @@
+\text { 若 } A \cap \ c o m p l e m e n t _ { \mathbf { R } } B \text { 中 恰 好 含 有 } 2 \text { 个 整 数 }

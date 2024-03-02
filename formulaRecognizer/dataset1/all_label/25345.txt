@@ -1,0 +1,1 @@
+( - \infty , 0 ) \cup \left( \frac { 1 } { \mathrm { e } } , 1 \right) \cup ( 1 , 2 )

@@ -1,0 +1,1 @@
+A = \{ - 2 , - 1 , 0 , 1 , 2 \} , B = \left\{ x \mid x ^ { 2 } \geqslant 1 \right\}

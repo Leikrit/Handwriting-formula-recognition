@@ -1,0 +1,1 @@
+\text { 若 } \left( 2 x ^ { 3 } + \frac { 1 } { \sqrt { x } } \right) ^ { n } \text { 的 展 开 式 中 含 有 常 数 项 }

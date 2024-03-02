@@ -1,0 +1,1 @@
+\mathrm { y } = \mathrm { k x } + \mathrm { m }

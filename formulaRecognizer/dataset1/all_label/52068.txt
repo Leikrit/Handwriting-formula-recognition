@@ -1,0 +1,1 @@
+f \left( x + \frac { 1 } { x } \right) = x ^ { 3 } + \frac { 1 } { x ^ { 3 } }

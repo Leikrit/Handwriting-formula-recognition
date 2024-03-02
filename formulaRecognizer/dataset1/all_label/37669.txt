@@ -1,0 +1,1 @@
+\ln \left( \frac { 1 } { n } + 1 \right) > \frac { 1 } { n ^ { 2 } } - \frac { 1 } { n ^ { 3 } }

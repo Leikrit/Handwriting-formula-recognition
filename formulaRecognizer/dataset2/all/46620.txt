@@ -1,0 +1,1 @@
+\rho ( A , C ) = \rho ( C , B )

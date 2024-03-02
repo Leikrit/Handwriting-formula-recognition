@@ -1,0 +1,1 @@
+\text { 且 } \log _ { 3 } x = \log _ { 5 } y = \log _ { 7 } z

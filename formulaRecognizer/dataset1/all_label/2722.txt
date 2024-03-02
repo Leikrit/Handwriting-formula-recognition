@@ -1,0 +1,1 @@
+\Delta \left( \frac { 1 } { 4 } \right) = \frac { 5 } { 4 } - 2 \ln 2 < 0

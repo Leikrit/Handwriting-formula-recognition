@@ -1,0 +1,1 @@
+\left[ 4 - 4 \ln 2 , \frac { 5 } { 2 } \right]

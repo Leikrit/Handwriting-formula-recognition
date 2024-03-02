@@ -1,0 +1,1 @@
+f ( x ) = 3 \sin \left( \frac { 1 } { 2 } x + \frac { \pi } { 6 } \right)

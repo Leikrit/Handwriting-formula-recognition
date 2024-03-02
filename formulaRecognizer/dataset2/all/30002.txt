@@ -1,0 +1,1 @@
+= \left\{ ( x , y ) \mid y = \lambda \left( x - \frac { a + b } { 2 } \right) ^ { 2 } \right.

@@ -1,0 +1,1 @@
+O P _ { 1 } Q _ { 1 } , Q _ { 1 } P _ { 2 } Q _ { 2 } , \cdots , Q _ { n - 1 } P _ { n } Q _ { n } , \cdots

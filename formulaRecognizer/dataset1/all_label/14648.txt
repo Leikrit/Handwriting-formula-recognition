@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 9 } \left( \ln x _ { i } - \overline { \ln x } \right) \left( y _ { i } - \bar { y } \right) = 1 0 1 . 7 3

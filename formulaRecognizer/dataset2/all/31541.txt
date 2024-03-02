@@ -1,0 +1,1 @@
+\text { 都 有 } a \ln x \geqslant - x ^ { 2 } + ( a + 2 ) x \text { 恒 成 立 }

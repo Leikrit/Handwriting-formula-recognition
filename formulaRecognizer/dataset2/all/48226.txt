@@ -1,0 +1,1 @@
+\text { 设 } \left\{ a _ { n } \right\} \text { 是 公 比 为 } q \text { 的 无 穷 等 比 数 列 }

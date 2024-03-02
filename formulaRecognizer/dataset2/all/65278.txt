@@ -1,0 +1,1 @@
+\text { 根 据 一 组 样 本 数 据 } \left( x _ { i } , y _ { i } \right)

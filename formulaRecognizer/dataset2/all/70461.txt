@@ -1,0 +1,1 @@
+\Rightarrow \left( 4 - 4 x _ { 1 } \right) \left( 4 - 4 x _ { 2 } \right) + 1 6 \left( 2 - y _ { 1 } \right) \left( 2 - y _ { 2 } \right) = 0

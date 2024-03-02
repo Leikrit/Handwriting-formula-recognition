@@ -1,0 +1,1 @@
+\beta = \frac { \pi } { 3 }

@@ -1,0 +1,1 @@
+\overrightarrow { O E } = \frac { 1 } { 2 } \boldsymbol { a } + \boldsymbol { b } = \left( \frac { 1 } { 2 } , 1 \right) \text { , 则 } E \left( \frac { 1 } { 2 } , 1 \right) \text { , }

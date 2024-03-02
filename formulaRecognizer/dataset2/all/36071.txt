@@ -1,0 +1,1 @@
+\text { 故 } S _ { \triangle A B C } = \frac { 1 } { 2 } b c \sin A = \frac { 1 } { 2 } \times 3 \times 5 \times \sin \frac { 2 \pi } { 3 } = \frac { 1 5 \sqrt { 3 } } { 4 }

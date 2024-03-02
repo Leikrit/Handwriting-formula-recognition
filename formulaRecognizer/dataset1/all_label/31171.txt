@@ -1,0 +1,1 @@
+\tan ( 2 \pi + \alpha ) + \tan \left( \frac { \pi } { 2 } - \beta \right)

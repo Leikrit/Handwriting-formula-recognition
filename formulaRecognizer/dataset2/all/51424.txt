@@ -1,0 +1,1 @@
+\text { 求 } 2 \sqrt { 3 } \sin ^ { 2 } \frac { A + C } { 2 } + \sin ( A + C ) \text { 的 最 大 值 }

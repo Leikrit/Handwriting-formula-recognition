@@ -1,0 +1,1 @@
+\text { 设 数 列 } \left\{ \frac { 1 } { a _ { n } \cdot a _ { n + 1 } } \right\} \text { 的 前 } n \text { 项 和 为 } T _ { n }

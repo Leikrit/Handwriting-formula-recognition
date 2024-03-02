@@ -1,0 +1,1 @@
+\text { 是 否 存 在 常 数 } a , b , c \text { 使 得 等 式 } 1 \cdot 2 ^ { 2 } + 2 \cdot 3 ^ { 2 } + \cdots +

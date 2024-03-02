@@ -1,0 +1,1 @@
+\text { 正 实 数 } N \text { 可 以 表 示 成 } N = a \times 1 0 ^ { n } ( 1 \leq s l a n t a < 1 0 , n \in \mathbf { Z } ) \text { 的 形 }

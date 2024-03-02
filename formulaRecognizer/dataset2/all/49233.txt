@@ -1,0 +1,1 @@
+\text { 当 } c _ { 1 } = 2 \text { 时 , 即 } 2 = t ^ { 3 } - 3 t \Rightarrow ( t + 1 ) ^ { 2 } ( t - 2 ) = 0

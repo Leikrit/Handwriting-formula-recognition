@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = 2 \sin ( \omega x + \varphi ) - 1 ( \omega > 0 )

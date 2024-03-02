@@ -1,0 +1,1 @@
+\text { 函 数 关 系 式 } x = \frac { k _ { 0 } } { k } \left( 1 - \mathrm { e } ^ { - k t } \right)

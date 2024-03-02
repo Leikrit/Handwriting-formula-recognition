@@ -1,0 +1,1 @@
+\text { 已 知 曲 线 } y = a \mathrm { e } ^ { x } + x \ln x \text { 在 点 } ( 1 \text { , }

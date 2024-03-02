@@ -1,0 +1,1 @@
+( 1 + x ) ^ { m } \geqslant 1 + m x

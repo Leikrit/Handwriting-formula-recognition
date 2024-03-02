@@ -1,0 +1,1 @@
+\text { 证 明 : } a ^ { 3 } + b ^ { 3 } - 2 a b \geqslant 0

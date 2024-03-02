@@ -1,0 +1,1 @@
+\text { 得 } \overrightarrow { A I } = \frac { r } { \sin A } \left( \frac { \overrightarrow { A B } } { c } + \frac { \overrightarrow { A C } } { b } \right) = \frac { b c } { a + b + c } \left( \frac { \overrightarrow { A B } } { c } + \frac { \overrightarrow { A C } } { b } \right)

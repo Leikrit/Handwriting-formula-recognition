@@ -1,0 +1,1 @@
+s = \frac { t ^ { 3 } } { 4 } - t \text { 且 } t \neq 0

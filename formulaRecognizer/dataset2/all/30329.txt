@@ -1,0 +1,1 @@
+\text { 若 点 } P \text { 是 函 数 } f ( x ) = x ^ { 2 } + b x + c \text { 图 象 的 顶 点 }

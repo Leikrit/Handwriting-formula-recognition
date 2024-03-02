@@ -1,0 +1,1 @@
+f ( x ) = x \left( \mathrm { e } ^ { x } - a \right)

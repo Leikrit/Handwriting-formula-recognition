@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = ( 2 a x - 1 ) ^ { 2 } - \log _ { a } ( a x + 2 ) \text { 在 区 间 } \left[ 0 , \frac { 1 } { a } \right] \text { 上 恰 有 }

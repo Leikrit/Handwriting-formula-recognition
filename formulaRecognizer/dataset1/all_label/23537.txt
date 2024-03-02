@@ -1,0 +1,1 @@
+\boldsymbol { b } = x \boldsymbol { e } _ { 1 } + y \boldsymbol { e } _ { 2 } ( x , y \in \mathbf { R } )

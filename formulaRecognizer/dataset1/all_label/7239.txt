@@ -1,0 +1,1 @@
+\text { 若 } x _ { 1 } + x _ { 2 } = \frac { \pi } { 3 } \text { , 则 } f \left( x _ { 1 } \right) + f \left( x _ { 2 } \right) = 0

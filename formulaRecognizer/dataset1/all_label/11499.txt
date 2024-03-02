@@ -1,0 +1,1 @@
+\l g \o p e r a t o r n a m e { t g } x - \l g \sin x = \l g \cos x - \l g \o p e r a t o r n a m e { c t g } x + 2 \l g 3 - \frac { 3 } { 2 } \l g 2

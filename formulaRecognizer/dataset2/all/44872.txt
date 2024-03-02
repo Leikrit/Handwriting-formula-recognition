@@ -1,0 +1,1 @@
+\text { 求 证 : } 4 \o p e r a t o r n a m e { l g e } + \frac { \l g \mathrm { e } } { 2 } + \frac { \l g \mathrm { e } } { 3 } + \cdots + \frac { \l g \mathrm { e } } { n } > \l g \left[ \mathrm { e } ^ { \frac { \left( 1 + n ^ { n } \right. } { n ^ { n } } } ( n \right.

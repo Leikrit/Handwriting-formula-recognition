@@ -1,0 +1,1 @@
+\left| P F _ { 1 } \right| ^ { 2 } = \left| F _ { 1 } F _ { 2 } \right| ^ { 2 } + \left| P F _ { 2 } \right| ^ { 2 } - 2 \cdot \left| P F _ { 2 } \right| \cdot \left| F _ { 1 } F _ { 2 } \right| \cdot \cos \ a n g l e P F _ { 2 } F _ { 1 }

@@ -1,0 +1,1 @@
+\text { 求 } a \text { 的 值 及 曲 线 } y = f ( x ) \text { 在 点 }

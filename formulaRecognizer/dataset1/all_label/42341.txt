@@ -1,0 +1,1 @@
+2 \sin \left( A - \frac { \pi } { 6 } \right) \cos B = \cos C

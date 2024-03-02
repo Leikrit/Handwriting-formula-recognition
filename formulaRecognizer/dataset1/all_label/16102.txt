@@ -1,0 +1,1 @@
+k _ { N C } = \frac { y _ { 3 } } { - \frac { a ^ { 2 } } { c } + a } = \frac { ( a + c ) y _ { 1 } } { ( c - a ) \left( a - x _ { 1 } \right) } , k _ { C B } = \frac { y _ { 2 } } { x _ { 2 } + a }

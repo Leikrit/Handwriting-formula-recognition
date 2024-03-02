@@ -1,0 +1,1 @@
+\text { 已 知 销 售 额 } y = \text { 单 价 } x \times \text { 销 量 } z

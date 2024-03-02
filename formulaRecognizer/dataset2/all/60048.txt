@@ -1,0 +1,1 @@
+x ^ { 2 } - x + \frac { 1 } { 4 } = \left( x - \frac { 1 } { 2 } \right) ^ { 2 } \geqslant 0

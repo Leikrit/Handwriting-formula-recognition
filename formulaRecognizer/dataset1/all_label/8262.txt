@@ -1,0 +1,1 @@
+2 z + \bar { z } = 3 - 2 \mathrm { i }

@@ -1,0 +1,1 @@
+x = 3 \sin \theta \left( \theta \in \left[ - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right] \right)

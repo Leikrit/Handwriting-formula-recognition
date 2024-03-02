@@ -1,0 +1,1 @@
+y ^ { 2 } = \frac { b ^ { 2 } \left( x _ { 0 } ^ { 2 } - a ^ { 2 } \right) } { \left( a + x _ { 0 } \right) ^ { 2 } } = \frac { b ^ { 2 } \left( x _ { 0 } - a \right) } { x _ { 0 } + a } < b ^ { 2 }

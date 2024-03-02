@@ -1,0 +1,1 @@
+\text { 使 得 } f ( f ( x ) + a ) > 4 a f ( x ) \text { 成 立 }

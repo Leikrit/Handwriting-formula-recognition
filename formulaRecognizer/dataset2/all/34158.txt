@@ -1,0 +1,1 @@
+\text { 则 集 合 } N = \{ 2 a \mid a \in S \} \text { 也 是 “ 凸 集 ” }

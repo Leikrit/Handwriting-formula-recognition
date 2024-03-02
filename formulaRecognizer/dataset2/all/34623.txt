@@ -1,0 +1,1 @@
+S _ { n } = n a _ { n } - n ^ { 2 } + n , n \in \mathbf { N } ^ { * }

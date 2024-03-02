@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = 4 \sin \omega x \cdot \sin ^ { 2 } \left( \frac { \pi } { 4 } + \frac { \omega x } { 2 } \right) + \cos 2 \omega x ( \omega > 0 )

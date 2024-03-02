@@ -1,0 +1,1 @@
+y = \cos \left( x + \frac { \pi } { 3 } \right)

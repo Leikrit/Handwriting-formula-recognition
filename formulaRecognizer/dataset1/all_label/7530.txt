@@ -1,0 +1,1 @@
+\overrightarrow { A B } = \lambda \boldsymbol { a } - 2 \boldsymbol { b }

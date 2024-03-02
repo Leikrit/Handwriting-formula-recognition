@@ -1,0 +1,1 @@
+\text { 若 } a _ { 1 } = b _ { 1 } > 0 , m \in \mathbf { N } ^ { * } , q \in ( 1 , \sqrt [ m ] { 2 } ]

@@ -1,0 +1,1 @@
+a _ { 1 } = p , b _ { 1 } = q , a _ { n } = p a _ { n - 1 } , b _ { n } = q a _ { n - 1 } + r b _ { n - 1 } ( n \geqslant 2 ) ( p , q , r

@@ -1,0 +1,1 @@
+\text { 在 } \left( \sqrt { x } + \frac { 1 } { 3 x ^ { 2 } } \right) ^ { n } \text { 的 二 项 展 开 式 中 }

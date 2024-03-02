@@ -1,0 +1,1 @@
+\text { 因 此 函 数 } y = f ( x ) - x \text { 在 区 间 } ( 0 , + \infty ) \text { 上 单 调 递 减 }

@@ -1,0 +1,1 @@
+\text { ( 1 ) } B = \frac { \pi } { 4 } \text { , ( 2 ) } a = \sqrt { 3 } \text { , ( 3 ) } a = 3 \sqrt { 2 } \sin B

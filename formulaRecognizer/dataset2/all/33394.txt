@@ -1,0 +1,1 @@
+\text { 由 } x _ { 1 } , x _ { 2 } \text { 均 为 } f ( x ) \text { 的 零 点 得 } \mathrm { e } ^ { x _ { 1 } } = a x _ { 1 }

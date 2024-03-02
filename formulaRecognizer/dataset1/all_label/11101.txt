@@ -1,0 +1,1 @@
+\sin ^ { 2 } \frac { B } { 2 } = \frac { c - a } { 2 c }

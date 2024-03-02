@@ -1,0 +1,1 @@
+| \overrightarrow { A B } | = 3 , | \overrightarrow { B C } | = 7 , | \overrightarrow { C D } | = 1 1 , | \overrightarrow { D A } | = 9

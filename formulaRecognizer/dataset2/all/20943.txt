@@ -1,0 +1,1 @@
+\left\{ P _ { n } - P _ { n - 1 } \right\} \text { 是 一 个 等 比 数 列 }

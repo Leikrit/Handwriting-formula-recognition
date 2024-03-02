@@ -1,0 +1,1 @@
+P _ { 1 } \left( x _ { 1 } , y _ { 1 } \right) , P _ { 2 } \left( x _ { 2 } , y _ { 2 } \right) , P _ { 3 } \left( x _ { 3 } , y _ { 3 } \right)

@@ -1,0 +1,1 @@
+\overrightarrow { A F } = 2 x \overrightarrow { A B } + y \overrightarrow { A C }

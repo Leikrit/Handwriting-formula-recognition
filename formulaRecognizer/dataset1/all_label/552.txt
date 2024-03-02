@@ -1,0 +1,1 @@
+f ( x ) = 2 \sin x \sin \left( x + \frac { \pi } { 2 } \right) - x ^ { 2 }

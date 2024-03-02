@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sin \left( 2 x + \frac { \pi } { 3 } \right) \text { 图 象 的 一 个 最 高 点 向 左 平 移 } \frac { \pi } { 2 } \text { 个 单 位 长 }

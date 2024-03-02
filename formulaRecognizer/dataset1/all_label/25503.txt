@@ -1,0 +1,1 @@
+\left\{ f \left( 5 ^ { n } \right) \right\}

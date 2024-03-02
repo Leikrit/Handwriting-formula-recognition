@@ -1,0 +1,1 @@
+\ e x i s t s x _ { 1 } , x _ { 2 } \in [ 0 , + \infty )

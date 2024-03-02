@@ -1,0 +1,1 @@
+M \cup N = \{ x \mid x > 0 \}

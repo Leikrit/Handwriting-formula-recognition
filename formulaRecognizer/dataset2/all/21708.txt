@@ -1,0 +1,1 @@
+\text { 则 } \boldsymbol { a } = \mathbf { 0 } \text { 或 } \boldsymbol { b } = \mathbf { 0 }

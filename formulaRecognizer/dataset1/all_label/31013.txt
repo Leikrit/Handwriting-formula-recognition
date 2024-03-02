@@ -1,0 +1,1 @@
+\bar { y } - \bar { x } \geqslant 2 \sqrt { \frac { s _ { 1 } ^ { 2 } + s _ { 2 } ^ { 2 } } { 1 0 } }

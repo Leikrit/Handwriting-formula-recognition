@@ -1,0 +1,1 @@
+\text { 圆 心 } C \text { 到 直 线 } a x + y - 2 = 0 \text { 的 距 离 为 半 径 的 } \frac { \sqrt { 3 } } { 2 }

@@ -1,0 +1,1 @@
+a - a \ln a = 0 \Rightarrow a = \mathrm { e }

@@ -1,0 +1,1 @@
+\text { 若 新 函 数 } d ( f , g ) \text { 的 值 域 为 } [ 0 , + \infty )

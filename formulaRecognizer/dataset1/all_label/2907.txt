@@ -1,0 +1,1 @@
+f ( x ) = a x - \log _ { 2 } \left( 2 ^ { x } + 1 \right) + \cos x ( a \in \mathbf { R } )

@@ -1,0 +1,1 @@
+\left\{ x \mid x \neq - \frac { 1 } { a } \right\}

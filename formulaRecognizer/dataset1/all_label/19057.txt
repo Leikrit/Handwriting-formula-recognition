@@ -1,0 +1,1 @@
+y = \mathrm { e } ^ { b x + a }

@@ -1,0 +1,1 @@
+\boldsymbol { d } \text { 在 } \boldsymbol { a } , \boldsymbol { b } \text { 方 向 上 的 投 影 分 别 为 } x , y

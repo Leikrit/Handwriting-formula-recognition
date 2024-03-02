@@ -1,0 +1,1 @@
+\text { 若 对 } \forall x _ { 1 } , x _ { 2 } \in \left[ \frac { 1 } { \mathrm { e } } , 3 \right]

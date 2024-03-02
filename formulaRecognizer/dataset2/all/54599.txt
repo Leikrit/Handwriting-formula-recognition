@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sin \left( 2 x - \frac { \pi } { 3 } \right) \text { 在 区 间 } \left[ - \frac { \pi } { 2 } , \pi \right] \text { 上 的 简 }

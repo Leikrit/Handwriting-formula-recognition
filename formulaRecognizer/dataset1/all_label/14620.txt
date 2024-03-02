@@ -1,0 +1,1 @@
+f ( \ln 5 ) + f \left( \ln \frac { 1 } { 5 } \right) =

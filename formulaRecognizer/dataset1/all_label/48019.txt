@@ -1,0 +1,1 @@
+2 \cdot \frac { 1 } { x } + 1 \left( x \geqslant \frac { 3 } { 2 } \right)

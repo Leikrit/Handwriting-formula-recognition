@@ -1,0 +1,1 @@
+b _ { n } = \frac { S _ { 3 n } } { n \cdot 4 ^ { n } }

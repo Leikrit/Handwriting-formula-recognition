@@ -1,0 +1,1 @@
+\text { 判 断 数 列 } \left\{ \mathrm { a } _ { \mathrm { n } } \right\} \text { 是 否 满 足 性 质 }

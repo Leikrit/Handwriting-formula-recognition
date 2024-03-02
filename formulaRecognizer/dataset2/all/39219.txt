@@ -1,0 +1,1 @@
+\text { 若 集 合 } \left\{ x \mid x ^ { 2 } + 2 k x + 1 = 0 \right\} \text { 中 有 且 仅 有 一 个 元 素 }

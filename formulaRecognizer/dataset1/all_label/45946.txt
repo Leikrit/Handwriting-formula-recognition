@@ -1,0 +1,1 @@
+A B = B C = \frac { 1 } { 2 } A D , \ a n g l e B A D = \ a n g l e A B C = 9 0 ^ { \circ }

@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } y = \tan \omega x \text { 在 } \left( - \frac { \pi } { 2 } , \frac { \pi } { 2 } \right) \text { 内 是 减 函 数 }

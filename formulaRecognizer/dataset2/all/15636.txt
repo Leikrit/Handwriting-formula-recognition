@@ -1,0 +1,1 @@
+\forall n \leq s l a n t m , n \in \mathbf { N } ^ { * } , \left| a _ { n + 1 } - b _ { n + 1 } \right| \leq s l a n t b _ { 1 } ,

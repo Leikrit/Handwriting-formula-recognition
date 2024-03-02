@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \cos 2 x + 2 \sin x \text { 的 最 小 值 和 最 大 值 分 别 为 }

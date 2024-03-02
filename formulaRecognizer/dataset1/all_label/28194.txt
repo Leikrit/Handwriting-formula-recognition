@@ -1,0 +1,1 @@
+P \left( x _ { 1 } , \ln x _ { 1 } + 2 \right)

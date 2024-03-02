@@ -1,0 +1,1 @@
+\text { 假 设 曲 线 } C \text { 符 合 函 数 } y = \frac { a } { x ^ { 2 } + b } \text { ( 其 中 }

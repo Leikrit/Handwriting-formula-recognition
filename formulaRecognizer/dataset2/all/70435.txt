@@ -1,0 +1,1 @@
+A \cap B = \ v a r n o t h i n g \text { 的 充 要 条 件 是 } \o p e r a t o r n a m e { c a r d } ( A \cup B ) =

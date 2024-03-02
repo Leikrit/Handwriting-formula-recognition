@@ -1,0 +1,1 @@
+2 \cdot \sqrt { 1 + m ^ { 2 } } \cdot \frac { 1 2 m } { 3 m ^ { 2 } + 4 } = \sqrt { 1 + \frac { 1 } { m ^ { 2 } } } \cdot \frac { 1 2 m } { 3 + 4 m ^ { 2 } }

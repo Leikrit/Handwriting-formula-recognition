@@ -1,0 +1,1 @@
+\overrightarrow { P A } \cdot ( \overrightarrow { P B } + \overrightarrow { P C } ) \text { 取 得 最 小 值 为 } - \frac { 3 } { 2 }

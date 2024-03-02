@@ -1,0 +1,1 @@
+S _ { \triangle A O B } = \frac { 1 } { 2 } | O P | \left| y _ { 1 } - y _ { 2 } \right| = \frac { 1 } { 2 } \cdot 2 \cdot 4 \sqrt { k ^ { 2 } + 2 } \geqslant 4 \sqrt { 2 }

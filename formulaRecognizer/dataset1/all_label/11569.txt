@@ -1,0 +1,1 @@
+\lambda \overrightarrow { A B } , \overrightarrow { E C } = ( 2 - 3 \lambda ) \overrightarrow { A C }

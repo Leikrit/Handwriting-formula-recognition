@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x } - 2 a \geqslant 0 \text { 在 } [ 0 , + \infty ) \text { 上 恒 成 立 }

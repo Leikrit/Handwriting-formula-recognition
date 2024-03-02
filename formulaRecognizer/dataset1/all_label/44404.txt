@@ -1,0 +1,1 @@
+d ( x ) = 2 \left( x - x _ { 1 } \right) + \left| x - x _ { 2 } \right| + 3 \left( x _ { 3 } - x \right)

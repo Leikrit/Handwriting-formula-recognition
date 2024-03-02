@@ -1,0 +1,1 @@
+\text { 求 上 表 中 第 } k ( k \geqslant 3 ) \text { 行 所 有 项 的 和 }

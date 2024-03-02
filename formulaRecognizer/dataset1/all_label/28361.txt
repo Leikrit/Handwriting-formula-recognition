@@ -1,0 +1,1 @@
+\cos \ a n g l e F A B = \frac { ( 2 - x ) } { \sqrt { 1 + ( 2 - x ) ^ { 2 } } }

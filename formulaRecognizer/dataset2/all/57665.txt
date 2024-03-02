@@ -1,0 +1,1 @@
+\text { 设 } S _ { n } , T _ { n } \text { 分 别 为 数 列 } \left\{ a _ { n } \right\} \text { 与 } \left\{ \frac { 1 } { a _ { n } } \right\} \text { 的 前 } n \text { 项 和 }

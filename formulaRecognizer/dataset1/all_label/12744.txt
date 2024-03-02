@@ -1,0 +1,1 @@
+\frac { \cos \left( \frac { \pi } { 2 } + \alpha \right) \sin ( - \pi - \alpha ) } { \cos \left( \frac { 1 1 \pi } { 2 } - \alpha \right) \sin \left( \frac { 9 \pi } { 2 } + \alpha \right) }

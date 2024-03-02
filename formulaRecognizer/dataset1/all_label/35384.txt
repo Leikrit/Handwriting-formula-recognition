@@ -1,0 +1,1 @@
+\lambda _ { 1 } + \lambda _ { 2 } = \frac { t } { y _ { 1 } } + \frac { t } { y _ { 2 } } - 2 = \frac { t \left( y _ { 1 } + y _ { 2 } \right) } { y _ { 1 } y _ { 2 } } - 2

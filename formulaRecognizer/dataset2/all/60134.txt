@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \leq s l a n t - \lambda | x + 6 | \text { 在 } \mathbf { R } \text { 上 恒 成 立 }

@@ -1,0 +1,1 @@
+\text { 半 椭 圆 } \frac { y ^ { 2 } } { b ^ { 2 } } + \frac { x ^ { 2 } } { c ^ { 2 } } = 1 ( x \leq s l a n t 0 )

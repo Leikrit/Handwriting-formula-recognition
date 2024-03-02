@@ -1,0 +1,1 @@
+\left. \left( \frac { 1 } { 2 } \right) ^ { 2 } + 2 7 \right] \text { , 当 } a = \frac { 1 } { 2 } \text { 时 , } D ( X ) _ { \min } = \frac { 1 } { 2 }

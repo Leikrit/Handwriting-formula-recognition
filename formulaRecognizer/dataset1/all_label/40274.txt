@@ -1,0 +1,1 @@
+t \sin \theta = 0

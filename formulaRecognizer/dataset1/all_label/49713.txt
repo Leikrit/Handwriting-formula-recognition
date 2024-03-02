@@ -1,0 +1,1 @@
+\overrightarrow { O A } + \lambda \overrightarrow { O B } + ( 1 + \lambda ) \overrightarrow { O C } =

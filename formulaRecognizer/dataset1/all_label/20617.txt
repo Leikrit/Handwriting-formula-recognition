@@ -1,0 +1,1 @@
+n ^ { 2 } ( n \geqslant 2 , n \in \mathbf { N } )

@@ -1,0 +1,1 @@
+\text { 计 算 公 式 如 下 } M = \l g ( A / T ) _ { \text { m a x } }

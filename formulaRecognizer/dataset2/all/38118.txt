@@ -1,0 +1,1 @@
+| \boldsymbol { a } - \boldsymbol { c } | = | \boldsymbol { b } - \boldsymbol { c } | = 5

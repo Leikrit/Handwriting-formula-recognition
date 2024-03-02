@@ -1,0 +1,1 @@
+\text { 若 } \cos 2 \alpha = 2 \cos \left( \alpha + \frac { \pi } { 4 } \right)

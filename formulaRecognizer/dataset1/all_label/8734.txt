@@ -1,0 +1,1 @@
+x - 1 \leq s l a n t f ( x ) \leq s l a n t 1 - x

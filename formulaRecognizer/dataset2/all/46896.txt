@@ -1,0 +1,1 @@
+\text { 将 函 数 } y = 3 \sin \left( 2 x + \frac { \pi } { 4 } \right) \text { 的 图 象 向 右 平 移 } \frac { \pi } { 6 } \text { 个 单 位 长 度 }

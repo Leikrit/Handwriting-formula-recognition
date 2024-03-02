@@ -1,0 +1,1 @@
+\text { 求 } \frac { S _ { \triangle A B D } } { S _ { \triangle A D C } } \text { 的 值 }

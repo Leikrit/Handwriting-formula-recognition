@@ -1,0 +1,1 @@
+\cos \alpha = \sqrt { 1 - \sin ^ { 2 } \alpha } = \frac { \sqrt { 1 5 } } { 4 }

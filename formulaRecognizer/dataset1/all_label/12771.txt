@@ -1,0 +1,1 @@
+\text { 在 } \mathbf { R } \text { 上 定 义 运 算 “ } \odot ” : ~ : a \odot b = a b + 2 a + b

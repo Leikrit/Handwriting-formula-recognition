@@ -1,0 +1,1 @@
+\text { 有 } n ( n \in \mathbf { N } ) \text { 个 人 正 在 }

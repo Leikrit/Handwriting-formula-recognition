@@ -1,0 +1,1 @@
+\text { 若 } \triangle A B C \text { 的 面 积 } S = \frac { 1 } { 2 } A D \cdot A E

@@ -1,0 +1,1 @@
+= \frac { 4 } { \sqrt { 3 } } \cdot \frac { \cos ( B - C ) - \frac { 1 } { 2 } } { \cos \frac { B - C } { 2 } } = \frac { 4 } { \sqrt { 3 } } \cdot \frac { 2 \cos ^ { 2 } \frac { B - C } { 2 } - \frac { 3 } { 2 } } { \cos \frac { B - C } { 2 } }

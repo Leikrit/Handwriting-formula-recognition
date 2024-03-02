@@ -1,0 +1,1 @@
+\text { 点 } C \left( x _ { 1 } , y _ { 1 } \right) , D \left( x _ { 2 } , y _ { 2 } \right) \text { , 则 } y _ { 1 } + y _ { 2 } = - 4 m

@@ -1,0 +1,1 @@
+\rho = 2 \cos \theta + 2 \sin \theta

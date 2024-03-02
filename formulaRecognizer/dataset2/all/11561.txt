@@ -1,0 +1,1 @@
+\text { 满 足 } ( \boldsymbol { a } + \boldsymbol { b } ) \cdot ( 2 \boldsymbol { a } - 3 \boldsymbol { b } ) = - 1 1 \boldsymbol { a } ^ { 2 }

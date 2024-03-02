@@ -1,0 +1,1 @@
+\left( \frac { 1 } { \alpha } , \frac { 1 } { \beta } \right)

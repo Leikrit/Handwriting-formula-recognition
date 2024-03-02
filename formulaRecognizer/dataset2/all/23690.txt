@@ -1,0 +1,1 @@
+\text { 如 果 数 列 } \left\{ b _ { n } \right\} \text { 前 } 3 \text { 项 的 和 等 于 } \frac { 7 } { 2 4 }

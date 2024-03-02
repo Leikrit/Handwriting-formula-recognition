@@ -1,0 +1,1 @@
+\text { 对 于 } f ^ { \prime } ( x ) = 0 , \Delta \leq s l a n t 0 \Rightarrow a \geqslant 1

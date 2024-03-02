@@ -1,0 +1,1 @@
+\text { 已 知 } O ( 0 , 0 ) , B ( 1 , 0 ) , C ( b , c ) \text { 是 } \triangle O B C \text { 的 三 个 顶 点 }

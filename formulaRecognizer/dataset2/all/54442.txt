@@ -1,0 +1,1 @@
+x > \sqrt { e } \text { 是 } \ln x > 0 \text { 的 }

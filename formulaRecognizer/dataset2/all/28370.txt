@@ -1,0 +1,1 @@
+B = \left\{ x \mid \log _ { 3 } x \leq s l a n t \log _ { 3 } 2 \right\}

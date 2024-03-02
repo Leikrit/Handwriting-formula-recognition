@@ -1,0 +1,1 @@
+\text { 则 } f ( x ) \text { 的 导 数 } f ^ { \prime } ( x ) = \mathrm { e } ^ { x } - a \mathrm { e } ^ { - x } \geqslant 0 \text { 在 } \mathbf { R } \text { 上 恒 成 立 }

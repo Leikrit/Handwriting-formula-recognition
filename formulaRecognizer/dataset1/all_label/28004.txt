@@ -1,0 +1,1 @@
+m x ^ { 2 } + n y ^ { 2 } = 1 ( 0 < m < n ) , A \left( x _ { 1 } , y _ { 1 } \right) , B \left( x _ { 2 } , y _ { 2 } \right)

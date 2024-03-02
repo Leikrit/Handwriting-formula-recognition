@@ -1,0 +1,1 @@
+f ^ { \prime } \left( x _ { 1 } \right) + 2 a x _ { 1 } = \frac { 1 } { 6 } g \left( x _ { 2 } \right)

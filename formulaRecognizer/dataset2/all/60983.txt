@@ -1,0 +1,1 @@
+\text { 则 } \overrightarrow { A E } \cdot ( \overrightarrow { A B } - \overrightarrow { A C } ) =

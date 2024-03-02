@@ -1,0 +1,1 @@
+\left| a _ { 2 } + 3 \right| + \cdots + \left| a _ { n } + 3 \right| = 2 0 1 0

@@ -1,0 +1,1 @@
+\text { 由 题 意 可 得 } \sin \alpha = \cos \alpha + \sqrt { 2 } , \alpha \in ( 0 , \pi ) \text { , }

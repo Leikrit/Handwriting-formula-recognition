@@ -1,0 +1,1 @@
+f ( P ) \cup f ( M ) = \mathbf { R }

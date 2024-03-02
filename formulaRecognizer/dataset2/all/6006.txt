@@ -1,0 +1,1 @@
+\text { 再 令 } \mu ( t ) = - 2 \ln t + t - \frac { 1 } { t } \text { , 则 其 导 函 数 }

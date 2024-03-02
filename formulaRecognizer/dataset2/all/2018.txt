@@ -1,0 +1,1 @@
+\boldsymbol { a } \perp \boldsymbol { b } , | \boldsymbol { a } - \boldsymbol { b } | = 2 ,

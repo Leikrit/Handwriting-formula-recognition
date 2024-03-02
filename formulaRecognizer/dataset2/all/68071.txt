@@ -1,0 +1,1 @@
+\text { 于 是 } f ( x ) _ { \max } - f ( x ) _ { \min } < ( \alpha + 1 ) - ( \alpha - 1 ) = 2

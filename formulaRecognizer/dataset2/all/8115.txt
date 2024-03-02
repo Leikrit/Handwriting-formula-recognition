@@ -1,0 +1,1 @@
+\sin \theta + \sin \left( \theta + \frac { \pi } { 3 } \right) = 1

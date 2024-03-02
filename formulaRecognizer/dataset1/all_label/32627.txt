@@ -1,0 +1,1 @@
+\left\{ \frac { 1 } { f \left( x _ { 1 } \right) } \mid x _ { 1 } > 2 \right\} = \left( \frac { 1 } { f ( 2 ) } , 0 \right)

@@ -1,0 +1,1 @@
+\overrightarrow { O B } \cdot \overrightarrow { O C } = \overrightarrow { O C } \cdot \overrightarrow { O A }

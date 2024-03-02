@@ -1,0 +1,1 @@
+h ^ { \prime } ( x ) = 2 \left[ \frac { 1 } { \left( 1 + x ^ { 2 } \right) } - \frac { 1 } { \mathrm { e } ^ { 2 x } } \right] \geqslant 0

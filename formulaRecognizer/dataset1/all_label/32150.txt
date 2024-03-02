@@ -1,0 +1,1 @@
+k \left( S _ { n } + 1 \right) \geqslant 2 n - 9

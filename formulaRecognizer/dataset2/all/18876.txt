@@ -1,0 +1,1 @@
+\text { 若 直 线 } l \text { 与 平 面 } \alpha \text { 上 的 无 数 条 直 线 都 垂 直 , 则 直 线 } l \perp \alpha

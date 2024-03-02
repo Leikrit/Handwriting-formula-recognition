@@ -1,0 +1,1 @@
+\text { 可 得 曲 线 } y = f ( x ) \text { 在 点 } \left( \frac { 1 } { \mathrm { e } } , f \left( \frac { 1 } { \mathrm { e } } \right) \right) \text { 处 的 切 线 斜 率 } k = f ^ { \prime } \left( \frac { 1 } { \mathrm { e } } \right) = \frac { 1 - ( - 1 ) } { \frac { 1 } { \mathrm { e } ^ { 2 } } } = 2 \mathrm { e } ^ { 2 }

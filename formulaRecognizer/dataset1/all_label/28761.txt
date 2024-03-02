@@ -1,0 +1,1 @@
+\tan A \left( \frac { 1 } { \tan B } + \frac { 1 } { \tan C } \right) = 3

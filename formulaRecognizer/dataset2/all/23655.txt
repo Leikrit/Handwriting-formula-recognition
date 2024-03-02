@@ -1,0 +1,1 @@
+\left( \frac { a } { a + b } - \frac { a ^ { 2 } } { a ^ { 2 } + 2 a b + b ^ { 2 } } \right) \d i v \left( \frac { a } { a + b } - \frac { a ^ { 2 } } { a ^ { 2 } - b ^ { 2 } } \right)

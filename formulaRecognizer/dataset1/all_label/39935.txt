@@ -1,0 +1,1 @@
+y = - 4 \sin \frac { \pi x } { 4 }

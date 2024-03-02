@@ -1,0 +1,1 @@
+\lambda \left( \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | \cos B } + \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | \cos C } \right)

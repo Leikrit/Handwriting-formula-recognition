@@ -1,0 +1,1 @@
+\mathrm { e } ^ { a x } \geqslant x ^ { 2 }

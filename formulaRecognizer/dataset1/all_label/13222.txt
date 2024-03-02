@@ -1,0 +1,1 @@
+\frac { \overrightarrow { B I } \cdot \overrightarrow { B A } } { | \overrightarrow { B A } | }

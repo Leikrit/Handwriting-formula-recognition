@@ -1,0 +1,1 @@
+\text { 若 } \boldsymbol { b } / / \boldsymbol { a } \text { 且 } | \boldsymbol { b } | = 1

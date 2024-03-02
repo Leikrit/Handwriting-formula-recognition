@@ -1,0 +1,1 @@
+\text { 求 } \frac { 1 } { a _ { 1 } } + \frac { 2 } { a _ { 2 } } + \cdots + \frac { n } { a _ { n } } \text { 的 值 }

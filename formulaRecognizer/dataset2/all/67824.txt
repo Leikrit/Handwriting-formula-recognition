@@ -1,0 +1,1 @@
+\boldsymbol { c } = ( 3 , 4 )

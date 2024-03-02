@@ -1,0 +1,1 @@
+\text { 设 点 } P \text { 是 函 数 } f ( x ) = \sin \omega x \text { 的 图 像 } C \text { 的 一 个 }

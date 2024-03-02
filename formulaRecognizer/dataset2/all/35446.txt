@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = 2 \cos \left( 2 x + \frac { \pi } { 3 } \right) + \frac { 2 } { 3 } \text { 在 } \left[ - \frac { \pi } { 6 } , \frac { 1 1 \pi } { 6 } \right] \text { 上 的 所 有 零 点 之 和 为 }

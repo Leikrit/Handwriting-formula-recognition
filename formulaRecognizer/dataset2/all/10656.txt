@@ -1,0 +1,1 @@
+\frac { \sqrt { 2 } } { \sqrt { n + 1 } + \sqrt { n } } = \sqrt { 2 } ( \sqrt { n + 1 } - \sqrt { n } )

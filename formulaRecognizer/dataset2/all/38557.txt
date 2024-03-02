@@ -1,0 +1,1 @@
+\text { 已 知 } \tan \left( \frac { \pi } { 4 } + \theta \right) = - 3

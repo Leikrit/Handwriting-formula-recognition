@@ -1,0 +1,1 @@
+f \left( b ^ { x } \right) \text { 与 } f \left( c ^ { x } \right)

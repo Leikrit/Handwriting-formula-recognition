@@ -1,0 +1,1 @@
+\text { 表 示 } a _ { 1 } , a _ { 2 } , \cdots , a _ { i - 1 } \text { 中 与 } a _ { i } \text { 不 相 等 的 项 }

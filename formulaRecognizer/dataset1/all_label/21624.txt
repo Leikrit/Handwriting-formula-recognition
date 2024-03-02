@@ -1,0 +1,1 @@
+\frac { \sin ( 2 \alpha + \beta ) } { \sin \beta }

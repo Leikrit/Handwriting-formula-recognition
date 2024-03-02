@@ -1,0 +1,1 @@
+2 \sin B \cos C - \sin ( B - C )

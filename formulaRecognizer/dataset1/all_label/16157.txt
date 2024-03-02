@@ -1,0 +1,1 @@
+A _ { 1 } \cap A _ { 2 } \cap A _ { 3 } \cap A _ { 4 } \cap A _ { 5 } = \ v a r n o t h i n g

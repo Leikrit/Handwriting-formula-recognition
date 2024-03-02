@@ -1,0 +1,1 @@
+x \in [ 0 , 1 ] \text { 与 } g ( x ) = 2 x - \mathrm { e } ^ { 2 x } - 2 \text { 的 图 象 上 存 在 关 于 } x \text { 轴 对 称 }

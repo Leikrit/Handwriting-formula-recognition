@@ -1,0 +1,1 @@
+f ( x ) = \left| x ^ { 2 } - 2 x \right| + 4 - \sin \frac { \pi x } { 4 } ( 1 \leq s l a n t x \leq s l a n t 6 )

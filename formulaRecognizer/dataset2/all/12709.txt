@@ -1,0 +1,1 @@
+\text { 将 } y = f ( x ) \text { 图 象 上 所 有 点 向 左 平 行 移 动 } \theta ( \theta > 0 ) \text { 个 }

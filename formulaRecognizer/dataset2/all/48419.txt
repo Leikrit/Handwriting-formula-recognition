@@ -1,0 +1,1 @@
+\text { 即 } y = \frac { m } { 1 - m ^ { 2 } } x - \frac { 2 } { m ^ { 2 } } - 2 + \frac { 2 } { m } \cdot \frac { 1 - m ^ { 2 } } { m }

@@ -1,0 +1,1 @@
+\overrightarrow { C O } = \lambda \overrightarrow { C B } + \mu \overrightarrow { C A }

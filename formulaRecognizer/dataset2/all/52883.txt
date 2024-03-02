@@ -1,0 +1,1 @@
+\text { 等 比 数 列 } \left\{ a _ { n } \right\} \text { 中 , } a _ { 3 } \cdot a _ { 4 } \cdot a _ { 6 } \cdot a _ { 7 } = 8 1

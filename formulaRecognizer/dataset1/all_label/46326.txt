@@ -1,0 +1,1 @@
+\forall x \in \mathbf { R } , 3 ^ { x } < 0

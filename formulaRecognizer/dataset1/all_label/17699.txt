@@ -1,0 +1,1 @@
+g ( x ) \in \left[ \frac { 1 } { 2 } , t - \frac { 1 } { 2 } \right] \subseteq \left[ - \frac { 1 } { 2 } , \frac { 5 } { 2 } \right]

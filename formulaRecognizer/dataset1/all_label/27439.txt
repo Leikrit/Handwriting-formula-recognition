@@ -1,0 +1,1 @@
+\frac { \sin C } { \sin B }

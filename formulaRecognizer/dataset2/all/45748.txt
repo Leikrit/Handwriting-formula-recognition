@@ -1,0 +1,1 @@
++ F _ { n - 2 } \left( n \geqslant 3 , n \in \mathbf { N } ^ { * } \right)

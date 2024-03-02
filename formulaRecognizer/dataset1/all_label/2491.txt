@@ -1,0 +1,1 @@
+G \left( \frac { 1 } { 2 t ^ { 2 } } + 4 t ^ { 2 } + 2 , - \frac { 1 } { t } \right)

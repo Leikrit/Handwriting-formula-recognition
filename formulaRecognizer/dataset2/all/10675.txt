@@ -1,0 +1,1 @@
+\text { 其 中 } p , q \in \mathbf { N } ^ { * } \text { 且 } ( p , q ) = 1

@@ -1,0 +1,1 @@
+\mathrm { C } _ { 5 } ^ { 2 } C _ { 5 } ^ { 3 } \left( \frac { 1 } { 2 } \right) ^ { 5 }

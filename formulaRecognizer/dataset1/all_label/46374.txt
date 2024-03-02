@@ -1,0 +1,1 @@
+\frac { \sin \ a n g l e A B D } { \sin \ a n g l e D B C } = \frac { 2 B C } { A B }

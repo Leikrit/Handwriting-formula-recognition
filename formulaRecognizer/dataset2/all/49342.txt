@@ -1,0 +1,1 @@
+\text { 则 } | | P A | - | P B | | = | | P A ^ { \prime } | - | P B | | \leq s l a n t

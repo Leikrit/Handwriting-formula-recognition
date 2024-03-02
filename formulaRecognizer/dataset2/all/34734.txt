@@ -1,0 +1,1 @@
+2 \cos A ( b \cos C + c \cos B ) = a

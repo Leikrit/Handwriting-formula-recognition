@@ -1,0 +1,1 @@
+\overrightarrow { P A } \cdot ( \overrightarrow { P B } + \overrightarrow { P C } ) \text { 的 最 小 值 是 }

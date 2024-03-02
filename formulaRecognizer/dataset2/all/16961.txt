@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \overrightarrow { A B _ { 1 } } + \overrightarrow { A B _ { 2 } } \Rightarrow ( r \cos \theta - x , r \sin \theta - y ) = ( \cos \alpha + \cos \beta - 2 x , \sin \alpha + \sin \beta - 2 y )

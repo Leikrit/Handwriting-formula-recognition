@@ -1,0 +1,1 @@
+\text { 对 于 } \left\{ \mathrm { a } _ { \mathrm { n } } \right\} \text { 中 任 意 两 项 } \mathrm { a } _ { \mathrm { i } } , \mathrm { a } _ { \mathrm { j } } ( \mathrm { i } > \mathrm { j } )

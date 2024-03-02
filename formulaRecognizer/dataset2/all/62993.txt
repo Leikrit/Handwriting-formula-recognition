@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \sqrt { 3 } \sin \omega x + \cos \omega x

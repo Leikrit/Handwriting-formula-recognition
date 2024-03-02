@@ -1,0 +1,1 @@
+\text { 若 点 } O \text { 和 点 } F \text { 分 别 为 椭 圆 } \frac { x ^ { 2 } } { 4 } + \frac { y ^ { 2 } } { 3 } = 1 \text { 的 中 心 和 }

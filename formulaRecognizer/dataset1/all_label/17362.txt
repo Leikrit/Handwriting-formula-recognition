@@ -1,0 +1,1 @@
+P ( X = 2 ) = \mathrm { C } _ { 3 } ^ { 2 } \times \left( \frac { 3 } { 4 } \right) ^ { 2 } \times \left( \frac { 1 } { 4 } \right) ^ { 1 } = \frac { 2 7 } { 6 4 } , \quad P ( X = 3 ) = \mathrm { C } _ { 3 } ^ { 3 } \times \left( \frac { 3 } { 4 } \right) ^ { 3 } \times \left( \frac { 1 } { 4 } \right) ^ { 0 } = \frac { 2 7 } { 6 4 } .

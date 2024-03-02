@@ -1,0 +1,1 @@
+d _ { \max } = 1 + \frac { 2 } { \sqrt { m ^ { 2 } + 1 } } \leq s l a n t 3

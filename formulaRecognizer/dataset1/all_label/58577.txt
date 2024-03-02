@@ -1,0 +1,1 @@
+\cos \left( \frac { 1 } { 2 } x - \frac { \pi } { 3 } \right) = \frac { a } { 2 }

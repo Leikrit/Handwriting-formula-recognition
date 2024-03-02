@@ -1,0 +1,1 @@
+\sin \alpha - \sqrt { 3 } \cos \alpha + 3

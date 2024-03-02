@@ -1,0 +1,1 @@
+f ( x ) \geqslant ( 1 - a ) \ln x - ( 2 a + 1 ) x

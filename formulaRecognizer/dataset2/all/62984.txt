@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \sin \left( \omega x + \frac { \pi } { 3 } \right) - 1 ( \omega > 0 ) \text { 的 最 小 正 周 期 为 } \frac { 2 \pi } { 3 } \text { , }

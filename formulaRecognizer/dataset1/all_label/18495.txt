@@ -1,0 +1,1 @@
+\sin \ a n g l e A B D = 2 \sin \ a n g l e C B D \cdot \cos \ a n g l e C B D \text { . }

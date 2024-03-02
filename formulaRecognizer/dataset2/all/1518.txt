@@ -1,0 +1,1 @@
+\text { 设 } x = 2 \text { 是 } f ( x ) \text { 的 极 值 点 }

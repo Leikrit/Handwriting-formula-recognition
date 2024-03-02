@@ -1,0 +1,1 @@
+f ( 2 - \sqrt { 3 } ) + f ( \mathrm { e } ) > 8

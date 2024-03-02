@@ -1,0 +1,1 @@
+x ^ { 4 } = 1 \text { 在 } \mathbf { R } \text { 中 有 两 解 , 在 复 数 集 } \mathbf { C } \text { 中 也 有 两 解 }

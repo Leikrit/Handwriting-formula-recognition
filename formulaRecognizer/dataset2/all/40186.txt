@@ -1,0 +1,1 @@
+\overrightarrow { C D } \cdot \overrightarrow { C A } + \overrightarrow { C E } \cdot \overrightarrow { C A } =

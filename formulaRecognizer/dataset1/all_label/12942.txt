@@ -1,0 +1,1 @@
+p : x \geqslant a , q : x ^ { 2 } - 2 x - 3 \geqslant 0

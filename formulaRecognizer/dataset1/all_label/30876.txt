@@ -1,0 +1,1 @@
+f ( x ) = m ( m \in \mathbf { R } )

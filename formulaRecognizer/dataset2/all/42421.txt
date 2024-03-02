@@ -1,0 +1,1 @@
+f ( x ) = \frac { g ( x ) } { r ^ { 3 } } \text { , 其 中 } k \text { 为 常 数 }

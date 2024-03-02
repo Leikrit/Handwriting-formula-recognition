@@ -1,0 +1,1 @@
+\text { 函 数 } y = \frac { \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } } { 2 } \text { 具 有 性 质 } M

@@ -1,0 +1,1 @@
+A _ { 1 } B = \frac { 2 \sin 3 0 ^ { \circ } } { \sin 7 5 ^ { \circ } } = \sqrt { 6 } - \sqrt { 2 }

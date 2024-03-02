@@ -1,0 +1,1 @@
+\log _ { 2 } x \geqslant 2 x - 3

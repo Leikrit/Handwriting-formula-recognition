@@ -1,0 +1,1 @@
+g ( x ) \text { 的 图 象 关 于 点 } \left( \frac { \pi } { 9 } , 0 \right) \text { 成 中 心 对 称 }

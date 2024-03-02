@@ -1,0 +1,1 @@
+\text { 已 知 方 向 向 量 为 } \boldsymbol { v } = ( 1 , \sqrt { 3 } ) \text { 的 直 线 } l \text { 过 点 } ( 0 , - 2 \sqrt { 3 } )

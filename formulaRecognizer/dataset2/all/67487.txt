@@ -1,0 +1,1 @@
+\left| \frac { a _ { n } } { 2 ^ { n } } - \frac { a _ { 1 } } { 2 } \right| \leq s l a n t 1 - \frac { 1 } { 2 ^ { n - 1 } }

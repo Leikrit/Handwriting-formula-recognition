@@ -1,0 +1,1 @@
+\text { 只 要 } a _ { p } = a _ { q } \left( p , q \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+\tan \frac { A } { 2 } + \tan \frac { B } { 2 } + \tan \frac { C } { 2 } + \tan \frac { D } { 2 } \text { 的 值 . }

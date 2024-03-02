@@ -1,0 +1,1 @@
+\overrightarrow { Q M } = \lambda \overrightarrow { Q O } , \overrightarrow { Q N } = \mu \overrightarrow { Q O }

@@ -1,0 +1,1 @@
+\overrightarrow { A D } = \frac { 2 x } { x + y } \overrightarrow { A B } + \frac { y } { 2 ( x + y ) } \overrightarrow { A C }

@@ -1,0 +1,1 @@
+D P = B Q = \lambda ( 0 < \lambda < 2 )

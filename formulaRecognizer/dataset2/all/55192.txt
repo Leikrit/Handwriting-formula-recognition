@@ -1,0 +1,1 @@
+\text { 布 } X \sim N \left( 7 4 0 0 , \sigma ^ { 2 } \right)

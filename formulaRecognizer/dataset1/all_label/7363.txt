@@ -1,0 +1,1 @@
+\sin x = x - \frac { x ^ { 3 } } { 3 ! } + \frac { x ^ { 5 } } { 5 ! } - \cdots + \frac { ( - 1 ) ^ { n } x ^ { 2 n - 1 } } { ( 2 n - 1 ) ! } + \cdots , n \in \mathbf { N } ^ { * }

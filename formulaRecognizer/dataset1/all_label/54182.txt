@@ -1,0 +1,1 @@
+\left\{ x \mid x ^ { 2 } + 2 ( a + 1 ) x + a ^ { 2 } - 1 = 0 , a \in \mathbf { R } , x \in \mathbf { R } \right\}

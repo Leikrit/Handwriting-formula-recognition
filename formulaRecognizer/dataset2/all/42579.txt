@@ -1,0 +1,1 @@
+\frac { \sin 7 ^ { \circ } + \cos 1 5 ^ { \circ } \sin 8 ^ { \circ } } { \cos 7 ^ { \circ } - \sin 1 5 ^ { \circ } \sin 8 ^ { \circ } }

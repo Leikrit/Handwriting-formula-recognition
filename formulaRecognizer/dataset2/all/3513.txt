@@ -1,0 +1,1 @@
+\text { 已 知 直 线 } l : m x + y + 3 m - \sqrt { 3 } = 0 \text { 与 圆 } x ^ { 2 } + y ^ { 2 } = 1 2 \text { 交 于 } A

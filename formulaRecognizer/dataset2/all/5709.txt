@@ -1,0 +1,1 @@
+y = k x + m \text { 是 曲 线 } y = f ( x ) \text { 在 点 } \left( x _ { 0 } , f \left( x _ { 0 } \right) \right) \text { 处 的 切 线 方 }

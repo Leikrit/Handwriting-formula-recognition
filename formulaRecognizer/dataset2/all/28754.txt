@@ -1,0 +1,1 @@
+\text { 函 数 } f ^ { \prime } ( x ) \text { 的 值 域 包 含 一 个 形 如 } [ m , n ] \text { 的 区 间 }

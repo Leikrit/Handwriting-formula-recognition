@@ -1,0 +1,1 @@
+\text { 已 知 动 点 } ( a , b ) \text { 的 轨 迹 为 直 线 } l : \frac { x } { 2 } + \frac { y } { 4 } = 1 \text { 在 第 一 象 限 内 }

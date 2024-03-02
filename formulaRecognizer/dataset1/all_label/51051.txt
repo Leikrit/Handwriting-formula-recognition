@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \frac { b _ { n } } { \sqrt { a _ { n } ^ { 2 } + b _ { n } ^ { 2 } } }

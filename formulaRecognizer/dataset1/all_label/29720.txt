@@ -1,0 +1,1 @@
+\overrightarrow { A B } = ( \tan \alpha , 1 )

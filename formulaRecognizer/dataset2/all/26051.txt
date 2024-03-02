@@ -1,0 +1,1 @@
+\frac { 2 ( a + b ) - 0 } { 2 \left( a ^ { 2 } + b ^ { 2 } \right) - 5 } \cdot \frac { 4 a - 4 b } { 4 a ^ { 2 } - 4 b ^ { 2 } } = - 1

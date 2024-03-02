@@ -1,0 +1,1 @@
+q : \ e x i s t s x \in \mathbf { R } , x ^ { 2 } + a x + 2 < 0

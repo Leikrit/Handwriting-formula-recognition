@@ -1,0 +1,1 @@
+\text { 可 得 } S _ { n } = \frac { \left( a _ { 1 } + a _ { n } \right) n } { 2 } = n ( n + 1 )

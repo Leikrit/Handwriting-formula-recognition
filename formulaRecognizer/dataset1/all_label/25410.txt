@@ -1,0 +1,1 @@
+A D = 2 , a = \sqrt { 3 } , f ( A ) = \frac { \sqrt { 3 } } { 4 }

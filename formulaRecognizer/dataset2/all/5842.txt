@@ -1,0 +1,1 @@
+g ( x ) = \sqrt { 1 - \mathrm { e } ^ { - x ^ { 2 } } } - \frac { x } { \sqrt { a ^ { 2 } x ^ { 2 } + 1 } } ( x \geqslant 0 )

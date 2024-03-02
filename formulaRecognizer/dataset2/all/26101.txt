@@ -1,0 +1,1 @@
+S ^ { \prime } = \frac { 1 } { 2 } \cdot P ^ { \prime } G ^ { \prime } \cdot Q ^ { \prime } G ^ { \prime } = \frac { 1 } { 2 } \cdot 4 \sin \theta \cdot 4 \cos \theta = 4 \cdot \frac { 2 \tan \theta } { 1 + \tan ^ { 2 } \theta } = \frac { 8 } { \tan \theta + \frac { 1 } { \tan \theta } }

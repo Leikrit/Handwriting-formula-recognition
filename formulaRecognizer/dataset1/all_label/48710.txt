@@ -1,0 +1,1 @@
+a - 1 + ( a - 2 ) \mathrm { i } ( \mathrm { i } \text { 为 虚 数 单 位 } )

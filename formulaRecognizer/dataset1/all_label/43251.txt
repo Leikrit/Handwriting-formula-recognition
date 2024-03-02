@@ -1,0 +1,1 @@
+f ( x ) = \mathrm { e } ^ { x } - \frac { k } { 2 } x ^ { 2 } + k x

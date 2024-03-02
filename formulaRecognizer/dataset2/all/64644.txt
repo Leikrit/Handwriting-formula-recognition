@@ -1,0 +1,1 @@
+\text { 无 穷 数 列 } \left\{ c _ { n } \right\} \text { 是 公 比 为 正 数 的 等 比 数 列 }

@@ -1,0 +1,1 @@
+\overrightarrow { D F } = - \frac { 1 } { 6 } \overrightarrow { A B } - \frac { 1 } { 2 } \overrightarrow { A C }

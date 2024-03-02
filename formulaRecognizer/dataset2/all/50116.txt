@@ -1,0 +1,1 @@
+\text { 已 知 三 个 正 态 分 布 密 度 函 数 } f _ { i } ( x ) = \frac { 1 } { \sqrt { 2 \pi } \sigma _ { i } } \mathrm { e } ^ { - \frac { \left( x - \mu _ { i } \right) ^ { 2 } } { 2 \sigma _ { i } ^ { 2 } } } ( x \in

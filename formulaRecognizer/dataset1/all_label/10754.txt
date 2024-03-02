@@ -1,0 +1,1 @@
+G _ { n } \left( n \in \mathbf { N } ^ { * } \right)

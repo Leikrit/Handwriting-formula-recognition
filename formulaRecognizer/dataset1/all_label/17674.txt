@@ -1,0 +1,1 @@
+f \left( - x ^ { 2 } + t x + \frac { 1 } { 2 } \right) \geqslant 1 - \log _ { 2 } 3

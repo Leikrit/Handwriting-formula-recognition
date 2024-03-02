@@ -1,0 +1,1 @@
+\cos \left( 2 \alpha + \frac { \pi } { 4 } \right) + \sin \left( 2 \alpha + \frac { \pi } { 4 } \right) =

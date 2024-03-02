@@ -1,0 +1,1 @@
+\left\{ \frac { b _ { n } } { a _ { n } } \right\}

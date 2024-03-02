@@ -1,0 +1,1 @@
+\text { 若 } \left| a _ { n } - b _ { n } \right| \leq s l a n t b _ { 1 } \text { 对 } n = 1 , 2 , 3 , 4 \text { 均 成 立 }

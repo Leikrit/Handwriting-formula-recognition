@@ -1,0 +1,1 @@
+\text { 用 } \o p e r a t o r n a m e { c a r d } ( X ) \text { 表 示 集 合 } X \text { 中 元 素 }

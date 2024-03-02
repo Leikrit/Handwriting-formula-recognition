@@ -1,0 +1,1 @@
+\left\{ \left( b _ { n + 1 } - b _ { n } \right) a _ { n } \right\}

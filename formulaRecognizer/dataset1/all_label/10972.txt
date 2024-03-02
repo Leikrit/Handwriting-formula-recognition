@@ -1,0 +1,1 @@
+\frac { \sin \beta } { \sin \alpha } = \frac { d / B ^ { \prime } D } { d / B ^ { \prime } A } = \frac { B A } { B D } = \frac { \sin 1 2 0 ^ { \circ } } { \sin 3 0 ^ { \circ } } = \sqrt { 3 }

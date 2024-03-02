@@ -1,0 +1,1 @@
+\overrightarrow { A B } = x \overrightarrow { C M } + y \overrightarrow { C A }

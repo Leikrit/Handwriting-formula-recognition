@@ -1,0 +1,1 @@
+P \left( \ln a _ { n } , \ln a _ { n + 1 } \right) \left( n \in \mathbf { N } ^ { * } \right)

@@ -1,0 +1,1 @@
+\text { 求 } \frac { 3 \sin x + \sin 3 x } { 3 \cos x + \cos 3 x } \text { 的 值 }

@@ -1,0 +1,1 @@
+\text { 若 复 数 } z \text { 满 足 } z = \mathrm { i } ( 2 - z ) \text { ( } \mathrm { i } \text { 是 虚 数 单 位 } )

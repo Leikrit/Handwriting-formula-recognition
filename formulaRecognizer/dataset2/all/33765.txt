@@ -1,0 +1,1 @@
+\left( x ^ { 2 } + 2 x \right) \left( \frac { 1 } { x } - 1 \right) ^ { n } \text { 的 展 开 式 }

@@ -1,0 +1,1 @@
+\text { 则 数 列 } \left\{ \frac { 1 } { a _ { n + 1 } + a _ { n } } \right\} \text { 的 前 } 1 5 \text { 项 和 为 }

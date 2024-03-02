@@ -1,0 +1,1 @@
+\frac { \sqrt { 3 } b } { c - 2 a } = \frac { b } { a }

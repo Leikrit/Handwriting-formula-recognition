@@ -1,0 +1,1 @@
+\mathrm { A B B } _ { 1 } \mathrm { ~ A } _ { 1 }

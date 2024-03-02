@@ -1,0 +1,1 @@
+\text { 则 } k \in [ 5 , 9 ] \text { 是 不 等 式 } M _ { [ 0 , k ] } \leq s l a n t \lambda M _ { [ k , 2 k ] } \text { 恒 成 }

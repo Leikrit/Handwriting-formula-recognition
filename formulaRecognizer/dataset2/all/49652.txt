@@ -1,0 +1,1 @@
+\left( \omega > 0 , 0 < \varphi < \frac { \pi } { 2 } \right) \text { 的 图 像 关 于 点 } \left( \frac { \pi } { 4 } , 0 \right) \text { 对 称 }

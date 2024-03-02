@@ -1,0 +1,1 @@
+f ( x ) = \frac { a \cos x } { x } + b

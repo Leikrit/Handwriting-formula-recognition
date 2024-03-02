@@ -1,0 +1,1 @@
+\bar { x } _ { \text { 甲 } } > \bar { x } _ { \text { 乙 } }

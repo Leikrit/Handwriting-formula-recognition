@@ -1,0 +1,1 @@
+\frac { \mathrm { e } ^ { x } } { x ^ { 2 } } > \frac { \frac { 1 } { 6 } x ^ { 3 } + \frac { 1 } { 2 } x ^ { 2 } + x + 1 } { x ^ { 2 } } > \frac { 1 } { 6 } x > a

@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = t x ^ { 2 } + 2 t ^ { 2 } x + t - 1 ( x \in \mathbf { R } , t > 0 )

@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) ^ { 2 } = 1 7 . 5 , \sum _ { i = 1 } ^ { 6 } \left( x _ { i } - \bar { x } \right) \left( y _ { i } - \bar { y } \right) = 3 5

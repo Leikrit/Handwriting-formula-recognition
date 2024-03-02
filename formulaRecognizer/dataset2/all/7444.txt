@@ -1,0 +1,1 @@
+Y = \left\{ y \mid y = x ^ { 2 } , x \in X \right\}

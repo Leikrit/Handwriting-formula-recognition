@@ -1,0 +1,1 @@
+\text { 命 题 “ } \forall x \in \mathbf { R } , x ^ { 2 } - x + 1 \geqslant 0 \text { ” 的 否 定 是 “ } \ e x i s t s x \in \mathbf { R } , x ^ { 2 } -

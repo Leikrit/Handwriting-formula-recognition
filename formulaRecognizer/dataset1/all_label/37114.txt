@@ -1,0 +1,1 @@
+f ( x ) - f ( y ) = f \left( \frac { x } { y } \right)

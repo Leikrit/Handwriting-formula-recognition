@@ -1,0 +1,1 @@
+\left( n + \frac { 1 } { n } \right) \text { 的 取 值 范 围 为 }

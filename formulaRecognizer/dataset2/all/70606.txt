@@ -1,0 +1,1 @@
+a _ { n } = 4 n - 4 3 ( 1 \leq s l a n t n \leq s l a n t 2 6 )

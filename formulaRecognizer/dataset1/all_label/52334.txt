@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } + 8 x - 2 0 < 0 \right\}

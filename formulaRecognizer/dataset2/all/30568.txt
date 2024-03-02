@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \mathrm { e } ^ { | x | } } { \cos x } \text { 的 部 分 图 象 大 致 为 }

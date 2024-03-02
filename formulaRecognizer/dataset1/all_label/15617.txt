@@ -1,0 +1,1 @@
+\sin \left( \frac { 3 \pi } { 2 } - B \right) = - \frac { \sqrt { 7 } } { 4 }

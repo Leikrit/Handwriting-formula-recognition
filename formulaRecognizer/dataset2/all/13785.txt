@@ -1,0 +1,1 @@
+\text { 利 用 } S _ { n } - S _ { n - 1 } = a _ { n } ( n \geqslant 2 ) \text { 消 去 } S _ { n }

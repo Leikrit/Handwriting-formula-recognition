@@ -1,0 +1,1 @@
+\overrightarrow { A B } = \boldsymbol { a } + 2 \boldsymbol { b } , \overrightarrow { B C } = - 4 \boldsymbol { a } - \boldsymbol { b } , \overrightarrow { C D } = - 5 \boldsymbol { a } - 3 \boldsymbol { b } \text { , 其 中 } \boldsymbol { a } , \boldsymbol { b } \text { 不 共 线 }

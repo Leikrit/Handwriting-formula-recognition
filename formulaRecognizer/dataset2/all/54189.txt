@@ -1,0 +1,1 @@
+\text { 射 线 } l _ { 1 } \text { 的 极 坐 标 方 程 为 } \theta = \alpha \left( 0 < \alpha < \frac { \pi } { 4 } \right)

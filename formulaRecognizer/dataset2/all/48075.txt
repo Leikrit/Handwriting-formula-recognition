@@ -1,0 +1,1 @@
+\text { 因 此 实 数 } k \text { 的 取 值 范 围 是 } \left( - \infty , - \frac { 1 } { 2 } \right] \cup \left[ \frac { 1 } { 2 } , + \infty \right)

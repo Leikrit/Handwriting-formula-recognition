@@ -1,0 +1,1 @@
+| a - b | = \sqrt { 2 \left( \sin ^ { 2 } \theta - \cos \theta \right) } = \sqrt { \frac { 5 } { 2 } - 2 \left( \cos \theta + \frac { 1 } { 2 } \right) ^ { 2 } }

@@ -1,0 +1,1 @@
+\tan \theta + \frac { 1 } { \tan \theta } = \frac { \sin \theta } { \cos \theta } + \frac { \cos \theta } { \sin \theta } =

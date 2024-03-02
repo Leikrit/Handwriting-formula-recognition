@@ -1,0 +1,1 @@
+\frac { 1 } { 2 } \cdot ( G P + P H ) \cdot O P = \frac { 1 } { 2 } \left( 2 \tan \theta + \frac { 2 } { \tan \theta } \right) \cdot O P = 2 \left( \tan \theta + \frac { 1 } { \tan \theta } \right) \geqslant 4

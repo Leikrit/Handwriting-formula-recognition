@@ -1,0 +1,1 @@
+\text { 当 } \left( a - x _ { 1 } \right) ^ { 2 } + \left( b - y _ { 1 } \right) ^ { 2 } = 1

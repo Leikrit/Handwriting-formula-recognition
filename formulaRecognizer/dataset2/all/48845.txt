@@ -1,0 +1,1 @@
+\text { 其 中 每 个 班 由 } n ( 2 \leq s l a n t n \leq s l a n t 5 0 , n \in \mathbf { N } ) \text { 个 考 生 应 约 采 访 }

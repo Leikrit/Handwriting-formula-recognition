@@ -1,0 +1,1 @@
+x = k \pi \pm \frac { \pi } { 6 }

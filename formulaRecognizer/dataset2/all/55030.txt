@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \left( x ^ { 2 } - 1 0 x + 2 6 \right) \mathrm { e } ^ { x }

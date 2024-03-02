@@ -1,0 +1,1 @@
+f ( - x ) = - \frac { \ln \left( \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } \right) } { x } = - f ( x )

@@ -1,0 +1,1 @@
+\text { 线 } y ^ { 2 } = 2 p x ( p > 0 ) \text { 经 过 } C , F \text { 两 点 }

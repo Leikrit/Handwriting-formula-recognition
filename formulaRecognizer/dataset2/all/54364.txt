@@ -1,0 +1,1 @@
+\left( 2 x - \frac { 1 } { \sqrt [ 3 ] { 4 x } } \right) ^ { 6 } \text { 的 展 开 式 的 中 间 }

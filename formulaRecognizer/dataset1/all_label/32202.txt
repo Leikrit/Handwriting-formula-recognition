@@ -1,0 +1,1 @@
+\text { 求 证 : } \frac { y } { x ^ { 2 } } + \frac { x } { y ^ { 2 } } \geqslant \frac { 4 } { x + y }

@@ -1,0 +1,1 @@
+( a - b ) \perp c , a \perp b

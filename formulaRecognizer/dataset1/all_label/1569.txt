@@ -1,0 +1,1 @@
+( \overrightarrow { O A } + \overrightarrow { O B } ) \cdot \overrightarrow { A B } = ( \overrightarrow { O B } + \overrightarrow { O C } ) \cdot \overrightarrow { B C } =

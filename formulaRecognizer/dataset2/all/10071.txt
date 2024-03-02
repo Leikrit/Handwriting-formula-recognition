@@ -1,0 +1,1 @@
+a \left( x _ { 1 } - x _ { 2 } \right) + b \left( y _ { 1 } - y _ { 2 } \right) = 0

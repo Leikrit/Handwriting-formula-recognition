@@ -1,0 +1,1 @@
+\text { 记 } c _ { m } \text { 为 数 列 } \left\{ b _ { n } \right\} \text { 中 第 } m \text { 个 为 } 0 \text { 的 项 与 第 }

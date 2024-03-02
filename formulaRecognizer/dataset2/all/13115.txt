@@ -1,0 +1,1 @@
+\mathrm { e } ^ { x } \ln x + \frac { 1 } { x } - 1

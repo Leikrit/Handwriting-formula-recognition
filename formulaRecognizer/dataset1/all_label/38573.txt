@@ -1,0 +1,1 @@
+\text { 一 个 以 } m \text { 为 首 项 的 无 穷 数 列 记 作 } \left\{ a _ { n } \right\} \text { , 数 列 } \left\{ a _ { n } \right\} \text { 满 足 的 }

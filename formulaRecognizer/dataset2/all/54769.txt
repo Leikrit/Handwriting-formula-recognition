@@ -1,0 +1,1 @@
+\text { 求 } f ( x ) \text { 在 区 间 } \left[ - \frac { \pi } { 6 } , \frac { \pi } { 2 } \right] \text { 上 的 最 大 值 和 最 小 值 }

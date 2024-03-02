@@ -1,0 +1,1 @@
+U = \{ n \in \mathbf { N } \mid n \leq s l a n t 1 0 \}

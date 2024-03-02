@@ -1,0 +1,1 @@
+f ( x ) = 2 \cos ^ { 2 } \omega _ { 1 } x + \sin \omega _ { 2 } x

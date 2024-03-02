@@ -1,0 +1,1 @@
+\left( \log _ { b } a \right) ^ { 2 } < 1

@@ -1,0 +1,1 @@
+B = \left\{ x \in \mathbf { R } \mid y = x ^ { \frac { 1 } { 2 } } \right\}

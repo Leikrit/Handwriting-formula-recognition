@@ -1,0 +1,1 @@
+\frac { b } { \sin B } + \frac { c } { \sin C } = 4 a ,

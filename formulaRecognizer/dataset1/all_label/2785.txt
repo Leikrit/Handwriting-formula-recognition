@@ -1,0 +1,1 @@
+h ( x ) _ { \min } = h \left( x _ { 0 } \right) = \left( x _ { 0 } - 1 \right) \mathrm { e } ^ { x _ { 0 } } - x _ { 0 } ^ { 2 } \mathrm { e } ^ { x _ { 0 } } \ln x _ { 0 } = - x _ { 0 } ^ { 2 } \mathrm { e } ^ { x _ { 0 } } \left( \ln x _ { 0 } + \frac { 1 } { x _ { 0 } ^ { 2 } } - \frac { 1 } { x _ { 0 } } \right) ,

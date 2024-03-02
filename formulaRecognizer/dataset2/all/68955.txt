@@ -1,0 +1,1 @@
+\text { 已 知 向 量 } \boldsymbol { a } = ( \lambda , 1 )

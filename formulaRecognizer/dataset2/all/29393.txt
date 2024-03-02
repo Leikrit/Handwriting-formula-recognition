@@ -1,0 +1,1 @@
+\text { 把 } y = k x + 2 \text { 代 人 } y = 2 x ^ { 2 } \text { 得 }

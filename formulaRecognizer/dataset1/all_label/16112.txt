@@ -1,0 +1,1 @@
+3 \cos \frac { \pi } { 2 } x = \log _ { 2 } x

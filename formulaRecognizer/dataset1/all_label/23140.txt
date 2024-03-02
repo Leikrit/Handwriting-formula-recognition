@@ -1,0 +1,1 @@
+f ( x ) = \l g \left( 1 0 ^ { x } + 1 \right) + a x

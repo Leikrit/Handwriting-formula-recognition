@@ -1,0 +1,1 @@
+\text { 解 : } \b e c a u s e A = \left\{ x \mid \log _ { 2 } x \leq s l a n t 1 \right\} = \{ x \mid 0 < x \leq s l a n t 2 \}

@@ -1,0 +1,1 @@
+S _ { 6 } = \frac { a _ { 1 } \left( 1 - q ^ { 6 } \right) } { 1 - q } = \frac { 1 6 \times \left( 1 - \frac { 1 } { 6 4 } \right) } { \frac { 3 } { 2 } } = \frac { 2 1 } { 2 }

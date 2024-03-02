@@ -1,0 +1,1 @@
+\text { 则 } H ( X ) \text { 随 着 } n \text { 的 增 大 而 增 大 }

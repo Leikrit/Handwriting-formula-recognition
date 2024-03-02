@@ -1,0 +1,1 @@
+f ( x ) = M \sin ( \omega x + \varphi ) ( \omega > 0 )

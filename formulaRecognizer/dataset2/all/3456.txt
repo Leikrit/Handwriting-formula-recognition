@@ -1,0 +1,1 @@
+\ e x i s t s x \in [ 0 , + \infty ) , \mathrm { e } ^ { x } < x ^ { 2 } - x \text { 的 否 定 为 }

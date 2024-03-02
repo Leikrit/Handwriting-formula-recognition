@@ -1,0 +1,1 @@
+\text { 且 } \frac { \lambda } { x _ { 1 } } + \frac { \lambda } { x _ { 2 } } > a \text { 恒 成 立 }

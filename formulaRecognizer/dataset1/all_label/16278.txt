@@ -1,0 +1,1 @@
+\text { 已 知 } \boldsymbol { e } _ { 1 } , \boldsymbol { e } _ { 2 } \text { 为 单 位 向 量 且 夹 角 为 } \frac { 2 \pi } { 3 } \text { , 设 } a = 3 \boldsymbol { e } _ { 1 } +

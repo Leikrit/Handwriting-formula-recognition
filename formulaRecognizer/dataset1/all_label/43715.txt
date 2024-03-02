@@ -1,0 +1,1 @@
+\sin \langle \boldsymbol { a } , \boldsymbol { b } \rangle

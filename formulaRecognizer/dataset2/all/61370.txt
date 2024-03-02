@@ -1,0 +1,1 @@
+\text { 则 } \frac { | A B | } { \left| N N _ { 1 } \right| } \text { 的 最 小 值 为 } \frac { \sqrt { 6 } + \sqrt { 2 } } { 2 }

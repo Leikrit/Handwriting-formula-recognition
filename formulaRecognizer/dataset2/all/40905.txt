@@ -1,0 +1,1 @@
+( \boldsymbol { a } + \boldsymbol { b } ) \perp ( \boldsymbol { a } - \boldsymbol { b } )

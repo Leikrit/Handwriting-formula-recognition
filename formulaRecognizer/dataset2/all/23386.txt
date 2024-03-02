@@ -1,0 +1,1 @@
+a = \log _ { 2 } \mathrm { e } , b = \ln 2 , c = \log _ { \frac { 1 } { 2 } } \frac { 1 } { 3 }

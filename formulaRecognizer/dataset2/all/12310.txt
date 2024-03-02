@@ -1,0 +1,1 @@
+\text { 其 中 } a , b \in \{ 1 , 2 , \cdots , n \} \text { ( } a \text { 和 } b \text { 可 以 }

@@ -1,0 +1,1 @@
+= \frac { b ^ { 2 } } { \left| y _ { 0 } \right| } \sqrt { \frac { y _ { 0 } ^ { 2 } } { b ^ { 4 } } + \frac { x _ { 0 } ^ { 2 } } { a ^ { 4 } } } \cdot \sqrt { - \frac { a ^ { 2 } } { b ^ { 2 } } y _ { 0 } ^ { 2 } + \frac { 4 a ^ { 2 } } { b ^ { 2 } } y _ { 0 } ^ { 2 } }

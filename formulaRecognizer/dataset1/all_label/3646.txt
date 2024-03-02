@@ -1,0 +1,1 @@
+\frac { 2 } { 2 \left( 1 - \frac { 1 } { 4 a _ { n } } \right) - 1 } - \frac { 2 } { 2 a _ { n } - 1 } = \frac { 4 a _ { n } } { 2 a _ { n } - 1 } - \frac { 2 } { 2 a _ { n } - 1 } = 2

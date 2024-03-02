@@ -1,0 +1,1 @@
+\text { 经 验 公 式 为 } C = I ^ { n } \cdot t

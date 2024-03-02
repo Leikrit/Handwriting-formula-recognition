@@ -1,0 +1,1 @@
+S _ { n } = \frac { a _ { 1 } \left( 1 - q ^ { n } \right) } { 1 - q }

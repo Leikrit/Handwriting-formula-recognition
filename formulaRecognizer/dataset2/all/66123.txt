@@ -1,0 +1,1 @@
+\text { 若 } q \in \left( 0 , \frac { \sqrt { 2 } } { 2 } \right]

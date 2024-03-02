@@ -1,0 +1,1 @@
+S _ { \triangle A B C } = \frac { 1 } { 2 } b c \sin \frac { 2 \pi } { 3 } = \frac { 1 } { 2 } \times 3 \times 6 \times \frac { \sqrt { 3 } } { 2 } = \frac { 9 \sqrt { 3 } } { 2 }

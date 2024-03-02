@@ -1,0 +1,1 @@
+\text { 求 } P ( A \mid B ) \text { 与 } P ( B \mid A )

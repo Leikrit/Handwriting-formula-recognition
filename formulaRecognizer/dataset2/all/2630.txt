@@ -1,0 +1,1 @@
+\text { 证 明 : } \ln ( x + 1 ) \cdot f ( x ) < 1 + \mathrm { e } ^ { - 2 }

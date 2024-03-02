@@ -1,0 +1,1 @@
+\ t h e r e f o r e ( 3 , 2 ) = ( - m + 4 n , 2 m + n )

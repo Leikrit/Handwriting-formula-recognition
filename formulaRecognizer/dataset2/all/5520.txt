@@ -1,0 +1,1 @@
+\text { 若 } \tan \alpha = \frac { 4 } { 3 } \text { , 则 } \tan \frac { \alpha } { 2 } = \frac { 1 } { 2 }

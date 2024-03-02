@@ -1,0 +1,1 @@
+\text { 且 } \overrightarrow { O M } = p \overrightarrow { O B } + q \overrightarrow { O C }

@@ -1,0 +1,1 @@
+f \left( x _ { 1 } \right) + f \left( x _ { 2 } \right) = \sqrt { x _ { 1 } } + \sqrt { x _ { 2 } } - \ln x _ { 1 } - \ln x _ { 2 }

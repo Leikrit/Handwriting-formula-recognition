@@ -1,0 +1,1 @@
+\text { 则 } f ( x ) \text { 在 区 间 } \left[ 0 , \frac { 3 } { 2 } \right] \text { 上 的 最 大 值 }

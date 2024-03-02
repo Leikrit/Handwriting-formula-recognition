@@ -1,0 +1,1 @@
+\text { 求 数 列 } \left\{ a _ { 2 ^ { n } } \left( c _ { 2 ^ { n } } - 1 \right) \right\} \text { 的 通 项 公 式 }

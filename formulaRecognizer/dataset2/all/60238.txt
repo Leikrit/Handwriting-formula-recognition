@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ n b _ { n } \right\} \text { 的 前 } n \text { 项 和 } T _ { n } = 3 ( n - 1 ) \cdot 2 ^ { n - 1 }

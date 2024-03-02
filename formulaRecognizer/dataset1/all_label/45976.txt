@@ -1,0 +1,1 @@
+a _ { i } - b _ { i } \leq s l a n t q - 1

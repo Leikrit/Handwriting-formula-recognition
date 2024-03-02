@@ -1,0 +1,1 @@
+\text { 所 以 当 } t = 4 \text { 时 , } h \text { 取 得 最 大 值 为 } \frac { 2 \sqrt { 6 } } { 3 }

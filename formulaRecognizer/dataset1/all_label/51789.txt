@@ -1,0 +1,1 @@
+F ( x ) = \mathrm { e } ^ { x } - f ( x ) = ( x - 1 ) \ln ( x - 1 ) - 2 x

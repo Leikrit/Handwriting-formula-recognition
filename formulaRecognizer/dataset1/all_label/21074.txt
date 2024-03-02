@@ -1,0 +1,1 @@
+\left( \frac { \ln 3 } { 5 } , \frac { \ln 2 } { 2 } \right)

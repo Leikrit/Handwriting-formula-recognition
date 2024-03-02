@@ -1,0 +1,1 @@
+F \left( x _ { 2 } \right) \mid \leq s l a n t 2 ^ { n - 1 } ( n + 2 ) - n - 1

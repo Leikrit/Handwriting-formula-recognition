@@ -1,0 +1,1 @@
+\text { 前 } 1 0 \text { 行 的 数 共 有 } 1 + 2 + 3 + \cdots \cdots + 1 0 = \frac { 1 0 \times ( 1 + 1 0 ) } { 2 } = 5 5 \text { ( 个 ) }

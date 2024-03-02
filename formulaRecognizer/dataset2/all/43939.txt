@@ -1,0 +1,1 @@
+\sqrt { \left( \sum _ { i = 1 } ^ { 7 } x _ { i } ^ { 2 } - 7 \bar { x } ^ { 2 } \right) \left( \sum _ { i = 1 } ^ { 7 } y _ { i } ^ { 2 } - 7 \bar { y } ^ { 2 } \right) } \approx 3 8 3 0

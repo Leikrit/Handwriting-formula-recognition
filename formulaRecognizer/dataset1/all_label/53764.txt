@@ -1,0 +1,1 @@
+\overrightarrow { A P } \cdot \overrightarrow { A C } = \overrightarrow { A Q } \cdot \overrightarrow { A C }

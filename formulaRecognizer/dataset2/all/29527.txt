@@ -1,0 +1,1 @@
+\text { 若 } \triangle A B C \text { 的 面 积 为 } \frac { a ^ { 2 } + b ^ { 2 } - c ^ { 2 } } { 4 }

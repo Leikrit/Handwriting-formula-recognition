@@ -1,0 +1,1 @@
+\left\{ x \mid \frac { x - 8 } { 3 x - 6 } < 0 \right\} , B = \left\{ x \mid 2 ^ { x - 1 } + 1 \leq s l a n t 1 7 \right\}

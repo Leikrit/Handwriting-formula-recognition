@@ -1,0 +1,1 @@
+a _ { n - k } + a _ { n - k + 1 } + \cdots + a _ { n - 1 } + a _ { n + 1 } + \cdots + a _ { n + k - 1 } + a _ { n + k } = 2 k a _ { n }

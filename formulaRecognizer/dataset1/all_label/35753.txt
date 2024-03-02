@@ -1,0 +1,1 @@
+\frac { 3 \alpha ^ { 3 } + 3 \alpha ^ { 4 } + \alpha ^ { 5 } } { ( 1 + \alpha ) ^ { 2 } } \approx 3 \alpha ^ { 3 }

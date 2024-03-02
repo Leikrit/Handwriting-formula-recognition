@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = 2 \cos ( \omega x + \varphi ) + 1 \left( \omega > 0 , | \varphi | < \frac { \pi } { 2 } \right)

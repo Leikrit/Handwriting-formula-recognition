@@ -1,0 +1,1 @@
+c \cos A + 2 b \cos B - a \cos ( A + B ) = 0

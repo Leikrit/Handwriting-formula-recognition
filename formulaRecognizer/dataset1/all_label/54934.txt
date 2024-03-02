@@ -1,0 +1,1 @@
+( - \infty , - 4 ) \cup ( 4 , + \infty )

@@ -1,0 +1,1 @@
+\boldsymbol { a } = ( 2 , - 1 , 3 ) , \boldsymbol { n } = ( - 1 , 1 , 1 )

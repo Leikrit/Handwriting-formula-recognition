@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \frac { 1 } { 3 } x ^ { 3 } - \frac { 1 } { 2 } x ^ { 2 } - 2 x + b ( b \in \mathbf { R } ) \text { 的 图 像 与 直 线 } y = 4 x \text { 有 三 个 不 同 }

@@ -1,0 +1,1 @@
+\text { 即 } \left| a _ { n } \right| \geqslant 2 ^ { n - 1 } \left( \left| a _ { 1 } \right| - 2 \right) + 2

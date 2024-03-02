@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) - k x \text { 存 在 零 }

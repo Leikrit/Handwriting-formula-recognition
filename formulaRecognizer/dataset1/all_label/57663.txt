@@ -1,0 +1,1 @@
+y = \left| \cot \frac { x } { 2 } \right|

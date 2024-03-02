@@ -1,0 +1,1 @@
+B = \left\{ x \mid x ^ { 2 } - a x = 0 , a \neq 0 \right\}

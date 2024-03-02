@@ -1,0 +1,1 @@
+A = \left\{ x \mid x ^ { 2 } - 4 < 0 \right\} , B = \left\{ x \mid x ^ { 2 } + 2 x - 3 < 0 \right\}

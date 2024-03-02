@@ -1,0 +1,1 @@
+\frac { 1 } { ( 1 - x ) ^ { n } } \leq s l a n t 1

@@ -1,0 +1,1 @@
+\text { 设 } g ( x ) = \frac { \sqrt { x } } { 2 } - \ln x

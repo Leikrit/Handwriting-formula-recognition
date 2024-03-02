@@ -1,0 +1,1 @@
+a \cos B + b \sin A = c , a = \sqrt { 5 }

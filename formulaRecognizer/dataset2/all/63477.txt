@@ -1,0 +1,1 @@
+\text { 有 } w = \overline { z _ { 0 } } \cdot \bar { z } , | w | = 2 | z |

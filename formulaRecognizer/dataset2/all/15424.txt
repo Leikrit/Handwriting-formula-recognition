@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} \text { 满 足 } n ( n + 1 ) a _ { n + 1 } = n ( n - 1 ) a _ { n }

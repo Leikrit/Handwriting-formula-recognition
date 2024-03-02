@@ -1,0 +1,1 @@
+\frac { \left( 5 - \frac { 4 5 } { 7 } \right) ^ { 2 } \times 3 + \left( 6 - \frac { 4 5 } { 7 } \right) ^ { 2 } + \left( 7 - \frac { 4 5 } { 7 } \right) ^ { 2 } + \left( 8 - \frac { 4 5 } { 7 } \right) ^ { 2 } + \left( 9 - \frac { 4 5 } { 7 } \right) ^ { 2 } } { 7 } = \frac { 1 1 0 } { 4 9 }

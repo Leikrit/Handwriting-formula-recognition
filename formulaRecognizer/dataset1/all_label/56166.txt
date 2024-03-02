@@ -1,0 +1,1 @@
+B = \left\{ x \mid x = 2 ^ { n } , n \in \mathbf { N } ^ { * } \right\}

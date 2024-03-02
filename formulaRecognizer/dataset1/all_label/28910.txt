@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 2 m ( m x - 1 ) - \frac { 1 } { 2 \sqrt { x } }

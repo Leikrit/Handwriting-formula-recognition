@@ -1,0 +1,1 @@
+\left| F P _ { 1 } \right| + \left| F P _ { 2 } \right| = \left| F P _ { 3 } \right|

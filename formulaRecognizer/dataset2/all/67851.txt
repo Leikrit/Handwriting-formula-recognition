@@ -1,0 +1,1 @@
+\text { 若 } S _ { n } \geqslant S _ { k } \text { 恒 成 }

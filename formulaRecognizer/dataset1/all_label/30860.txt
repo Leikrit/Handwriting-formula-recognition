@@ -1,0 +1,1 @@
+P _ { n } - P _ { n - 1 } = - \frac { 2 } { 3 } \left( P _ { n - 1 } - P _ { n - 2 } \right) ( n \geqslant 3 )

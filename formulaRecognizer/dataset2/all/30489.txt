@@ -1,0 +1,1 @@
+\text { 对 任 意 的 } x \in \mathbf { R } , 2 ^ { x } \leq s l a n t 0

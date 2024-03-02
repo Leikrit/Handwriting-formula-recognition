@@ -1,0 +1,1 @@
+S = S \cdot x + a

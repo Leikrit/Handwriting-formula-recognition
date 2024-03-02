@@ -1,0 +1,1 @@
+\text { 则 } \sin \alpha = \sin \beta \text { ” 的 逆 否 命 题 为 真 命 题 }

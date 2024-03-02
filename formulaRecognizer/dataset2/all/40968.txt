@@ -1,0 +1,1 @@
+= \frac { \mathrm { C } _ { m + n } ^ { n } } { 1 } \cdot \sum _ { k = n } ^ { m + n } \frac { \mathrm { C } _ { k - 2 } ^ { n - 2 } } { n - 1 }

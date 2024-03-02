@@ -1,0 +1,1 @@
+\text { 为 } A \left( x - x _ { 0 } \right) + B \left( y - y _ { 0 } \right) + C \left( z - z _ { 0 } \right) = 0

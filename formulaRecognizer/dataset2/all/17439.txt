@@ -1,0 +1,1 @@
+\text { 集 合 } \left\{ y \in \mathbf { N } \mid y = - x ^ { 2 } + 6 , x \in \mathbf { N } \right\} \text { 的 真 子 集 的 个 数 }

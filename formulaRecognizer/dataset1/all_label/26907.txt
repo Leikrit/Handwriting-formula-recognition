@@ -1,0 +1,1 @@
+2 ^ { a } \cdot 2 ^ { b } \geqslant 4

@@ -1,0 +1,1 @@
+f ( x ) = \sqrt { 3 } \sin \left( x + \frac { \pi } { 3 } \right) - \sin \left( x - \frac { \pi } { 6 } \right)

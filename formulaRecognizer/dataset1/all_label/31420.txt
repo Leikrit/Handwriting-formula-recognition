@@ -1,0 +1,1 @@
+\text { 若 } 3 ^ { x } - 3 ^ { y } < \left( \frac { 1 } { 4 } \right) ^ { x } - \left( \frac { 1 } { 4 } \right) ^ { y }

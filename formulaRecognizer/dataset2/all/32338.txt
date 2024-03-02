@@ -1,0 +1,1 @@
+\frac { f \left( x _ { n + 1 } \right) } { f \left( x _ { n } \right) } = \frac { \mathrm { e } ^ { a [ ( n + 1 ) \pi - \varphi ] } \sin [ ( n + 1 ) \pi - \varphi ] } { \mathrm { e } ^ { a ( n \pi - \varphi ) } \sin ( n \pi - \varphi ) } = - \mathrm { e } ^ { a \pi }

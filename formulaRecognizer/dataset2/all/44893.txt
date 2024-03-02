@@ -1,0 +1,1 @@
+b = \frac { 1 } { \mathrm { e } } f \left( \frac { 1 } { \mathrm { e } } \right)

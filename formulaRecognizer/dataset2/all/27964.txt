@@ -1,0 +1,1 @@
+\text { 则 } y = \frac { a ^ { c } } { x } \in

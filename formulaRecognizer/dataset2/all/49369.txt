@@ -1,0 +1,1 @@
+\text { 设 函 数 } h ( x ) = \mathrm { e } ^ { g ( x ) } - \sin ( g ( x ) ) - 1

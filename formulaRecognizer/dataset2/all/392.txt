@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) \text { 在 定 义 域 } \left[ - \frac { 3 } { 2 } , 3 \right] \text { 内 可 导 }

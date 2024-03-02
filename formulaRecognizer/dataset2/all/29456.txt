@@ -1,0 +1,1 @@
+\text { 线 } a , b , c \text { 满 足 } : a \subset \alpha , b \subset \beta , c \subset \gamma

@@ -1,0 +1,1 @@
+\text { 由 } f ^ { \prime } ( x ) = 0 \text { 在 } \left( 0 , \frac { 1 } { \mathrm { e } } \right) \text { 上 有 解 }

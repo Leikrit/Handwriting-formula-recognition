@@ -1,0 +1,1 @@
+\overrightarrow { A B _ { 1 } } \cdot \overrightarrow { A B _ { 2 } } = 0 \Leftrightarrow r ^ { 2 } - r \cos ( \theta - \alpha ) - r \cos ( \theta - \beta ) + \cos ( \alpha - \beta ) = 0

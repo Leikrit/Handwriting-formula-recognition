@@ -1,0 +1,1 @@
+\text { 所 以 } S _ { \triangle A O B } = \frac { 1 } { 2 } \cdot \frac { | 2 m | } { \sqrt { 5 } } \cdot \sqrt { 5 } \sqrt { 2 - m ^ { 2 } } = \sqrt { m ^ { 2 } \left( 2 - m ^ { 2 } \right) } \leq s l a n t \sqrt { \left( \frac { m ^ { 2 } + 2 - m ^ { 2 } } { 2 } \right) ^ { 2 } } = 1

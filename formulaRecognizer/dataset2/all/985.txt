@@ -1,0 +1,1 @@
+\text { 若 } a _ { n + 1 } \geqslant t a _ { n } - 1 \text { 恒 成 立 }

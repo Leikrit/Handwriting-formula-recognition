@@ -1,0 +1,1 @@
+\text { “ } x = 2 k \pi + \frac { \pi } { 4 } ( k \in \mathbf { Z } ) \text { ” 是 “ } \tan x = 1 \text { ” 成 立 的 }

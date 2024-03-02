@@ -1,0 +1,1 @@
+\text { 已 知 全 集 } U , A , B , C \text { 为 } U \text { 的 非 空 子 集 }

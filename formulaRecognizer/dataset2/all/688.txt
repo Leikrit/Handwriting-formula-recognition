@@ -1,0 +1,1 @@
+\left( \frac { 1 } { x } + x \right) ^ { 1 2 } \text { 的 展 开 式 中 含 } x ^ { 6 } \text { 项 的 系 数 是 }

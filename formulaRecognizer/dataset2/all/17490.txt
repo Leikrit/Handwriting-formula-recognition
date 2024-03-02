@@ -1,0 +1,1 @@
+\text { 当 } x = \frac { 1 } { 2 } \text { 时 取 得 极 小 值 } g \left( \frac { 1 } { 2 } \right) = - \frac { 5 } { 2 4 }

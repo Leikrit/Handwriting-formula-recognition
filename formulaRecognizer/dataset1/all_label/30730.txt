@@ -1,0 +1,1 @@
+- \cos 6 \theta = - 4 \cos ^ { 3 } 2 \theta + 3 \cos 2 \theta

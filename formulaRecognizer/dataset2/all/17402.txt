@@ -1,0 +1,1 @@
+\sin ( \omega x + \varphi ) \text { 的 部 分 图 像 }

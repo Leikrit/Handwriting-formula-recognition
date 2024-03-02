@@ -1,0 +1,1 @@
+\text { 再 数 出 其 中 满 足 } y _ { i } \leq s l a n t f \left( x _ { i } \right)

@@ -1,0 +1,1 @@
+\left\{ ( a , b ) \mid a ※ b = 1 6 , a \in \mathbf { N } ^ { * } , b \in \mathbf { N } ^ { * } \right.

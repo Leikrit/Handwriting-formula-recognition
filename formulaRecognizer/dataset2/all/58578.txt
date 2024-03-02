@@ -1,0 +1,1 @@
+A = \left\{ x \mid \frac { 2 } { x } \geqslant 1 \right\}

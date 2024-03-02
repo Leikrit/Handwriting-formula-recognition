@@ -1,0 +1,1 @@
+\left| P ^ { \prime } T ^ { \prime } \right| ^ { 2 } = \left| P ^ { \prime } A ^ { \prime } \right| \cdot \left| P ^ { \prime } B ^ { \prime } \right|

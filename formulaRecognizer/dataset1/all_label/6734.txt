@@ -1,0 +1,1 @@
+e = \frac { c } { a } = \sqrt { 1 + \left( \frac { b } { a } \right) ^ { 2 } } \in ( \sqrt { 2 } , \sqrt { 5 } )

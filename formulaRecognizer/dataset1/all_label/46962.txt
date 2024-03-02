@@ -1,0 +1,1 @@
+\mathrm { j } = 1 , 2 , \cdots , \mathrm { k }

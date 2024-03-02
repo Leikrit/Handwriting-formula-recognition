@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \frac { \ln x } { x } - 2 x + a ( a \in \mathbf { R } )

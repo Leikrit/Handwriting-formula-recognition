@@ -1,0 +1,1 @@
+f ( x ) = \ln ( x + 1 ) + \sqrt { x + 1 } + a x + b

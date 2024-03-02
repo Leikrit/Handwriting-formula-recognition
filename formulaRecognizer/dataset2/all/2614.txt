@@ -1,0 +1,1 @@
+\text { 若 直 线 } y = a x + b \text { 为 函 数 } f ( x ) = \ln x \text { 图 象 的 一 条 切 线 }

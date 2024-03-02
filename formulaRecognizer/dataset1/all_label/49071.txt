@@ -1,0 +1,1 @@
+P ( \cos \theta , 2 \sin \theta )

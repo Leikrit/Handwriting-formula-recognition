@@ -1,0 +1,1 @@
+a _ { n + 1 } = \frac { n a _ { n } } { ( n + 1 ) \left( n a _ { n } + 2 \right) }

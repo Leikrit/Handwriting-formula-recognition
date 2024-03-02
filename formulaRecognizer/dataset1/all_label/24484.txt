@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = x \left( a - \mathrm { e } ^ { - x } \right)

@@ -1,0 +1,1 @@
+\text { 若 } | \boldsymbol { a } + 3 \boldsymbol { b } | \geqslant | 2 \boldsymbol { a } + k \boldsymbol { b } | \text { 恒 成 立 }

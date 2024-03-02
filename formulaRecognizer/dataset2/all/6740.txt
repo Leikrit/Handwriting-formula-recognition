@@ -1,0 +1,1 @@
+\text { 在 二 项 式 } \left( \sqrt { x } + \frac { 3 } { x } \right) ^ { n }

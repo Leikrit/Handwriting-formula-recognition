@@ -1,0 +1,1 @@
+\left\{ \frac { 5 } { 5 T _ { n } + 2 } \right\}

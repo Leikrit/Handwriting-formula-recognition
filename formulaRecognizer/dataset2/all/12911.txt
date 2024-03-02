@@ -1,0 +1,1 @@
+\text { 所 以 点 到 直 线 的 距 离 就 是 } d = \frac { \left| A x _ { 0 } + B y _ { 0 } + C \right| } { \sqrt { A ^ { 2 } + B ^ { 2 } } }

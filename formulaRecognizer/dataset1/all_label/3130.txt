@@ -1,0 +1,1 @@
+\sin \left( 3 x - \frac { \pi } { 3 } \right) = \sin ( a x + b )

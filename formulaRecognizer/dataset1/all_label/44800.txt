@@ -1,0 +1,1 @@
+\frac { 2 \pi - \left( - \frac { \pi } { 5 \omega } \right) } { \frac { 2 \pi } { \omega } } = 3 \Rightarrow \omega = \frac { 2 9 } { 1 0 }

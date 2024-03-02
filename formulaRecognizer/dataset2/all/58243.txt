@@ -1,0 +1,1 @@
+2 x + y = 8 ( 2 \leq s l a n t x \leq s l a n t 3 ) \text { 上 的 点 与 原 点 连 线 的 斜 率 的 最 值 }

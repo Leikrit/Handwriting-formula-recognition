@@ -1,0 +1,1 @@
+f ( x ) = a \ln \left( x + \sqrt { 1 + x ^ { 2 } } \right) + \frac { b } { x } + 2

@@ -1,0 +1,1 @@
+2 \pi r = 2 \sqrt { 6 } \times \frac { 2 \sqrt { 3 } \pi } { 3 }

@@ -1,0 +1,1 @@
+\overrightarrow { A C } + \overrightarrow { B D } = \overrightarrow { B C } + \overrightarrow { A D }

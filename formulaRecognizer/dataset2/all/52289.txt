@@ -1,0 +1,1 @@
+\text { 同 理 可 得 } | B F | = \frac { 1 } { 1 - \cos \theta }

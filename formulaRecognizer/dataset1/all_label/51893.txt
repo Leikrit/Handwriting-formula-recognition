@@ -1,0 +1,1 @@
+\frac { a _ { n } + a _ { n + 1 } } { 2 } , n \in \mathbf { N } ^ { + }

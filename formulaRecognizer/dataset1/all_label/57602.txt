@@ -1,0 +1,1 @@
+g ( \alpha + \sin \beta ) = 0

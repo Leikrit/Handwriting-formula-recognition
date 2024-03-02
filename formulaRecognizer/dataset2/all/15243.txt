@@ -1,0 +1,1 @@
+\text { 因 为 } \beta \in \left[ 0 , \frac { \pi } { 2 } \right]

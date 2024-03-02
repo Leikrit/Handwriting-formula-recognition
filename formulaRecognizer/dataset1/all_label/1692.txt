@@ -1,0 +1,1 @@
+U = \{ x \mid x = 2 k , k \in \mathbf { N } , k \leq s l a n t 3 \}

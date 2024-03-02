@@ -1,0 +1,1 @@
+\forall x \in \mathbf { N } , \ln x ( x + 1 ) \geqslant 1

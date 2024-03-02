@@ -1,0 +1,1 @@
+\text { 设 } a = \sin \frac { \pi } { 5 }

@@ -1,0 +1,1 @@
+f ( x ) = 3 \sin x + 2 \sin | x | + | \sin x | ( - 2 0 2 1 \pi \leq s l a n t x \leq s l a n t 2 0 2 1 \pi )

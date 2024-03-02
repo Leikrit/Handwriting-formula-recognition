@@ -1,0 +1,1 @@
+\left\{ x \mid \frac { 1 } { 2 } < x < 2 \right\}

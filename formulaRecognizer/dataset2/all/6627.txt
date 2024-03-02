@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n } \right\} \text { 的 各 项 和 的 最 小 值 为 } 2 ( \sqrt { 2 } - 1 )

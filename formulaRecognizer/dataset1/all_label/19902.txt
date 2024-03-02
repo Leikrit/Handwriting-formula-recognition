@@ -1,0 +1,1 @@
+| C D | + | E D | = | C D | + | F D | \geqslant | C F | ,

@@ -1,0 +1,1 @@
+\frac { \overrightarrow { O C } } { | \overrightarrow { O C } | } = \left( \frac { 2 \sqrt { 5 } } { 5 } , - \frac { \sqrt { 5 } } { 5 } \right)

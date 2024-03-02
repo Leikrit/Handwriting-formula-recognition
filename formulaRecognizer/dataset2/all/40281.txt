@@ -1,0 +1,1 @@
+\overrightarrow { M A } = \lambda \overrightarrow { F _ { 1 } A }

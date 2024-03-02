@@ -1,0 +1,1 @@
+\log _ { a } b \cdot \log _ { b } a = 1

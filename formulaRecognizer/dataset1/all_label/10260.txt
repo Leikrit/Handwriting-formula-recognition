@@ -1,0 +1,1 @@
+\overrightarrow { O F } = \overrightarrow { F B } - 2 \overrightarrow { F A }

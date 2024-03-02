@@ -1,0 +1,1 @@
+N \left( 0 , y _ { 0 } - k x _ { 0 } \right)

@@ -1,0 +1,1 @@
+\text { 点 } \left( S _ { n } , a _ { n + 1 } \right) \text { 在 直 线 } y = x + 1 \text { 上 }

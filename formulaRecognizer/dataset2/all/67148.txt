@@ -1,0 +1,1 @@
+\text { 若 不 存 在 整 数 } x \text { 满 足 不 等 式 } \left( k x - k ^ { 2 } - 4 \right) ( x - 4 ) < 0

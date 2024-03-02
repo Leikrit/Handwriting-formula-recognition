@@ -1,0 +1,1 @@
+\left( y _ { 1 } , y _ { 2 } , \cdots , y _ { m } \right)

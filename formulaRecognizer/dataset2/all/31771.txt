@@ -1,0 +1,1 @@
+\text { 若 } \left( x - \sqrt { \frac { a } { x } } \right) ^ { n } \text { 的 展 开 式 }

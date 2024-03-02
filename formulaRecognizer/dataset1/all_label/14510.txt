@@ -1,0 +1,1 @@
+\overrightarrow { P Q } ^ { 2 } - \overrightarrow { P F } ^ { 2 } = 0

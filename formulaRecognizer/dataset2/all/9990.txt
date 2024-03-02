@@ -1,0 +1,1 @@
+\text { 方 程 } 2 x ^ { 2 } + 9 x - 5 = 0 \text { 在 整 数 集 } \mathbf { Z } \text { 中 有 一 解 }

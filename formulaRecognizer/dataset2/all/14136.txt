@@ -1,0 +1,1 @@
+\text { 曲 线 } C _ { 3 } \text { 的 极 坐 标 方 程 为 } \theta = \frac { \pi } { 6 } ( \rho > 0 )

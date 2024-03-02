@@ -1,0 +1,1 @@
+l \perp m , l \perp n , n \subset \alpha , m \subset \beta

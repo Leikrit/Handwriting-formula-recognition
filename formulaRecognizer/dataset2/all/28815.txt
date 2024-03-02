@@ -1,0 +1,1 @@
+\text { 已 知 锐 角 } \alpha \text { 满 足 } \cos \left( \alpha + \frac { \pi } { 6 } \right) = \frac { 3 } { 5 }

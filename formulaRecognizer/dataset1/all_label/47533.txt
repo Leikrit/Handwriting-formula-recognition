@@ -1,0 +1,1 @@
+\text { 若 直 线 } \frac { x } { a } + \frac { y } { b } = 1 \text { 通 过 点 } M ( \cos \alpha , \sin \alpha )

@@ -1,0 +1,1 @@
+\frac { \sqrt { 5 } } { 8 \ln 2 } > \frac { \sqrt { 2 } } { 4 } \Leftrightarrow \ln 2 < \sqrt { \frac { 5 } { 8 } }

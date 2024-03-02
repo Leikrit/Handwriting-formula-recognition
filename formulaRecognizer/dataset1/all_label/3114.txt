@@ -1,0 +1,1 @@
+b _ { n } = \frac { 2 n + 5 } { ( 2 n + 1 ) ( 2 n + 3 ) } \cdot \frac { 1 } { 2 ^ { n } } = \left( \frac { 2 } { 2 n + 1 } - \frac { 1 } { 2 n + 3 } \right) \cdot \frac { 1 } { 2 ^ { n } }

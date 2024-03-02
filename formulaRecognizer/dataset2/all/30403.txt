@@ -1,0 +1,1 @@
+a \text { 的 取 值 范 围 为 } \left( - \infty , \frac { 1 } { 2 } \right]

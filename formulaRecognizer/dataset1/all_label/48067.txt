@@ -1,0 +1,1 @@
+g ^ { \prime } ( x ) = \frac { 3 \left( 1 - x ^ { 2 } \right) } { x ^ { 4 } }

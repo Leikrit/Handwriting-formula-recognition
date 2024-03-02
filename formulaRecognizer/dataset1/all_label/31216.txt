@@ -1,0 +1,1 @@
+\left( - \infty , - \sqrt { \frac { 2 + k } { 3 } } \right)

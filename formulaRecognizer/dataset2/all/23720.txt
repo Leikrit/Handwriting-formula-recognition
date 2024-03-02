@@ -1,0 +1,1 @@
+\text { 已 知 数 列 } \left\{ a _ { n } \right\} , \left\{ b _ { n } \right\} \text { 的 前 } n \text { 项 和 分 别 为 } S _ { n } , T _ { n } , a _ { n } + b _ { n } = 2 ^ { n - 1 } + 2 n - 1

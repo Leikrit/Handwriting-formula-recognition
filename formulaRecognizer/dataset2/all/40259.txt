@@ -1,0 +1,1 @@
+\text { 已 知 平 面 向 量 } \boldsymbol { a } , \boldsymbol { b } , \boldsymbol { c } ( \boldsymbol { c } \neq \mathbf { 0 } ) \text { 满 足 } | \boldsymbol { a } | = 1

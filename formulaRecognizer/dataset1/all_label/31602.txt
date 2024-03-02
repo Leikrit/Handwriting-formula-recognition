@@ -1,0 +1,1 @@
+f ( x ) = ( x \boldsymbol { a } + \boldsymbol { b } ) \cdot ( x \boldsymbol { b } - \boldsymbol { a } )

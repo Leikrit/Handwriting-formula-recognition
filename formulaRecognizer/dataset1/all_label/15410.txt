@@ -1,0 +1,1 @@
+b = a \cos C + \frac { \sqrt { 3 } } { 3 } c \sin A

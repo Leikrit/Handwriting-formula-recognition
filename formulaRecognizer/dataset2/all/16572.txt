@@ -1,0 +1,1 @@
+\text { 求 证 : } f ^ { \prime } \left( x _ { 0 } \right) \neq 0

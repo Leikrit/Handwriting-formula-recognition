@@ -1,0 +1,1 @@
+a _ { n } = 3 \cdot 2 ^ { n - 1 } , n \in \mathbf { N } ^ { * }

@@ -1,0 +1,1 @@
+a _ { 2 } + a _ { 3 } + \cdots + a _ { n } = 2 ^ { n } - 1 \left( n \in \mathbf { N } ^ { * } \right)

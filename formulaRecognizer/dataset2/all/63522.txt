@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \sqrt { 2 } ( \cos 3 x + \sin 3 x )

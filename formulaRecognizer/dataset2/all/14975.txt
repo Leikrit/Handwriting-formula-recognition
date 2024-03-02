@@ -1,0 +1,1 @@
+x _ { n } < \left| f \left( x _ { n } \right) \right| \text { 恒 }

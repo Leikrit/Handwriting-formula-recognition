@@ -1,0 +1,1 @@
+a \sin A \sin B + b \cos ^ { 2 } A = \sqrt { 2 } a

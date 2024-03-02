@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \frac { 1 } { x } \cdot ( - a x + 1 )

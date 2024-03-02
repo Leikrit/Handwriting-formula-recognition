@@ -1,0 +1,1 @@
+\text { 曲 线 } y = x \mathrm { e } ^ { - 2 x + 1 } \text { 在 } x = 1 \text { 处 的 切 线 与 坐 标 轴 围 成 的 三 角 形 }

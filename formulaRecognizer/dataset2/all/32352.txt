@@ -1,0 +1,1 @@
+\frac { \pi } { 3 } + \frac { 2 \pi } { 3 } < \arctan \frac { 1 } { a } + \frac { 1 } { a } < \frac { \pi } { 2 } + \frac { 3 \pi } { 2 }

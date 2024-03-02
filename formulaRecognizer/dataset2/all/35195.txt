@@ -1,0 +1,1 @@
+\text { 已 知 复 数 } z = \frac { 1 - \mathrm { i } ^ { 5 } } { 1 + \mathrm { i } }

@@ -1,0 +1,1 @@
+\text { 则 集 合 } A \odot B \text { 的 所 有 元 素 之 和 为 }

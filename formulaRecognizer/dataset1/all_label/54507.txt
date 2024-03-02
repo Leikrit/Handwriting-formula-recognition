@@ -1,0 +1,1 @@
+( - 2 \pm r \cos \theta , 1 \pm r \sin \theta ) \text { , 即 } \left( - 2 \pm \sqrt { 2 } , 1 \pm \frac { \sqrt { 2 } } { 2 } \right)

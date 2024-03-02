@@ -1,0 +1,1 @@
+\text { 若 正 实 数 } a , b \text { 满 足 } \frac { 1 } { a } + \frac { 2 } { b } = \sqrt { a b }

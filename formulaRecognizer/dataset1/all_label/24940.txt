@@ -1,0 +1,1 @@
+\left( - \frac { \pi } { 2 } + 2 k \pi , \frac { \pi } { 4 } + 2 k \pi \right) , k \in \mathbf { Z }

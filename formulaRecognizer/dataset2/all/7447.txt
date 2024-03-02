@@ -1,0 +1,1 @@
+\text { 已 知 } X = \{ x \mid f ( x ) \geqslant g ( x )

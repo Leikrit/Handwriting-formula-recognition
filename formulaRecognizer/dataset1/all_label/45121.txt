@@ -1,0 +1,1 @@
+b _ { n } = \frac { 4 + a _ { n } } { 1 - a _ { n } } \left( n \in \mathbf { N } ^ { * } \right)

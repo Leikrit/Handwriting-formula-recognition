@@ -1,0 +1,1 @@
+\Leftrightarrow n \pi - \varphi < \mathrm { e } ^ { a ( n \pi - \varphi ) } \frac { 1 } { \sqrt { 1 + a ^ { 2 } } }

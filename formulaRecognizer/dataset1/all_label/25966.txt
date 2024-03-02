@@ -1,0 +1,1 @@
+\forall x \in \mathbf { Z } , \sin x \not i n \mathbf { Z }

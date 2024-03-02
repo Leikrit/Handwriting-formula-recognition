@@ -1,0 +1,1 @@
+\text { 因 此 } f \left( x _ { n } \right) = a \mathrm { e } ^ { n \pi - \frac { 3 \pi } { 4 } } \cdot \cos \left( n \pi - \frac { 3 \pi } { 4 } \right)

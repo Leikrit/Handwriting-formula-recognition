@@ -1,0 +1,1 @@
+\log _ { 2 } x _ { 0 } \geqslant 1

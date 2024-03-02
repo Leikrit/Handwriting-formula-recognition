@@ -1,0 +1,1 @@
+\cos \left( \frac { \pi } { 3 } - \theta \right) = \frac { \sqrt { 3 } } { 3 }

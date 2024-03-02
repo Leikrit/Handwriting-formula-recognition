@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = a - \sin x ( 0 \leq s l a n t x \leq s l a n t \pi ) , 0 \leq s l a n t \sin x \leq s l a n t 1 ( 0 \leq s l a n t x \leq s l a n t \pi )

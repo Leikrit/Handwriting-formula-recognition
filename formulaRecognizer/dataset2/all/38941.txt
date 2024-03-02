@@ -1,0 +1,1 @@
+\text { 把 } y = g ( x ) \text { 的 图 象 向 左 平 移 } a \text { 个 单 位 得 到 } y = h ( x ) \text { 的 图 象 }

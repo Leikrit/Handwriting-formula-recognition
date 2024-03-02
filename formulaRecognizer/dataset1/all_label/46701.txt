@@ -1,0 +1,1 @@
+f ( x ) \geqslant ( 1 - x ) \mathrm { e } ^ { x } - ( m - 1 ) \ln x + n x + 1

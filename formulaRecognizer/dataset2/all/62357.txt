@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \mathrm { e } ^ { 2 x } - a \ln x

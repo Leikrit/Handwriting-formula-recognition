@@ -1,0 +1,1 @@
+\cos \left( \frac { 3 } { 2 } \pi - \frac { \alpha } { 2 } \right)

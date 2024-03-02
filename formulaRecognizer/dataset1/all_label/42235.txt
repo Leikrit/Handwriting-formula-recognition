@@ -1,0 +1,1 @@
+\lambda \left( S _ { n } + 1 \right) \geqslant 6 a _ { n } + 1 6 ( n - 3 )

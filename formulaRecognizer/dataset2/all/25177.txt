@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = x + \frac { 1 } { x - 2 } ( x > 2 ) \text { 在 } x = a \text { 处 取 最 小 值 }

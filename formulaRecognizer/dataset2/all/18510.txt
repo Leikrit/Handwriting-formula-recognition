@@ -1,0 +1,1 @@
+\text { 在 } \left\{ \mathrm { a } _ { \mathrm { n } } \right\} \text { 中 都 存 在 一 项 } \mathrm { a } _ { \mathrm { m } }

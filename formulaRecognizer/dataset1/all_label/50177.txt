@@ -1,0 +1,1 @@
+T ( \alpha , \beta ) = \{ 0 , 1 , \cdots , n - 1 \}

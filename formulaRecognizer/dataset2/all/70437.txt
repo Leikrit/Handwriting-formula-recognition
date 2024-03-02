@@ -1,0 +1,1 @@
+A \subseteq B \text { 的 必 要 条 件 是 } \o p e r a t o r n a m e { c a r d } ( A ) \leq s l a n t \o p e r a t o r n a m e { c a r d } ( B )

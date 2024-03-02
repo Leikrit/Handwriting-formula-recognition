@@ -1,0 +1,1 @@
+b ^ { 2 } \sin A \cos C + b c \sin B \cos A = 4 \sin B

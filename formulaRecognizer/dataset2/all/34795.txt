@@ -1,0 +1,1 @@
+\text { 若 } \left| A F _ { 1 } \right| - \left| B F _ { 2 } \right| = \frac { \sqrt { 6 } } { 2 }

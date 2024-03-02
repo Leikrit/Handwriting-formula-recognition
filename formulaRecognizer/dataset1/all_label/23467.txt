@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 6 } \left( \lambda _ { i } - \bar { \lambda } \right) ^ { 2 } \approx 2 . 5

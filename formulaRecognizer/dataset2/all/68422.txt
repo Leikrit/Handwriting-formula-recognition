@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } y = f ( x ) \text { 和 } y = g ( x ) \text { 在 区 间 } [ - 2 , 2 ] \text { 上 的 图 }

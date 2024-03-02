@@ -1,0 +1,1 @@
+\bar { z } = \frac { n \bar { x } + m \bar { y } } { m + n } = \frac { n } { m + n } \bar { x } + \frac { m } { m + n } \bar { y }

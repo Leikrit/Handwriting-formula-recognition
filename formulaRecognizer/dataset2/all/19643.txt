@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = ( x - \sqrt { 2 x - 1 } ) \mathrm { e } ^ { - x } \left( x \geqslant \frac { 1 } { 2 } \right)

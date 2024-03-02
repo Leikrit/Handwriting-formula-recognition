@@ -1,0 +1,1 @@
+\text { 于 } x \text { 的 函 数 } y = 2 f ^ { 2 } ( x ) + 2 b f ( x ) + 1 \text { 有 } 8 \text { 个 不 同 的 零 点 }

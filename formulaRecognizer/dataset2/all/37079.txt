@@ -1,0 +1,1 @@
+\text { 因 此 只 能 } \left| a _ { n + 1 } - 2 a _ { n } \right| = 0

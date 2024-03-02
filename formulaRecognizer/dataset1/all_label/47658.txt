@@ -1,0 +1,1 @@
+\sin \left( 2 \alpha + \frac { \pi } { 1 2 } \right)

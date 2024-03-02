@@ -1,0 +1,1 @@
+n \left( a _ { n - 1 } + 2 n - 2 \right)

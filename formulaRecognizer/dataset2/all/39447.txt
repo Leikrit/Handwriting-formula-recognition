@@ -1,0 +1,1 @@
+\text { 所 以 } g \left( x _ { 0 } \right) \cdot g \left( \frac { \pi } { 2 } \right) < 0

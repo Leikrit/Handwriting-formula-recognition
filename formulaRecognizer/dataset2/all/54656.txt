@@ -1,0 +1,1 @@
+t ^ { \prime } ( x ) = \mathrm { e } ^ { x } - 2 a x - 1

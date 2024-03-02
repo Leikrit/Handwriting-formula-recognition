@@ -1,0 +1,1 @@
+y = 4 \sin \left( \frac { \pi } { 8 } x + \frac { \pi } { 4 } \right)

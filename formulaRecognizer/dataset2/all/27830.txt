@@ -1,0 +1,1 @@
+\frac { \o p e r a t o r n a m e { t g } \left( - 1 2 0 ^ { \circ } \right) \cdot \cos \left( - 2 4 0 ^ { \circ } \right) \cdot \cos 4 8 0 ^ { \circ } } { \o p e r a t o r n a m e { t g } \left( - 6 0 ^ { \circ } \right) \cdot \sin \left( - 1 0 5 0 ^ { \circ } \right) }

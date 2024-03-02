@@ -1,0 +1,1 @@
+x \rightarrow y = \frac { 1 } { 3 } , x \in \{ x \mid 0 \leq s l a n t x \leq s l a n t 6 \} , y \in \{ y \mid 0 \leq s l a n t y \leq s l a n t 3 \}

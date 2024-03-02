@@ -1,0 +1,1 @@
+\text { 求 } f ^ { \prime } ( x ) \text { 的 零 点 }

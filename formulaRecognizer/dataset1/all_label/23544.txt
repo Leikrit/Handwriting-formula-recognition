@@ -1,0 +1,1 @@
+2 T _ { n } = 1 \times 2 ^ { 3 } + 2 \times 2 ^ { 4 } + 3 \times 2 ^ { 5 } + \cdots + n \times 2 ^ { n + 2 }

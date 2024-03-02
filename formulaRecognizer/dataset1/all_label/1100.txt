@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n } \right\} \left( a _ { n } \in \mathbf { N } \right)

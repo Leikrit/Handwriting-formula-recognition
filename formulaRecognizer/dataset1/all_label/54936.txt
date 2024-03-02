@@ -1,0 +1,1 @@
+f ^ { \prime } \left( x _ { 0 } \right) = \frac { \sqrt { 3 } \pi } { m } \cos \left( \frac { \pi } { m } x _ { 0 } \right) = 0

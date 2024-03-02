@@ -1,0 +1,1 @@
+f ( x ) = \frac { a } { x } + | \ln x - a | , x \in \left[ 1 , \mathrm { e } ^ { 2 } \right]

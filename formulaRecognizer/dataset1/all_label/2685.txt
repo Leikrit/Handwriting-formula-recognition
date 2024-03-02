@@ -1,0 +1,1 @@
+\int _ { - 2 } ^ { 2 } f ( x ) \mathrm { d } x

@@ -1,0 +1,1 @@
+\text { 设 } \overrightarrow { A B } \text { 与 } \boldsymbol { b } \text { 所 成 夹 角 为 } \beta \in \left[ 0 , \frac { \pi } { 2 } \right]

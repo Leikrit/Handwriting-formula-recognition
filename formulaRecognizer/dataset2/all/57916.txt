@@ -1,0 +1,1 @@
+f \left( x + \frac { \pi } { 8 } \right) \text { 是 奇 函 数 }

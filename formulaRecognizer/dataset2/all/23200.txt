@@ -1,0 +1,1 @@
+\sin \left( 2 A + \frac { \pi } { 6 } \right)

@@ -1,0 +1,1 @@
+\min \{ | \boldsymbol { a } + \boldsymbol { b } | , | \boldsymbol { a } - \boldsymbol { b } | \} \leq s l a n t \min \{ | \boldsymbol { a } | , | \boldsymbol { b } | \}

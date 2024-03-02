@@ -1,0 +1,1 @@
+\forall ( x , y ) \in D

@@ -1,0 +1,1 @@
+\text { 求 } f ( x ) \text { 在 区 间 } \left[ \frac { 1 } { 2 } , + \infty \right) \text { 上 的 取 值 范 围 }

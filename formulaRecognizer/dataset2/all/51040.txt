@@ -1,0 +1,1 @@
+\text { 若 } b _ { n } = \left( a _ { n } - n \right) \cdot n

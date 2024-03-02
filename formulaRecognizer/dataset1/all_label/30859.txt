@@ -1,0 +1,1 @@
+P _ { n } = \frac { 1 } { 3 } P _ { n - 1 } + \frac { 2 } { 3 } P _ { n - 2 } ( n \geqslant 3 )

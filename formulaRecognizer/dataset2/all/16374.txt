@@ -1,0 +1,1 @@
+\text { 设 定 义 在 } ( 0 , + \infty ) \text { 上 的 函 数 } f ( x ) = a x + \frac { 1 } { a x } +

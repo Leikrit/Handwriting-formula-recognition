@@ -1,0 +1,1 @@
+\text { 判 断 和 证 明 } f ( x ) = 2 x + 1 \text { 是 否 是 } [ 0 , + \infty ) \text { 关 联 }

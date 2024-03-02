@@ -1,0 +1,1 @@
+2 x + b ( x \in \mathbf { R } )

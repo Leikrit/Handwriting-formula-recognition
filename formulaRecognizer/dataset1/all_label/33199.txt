@@ -1,0 +1,1 @@
+\l g C = - \frac { k t } { 2 . 3 0 3 } + \l g C _ { 0 } ( t \geqslant 0 )

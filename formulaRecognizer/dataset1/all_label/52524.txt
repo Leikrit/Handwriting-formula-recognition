@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \ln ( x + 1 ) + 1 - k = 0 \Rightarrow x = \mathrm { e } ^ { k - 1 } - 1 > - 1

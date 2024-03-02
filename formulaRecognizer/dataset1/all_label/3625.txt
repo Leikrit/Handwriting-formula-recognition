@@ -1,0 +1,1 @@
+y = x + \frac { 6 } { x } \geqslant 2 \sqrt { 6 }

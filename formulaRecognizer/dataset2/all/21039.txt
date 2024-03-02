@@ -1,0 +1,1 @@
+\text { 求 当 } \sin \theta \text { 取 最 大 值 时 点 }

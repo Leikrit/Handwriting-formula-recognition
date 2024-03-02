@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \sin \omega x + \sqrt { 3 } \cos \omega x ( \omega > 0 )

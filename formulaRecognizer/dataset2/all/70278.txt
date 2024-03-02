@@ -1,0 +1,1 @@
+\text { 若 公 差 } d \in \mathbf { Z }

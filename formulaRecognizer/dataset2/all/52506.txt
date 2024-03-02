@@ -1,0 +1,1 @@
+= \lambda \overrightarrow { M D } \text { ( 其 中 } \lambda > 0 \text { 且 } \lambda \neq 1 \text { ) }

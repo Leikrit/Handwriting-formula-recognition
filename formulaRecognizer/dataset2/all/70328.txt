@@ -1,0 +1,1 @@
+\text { 已 知 正 实 数 } a , b \text { 满 足 } ( a + b \mathrm { i } ) ^ { 2 } = - 7 + 2 4 \mathrm { i }

@@ -1,0 +1,1 @@
+\sin B + \cos B = \sqrt { 2 }

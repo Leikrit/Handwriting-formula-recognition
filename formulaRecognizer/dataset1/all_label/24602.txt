@@ -1,0 +1,1 @@
+f ( x ) = \sin \left( k x + \frac { \pi } { 5 } \right)

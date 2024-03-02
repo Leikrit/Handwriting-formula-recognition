@@ -1,0 +1,1 @@
+k _ { A B } \cdot k _ { O M } = \frac { 1 - \sqrt { 5 } } { 2 }

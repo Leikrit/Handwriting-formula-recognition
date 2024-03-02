@@ -1,0 +1,1 @@
+a _ { 1 } = \left| O P _ { 1 } \right| ^ { 2 } , a _ { 2 } = \left| O P _ { 2 } \right| ^ { 2 }

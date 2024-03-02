@@ -1,0 +1,1 @@
+= \frac { \sin A } { \cos A } \left( \frac { \cos B \sin C + \sin B \cos C } { \sin B \sin C } \right)

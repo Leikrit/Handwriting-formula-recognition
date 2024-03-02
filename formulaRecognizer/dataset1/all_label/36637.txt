@@ -1,0 +1,1 @@
+x \overrightarrow { C D } + y \overrightarrow { C E }

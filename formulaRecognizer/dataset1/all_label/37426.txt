@@ -1,0 +1,1 @@
+\left( \frac { \overrightarrow { A B } } { | \overrightarrow { A B } | } + \frac { \overrightarrow { A C } } { | \overrightarrow { A C } | } \right) \cdot \overrightarrow { B C } = 0

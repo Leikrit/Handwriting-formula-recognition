@@ -1,0 +1,1 @@
+\text { 若 } f ^ { \prime } ( x ) \leq s l a n t x ^ { 2 } \text { 对 任 意 的 } x > 0 \text { 恒 成 立 }

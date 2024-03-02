@@ -1,0 +1,1 @@
+\text { 动 点 } P \text { 到 点 } F \left( \frac { p } { 2 } , 0 \right) \text { 与 到 定 直 线 } x = - \frac { p } { 2 } \text { 的 距 离 之 比 为 等 于 } 1

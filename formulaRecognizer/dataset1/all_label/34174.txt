@@ -1,0 +1,1 @@
+S _ { \triangle D A C } = \frac { 1 } { 2 } \times A C \times D E = \frac { 1 } { 2 } \times 6 \sqrt { 2 } \times 4 = 1 2 \sqrt { 2 } \mathrm { ~ c m } ^ { 2 }

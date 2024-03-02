@@ -1,0 +1,1 @@
+a _ { 1 } = 1 , 2 \sqrt { a _ { n + 1 } a _ { n } } + \sqrt { a _ { n + 1 } } - \sqrt { a _ { n } } = 0 , n \in \mathbf { N } ^ { * }

@@ -1,0 +1,1 @@
+\text { 且 满 足 } \overrightarrow { O F } = \overrightarrow { F B } - 2 \overrightarrow { F A } ( O \text { 为 坐 标 原 点 ) }

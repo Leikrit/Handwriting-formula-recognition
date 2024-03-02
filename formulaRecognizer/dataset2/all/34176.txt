@@ -1,0 +1,1 @@
+x = \frac { k \pi } { 2 } - \frac { \pi } { 1 2 } ( k \in \mathbf { Z } )

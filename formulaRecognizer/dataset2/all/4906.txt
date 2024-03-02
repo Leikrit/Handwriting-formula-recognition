@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \ln x + \frac { a } { x } \text { ( } a \text { 为 常 数 ) 的 图 象 与 直 线 } y = 2 \text { 相 切 }

@@ -1,0 +1,1 @@
+f ( x ) = \frac { 2 ^ { x } } { 2 ^ { x } + a x } \text { 的 图 象 经 过 点 } P \left( p , \frac { 6 } { 5 } \right)

@@ -1,0 +1,1 @@
+\text { 使 得 } | P T | ^ { 2 } = \lambda | P A | \cdot | P B |

@@ -1,0 +1,1 @@
+A = \{ x \mid x = 2 n - 1 , 1 \leq s l a n t n \leq s l a n t 5

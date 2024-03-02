@@ -1,0 +1,1 @@
+\text { 则 } g ^ { \prime } ( x ) = \frac { f ^ { \prime } ( x ) - f ( x ) } { \mathrm { e } ^ { x } }

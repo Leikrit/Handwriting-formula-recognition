@@ -1,0 +1,1 @@
+G \left( \frac { x _ { 1 } } { 3 } , \frac { y _ { 1 } } { 3 } \right)

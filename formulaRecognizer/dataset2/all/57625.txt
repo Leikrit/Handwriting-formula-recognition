@@ -1,0 +1,1 @@
+\text { 则 } \sqrt { 1 - \cos ^ { 2 } \left( \frac { 3 \pi } { 2 } - \frac { \theta } { 2 } \right) } =

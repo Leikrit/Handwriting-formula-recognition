@@ -1,0 +1,1 @@
+\text { 有 } \frac { 2 } { 5 } < \frac { \ln g ( t ) } { \ln t } < \frac { 1 } { 2 }

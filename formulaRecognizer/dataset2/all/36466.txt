@@ -1,0 +1,1 @@
+\lambda \left( S _ { k } - 3 k \right) \geqslant 4 \text { 恒 成 立 }

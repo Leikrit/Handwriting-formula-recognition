@@ -1,0 +1,1 @@
+S _ { \triangle I P F _ { 2 } } = 2 S _ { \triangle I F _ { 1 } F _ { 2 } }

@@ -1,0 +1,1 @@
+\text { 椭 圆 } C : \frac { x ^ { 2 } } { a ^ { 2 } } + \frac { y ^ { 2 } } { b ^ { 2 } } = 1 ( a > b > 0 ) \text { 与 } x \text { 轴 分 别 交 于 } A _ { 1 } , A _ { 2 } \text { 两 点 } \left( \text { 点 } A _ { 1 } \text { 在 点 } A _ { 2 } \text { 的 左 侧 } \right)

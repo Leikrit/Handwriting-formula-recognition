@@ -1,0 +1,1 @@
+\left\{ \frac { 1 } { b _ { n } b _ { n + 1 } } \right\}

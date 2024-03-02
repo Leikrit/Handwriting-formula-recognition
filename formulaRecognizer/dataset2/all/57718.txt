@@ -1,0 +1,1 @@
+4 S = \sqrt { 3 } \left( a ^ { 2 } + b ^ { 2 } - c ^ { 2 } \right)

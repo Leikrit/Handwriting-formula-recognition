@@ -1,0 +1,1 @@
+\text { 所 以 } \Delta = m ^ { 2 } - 8 \left( \frac { m k } { 4 } - \frac { k ^ { 2 } } { 8 } \right) = m ^ { 2 } - 2 m k + k ^ { 2 } = ( m - k ) ^ { 2 } = 0 \text { , 所 以 } m = k

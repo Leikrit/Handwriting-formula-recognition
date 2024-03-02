@@ -1,0 +1,1 @@
+\text { 求 证 : } \o p e r a t o r n a m e { t g } ^ { 2 } \alpha - \o p e r a t o r n a m e { c t g } ^ { 2 } \alpha = - \frac { 2 \sin 4 \alpha } { \sin ^ { 3 } 2 \alpha }

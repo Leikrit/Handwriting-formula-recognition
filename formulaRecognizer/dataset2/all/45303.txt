@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = x ^ { 2 } ( x \leq s l a n t 0 ) \text { 的 反 函 数 是 }

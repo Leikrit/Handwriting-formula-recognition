@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = ( x - a ) ( x - b ) ( x - c ) , a , b , c \in \mathbf { R }

@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = - \left( x ^ { 3 } + 3 x ^ { 2 } + a x + b \right) \mathrm { e } ^ { - x } + \left( 3 x ^ { 2 } + 6 x + a \right) \mathrm { e } ^ { - x }

@@ -1,0 +1,1 @@
+\cos \omega x - 2 \sqrt { 3 } \cos ^ { 2 } \omega x + a + \sqrt { 3 }

@@ -1,0 +1,1 @@
+f ( x ) = \frac { \mathrm { e } ^ { x } - ( 2 a - 1 ) x - 1 } { x }

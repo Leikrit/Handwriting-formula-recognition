@@ -1,0 +1,1 @@
+x + y = \frac { 1 } { \lambda } \in ( 0 , 1 )

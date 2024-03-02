@@ -1,0 +1,1 @@
+\text { 直 线 } x = \frac { \pi } { 3 } \text { 为 函 数 } f ( x ) \text { 图 像 的 一 条 对 称 轴 }

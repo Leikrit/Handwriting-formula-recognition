@@ -1,0 +1,1 @@
+\text { 若 } a = 0 , f ( x ) = \mathrm { e } ^ { x } - 1 - x , f ^ { \prime } ( x ) = \mathrm { e } ^ { x } - 1

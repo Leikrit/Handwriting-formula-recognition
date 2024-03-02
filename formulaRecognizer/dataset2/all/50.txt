@@ -1,0 +1,1 @@
+\text { 设 随 机 变 量 } X \text { 服 从 二 项 分 布 } X \sim B \left( 5 , \frac { 1 } { 2 } \right)

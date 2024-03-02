@@ -1,0 +1,1 @@
+d = \sqrt { \left( x _ { 0 } - a \right) ^ { 2 } + \left( y _ { 0 } - b \right) ^ { 2 } }

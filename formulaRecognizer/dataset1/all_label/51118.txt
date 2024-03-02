@@ -1,0 +1,1 @@
+p : \forall x \in \mathbf { R } , \log _ { 2 } \left( x ^ { 2 } + x + a \right) > 0

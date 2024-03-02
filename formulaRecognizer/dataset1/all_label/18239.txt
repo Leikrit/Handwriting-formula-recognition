@@ -1,0 +1,1 @@
+\ a n g l e B C D = 9 0 ^ { \circ } , \ a n g l e A D B = 9 0 ^ { \circ } , \sin \ a n g l e A B D = \frac { \sqrt { 5 } } { 5 } , B D = 2

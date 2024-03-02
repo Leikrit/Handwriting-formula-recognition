@@ -1,0 +1,1 @@
+\overrightarrow { M N } = ( - 1 , 1 , 0 )

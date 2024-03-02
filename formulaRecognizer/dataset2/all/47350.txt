@@ -1,0 +1,1 @@
+\text { 函 数 } y = \sin x - \sqrt { 3 } \cos x \text { 的 图 像 可 由 函 数 } y =

@@ -1,0 +1,1 @@
+0 < x < \ln \left( b - 1 + \sqrt { b ^ { 2 } - 2 b } \right) \text { 时 单 调 递 减 }

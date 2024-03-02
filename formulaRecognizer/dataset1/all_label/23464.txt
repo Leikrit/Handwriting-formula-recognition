@@ -1,0 +1,1 @@
+\bar { \lambda } \approx 1 . 7 , \sum ^ { 6 } \left( x _ { i } - \bar { x } \right) ^ { 2 } \approx 2 3 . 3

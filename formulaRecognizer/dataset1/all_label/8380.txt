@@ -1,0 +1,1 @@
+C _ { 1 2 } ^ { 1 0 } \times \left( \frac { 3 } { 8 } \right) ^ { 1 0 } \times \left( \frac { 5 } { 8 } \right) ^ { 2 }

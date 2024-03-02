@@ -1,0 +1,1 @@
+\text { 若 } 2 < \mathrm { e } ^ { x } + \mathrm { e } ^ { - x } < 2 b - 2 \text { 也 就 是 } 0 < x < \ln \left( b - 1 + \sqrt { b ^ { 2 } - 2 b } \right)

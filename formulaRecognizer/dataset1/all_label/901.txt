@@ -1,0 +1,1 @@
+p : f ( x ) = \mathrm { e } ^ { x } + \ln x + 2 x ^ { 2 } + m x + 1

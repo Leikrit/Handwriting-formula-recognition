@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) = \left| \mathrm { e } ^ { x } - \frac { 1 } { \mathrm { e } ^ { x } } \right|

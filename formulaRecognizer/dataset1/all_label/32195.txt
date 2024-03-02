@@ -1,0 +1,1 @@
+\left[ - \frac { 3 9 } { 4 } \pi , - \frac { 3 7 } { 4 } \pi \right] \subseteq A

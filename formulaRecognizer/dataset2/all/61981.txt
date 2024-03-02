@@ -1,0 +1,1 @@
+\text { 若 } \overrightarrow { O P _ { 3 } } = \lambda \overrightarrow { O P _ { 1 } } + ( 1 - \lambda ) \overrightarrow { O P _ { 2 } }

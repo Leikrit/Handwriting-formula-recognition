@@ -1,0 +1,1 @@
+\text { 求 使 } f ( x ) = x \text { 成 立 的 } x \text { 的 集 合 }

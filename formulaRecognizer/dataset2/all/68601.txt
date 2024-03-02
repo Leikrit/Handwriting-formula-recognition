@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \log _ { a } ( | x - 2 | - a ) ( a > 0 \text { , 且 } a \neq 1 )

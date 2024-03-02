@@ -1,0 +1,1 @@
+\text { 如 果 } \left( 3 x ^ { 2 } - \frac { 2 } { x ^ { 3 } } \right) ^ { n } \text { 的 展 开 式 中 含 有 非 零 }

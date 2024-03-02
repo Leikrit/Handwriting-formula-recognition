@@ -1,0 +1,1 @@
+a = 1 , m \in \left( \frac { 1 } { 2 } , 1 \right]

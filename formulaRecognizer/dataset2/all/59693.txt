@@ -1,0 +1,1 @@
+\text { 若 实 数 } x , y , m \text { 满 足 } | x - m | < | y - m |

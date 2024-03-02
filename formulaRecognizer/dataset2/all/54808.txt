@@ -1,0 +1,1 @@
+\text { 简 谐 运 动 } f ( x ) = 2 \sin \left( \frac { \pi } { 3 } x + \varphi \right) \left( | \varphi | < \frac { \pi } { 2 } \right)

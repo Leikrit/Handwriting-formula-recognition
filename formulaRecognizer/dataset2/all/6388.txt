@@ -1,0 +1,1 @@
+\text { 原 式 } = \left( 2 ^ { - 3 } \right) ^ { - \frac { 2 } { 3 } } + \log _ { \sqrt { 2 } } ( \sqrt { 2 } ) ^ { - 4 } + ( \sqrt { 3 } ) ^ { 0 } - \frac { ( \l g 5 + \l g 2 ) ( \l g 5 - \l g 2 ) } { \l g 5 + \l g 4 - ( \l g 2 + \l g 4 ) } = 4 - 4 + 1 - \frac { \l g 1 0 \cdot ( \l g 5 - \l g 2 ) } { \l g 5 - \l g 2 } = 0

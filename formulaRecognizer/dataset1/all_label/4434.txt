@@ -1,0 +1,1 @@
+D \left( \frac { x _ { 1 } + \lambda x _ { 2 } } { 1 + \lambda } , \frac { y _ { 1 } + \lambda y _ { 2 } } { 1 + \lambda } \right) = ( 1 , 0 )

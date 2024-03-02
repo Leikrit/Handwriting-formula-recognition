@@ -1,0 +1,1 @@
+f \left( \cos \frac { 2 \pi } { 3 } \right) < f \left( \sin \frac { 2 \pi } { 3 } \right)

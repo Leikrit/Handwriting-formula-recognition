@@ -1,0 +1,1 @@
+\left\{ P _ { n } - P _ { n - 1 } \right\}

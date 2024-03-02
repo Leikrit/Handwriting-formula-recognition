@@ -1,0 +1,1 @@
+\text { 若 } b _ { n } = \frac { 1 } { \sqrt { a _ { n + 1 } } + \sqrt { a _ { n } } } \left( n \in \mathbf { N } ^ { * } \right) \text { , 求 数 列 } \left\{ b _ { n } \right\} \text { 的 前 }

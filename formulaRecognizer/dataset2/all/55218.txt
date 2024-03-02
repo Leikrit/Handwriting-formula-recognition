@@ -1,0 +1,1 @@
+\text { 若 } \sin \theta = \sqrt { 5 } \cos ( 2 \pi - \theta )

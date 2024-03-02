@@ -1,0 +1,1 @@
+\text { 从 而 } f ^ { \prime } ( x ) = - \mathrm { e } ^ { - x } \left[ x ^ { 3 } + ( a - 6 ) x + 4 - 2 a \right]

@@ -1,0 +1,1 @@
+\left| m - f ^ { - 1 } ( x ) \right| + \ln \left( f ^ { \prime } ( x ) \right) < 0

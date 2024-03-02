@@ -1,0 +1,1 @@
+\text { 用 } \min \{ a , b \} \text { 表 示 实 数 } a , b \text { 中 的 较 小 者 }

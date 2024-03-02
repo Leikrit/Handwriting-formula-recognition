@@ -1,0 +1,1 @@
+\left( k , a _ { k } \right) ( k = 1 , 2 , \cdots , n )

@@ -1,0 +1,1 @@
+\text { 已 知 随 机 变 量 } X \sim B \left( n , \frac { 1 } { n } \right)

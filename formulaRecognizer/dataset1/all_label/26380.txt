@@ -1,0 +1,1 @@
+y = e ^ { - 2 x } \sin \left( 5 x + \frac { \pi } { 4 } \right)

@@ -1,0 +1,1 @@
+\sin x + \frac { 4 } { \sin x } \geqslant 4

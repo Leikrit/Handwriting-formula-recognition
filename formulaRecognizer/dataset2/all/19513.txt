@@ -1,0 +1,1 @@
+\left. \frac { T _ { n } } { S _ { n } } \right) \text { , 则 } 2 T _ { n } - 3 S _ { n } =

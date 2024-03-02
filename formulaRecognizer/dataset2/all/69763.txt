@@ -1,0 +1,1 @@
+\text { 已 知 实 数 } a , b \text { 满 足 等 式 } \left( \frac { 1 } { 2 } \right) ^ { a } = \left( \frac { 1 } { 3 } \right) ^ { b }

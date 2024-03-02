@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = \left( 2 x + x ^ { 2 } \right) \mathrm { e } ^ { x }

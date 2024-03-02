@@ -1,0 +1,1 @@
+a _ { n + 1 } = \frac { 2 ^ { n + 1 } a _ { n } } { \left( n + \frac { 1 } { 2 } \right) a _ { n } + 2 ^ { n } }

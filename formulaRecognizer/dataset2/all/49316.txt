@@ -1,0 +1,1 @@
+\text { 即 } \left( \frac { 2 } { a } - a - m \right) \left( \frac { 2 } { a } - a + \frac { 2 } { m } \right) = - 2

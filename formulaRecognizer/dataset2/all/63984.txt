@@ -1,0 +1,1 @@
+\omega = \frac { 9 } { 2 } + 3 k ( k \in \mathbf { N } )

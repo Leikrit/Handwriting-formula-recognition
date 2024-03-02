@@ -1,0 +1,1 @@
+P _ { i } \left( i , b _ { i } \right)

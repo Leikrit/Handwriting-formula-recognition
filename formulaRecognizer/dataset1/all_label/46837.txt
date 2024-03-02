@@ -1,0 +1,1 @@
+f ( x ) = p x - \frac { p } { x } - 2 \ln x

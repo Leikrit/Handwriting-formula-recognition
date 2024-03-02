@@ -1,0 +1,1 @@
+\overrightarrow { M A } = m \overrightarrow { M F } _ { 1 } + n \overrightarrow { M F _ { 2 } }

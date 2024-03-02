@@ -1,0 +1,1 @@
+2 x ) + 2 \sqrt { 3 } \sin \left( \frac { \pi } { 3 } + 2 x \right) \quad ( x \in \mathbf { R } , k \in \mathbf { Z } )

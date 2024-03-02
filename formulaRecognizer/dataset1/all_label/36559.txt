@@ -1,0 +1,1 @@
+b = f \left( \left( \frac { 5 } { 4 } \right) ^ { 0 . 2 } \right)

@@ -1,0 +1,1 @@
+\text { 设 函 数 } g ( x ) = x - \ln x - \frac { 1 } { \mathrm { e } }

@@ -1,0 +1,1 @@
+\text { 求 不 定 积 分 } \int \frac { \mathrm { d x } } { \left( 1 + \mathrm { e } ^ { \mathrm { x } } \right) ^ { 2 } }

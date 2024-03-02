@@ -1,0 +1,1 @@
+c \cos B + b \cos C - 2 a \cos A = 0

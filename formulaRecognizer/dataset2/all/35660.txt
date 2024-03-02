@@ -1,0 +1,1 @@
+\overrightarrow { B D } = \frac { 2 } { 3 } \overrightarrow { B C }

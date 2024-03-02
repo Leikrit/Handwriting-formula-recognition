@@ -1,0 +1,1 @@
+a _ { i } \leq s l a n t i ( i = 1 , 2 , \cdots , n )

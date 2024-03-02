@@ -1,0 +1,1 @@
+f \left( \frac { 1 } { k - 1 } \right) > \frac { k } { k - 1 }

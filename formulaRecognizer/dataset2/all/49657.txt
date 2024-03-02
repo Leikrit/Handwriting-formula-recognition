@@ -1,0 +1,1 @@
+\text { 曲 线 } G \text { 的 方 程 为 } y ^ { 2 } = 2 x ( y \geqslant 0 )

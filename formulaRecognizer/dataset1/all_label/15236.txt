@@ -1,0 +1,1 @@
+y = \frac { a y _ { 0 } } { a + x _ { 0 } } = \frac { a \cdot \frac { b } { a } \sqrt { x _ { 0 } ^ { 2 } - a ^ { 2 } } } { a + x _ { 0 } } = \frac { b \sqrt { x _ { 0 } ^ { 2 } - a ^ { 2 } } } { a + x _ { 0 } }

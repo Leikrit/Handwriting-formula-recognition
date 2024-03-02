@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = 3 + \log _ { 2 } x \text { 的 图 象 与 } g ( x ) \text { 的 图 象 关 }

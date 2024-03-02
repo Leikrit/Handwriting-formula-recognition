@@ -1,0 +1,1 @@
+\cos \beta = \frac { | \overrightarrow { A B } \cdot \boldsymbol { b } | } { | \boldsymbol { b } | \cdot | \overrightarrow { A B } | } = \frac { | ( - \cos \theta , - \sin \theta , 1 ) \cdot ( 1 , 0 , 0 ) | } { | \boldsymbol { b } | | \overrightarrow { A B } | }

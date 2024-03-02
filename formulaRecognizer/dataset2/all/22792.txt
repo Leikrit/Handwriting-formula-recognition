@@ -1,0 +1,1 @@
+\text { 若 集 合 } A , B , C \text { 满 足 } A \cap B = A

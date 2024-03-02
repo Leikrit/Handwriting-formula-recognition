@@ -1,0 +1,1 @@
+2 x ^ { 2 } f ( x ) + x ^ { 3 } f ^ { \prime } ( x ) = \mathrm { e } ^ { x } , f ( 2 ) =

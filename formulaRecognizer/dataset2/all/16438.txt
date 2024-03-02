@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n } \right\} \text { 的 前 } 4 \text { 项 抽 去 其 中 一 项 后 }

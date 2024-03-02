@@ -1,0 +1,1 @@
+\boldsymbol { b } = ( \sin \beta , 4 \cos \beta )

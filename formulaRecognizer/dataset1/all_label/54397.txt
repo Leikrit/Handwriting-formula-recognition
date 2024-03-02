@@ -1,0 +1,1 @@
+\left. \frac { \pi } { 4 } \right] + \left[ \frac { \pi } { 4 } \oplus ( \omega x ) \right] ( \omega > 0 )

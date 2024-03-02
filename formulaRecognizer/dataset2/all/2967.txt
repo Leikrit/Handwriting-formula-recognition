@@ -1,0 +1,1 @@
+\text { 由 于 } g ( x ) \text { 的 最 大 值 为 } \frac { 1 } { \mathrm { e } }

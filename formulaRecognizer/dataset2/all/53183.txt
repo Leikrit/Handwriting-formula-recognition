@@ -1,0 +1,1 @@
+\text { 证 明 数 列 } \left\{ \frac { 1 } { S _ { n } } \right\} \text { 成 等 差 数 列 }

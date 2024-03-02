@@ -1,0 +1,1 @@
+\frac { | A M | } { | B M | } = \frac { | A C | } { | B C | }

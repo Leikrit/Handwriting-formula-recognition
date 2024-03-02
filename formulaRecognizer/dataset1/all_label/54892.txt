@@ -1,0 +1,1 @@
+p \times q \left( p , q \in \mathbf { N } ^ { * } \right)

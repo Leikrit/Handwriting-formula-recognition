@@ -1,0 +1,1 @@
+\mathrm { a } _ { \mathrm { m } + \mathrm { n } } \in \left\{ \mathrm { a } _ { \mathrm { m } } + \mathrm { a } _ { \mathrm { n } } + \mathrm { p } , \mathrm { a } _ { \mathrm { m } } + \mathrm { a } _ { \mathrm { n } } + \mathrm { p } + 1 \right\} \quad ( \mathrm { m } = 1 , 2 , \cdots ; \mathrm { n } = 1 , 2 , \cdots )

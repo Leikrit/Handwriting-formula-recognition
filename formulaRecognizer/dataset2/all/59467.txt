@@ -1,0 +1,1 @@
+\tan \alpha = \tan [ ( \alpha - \beta ) + \beta ] = \frac { \tan ( \alpha - \beta ) + \tan \beta } { 1 - \tan ( \alpha - \beta ) \tan \beta } =

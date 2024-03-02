@@ -1,0 +1,1 @@
+\frac { \left| x _ { 0 } + k y _ { 0 } \right| } { \sqrt { 1 + k ^ { 2 } } } = \frac { \left| \frac { - a ^ { 2 } k } { \sqrt { a ^ { 2 } k ^ { 2 } + b ^ { 2 } } } + \frac { b ^ { 2 } k } { \sqrt { a ^ { 2 } k ^ { 2 } + b ^ { 2 } } } \right| } { \sqrt { 1 + k ^ { 2 } } }

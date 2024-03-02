@@ -1,0 +1,1 @@
+M \left( \frac { x _ { 1 } } { 2 } + \frac { x _ { 2 } } { 2 } , - c \right) = \left( \frac { k } { 2 } , - c \right)

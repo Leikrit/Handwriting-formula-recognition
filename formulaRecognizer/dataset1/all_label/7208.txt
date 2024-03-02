@@ -1,0 +1,1 @@
+h ( \mathrm { e } ) = \frac { 1 } { \mathrm { e } }

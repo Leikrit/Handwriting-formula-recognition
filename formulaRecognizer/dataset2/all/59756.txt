@@ -1,0 +1,1 @@
+\text { 若 } ( x - 1 ) f ( x ) \leq s l a n t 0 \text { 恒 成 立 }

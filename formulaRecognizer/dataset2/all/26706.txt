@@ -1,0 +1,1 @@
+4 S _ { n } = \left( 1 + a _ { n } \right) ^ { 2 } \left( a _ { n } > 0 \right) \text { 这 三 个 条 件 中 任 选 }

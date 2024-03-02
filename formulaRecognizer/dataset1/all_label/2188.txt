@@ -1,0 +1,1 @@
+\overrightarrow { A P } = \lambda \overrightarrow { A B } + \mu \overrightarrow { A C } ( 1 \leq s l a n t \lambda \leq s l a n t 2 , 0 \leq s l a n t \mu \leq s l a n t 1 )

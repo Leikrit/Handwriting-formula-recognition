@@ -1,0 +1,1 @@
+\text { ( 1 ) } \sqrt { 3 } \sin C + \cos C = \frac { b + c } { a }

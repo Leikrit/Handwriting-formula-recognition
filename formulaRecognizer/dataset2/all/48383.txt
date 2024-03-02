@@ -1,0 +1,1 @@
+\cos \left( \alpha - \frac { \beta } { 2 } \right) = \frac { \sqrt { 3 } } { 2 }

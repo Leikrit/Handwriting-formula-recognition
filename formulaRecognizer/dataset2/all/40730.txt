@@ -1,0 +1,1 @@
+\text { 则 } \lim _ { n \rightarrow \infty } \frac { a _ { n } } { b _ { n } } \text { 等 于 }

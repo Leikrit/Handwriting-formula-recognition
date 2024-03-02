@@ -1,0 +1,1 @@
+\text { 因 为 } \frac { | P A | } { | P B | } = \frac { | A F | } { | B F | }

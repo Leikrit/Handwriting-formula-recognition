@@ -1,0 +1,1 @@
+S _ { n } \text { 为 等 差 数 列 } \left\{ a _ { n } \right\}

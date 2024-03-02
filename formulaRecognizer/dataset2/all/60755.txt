@@ -1,0 +1,1 @@
+y = \frac { \sqrt { 2 } } { 2 } ( x - 1 ) \text { 或 } y = - \frac { \sqrt { 2 } } { 2 } ( x - 1 )

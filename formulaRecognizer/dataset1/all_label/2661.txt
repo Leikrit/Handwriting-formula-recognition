@@ -1,0 +1,1 @@
+S _ { \text { 侧 } } = C _ { \text { 底 } } \cdot O O _ { 1 } = 4 \pi \cdot O O _ { 1 } = 8 \sqrt { 3 } \pi

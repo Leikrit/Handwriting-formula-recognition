@@ -1,0 +1,1 @@
+\left\{ \frac { a _ { n } } { a _ { n + 1 } a _ { n + 8 } } \right\} \text { 的 最 大 值 为 }

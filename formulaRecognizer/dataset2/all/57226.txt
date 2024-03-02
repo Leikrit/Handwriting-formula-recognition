@@ -1,0 +1,1 @@
+\cos \ a n g l e A M N = \frac { | M N | } { | M A | }

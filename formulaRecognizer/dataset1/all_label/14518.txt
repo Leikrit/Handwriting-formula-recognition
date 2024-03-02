@@ -1,0 +1,1 @@
+- \frac { \lambda _ { 1 } } { \lambda _ { 2 } } \frac { | \overrightarrow { A F } | } { | \overrightarrow { B F } | } = \frac { | \overrightarrow { A F } | } { | \overrightarrow { B F } | }

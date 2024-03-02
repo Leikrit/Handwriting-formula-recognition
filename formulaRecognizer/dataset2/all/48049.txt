@@ -1,0 +1,1 @@
+\text { 记 } \eta = \left( a x _ { 1 } + b y _ { 1 } + c \right) \left( a x _ { 2 } + b y _ { 2 } + c \right)

@@ -1,0 +1,1 @@
+\text { 当 } \frac { | T F | } { | P Q | } \text { 最 小 时 }

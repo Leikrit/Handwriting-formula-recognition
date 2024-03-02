@@ -1,0 +1,1 @@
+\text { 等 号 同 时 取 得 的 条 件 为 } a = \frac { 1 } { \sqrt { \mathrm { e } ^ { 2 } - 1 } } \text { 且 } a \left( n \pi - \arctan \frac { 1 } { a } \right) = 1

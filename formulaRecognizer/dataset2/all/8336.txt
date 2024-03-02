@@ -1,0 +1,1 @@
+\text { 得 } T _ { n } - \lambda a _ { n + 1 } \geqslant 0 \text { 成 立 }

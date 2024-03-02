@@ -1,0 +1,1 @@
+\text { 则 } \left| 4 ^ { x } - 1 \right| \rightarrow 1

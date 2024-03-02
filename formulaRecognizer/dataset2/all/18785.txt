@@ -1,0 +1,1 @@
+\text { 集 合 } A = \{ x \mid 0 \leq s l a n t x < 3 \text { 且 } x \in \mathbf { N } \} \text { 的 真 子 集 的 个 }

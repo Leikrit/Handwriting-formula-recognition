@@ -1,0 +1,1 @@
+\{ a \mid a \geqslant 2 \}

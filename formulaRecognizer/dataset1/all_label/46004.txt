@@ -1,0 +1,1 @@
+\ e x i s t s x \in \mathbf { R } , \frac { 1 } { 2 } a x ^ { 2 } - b x \geqslant \frac { 1 } { 2 } a x _ { 0 } ^ { 2 } - b x _ { 0 }

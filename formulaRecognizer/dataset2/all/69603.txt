@@ -1,0 +1,1 @@
+\text { 若 } f ( x ) \leq s l a n t | x - 4 | \text { 的 解 集 包 含 } [ 1 , 2 ]

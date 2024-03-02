@@ -1,0 +1,1 @@
+\Phi \left( \frac { 1 - \mu } { \sigma } \right)

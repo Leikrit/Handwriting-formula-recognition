@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n } \right\} \text { 和 } \left\{ b _ { n } \right\}

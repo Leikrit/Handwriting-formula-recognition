@@ -1,0 +1,1 @@
+\boldsymbol { n } = 3 \boldsymbol { a } + k \boldsymbol { b }

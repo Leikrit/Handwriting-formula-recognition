@@ -1,0 +1,1 @@
+F ( x ) = ( 1 + x ) \mathrm { e } ^ { - 2 x } - a x - \frac { x ^ { 3 } } { 2 } - 1 - 2 x \cos x ( 0 \leq s l a n t x \leq s l a n t 1 )

@@ -1,0 +1,1 @@
+d = \frac { | \cos \theta - m \sin \theta - 2 | } { \sqrt { 1 ^ { 2 } + m ^ { 2 } } } = \frac { \left| \sqrt { m ^ { 2 } + 1 } \sin ( \alpha - \theta ) - 2 \right| } { \sqrt { m ^ { 2 } + 1 } }

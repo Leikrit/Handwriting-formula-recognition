@@ -1,0 +1,1 @@
+\text { 则 } h ^ { \prime } ( x ) = f ^ { \prime } ( x ) - g ^ { \prime } ( x ) = f ^ { \prime } ( x ) - f ^ { \prime } \left( x _ { 0 } \right)

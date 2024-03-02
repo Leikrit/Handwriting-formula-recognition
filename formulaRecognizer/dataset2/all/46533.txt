@@ -1,0 +1,1 @@
+( \boldsymbol { \beta } - \boldsymbol { \gamma } ) \text { , 若 } | \boldsymbol { \beta } | = \frac { \sqrt { 1 7 } } { 2 } , | \boldsymbol { \gamma } |

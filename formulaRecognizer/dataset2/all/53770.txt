@@ -1,0 +1,1 @@
+\text { 函 数 } y = \ln \left( x ^ { 2 } + a x + 1 \right) \text { 的 值 域 是 } \mathbf { R }

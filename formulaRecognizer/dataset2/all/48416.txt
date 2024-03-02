@@ -1,0 +1,1 @@
+\text { 点 } N \left( 2 + 2 m ^ { 2 } , - 2 m \right) \text { , 同 理 可 得 } M \left( 2 + \frac { 2 } { m ^ { 2 } } , \frac { 2 } { m } \right)

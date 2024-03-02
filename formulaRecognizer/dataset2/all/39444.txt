@@ -1,0 +1,1 @@
+\text { 所 以 } h ( x ) _ { \text { m i n } } = h ( \ln 2 ) = 2 - 2 \ln 2 > 0

@@ -1,0 +1,1 @@
+\text { 则 } a + b \geqslant 2 \sqrt { a b }

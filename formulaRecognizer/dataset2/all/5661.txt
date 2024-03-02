@@ -1,0 +1,1 @@
+\text { 且 } f ^ { \prime } ( x ) = f ^ { \prime } ( - 2 - x )

@@ -1,0 +1,1 @@
+\text { 而 经 过 } P \left( \frac { 1 } { 2 } , \frac { 1 } { 2 } \right) \text { 的 直 线 只 有 } x + y - 1 = 0 \text { 过 } C ( 1 , 0 )

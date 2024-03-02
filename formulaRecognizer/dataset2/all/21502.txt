@@ -1,0 +1,1 @@
+\text { 若 } a x ^ { 2 } + b y ^ { 2 } + c x y + 2 a x - 4 b y + a ^ { 3 } = 0 \text { 表 示 面 积 为 } \pi \text { 的 圆 的 方 程 }

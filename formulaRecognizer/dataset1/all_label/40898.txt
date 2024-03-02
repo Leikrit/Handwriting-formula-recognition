@@ -1,0 +1,1 @@
+A = \left\{ x \mid y = \sqrt { 1 6 - x ^ { 2 } } \right\}

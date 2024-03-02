@@ -1,0 +1,1 @@
+\mathrm { e } ^ { \frac { 2 } { \mathrm { e } } } \text { 或 } \mathrm { e } ^ { - \frac { 2 } { \mathrm { e } } }

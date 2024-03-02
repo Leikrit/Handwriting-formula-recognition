@@ -1,0 +1,1 @@
+\lambda _ { 1 } + \lambda _ { 2 } = - 2 - \frac { 2 } { m } \left( \frac { 1 } { y _ { 1 } } + \frac { 1 } { y _ { 2 } } \right) = - 2 - \frac { 2 } { m } \frac { y _ { 1 } + y _ { 2 } } { y _ { 1 } y _ { 2 } } = - 2 - \frac { 2 } { m } \frac { 4 m } { - 4 } = 0

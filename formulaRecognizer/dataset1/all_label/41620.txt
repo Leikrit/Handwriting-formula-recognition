@@ -1,0 +1,1 @@
+3 ^ { \mathrm { e } } < \mathrm { e } ^ { 3 } < \pi ^ { \mathrm { e } } < \mathrm { e } ^ { \pi } < \pi ^ { 3 } < 3 ^ { \pi }

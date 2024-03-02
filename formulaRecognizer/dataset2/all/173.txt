@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \cos x \sin \left( x + \frac { \pi } { 3 } \right) - \sqrt { 3 } \cos ^ { 2 } x +

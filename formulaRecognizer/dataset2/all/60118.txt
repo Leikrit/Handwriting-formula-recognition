@@ -1,0 +1,1 @@
+x - \left( \frac { 3 \sqrt { 6 } } { 2 } - 1 \right) y - \sqrt { 3 } = 0 \text { 或 } x + \left( \frac { \sqrt { 6 } } { 2 } - 1 \right) y - \sqrt { 3 } = 0

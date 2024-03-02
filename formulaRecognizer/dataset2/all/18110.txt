@@ -1,0 +1,1 @@
+\text { 计 算 数 列 } \left\{ 2 ^ { n } - 1 \right\} \text { 的 前 } 1 0 \text { 项 和 }

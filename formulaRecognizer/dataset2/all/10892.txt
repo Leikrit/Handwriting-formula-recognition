@@ -1,0 +1,1 @@
+m ^ { 2 } + n ^ { 2 } \geqslant 2 m n \geqslant 2 m n \cos \theta

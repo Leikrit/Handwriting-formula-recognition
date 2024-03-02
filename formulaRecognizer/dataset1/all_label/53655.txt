@@ -1,0 +1,1 @@
+f ^ { \prime } ( x ) = 0 \Rightarrow x _ { 1 } = \arcsin a , x _ { 2 } = \pi - \arcsin a ,

@@ -1,0 +1,1 @@
+\text { 因 为 } f ( - x ) - f ( x ) = \frac { ( - x ) ^ { 4 } } { \left| 4 ^ { - x } - 1 \right| } - \frac { x ^ { 4 } } { \left| 4 ^ { x } - 1 \right| } = \frac { x ^ { 4 } 4 ^ { x } } { \left| 1 - 4 ^ { x } \right| } - \frac { x ^ { 4 } } { \left| 4 ^ { x } - 1 \right| } = \frac { x ^ { 4 } \left( 4 ^ { x } - 1 \right) } { \left| 4 ^ { x } - 1 \right| }

@@ -1,0 +1,1 @@
+4 \mathrm { ~ S } _ { 3 } = 3 \mathrm { ~ S } _ { 2 } + \mathrm { S } _ { 4 } , a _ { 5 } = 5

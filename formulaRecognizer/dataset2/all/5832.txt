@@ -1,0 +1,1 @@
+\boldsymbol { a } \odot \boldsymbol { b } = \boldsymbol { b } \odot \boldsymbol { a }

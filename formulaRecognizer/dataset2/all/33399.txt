@@ -1,0 +1,1 @@
+\left. \left( 2 - x _ { 1 } \right) \mathrm { e } ^ { x _ { 1 } } \right] < 0 \text { 及 ( 1 ) 的 证 明 过 程 }

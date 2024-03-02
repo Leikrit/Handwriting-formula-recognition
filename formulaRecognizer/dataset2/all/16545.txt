@@ -1,0 +1,1 @@
+\text { 函 数 } g ( x ) \text { 在 } \left[ - \frac { \pi } { 6 } , \frac { \pi } { 3 } \right] \text { 上 的 值 域 是 } \left[ - \frac { \sqrt { 3 } } { 2 } , \frac { \sqrt { 3 } } { 2 } \right]

@@ -1,0 +1,1 @@
+f \left( 2 \cos \frac { 2 \pi } { 3 } \right)

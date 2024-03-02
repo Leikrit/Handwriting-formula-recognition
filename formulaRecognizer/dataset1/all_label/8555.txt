@@ -1,0 +1,1 @@
+\lim _ { n \rightarrow \infty } \left( \frac { n } { n + 2 } \right) ^ { n }

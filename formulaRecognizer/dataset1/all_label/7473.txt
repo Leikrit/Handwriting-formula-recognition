@@ -1,0 +1,1 @@
+a = 2 , \quad c = 1 , \quad b = \sqrt { 3 }

@@ -1,0 +1,1 @@
+\text { 则 } F ^ { \prime } ( x ) = 2 k \mathrm { e } ^ { x } ( x + 2 ) - 2 x - 4 = 2 ( x + 2 ) \left( k \mathrm { e } ^ { x } - 1 \right)

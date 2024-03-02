@@ -1,0 +1,1 @@
+x \in \left[ \frac { 3 } { 2 } , + \infty \right)

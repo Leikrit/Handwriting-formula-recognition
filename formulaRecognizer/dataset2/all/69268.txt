@@ -1,0 +1,1 @@
+\frac { 2 } { \sin \theta } = \frac { A B } { \sin \left( 1 0 5 ^ { \circ } - \theta \right) }

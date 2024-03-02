@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ b _ { n } \right\} \text { 满 足 } b _ { n } = \left( 3 ^ { n } - 1 \right) \frac { n } { 2 ^ { n } } \cdot a _ { n }

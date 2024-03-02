@@ -1,0 +1,1 @@
+\text { 对 } \forall x _ { 1 } \in \left[ \frac { 1 } { 2 } , 2 \right]

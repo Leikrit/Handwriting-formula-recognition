@@ -1,0 +1,1 @@
+\ a n g l e B F _ { 2 } P = \lambda _ { 2 } \ a n g l e B P F _ { 2 }

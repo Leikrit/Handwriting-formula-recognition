@@ -1,0 +1,1 @@
+\cos \theta - \cos \varphi = - 2 \sin \frac { \theta + \varphi } { 2 } \sin \frac { \theta - \varphi } { 2 }

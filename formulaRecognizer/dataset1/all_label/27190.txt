@@ -1,0 +1,1 @@
+a ^ { 2 } - a , b ^ { 2 } - b \in \left[ - \frac { 1 } { 4 } , 6 \right] \subseteq [ - 6 , 6 ]

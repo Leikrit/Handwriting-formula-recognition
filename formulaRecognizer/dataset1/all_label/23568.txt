@@ -1,0 +1,1 @@
+x = x _ { 2 } \left( x _ { 1 } \neq x _ { 2 } \right)

@@ -1,0 +1,1 @@
+\mathrm { A } _ { n } ^ { 3 } = 6 \mathrm { C } _ { n } ^ { 2 }

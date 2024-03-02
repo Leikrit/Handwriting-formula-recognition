@@ -1,0 +1,1 @@
+\text { 证 明 : } - 1 0 \leq s l a n t f \left( x _ { 2 } \right) \leq s l a n t - \frac { 1 } { 2 }

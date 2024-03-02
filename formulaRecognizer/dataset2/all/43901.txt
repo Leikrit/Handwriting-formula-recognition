@@ -1,0 +1,1 @@
+\sum _ { i = 1 } ^ { 5 } \left( u _ { i } - \bar { u } \right) ^ { 2 } = 1 . 6 4 \text { , 其 中 } u _ { i } = \ln x _ { i } , v _ { i } = \ln y _ { i } , \bar { u } = \frac { 1 } { 5 } \sum _ { i = 1 } ^ { 5 } u _ { i } \text { , }

@@ -1,0 +1,1 @@
+\sin \alpha - \cos \alpha = \frac { \sqrt { 3 } } { 3 }

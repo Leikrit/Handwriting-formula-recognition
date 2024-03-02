@@ -1,0 +1,1 @@
+| \boldsymbol { a } + \boldsymbol { b } - 2 \boldsymbol { c } | = 2 \left| \frac { \boldsymbol { a } + \boldsymbol { b } } { 2 } - \boldsymbol { c } \right| = 2 | \overrightarrow { M C } | \leq s l a n t \sqrt { 2 } ,

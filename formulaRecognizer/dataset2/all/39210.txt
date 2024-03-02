@@ -1,0 +1,1 @@
+\text { 用 计 算 机 求 } n \text { 个 不 同 的 数 } v _ { 1 } , v _ { 2 } , \cdots , v _ { n } \text { 的 和 } \sum _ { i = 1 } ^ { n } v _ { i } =

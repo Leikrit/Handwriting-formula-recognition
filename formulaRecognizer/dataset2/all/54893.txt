@@ -1,0 +1,1 @@
+\text { 若 平 面 } \alpha , \beta \text { 的 法 向 量 分 别 为 } \boldsymbol { u } = ( 4 , 0 , 3 )

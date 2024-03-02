@@ -1,0 +1,1 @@
+\text { 有 } 2 f ( x ) - 3 f ( - x ) = 5 \sin 2 x + \cos 2 x

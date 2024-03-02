@@ -1,0 +1,1 @@
+f ( x ) \geqslant a x ^ { 2 } \text { 恒 成 立 }

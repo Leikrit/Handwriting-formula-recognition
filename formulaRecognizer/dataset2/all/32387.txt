@@ -1,0 +1,1 @@
+y = \frac { | a + \sqrt { 2 } b | } { \sqrt { a ^ { 2 } + b ^ { 2 } } }

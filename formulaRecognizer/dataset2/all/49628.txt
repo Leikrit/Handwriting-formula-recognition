@@ -1,0 +1,1 @@
+\text { 若 } \left( \sqrt { x } + \frac { 2 } { x ^ { 2 } } \right) ^ { n } \text { 展 开 式 中 只 有 第 六 项 的 二 项 式 系 数 最 大 }

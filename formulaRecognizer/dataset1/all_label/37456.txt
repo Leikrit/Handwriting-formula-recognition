@@ -1,0 +1,1 @@
+A - B = \{ x \mid x \in A \text { , 且 } x \not i n B \}

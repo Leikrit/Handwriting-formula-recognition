@@ -1,0 +1,1 @@
+\text { 已 知 常 数 } a > 0 \text { , 向 量 } c = ( 0 , a ) , \boldsymbol { i } = ( 1 , 0 )

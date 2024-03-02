@@ -1,0 +1,1 @@
+\text { 即 } \forall x \in ( 0 , 1 ) , g ( x ) < 0

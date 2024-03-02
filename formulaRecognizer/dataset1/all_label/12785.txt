@@ -1,0 +1,1 @@
+g ( x ) = f ( | x | ) - 2 f \left( m ^ { 2 } - m \right)

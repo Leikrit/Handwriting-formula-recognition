@@ -1,0 +1,1 @@
+\text { 若 函 数 } y = \log _ { a } x ( a > 0 \text { , 且 } a \neq 1 ) \text { 的 }

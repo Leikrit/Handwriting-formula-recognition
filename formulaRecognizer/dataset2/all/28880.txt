@@ -1,0 +1,1 @@
+y = \mathrm { e } ^ { \sin 2 x } \quad ( x \in \mathbf { R } )

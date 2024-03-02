@@ -1,0 +1,1 @@
+\Delta = m ^ { 2 } - 8 \left( \frac { m ^ { 2 } } { 4 } - 1 \right) = - m ^ { 2 } + 8 > 0

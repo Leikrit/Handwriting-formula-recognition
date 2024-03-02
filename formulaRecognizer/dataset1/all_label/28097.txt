@@ -1,0 +1,1 @@
+\xi \sim N \left( 1 , \sigma ^ { 2 } \right)

@@ -1,0 +1,1 @@
+f ^ { - 1 } ( x ) \geqslant 2 x - 1

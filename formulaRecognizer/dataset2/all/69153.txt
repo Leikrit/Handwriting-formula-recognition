@@ -1,0 +1,1 @@
+\text { 设 函 数 } f ( x ) = \ln | 2 x + 1 | - \ln \mid 2 x -

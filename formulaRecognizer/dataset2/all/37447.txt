@@ -1,0 +1,1 @@
+\text { 数 列 } \left\{ a _ { n } \right\} \text { 前 } 7 \text { 项 的 和 为 }

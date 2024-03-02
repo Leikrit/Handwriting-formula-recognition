@@ -1,0 +1,1 @@
+\text { 函 数 } y = f ( x ) \text { 和 } y = \left| x ^ { 2 } - 2 x - 3 \right| \text { 都 关 于 直 线 } x = 1 \text { 对 }

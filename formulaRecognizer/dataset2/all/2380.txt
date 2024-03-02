@@ -1,0 +1,1 @@
+f ( x ) = \left| \ln \frac { x } { 2 - x } \right|

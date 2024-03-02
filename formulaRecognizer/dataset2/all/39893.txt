@@ -1,0 +1,1 @@
+\text { 若 函 数 } f ( x ) = \sin ( x + \varphi ) + \cos x

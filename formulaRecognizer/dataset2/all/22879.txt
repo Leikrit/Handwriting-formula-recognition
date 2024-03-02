@@ -1,0 +1,1 @@
+\text { 已 知 } \left( x + \frac { 1 } { x } - 2 \right) ^ { 5 }

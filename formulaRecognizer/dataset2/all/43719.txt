@@ -1,0 +1,1 @@
+= \left( \frac { 1 } { 2 ^ { 1 } + 1 } + \frac { 1 } { 2 ^ { 2 } + 1 } \right) - \left( \frac { 1 } { 2 ^ { 2 } + 1 } + \frac { 1 } { 2 ^ { 3 } + 1 } \right) + \ldots + ( - 1 ) ^ { n - 1 } \left( \frac { 1 } { 2 ^ { n } + 1 } + \frac { 1 } { 2 ^ { n + 1 } + 1 } \right)

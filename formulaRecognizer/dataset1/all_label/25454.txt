@@ -1,0 +1,1 @@
+c _ { n } = \sqrt { \frac { a _ { n } } { T _ { n } } }

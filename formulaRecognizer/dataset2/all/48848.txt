@@ -1,0 +1,1 @@
+\text { 求 当 } X \text { 的 数 学 期 望 } E ( X ) \text { 取 最 大 值 时 正 整 数 } n \text { 值 }

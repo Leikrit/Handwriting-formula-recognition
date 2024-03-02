@@ -1,0 +1,1 @@
+\text { 已 知 函 数 } f ( x ) = \log _ { a } \left( x ^ { 2 } - 2 a x + 8 \right) \text { 在 区 间 } [ 1 , 2 ] \text { 上 是 }

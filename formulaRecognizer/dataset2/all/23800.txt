@@ -1,0 +1,1 @@
+\text { 即 } \frac { \sqrt { 3 } } { \sqrt { m } } \geqslant \sqrt { 3 }

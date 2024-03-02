@@ -1,0 +1,1 @@
+| \overrightarrow { P A } + 3 \overrightarrow { P B } | \text { 的 最 小 值 为 }

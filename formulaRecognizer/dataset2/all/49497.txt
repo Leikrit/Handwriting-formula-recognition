@@ -1,0 +1,1 @@
+\left( \frac { a } { c } \right) ^ { 2 } + \left( \frac { b } { c } \right) ^ { 2 } = 1

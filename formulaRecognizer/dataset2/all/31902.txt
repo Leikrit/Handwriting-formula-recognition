@@ -1,0 +1,1 @@
+c _ { n } = \frac { 2 \left( a _ { n } + 3 \right) } { a _ { n } a _ { n + 1 } b _ { n + 1 } } \text { 这 三 个 条 件 中 任 选 一 个 }

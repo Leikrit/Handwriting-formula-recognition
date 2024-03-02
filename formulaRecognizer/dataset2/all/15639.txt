@@ -1,0 +1,1 @@
+\text { 证 明 : 存 在 } d \in \mathbf { R }

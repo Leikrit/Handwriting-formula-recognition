@@ -1,0 +1,1 @@
+\text { 则 满 足 } x f ( x - 1 ) \geqslant 0 \text { 的 } x \text { 的 }

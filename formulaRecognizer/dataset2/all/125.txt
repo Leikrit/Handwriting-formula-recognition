@@ -1,0 +1,1 @@
+\frac { 2 b _ { n } } { b _ { n } S _ { n } - S _ { n } ^ { 2 } } = 1 ( n \geqslant 2 )

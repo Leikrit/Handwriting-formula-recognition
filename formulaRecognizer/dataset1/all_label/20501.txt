@@ -1,0 +1,1 @@
+f ( x ) = \log _ { a } \left( 1 - a ^ { x } \right)

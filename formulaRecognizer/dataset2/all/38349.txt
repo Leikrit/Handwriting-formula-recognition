@@ -1,0 +1,1 @@
+\text { 若 } \alpha \cap \beta = l , \beta \cap \gamma = m , \gamma \cap \alpha = n , l / / \gamma

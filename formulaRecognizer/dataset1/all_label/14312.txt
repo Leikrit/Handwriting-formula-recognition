@@ -1,0 +1,1 @@
+\left( 2 x + \frac { 1 } { x } \right) ^ { 4 }

@@ -1,0 +1,1 @@
+S _ { 3 } = 3 6 \text { , 数 列 } \left\{ a _ { n } + 1 \right\} \text { 是 首 项 为 } 3 \text { 的 等 比 数 列 }

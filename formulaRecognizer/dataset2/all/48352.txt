@@ -1,0 +1,1 @@
+\text { 若 满 足 关 系 式 } ( \overrightarrow { O B } - \overrightarrow { O C } ) \cdot ( \overrightarrow { O B } + \overrightarrow { O C } - 2 \overrightarrow { O A } ) =

@@ -1,0 +1,1 @@
+a > 0 \Rightarrow - a < a ^ { 3 } - a

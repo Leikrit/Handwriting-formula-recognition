@@ -1,0 +1,1 @@
+\frac { \sqrt { \cos \frac { \pi } { 4 } \sin \left( \frac { 3 } { 4 } \pi - \theta \right) \left[ \sin ( \pi - \theta ) - \sin \left( \theta - \frac { \pi } { 2 } \right) \right] } } { \sin \left( \theta + \frac { \pi } { 4 } \right) }

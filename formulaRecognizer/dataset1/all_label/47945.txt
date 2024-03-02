@@ -1,0 +1,1 @@
+\frac { ( \tan B + \tan C ) ( 1 + \tan B \tan C ) } { 1 - \tan ^ { 2 } B \tan ^ { 2 } C }

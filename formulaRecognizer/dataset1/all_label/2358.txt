@@ -1,0 +1,1 @@
+1 + \frac { 1 } { 2 } + \cdots + \frac { 1 } { 2 ^ { n - 1 } } - \left( \frac { 1 } { a _ { 1 } } + \frac { 1 } { a _ { 2 } } + \cdots + \frac { 1 } { a _ { n } } \right) = \frac { a _ { 1 } - 1 } { a _ { 1 } } + \frac { a _ { 2 } - 2 } { 2 a _ { 2 } } + \cdots + \frac { a _ { n } - 2 ^ { n - 1 } } { 2 ^ { n - 1 } a _ { n } }

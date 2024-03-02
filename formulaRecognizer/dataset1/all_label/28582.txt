@@ -1,0 +1,1 @@
+\sqrt { \frac { 1 } { 4 } \left[ a ^ { 2 } c ^ { 2 } - \left( \frac { a ^ { 2 } + c ^ { 2 } - b ^ { 2 } } { 2 } \right) ^ { 2 } \right] }

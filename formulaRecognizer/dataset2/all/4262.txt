@@ -1,0 +1,1 @@
+S _ { B } \geqslant a _ { q } > a _ { 1 } + a _ { 2 } + \cdots + a _ { q - 1 } \geqslant S _ { A }

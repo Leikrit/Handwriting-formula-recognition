@@ -1,0 +1,1 @@
+\text { 若 复 数 } z = \frac { a \mathrm { i } } { 1 - \mathrm { i } } \text { ( } \mathrm { i } \text { 为 虚 数 单 位 ) 在 复 平 面 内 对 应 的 点 位 于 直 线 } y = x + 1 \text { 上 }

@@ -1,0 +1,1 @@
+\text { 曲 线 } y = ( x + 1 ) \mathrm { e } ^ { x } \text { 在 点 } ( 0 , 1 ) \text { 处 的 切 线 的 方 }

@@ -1,0 +1,1 @@
+\overrightarrow { D O } = \lambda \overrightarrow { A B } + \mu \overrightarrow { A C }

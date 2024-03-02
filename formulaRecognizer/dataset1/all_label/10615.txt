@@ -1,0 +1,1 @@
+E ( X ) = 0 \times \frac { 1 } { 4 } + ( 1 - a ) \cdot b + ( 1 + a ) \cdot c + 2 \times \frac { 1 } { 4 } = b - a b + ( 1 + a ) \left( \frac { 1 } { 2 } - b \right) + \frac { 1 } { 2 } = 1 - 2 a b + \frac { a } { 2 }

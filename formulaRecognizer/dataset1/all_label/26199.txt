@@ -1,0 +1,1 @@
+M ( \cos \alpha , \sin \alpha )

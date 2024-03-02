@@ -1,0 +1,1 @@
+\text { 因 为 } \log _ { a } x + \log _ { a } y = c

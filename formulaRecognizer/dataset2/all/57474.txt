@@ -1,0 +1,1 @@
+\sqrt { 3 } \sin ( \omega x + \varphi ) - \cos ( \omega x + \varphi ) ( \omega > 0 , 0 < \varphi < \pi ) \text { 为 偶 函 }

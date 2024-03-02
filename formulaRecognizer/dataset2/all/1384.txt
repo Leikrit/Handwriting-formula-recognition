@@ -1,0 +1,1 @@
+f ( \lambda \boldsymbol { a } + ( 1 - \lambda ) \boldsymbol { b } ) = \lambda f ( \boldsymbol { a } ) + ( 1 - \lambda ) f ( \boldsymbol { b } )

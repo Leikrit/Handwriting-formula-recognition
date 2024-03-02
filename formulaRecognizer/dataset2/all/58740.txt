@@ -1,0 +1,1 @@
+\ t h e r e f o r e \lim _ { n \rightarrow \infty } \left( a + a ^ { 2 } + a ^ { 3 } + \cdots + a ^ { n } \right) = \lim _ { n \rightarrow \infty } \left( \frac { 1 } { 3 } + \frac { 1 } { 9 } + \frac { 1 } { 2 7 } + \cdots + \frac { 1 } { 3 ^ { n } } \right)

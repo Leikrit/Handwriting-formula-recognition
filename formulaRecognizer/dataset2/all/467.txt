@@ -1,0 +1,1 @@
+\left. z _ { 2 } = 3 + 4 \mathrm { i } \text { ( } \mathrm { i } \text { 是 虚 数 单 位 } \right)

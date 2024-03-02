@@ -1,0 +1,1 @@
+\text { 经 过 点 } E \left( x _ { 0 } , y _ { 0 } , z _ { 0 } \right)

@@ -1,0 +1,1 @@
+= \frac { \sqrt { 3 } } { 2 } \sin \omega x - \frac { 3 } { 2 } \cos \omega x

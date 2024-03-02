@@ -1,0 +1,1 @@
+\triangle A _ { n } B _ { n } C _ { n } \text { 的 面 积 为 } S _ { n }

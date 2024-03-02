@@ -1,0 +1,1 @@
+\text { 函 数 } f ( x ) \text { 的 一 个 对 称 点 为 } \left( \frac { 5 \pi } { 1 2 } , 0 \right)

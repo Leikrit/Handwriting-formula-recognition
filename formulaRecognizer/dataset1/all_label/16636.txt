@@ -1,0 +1,1 @@
+\left| M N _ { 2 } \right| ^ { 2 } - \left| M N _ { 1 } \right| ^ { 2 }

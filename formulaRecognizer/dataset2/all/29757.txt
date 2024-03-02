@@ -1,0 +1,1 @@
+\text { 构 造 函 数 } g ( x ) = \left( 1 - x ^ { 2 } \right) \mathrm { e } ^ { x } - a x - 1

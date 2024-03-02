@@ -1,0 +1,1 @@
+a \sin \frac { A + B } { 2 } = c \sin A

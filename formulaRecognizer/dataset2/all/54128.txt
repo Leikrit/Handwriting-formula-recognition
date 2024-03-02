@@ -1,0 +1,1 @@
+\text { 点 } A \text { 为 曲 线 } y = x + \frac { 4 } { x } ( x > 0 ) \text { 上 的 动 点 }
