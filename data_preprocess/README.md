@@ -1,5 +1,7 @@
 # How to preprocess my data?
 
+> Hint: There might be some redundant files in this repository, that are the original ones from image-to-latex. Just ignore them and follow the steps below.
+
 Firstly, you should have a dataset (directory) of images (in the format of jpg/png) and renamed as `1.jpg`, as well as a directory of labels renamed as `1.txt` (make sure the format of labels are all txt). 
 
 Then, following the order of:
